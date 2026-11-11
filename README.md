@@ -42,3 +42,8 @@ python3 -m http.server 8000
 ```
 
 Tarayıcıda http://localhost:8000 adresini açın.
+
+## Otomatik yayın ve arka plan müziği
+
+Bu deponun main dalına gönderilen değişiklikler Vercel tarafından otomatik yayınlanır.
+MP3: assets/audio/saragina-rumba.mp3. Sayfa açılışında çalmayı dener; tarayıcı izin vermezse ilk etkileşimde başlar. YouTube veya müzik düğmesi yoktur.
