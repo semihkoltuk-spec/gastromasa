@@ -47,3 +47,11 @@ Tarayıcıda http://localhost:8000 adresini açın.
 
 Bu deponun main dalına gönderilen değişiklikler Vercel tarafından otomatik yayınlanır.
 MP3: assets/audio/saragina-rumba.mp3. Sayfa açılışında çalmayı dener; tarayıcı izin vermezse ilk etkileşimde başlar. YouTube veya müzik düğmesi yoktur.
+
+## Konuşmacılar ve diller
+
+Konuşmacılar bölümü programın önündedir. Languages menüsü 14 dili destekler: TR, EN, ES, IT, DE, FR, PT, ZH-CN, JA, AR, RU, DA, NL, EL. Arapça arayüz sağdan sola gösterilir.
+
+47 konuşmacının organizatör tarafından iletilen biyografileri eklendi. İngilizce kaynaklar chef-bios.json dosyasındadır; çeviriler speaker-bios/ altında dil başına ayrı dosyalarda tutulur. Arayüz çevirileri locales/ altında yer alır. Biyografi çevirileri makine çevirisidir; sayfa açılışında haricî çeviri servisine ihtiyaç yoktur.
+
+Fotoğraflı listede biyografisi henüz iletilmeyenler: Alexandre Couillon, Christian Escribà, Giulia Caffiero, Jaime Pesaque, Marco Müller, Matias Perdomo, Santiago Lastra, Simon Rogan, Viki Geunes, Álvaro Salazar.
