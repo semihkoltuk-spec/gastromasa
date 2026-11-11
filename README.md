@@ -17,7 +17,7 @@ Node.js, npm veya build komutu gerekmez. Bağlantılar göreli olduğundan repos
 
 - `index.html`: sayfa yapısı ve partner kartları
 - `style.css`: mobil uyumlu tasarım
-- `app.js`: program, arama, filtreler, kaydetme ve otomatik bilgi rehberi
+- `app.js`: program, arama, filtreler ve kaydetme
 - `i18n.js`: TR/ENG/ESP arayüz çevirileri
 - `program.json`, `program.en.json`, `program.es.json`: program verileri
 - `chefs.js`, `chef-bios.json`: şef kartları ve açıklamaları
@@ -31,7 +31,7 @@ Node.js, npm veya build komutu gerekmez. Bağlantılar göreli olduğundan repos
 
 ## Bilgiler
 
-Chat otomatik bir etkinlik bilgi rehberidir; canlı destek veya ziyaretçiler arası mesajlaşma değildir. Kaydedilen oturumlar ve sohbet geçmişi ziyaretçinin tarayıcısında saklanır. Bilet satışı haricî satış sayfasında yapılır. Fontlar Google Fonts üzerinden yüklenir.
+Kaydedilen oturumlar ziyaretçinin tarayıcısında saklanır. Bilet satışı haricî satış sayfasında yapılır. Fontlar Google Fonts üzerinden yüklenir.
 
 ## Yerelde önizleme
 
@@ -61,3 +61,7 @@ Fotoğraflı listede biyografisi henüz iletilmeyenler: Alexandre Couillon, Chri
 11 Kasım 2026 tarihinde iletilen dört PDF esas alınmıştır. Ana Sahne: 26 Kasım 28, 27 Kasım 24 oturum. Hospitality / Sadabad: 26 Kasım 15, 27 Kasım 18 oturum. Toplam 85 oturum, 14 dilde statik JSON dosyalarında tutulur.
 
 26 Kasım Sadabad “Yerel Mutfakların Yükselişi” saati organizatörün onayıyla 17.00–17.30 olarak düzeltilmiştir. PDF'de boş bırakılan moderatörler ve bilinmeyen konuşmacılar açıklanacak olarak işaretlenir. Oturum saatlerinde PDF kapaklarının genel aralıkları yerine tek tek oturumlarda belirtilen saatler kullanılır. Aynı program oturumlarının kimlikleri korunarak kayıtlı oturumların yeni saatlerle eşleşmesi sağlanır.
+
+## Hakkında ve geri sayım
+
+Hakkında bölümü organizatörün ilettiği metni 14 dilde sunar. Sohbet arayüzü ve uygulama kodu kaldırılmıştır. `countdown.js`, ilk program oturumuna göre 26 Kasım 2026 09.30 İstanbul saati (`2026-11-26T09:30:00+03:00`) için kapak üzerindeki kutuda gün/saat/dakika/saniye geri sayımı gösterir. Etkinlik başladığında değerler sıfırda kalır ve başlangıç mesajı görünür.
