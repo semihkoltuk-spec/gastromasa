@@ -1,6 +1,6 @@
 # Gastromasa 2026
 
-TR / ENG / ESP dil seçenekleri, sahne programı, şefler, partnerler, kroki ve bilet bağlantıları bulunan statik web sitesi.
+14 dil seçeneği, sahne programı, konuşmacılar, partnerler, kroki ve bilet bağlantıları bulunan statik web sitesi.
 
 ## GitHub'a yükleme
 
@@ -54,4 +54,10 @@ Konuşmacılar bölümü programın önündedir. Languages menüsü 14 dili dest
 
 47 konuşmacının organizatör tarafından iletilen biyografileri eklendi. İngilizce kaynaklar chef-bios.json dosyasındadır; çeviriler speaker-bios/ altında dil başına ayrı dosyalarda tutulur. Arayüz çevirileri locales/ altında yer alır. Biyografi çevirileri makine çevirisidir; sayfa açılışında haricî çeviri servisine ihtiyaç yoktur.
 
-Fotoğraflı listede biyografisi henüz iletilmeyenler: Alexandre Couillon, Christian Escribà, Giulia Caffiero, Jaime Pesaque, Marco Müller, Matias Perdomo, Santiago Lastra, Simon Rogan, Viki Geunes, Álvaro Salazar.
+Fotoğraflı listede biyografisi henüz iletilmeyenler: Alexandre Couillon, Christian Escribà, Giulia Caffiero, Jaime Pesaque, Marco Müller, Matias Perdomo, Simon Rogan, Viki Geunes, Álvaro Salazar.
+
+## Güncel sahne programı
+
+11 Kasım 2026 tarihinde iletilen dört PDF esas alınmıştır. Ana Sahne: 26 Kasım 28, 27 Kasım 24 oturum. Hospitality / Sadabad: 26 Kasım 15, 27 Kasım 18 oturum. Toplam 85 oturum, 14 dilde statik JSON dosyalarında tutulur.
+
+26 Kasım Sadabad “Yerel Mutfakların Yükselişi” saati organizatörün onayıyla 17.00–17.30 olarak düzeltilmiştir. PDF'de boş bırakılan moderatörler ve bilinmeyen konuşmacılar açıklanacak olarak işaretlenir. Oturum saatlerinde PDF kapaklarının genel aralıkları yerine tek tek oturumlarda belirtilen saatler kullanılır. Aynı program oturumlarının kimlikleri korunarak kayıtlı oturumların yeni saatlerle eşleşmesi sağlanır.

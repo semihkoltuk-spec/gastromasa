@@ -1,1 +1,2179 @@
-[{"id": "0", "stage": "hospitality", "day": 26, "time": "11:30-12:00", "type": "PANEL DISCUSSION", "title": "美食、観光、ホスピタリティにおける変化と将来展望", "people": [{"name": "Moderator: Vahap Munyar", "role": "ナシル・ビル・エコノミ新聞ヤザルとジェネル・コーディナトールー", "location": ""}, {"name": "Hediye Güral", "role": "TÜROB 取締役副会長、TTYD 取締役副会長、Hizmet İhracatçıları Birliği 取締役", "location": ""}, {"name": "Melih Şahinöz", "role": "ETÜDER 取締役会長", "location": ""}, {"name": "Oya Narin", "role": "TTYD 理事長", "location": ""}, {"name": "Kaya Demirer", "role": "TURYİD 取締役会長", "location": ""}, {"name": "Bekir Topuz", "role": "TUSİD 理事長", "location": ""}, {"name": "Müberra Eresin", "role": "TÜROB取締役会長", "location": ""}], "sponsor": ""}, {"id": "1", "stage": "hospitality", "day": 26, "time": "12:00-12:30", "type": "PANEL DISCUSSION", "title": "ホスピタリティ業界における成長戦略と進化するビジネスモデル", "people": [{"name": "Moderator: Deniz Sipahi", "role": "ヒュリエット新聞コラムニスト兼ジャーナリスト", "location": ""}, {"name": "Pelin Akın", "role": "アクフェン・ホールディング取締役", "location": ""}, {"name": "Sadettin Cesur", "role": "TUM/TRUホスピタリティ（IST空港）CEO", "location": ""}, {"name": "Uğur Talayhan", "role": "グランドタラビヤ総支配人", "location": ""}, {"name": "Çetin Pehlivan", "role": "テルサネ・イスタンブール マネージングディレクター", "location": ""}], "sponsor": ""}, {"id": "2", "stage": "hospitality", "day": 26, "time": "12:30-13:00", "type": "PANEL DISCUSSION", "title": "投資、成長、そして観光の未来像", "people": [{"name": "Moderator: Elif Ergu // Ahu Orakçıoğlu", "role": "Gazete Oksijen コラムニスト兼ジャーナリスト", "location": ""}, {"name": "Ece Tonbul", "role": "パロマホテルズ取締役会長兼CEO", "location": ""}, {"name": "Akis Neocleous", "role": "", "location": "", "photo": "assets/chefs/akisneocleous.webp"}, {"name": "Cengiz Barut", "role": "バルートホテルズ取締役", "location": ""}], "sponsor": ""}, {"id": "3", "stage": "hospitality", "day": 26, "time": "13:00-13:30", "type": "PANEL DISCUSSION", "title": "変化する観光市場は、ホテル投資の将来にどのような影響を与えるのか？", "people": [{"name": "Moderator: Yelda İpekli", "role": "戦略的マーケティングおよびブランドマネジメントの専門家", "location": ""}, {"name": "Utkan Gülaçtı", "role": "スイスホテル・ザ・ボスポラス・イスタンブール総支配人", "location": ""}, {"name": "Kılıç Ali Kantar", "role": "CVKパークボスポラスホテル イスタンブール 総支配人", "location": ""}, {"name": "Murat Eti", "role": "ペラ・パレス・ホテル総支配人", "location": ""}, {"name": "Cem Akşahin", "role": "フェアモント・クエーサー・イスタンブール総支配人", "location": ""}, {"name": "Ata Eremsoy", "role": "マルマラグループおよびマルマラコレクションの最高執行責任者（COO）", "location": ""}, {"name": "Aykut Korkmaz", "role": "シャングリラGM", "location": ""}], "sponsor": ""}, {"id": "4", "stage": "hospitality", "day": 26, "time": "13:30-14:00", "type": "PANEL DISCUSSION", "title": "ホスピタリティにおけるラグジュアリーの再定義と変化するゲスト体験", "people": [{"name": "Moderator: Çağdaş Ertuna", "role": "ジャーナリスト、コラムニスト、キュレセル戦略コンサルタント", "location": ""}, {"name": "Akis Neocleous", "role": "ホテル シカレ オテッラー グルブ オテッラーデン ソルムル エスト デュゼイ ヨネティシシ", "location": "", "photo": "assets/chefs/akisneocleous.webp"}, {"name": "Ralph Radtke", "role": "シラガン パレス ケンピンスキー イスタンブール ゼネラル マネージャー & ケンピンスキー レジデンス トゥルキエ ベルゲ ディレクトール", "location": ""}, {"name": "Jonathan H. Crook", "role": "ザ・ペニンシュラ・イスタンブール 総支配人／マネージングディレクター", "location": ""}, {"name": "Thomas Krooswijk", "role": "フォーシーズンズホテル イスタンブール アット ザ ボスポラス＆スルタンアフメット 総支配人", "location": ""}, {"name": "Todori Kalamaris", "role": "ヒルトン・ホテル・トゥルキエ・ベルゲ ゼネラルマネージャー", "location": ""}], "sponsor": ""}, {"id": "5", "stage": "hospitality", "day": 26, "time": "14:00-14:30", "type": "PANEL DISCUSSION", "title": "美食業界におけるプレミアムブランドとビジネスビジョン", "people": [{"name": "Moderator: Ahu Orakçıoğlu  X Özlem Güsar", "role": "エコテュルク ハーバー プログラム プレゼンター兼ジャーナリスト", "location": ""}, {"name": "Cem Mirap", "role": "ルッカ＆カンティナリー創設者", "location": ""}, {"name": "Pelin Çakar Bingül", "role": "ペーパームーン総支配人", "location": ""}, {"name": "Yücel Özalp", "role": "デザートグループ取締役会長", "location": ""}, {"name": "Yaprak Baltacı", "role": "モリーニ氏、Cloand & Epoca 共同創設者", "location": ""}, {"name": "Mahmut Gökkaya", "role": "カルマ・ボドルム共同創設者", "location": ""}, {"name": "Mehmet Dinçerler", "role": "", "location": ""}], "sponsor": ""}, {"id": "6", "stage": "hospitality", "day": 26, "time": "14:30-15:00", "type": "PANEL DISCUSSION", "title": "文化、経験、そして創造性は、シェフの料理表現をどのように形作るのか？", "people": [{"name": "Moderator: Gökmen Sözen", "role": "SözenグループCEO兼ガストロマサ創設者", "location": ""}, {"name": "Zeynep Pınar Taşdemir", "role": "アラカ創業者兼シェフ", "location": ""}, {"name": "Aret Sahakyan", "role": "マチャクズ総料理長", "location": ""}, {"name": "Maksut Aşkar", "role": "ネオローカル共同創業者兼シェフ", "location": ""}, {"name": "Emre Şen", "role": "カーサ ラヴァンダ 共同創設者兼シェフ", "location": ""}], "sponsor": ""}, {"id": "7", "stage": "hospitality", "day": 26, "time": "15:00-15:30", "type": "PANEL DISCUSSION", "title": "ローカルブランドから全国チェーンへ：レストラングループの成長の軌跡", "people": [{"name": "Moderator: Feyzan Ersinan", "role": "オプティミスト・グループ・アヤンス・バシュカニ", "location": ""}, {"name": "Ahmet Uras", "role": "ガリアード理事長", "location": ""}, {"name": "Hüseyin Aymutlu", "role": "ハッピーグループ取締役会長兼CEO", "location": ""}, {"name": "Hasan Yeşilyurt", "role": "Akkomarka Restoran Grubu Ortağı & 美食専門家 & コンサルタント", "location": ""}, {"name": "Onur Tahincioğlu", "role": "モダンレストランYKコンサルタント", "location": ""}, {"name": "Avni Altan Kosova", "role": "BigChefsのCEO", "location": ""}], "sponsor": ""}, {"id": "8", "stage": "hospitality", "day": 26, "time": "15:30-16:00", "type": "PANEL DISCUSSION", "title": "キッチンに込められたビジョン：ウルラを世界的な美食の地へと変貌させる", "people": [{"name": "Moderator: Ahmet Güzelyağdöken", "role": "美食ライター、コンサルタント、教育者兼シェフ", "location": ""}, {"name": "Osman Serdaroğlu", "role": "テルアール・ウルラ　創業者兼シェフ", "location": ""}, {"name": "Ozan Kumbasar", "role": "ヴィーノ・ロカーレ創設者兼シェフ", "location": ""}, {"name": "Osman Sezener", "role": "OD Urla 創業者兼シェフ", "location": ""}, {"name": "Atilla Heilbronn", "role": "ナリモール・ウルラ　創業者兼シェフ", "location": ""}], "sponsor": "Kütahya Porselen"}, {"id": "9", "stage": "hospitality", "day": 26, "time": "16:00-16:30", "type": "PANEL DISCUSSION", "title": "伝統から未来へ向かうレストランブランドの歩み", "people": [{"name": "Moderator: Faruk Şüyün", "role": "エコノミ新聞発行者", "location": ""}, {"name": "Nuri Develi", "role": "ディアンドリ取締役会長", "location": ""}, {"name": "Tahir Tekin Öztan", "role": "サハン・レストラン・グループ取締役会長", "location": ""}, {"name": "Erhan Ece", "role": "Sayfiye & Papalina 創設者", "location": ""}, {"name": "Mehmet Murat Çelik", "role": "Sıralı Kebap 創業者", "location": ""}, {"name": "Ahmet Karoğlu", "role": "アフメト・ウスタム・オチャクバシュ 創設者", "location": ""}, {"name": "Ege Ermeç", "role": "ドニャナイ・ギダ ゼネラルマネージャー", "location": ""}], "sponsor": "DOĞANAY"}, {"id": "10", "stage": "hospitality", "day": 26, "time": "16:30-17:00", "type": "PANEL DISCUSSION", "title": "地域料理の台頭", "people": [{"name": "Moderator: Vedat Başaran", "role": "トルコ料理研究者", "location": ""}, {"name": "Sinem Özler", "role": "Seraf共同創業者兼シェフ", "location": ""}, {"name": "Mehmet Akdağ", "role": "7 メフメト オペレーター兼シェフ", "location": ""}, {"name": "Çiğdem Seferoğlu", "role": "ホダン創業者兼シェフ", "location": ""}, {"name": "Uluç Sakarya", "role": "ナゼンデ・カッデ 創業者兼シェフ", "location": ""}], "sponsor": ""}, {"id": "11", "stage": "hospitality", "day": 26, "time": "17:00-17:30", "type": "PANEL DISCUSSION", "title": "トルコでは、イタリア料理の真正性はどのように守られているのか？", "people": [{"name": "Moderator: Aylin Öney Tan", "role": "ヒュリエット デイリーニュース コラムニスト", "location": ""}, {"name": "Claudio Chinali", "role": "Eataly İstanbul Direktörü & Terrazza Italia エグゼクティブシェフ", "location": ""}, {"name": "Giancarlo Gottardo", "role": "ディヴァン・オテッレリ & レストランラリ・トゥルキエ料理ディレクター", "location": ""}, {"name": "Luigi Mariconda", "role": "イル・コルティーレ エグゼクティブシェフ", "location": ""}, {"name": "Cosimo Rotolo", "role": "ナポリ・アンティカ創業者兼シェフ", "location": ""}, {"name": "Giuseppe Pressani", "role": "ペーパームーンのエグゼクティブシェフ", "location": ""}], "sponsor": ""}, {"id": "12", "stage": "hospitality", "day": 26, "time": "17:30-18:00", "type": "PANEL DISCUSSION", "title": "世代交代、期待の変化、そして観光の未来", "people": [{"name": "Moderator: Murat Güloğlu", "role": "テレビ司会者兼ジャーナリスト", "location": ""}, {"name": "Büşra Karamancı", "role": "メラス・ホテルズ＆リゾーツ取締役", "location": ""}, {"name": "Nahit Kara", "role": "エスノ＆アダリヤホテルの取締役", "location": ""}, {"name": "Zeynep Tamince", "role": "Aliée İstanbul 取締役", "location": ""}, {"name": "Nurçe Erben Hakan", "role": "ルインズ・ラグジュアリー・リゾート創設者", "location": ""}], "sponsor": ""}, {"id": "13", "stage": "hospitality", "day": 26, "time": "18:00-18:30", "type": "PANEL DISCUSSION", "title": "高級ホテルにおける卓越した美食体験", "people": [{"name": "Moderator: Gualtiero Spotti", "role": "ジャーナリスト", "location": ""}, {"name": "Ali El Bourji", "role": "アトランティス・ドバイ 料理部門ディレクター", "location": "", "photo": "assets/chefs/alielbourji.webp"}, {"name": "Cesare Murzilli", "role": "ポートレート・ミラノ コーポレート・エグゼクティブ・パティシエ", "location": "", "photo": "assets/chefs/cesaremurzilli.webp"}, {"name": "Andreas Block", "role": "ザ・ペニンシュラ・イスタンブール エグゼクティブシェフ", "location": ""}, {"name": "Elmar Aliyev", "role": "ガバラ・ホスピタリティ・グループ コーポレート・エグゼクティブ・シェフ", "location": ""}, {"name": "Dimitris Tozakidis", "role": "サニグルメマネージャー、料理委員会 SIG", "location": "", "photo": "assets/chefs/dimitristozakidis.webp"}], "sponsor": ""}, {"id": "14", "stage": "main", "day": 26, "time": "09:30-10:15", "type": "OPENING SPEECHES", "title": "", "people": [], "sponsor": ""}, {"id": "15", "stage": "main", "day": 26, "time": "10:15-10:45", "type": "EXCLUSIVE CONVERSATION", "title": "", "people": [{"name": "Moderator: Fatih Altaylı", "role": "ジャーナリスト、作家、テレビ司会者", "location": "イスタンブール、トルコ"}, {"name": "Pierre Hermé", "role": "ピエール・エルメ パリ", "location": "フランス、パリ", "photo": "assets/chefs/pierre-herme.webp"}], "sponsor": ""}, {"id": "16", "stage": "main", "day": 26, "time": "10:45-11:15", "type": "PANEL DISCUSSION", "title": "体験経済と新たな競争環境", "people": [{"name": "Moderator: Levent Erden", "role": "Gazete Oksijen のジャーナリスト、Next Akademi & Academic の創設者", "location": "イスタンブール、トルコ"}, {"name": "Gamze Cizreli", "role": "BigChefs共同創業者", "location": "イスタンブール、トルコ"}, {"name": "Fettah Tamince", "role": "リクソス取締役会長", "location": "イスタンブール、トルコ"}], "sponsor": ""}, {"id": "17", "stage": "main", "day": 26, "time": "11:15-11:30", "type": "SOLO TALK", "title": "", "people": [{"name": "Eduard Xatruch", "role": "楽しむ", "location": "スペイン、バルセロナ", "photo": "assets/chefs/eduardxatruch.webp"}], "sponsor": ""}, {"id": "18", "stage": "main", "day": 26, "time": "11:30-11:50", "type": "LIVE COOKING DEMO", "title": "エヴァイとオリウンディ料理", "people": [{"name": "Luiz Filipe Souza", "role": "エヴァイ", "location": "サンパウロ、ブラジル", "photo": "assets/chefs/luizfilipesouza.webp"}], "sponsor": ""}, {"id": "19", "stage": "main", "day": 26, "time": "11:50-12:05", "type": "SOLO TALK", "title": "", "people": [{"name": "Nicolai Nørregaard", "role": "カドー", "location": "デンマーク、コペンハーゲン", "photo": "assets/chefs/nicolainørregaard.webp"}], "sponsor": ""}, {"id": "20", "stage": "main", "day": 26, "time": "12:05-12:20", "type": "SOLO TALK", "title": "多様な言語を語る料理｜人と人との交流が味覚にどう繋がるか", "people": [{"name": "Mauro Uliassi", "role": "ウリアッシ", "location": "セニガッリア、イタリア", "photo": "assets/chefs/massimouliassi.webp"}], "sponsor": ""}, {"id": "21", "stage": "main", "day": 26, "time": "12:20-12:40", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Rodolfo Guzmán", "role": "ボラゴ", "location": "チリ、サンティアゴ", "photo": "assets/chefs/rodolfoguzman.webp"}], "sponsor": ""}, {"id": "22", "stage": "main", "day": 26, "time": "12:40-13:00", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Introduced by Serda Büyükkoyuncu", "role": "旅行ライター兼テレビ司会者", "location": "イスタンブール、トルコ"}, {"name": "Simon Rogan", "role": "アンベル・ホスピタリティ | L'Enclumeと私たちの農場", "location": "カートメル、イギリス", "photo": "assets/chefs/simonrogan.webp"}], "sponsor": ""}, {"id": "23", "stage": "main", "day": 26, "time": "13:00-13:20", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Pablo Rivero", "role": "ドン・フリオ", "location": "アルゼンチン、ブエノスアイレス", "photo": "assets/chefs/pablorivero.webp"}], "sponsor": ""}, {"id": "24", "stage": "main", "day": 26, "time": "13:20-13:35", "type": "SOLO TALK", "title": "高地文化と交流", "people": [{"name": "Emmanuel Renaut", "role": "フロコン・ド・セル", "location": "フランス、メジェーヴ", "photo": "assets/chefs/emmanuelrenaut.webp"}], "sponsor": "PORLAND"}, {"id": "25", "stage": "main", "day": 26, "time": "13:35-13:50", "type": "SOLO TALK", "title": "", "people": [{"name": "Bruno Verjus", "role": "テーブル", "location": "フランス、パリ", "photo": "assets/chefs/brunoverjus.webp"}], "sponsor": ""}, {"id": "26", "stage": "main", "day": 26, "time": "13:50-14:10", "type": "LIVE COOKING DEMO", "title": "三つの文化にまたがる製菓の芸術", "people": [{"name": "Antonio Bachour", "role": "バシュール", "location": "アメリカ合衆国マイアミ", "photo": "assets/chefs/antoniobachour.webp"}], "sponsor": ""}, {"id": "27", "stage": "main", "day": 26, "time": "14:10-14:25", "type": "SOLO TALK", "title": "", "people": [{"name": "Christian Escribà", "role": "書き写す", "location": "スペイン、バルセロナ", "photo": "assets/chefs/christianescriba.webp"}], "sponsor": ""}, {"id": "28", "stage": "main", "day": 26, "time": "14:25-14:40", "type": "SOLO TALK", "title": "", "people": [{"name": "Paolo Casagrande", "role": "ラサルテ", "location": "スペイン、バルセロナ", "photo": "assets/chefs/paolocasagrande.webp"}], "sponsor": ""}, {"id": "29", "stage": "main", "day": 26, "time": "14:40-15:00", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Hiroyasu Kawate", "role": "フロリレージュ", "location": "東京、日本", "photo": "assets/chefs/hiroyasukawate.webp"}], "sponsor": ""}, {"id": "30", "stage": "main", "day": 26, "time": "15:00-15:20", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Franco Pepe", "role": "ペペ・イン・グラニ", "location": "イタリア、カイアッツォ", "photo": "assets/chefs/francopepe.webp"}], "sponsor": ""}, {"id": "31", "stage": "main", "day": 26, "time": "15:20-15:50", "type": "PANEL DISCUSSION", "title": "食文化における文化と芸術の反映と未来への展望", "people": [{"name": "Moderator: Paolo Marchi", "role": "クリエイター兼キュレーター、Identità Golose", "location": "イタリア"}, {"name": "Pierre Hermé", "role": "ピエール・エルメ パリ", "location": "フランス、パリ", "photo": "assets/chefs/pierre-herme.webp"}, {"name": "Bruno Verjus", "role": "テーブル", "location": "フランス、パリ", "photo": "assets/chefs/brunoverjus.webp"}, {"name": "Eric Vildgaard", "role": "ヨルドナー", "location": "デンマーク、コペンハーゲン", "photo": "assets/chefs/ericvildgaard.webp"}, {"name": "Marco Müller", "role": "ルッツ", "location": "ベルリン、ドイツ", "photo": "assets/chefs/marcomuller.webp"}], "sponsor": ""}, {"id": "32", "stage": "main", "day": 26, "time": "15:50-16:05", "type": "SOLO TALK", "title": "人、旅、そして文化によって形作られた物語", "people": [{"name": "Introduced by Teoman Hünal", "role": "ドリンク＆トラベルライター", "location": "イスタンブール、トルコ"}, {"name": "Moderator: Paolo Vizzari", "role": "", "location": ""}, {"name": "Enrico 'Chicco' Cerea", "role": "ダ・ヴィットリオ", "location": "イタリア、ブルサポルト", "photo": "assets/chefs/enrico'chicco'cerea.webp"}], "sponsor": ""}, {"id": "33", "stage": "main", "day": 26, "time": "16:05-16:25", "type": "LIVE COOKING DEMO", "title": "海洋環境におけるアワビ", "people": [{"name": "Alexandre Couillon", "role": "ラ・マリーヌ", "location": "フランス、ノワールムティエ・アン・リル", "photo": "assets/chefs/alexandrecouillon.webp"}], "sponsor": ""}, {"id": "34", "stage": "main", "day": 26, "time": "16:25-16:40", "type": "SOLO TALK", "title": "", "people": [{"name": "Akis Neocleous", "role": "ホテルズ・シュカレ", "location": "メキシコ、プラヤ・デル・カルメン", "photo": "assets/chefs/akisneocleous.webp"}], "sponsor": ""}, {"id": "35", "stage": "main", "day": 26, "time": "16:40-17:00", "type": "PANEL DISCUSSION", "title": "未来のソムリエには何が待ち受けているのか？", "people": [{"name": "Moderator: Levon Bağış", "role": "ワイン専門家兼美食ライター", "location": "イスタンブール、トルコ"}, {"name": "Mohamed Benabdallah", "role": "アサドール・エチェバリ", "location": "アチョンド、スペイン"}, {"name": "Miguel Ángel Millán", "role": "EMi", "location": "スペイン、マドリード"}], "sponsor": ""}, {"id": "36", "stage": "main", "day": 26, "time": "17:00-17:15", "type": "SOLO TALK", "title": "", "people": [{"name": "Pia Leon", "role": "キョルレ", "location": "ペルー、リマ", "photo": "assets/chefs/pialeon.webp"}], "sponsor": ""}, {"id": "37", "stage": "main", "day": 26, "time": "17:15-17:35", "type": "LIVE COOKING DEMO", "title": "食文化と文化のルーツ…過去、現在、そして未来", "people": [{"name": "Viki Geunes", "role": "ジルテ", "location": "アントワープ、ベルギー", "photo": "assets/chefs/vikigeunes.webp"}], "sponsor": ""}, {"id": "38", "stage": "main", "day": 26, "time": "17:35-17:55", "type": "LIVE COOKING DEMO", "title": "中国料理における時間の芸術", "people": [{"name": "Vicky Cheng", "role": "翼", "location": "中国香港", "photo": "assets/chefs/vickycheng.webp"}], "sponsor": ""}, {"id": "39", "stage": "main", "day": 26, "time": "17:55-18:10", "type": "SOLO TALK", "title": "", "people": [{"name": "Mohammad Orfali", "role": "オルファリ兄弟", "location": "アラブ首長国連邦、ドバイ", "photo": "assets/chefs/mohammadorfali.webp"}], "sponsor": ""}, {"id": "40", "stage": "main", "day": 26, "time": "18:10-18:25", "type": "SOLO TALK", "title": "デザートがデザートでなかったら？", "people": [{"name": "René Frank", "role": "コーダ", "location": "ベルリン、ドイツ", "photo": "assets/chefs/renefrank.webp"}], "sponsor": ""}, {"id": "41", "stage": "main", "day": 26, "time": "18:25-18:45", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Álvaro Clavijo", "role": "エル・チャト", "location": "コロンビア、ボゴタ", "photo": "assets/chefs/alvaroclavijo.webp"}], "sponsor": ""}, {"id": "42", "stage": "main", "day": 27, "time": "10:00-10:20", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Grégoire Berger", "role": "クラーケン", "location": "アラブ首長国連邦、ドバイ", "photo": "assets/chefs/gregoireberger.webp"}], "sponsor": ""}, {"id": "43", "stage": "main", "day": 27, "time": "10:20-10:40", "type": "LIVE COOKING DEMO", "title": "VORO：地中海の創造性", "people": [{"name": "Álvaro Salazar", "role": "ヴォロ", "location": "マヨルカ島、スペイン", "photo": "assets/chefs/alvarosalazar.webp"}], "sponsor": ""}, {"id": "44", "stage": "main", "day": 27, "time": "10:40-10:55", "type": "SOLO TALK", "title": "水の循環：アマゾンの四季", "people": [{"name": "Jaime Pesaque", "role": "マイタ", "location": "ペルー、リマ", "photo": "assets/chefs/jaimepesaque.webp"}], "sponsor": ""}, {"id": "45", "stage": "main", "day": 27, "time": "10:55-11:25", "type": "PANEL DISCUSSION", "title": "メニューにおける文化交流と、地域料理に対するシェフの責任", "people": [{"name": "Moderator: Kaja Sajovic", "role": "フード＆ワインジャーナリスト兼料理旅行ライター", "location": "リュブリャナ、スロベニア"}, {"name": "Josh Angus", "role": "隠れる", "location": "ロンドン、イギリス", "photo": "assets/chefs/joshangus.webp"}, {"name": "Maksut Aşkar", "role": "ネオローカル", "location": "イスタンブール、トルコ"}, {"name": "Jacopo Ticchi", "role": "ダ・ルチオ", "location": "リミニ、イタリア", "photo": "assets/chefs/jacopoticchi.webp"}], "sponsor": ""}, {"id": "46", "stage": "main", "day": 27, "time": "11:25-11:40", "type": "SOLO TALK", "title": "", "people": [{"name": "Diego Guerrero", "role": "ステージ", "location": "スペイン、マドリード", "photo": "assets/chefs/diegoguerrero.webp"}], "sponsor": ""}, {"id": "47", "stage": "main", "day": 27, "time": "11:40-11:55", "type": "SOLO TALK", "title": "", "people": [{"name": "Moderator: Liam Collens", "role": "フードライター兼レストラン評論家", "location": "アラブ首長国連邦、ドバイ"}, {"name": "Himanshu Saini", "role": "トレシンド・スタジオ", "location": "アラブ首長国連邦、ドバイ", "photo": "assets/chefs/himanshusaini.webp"}], "sponsor": ""}, {"id": "48", "stage": "main", "day": 27, "time": "11:55-12:10", "type": "SOLO TALK", "title": "", "people": [{"name": "Paco Roncero", "role": "パコ・ロンセロ", "location": "スペイン、マドリード", "photo": "assets/chefs/pacoroncero.webp"}], "sponsor": ""}, {"id": "49", "stage": "main", "day": 27, "time": "12:10-12:25", "type": "SOLO TALK", "title": "大地から感情へ：文化表現としての料理", "people": [{"name": "Toño Pérez", "role": "アトリオ", "location": "カセレス、スペイン", "photo": "assets/chefs/tonoperez.webp"}], "sponsor": ""}, {"id": "50", "stage": "main", "day": 27, "time": "12:25-12:45", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Santiago Lastra", "role": "KOL", "location": "ロンドン、イギリス", "photo": "assets/chefs/santiagolastra.webp"}], "sponsor": ""}, {"id": "51", "stage": "main", "day": 27, "time": "12:45-13:00", "type": "SOLO TALK", "title": "教育とイノベーションを通じて美食の未来を形作る", "people": [{"name": "Joxe Mari Aizega", "role": "バスク料理センター", "location": "スペイン、サン・セバスチャン", "photo": "assets/chefs/joxemariaizega.webp"}], "sponsor": ""}, {"id": "52", "stage": "main", "day": 27, "time": "13:00-13:20", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Gianluca Fusto", "role": "FUSTOミラノ", "location": "イタリア、ミラノ", "photo": "assets/chefs/gianlucafusto.webp"}], "sponsor": ""}, {"id": "53", "stage": "main", "day": 27, "time": "13:20-13:40", "type": "LIVE COOKING DEMO", "title": "魂はソースに宿る｜ポルトガルのソースをたどる：記憶から創造へ", "people": [{"name": "Henrique Sá Pessoa", "role": "レストラン エンリケ サ ペソア", "location": "ポルトガル、リスボン", "photo": "assets/chefs/henriquesapessoa.webp"}], "sponsor": ""}, {"id": "54", "stage": "main", "day": 27, "time": "13:40-14:00", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Paco Pérez", "role": "ミラマー", "location": "スペイン、リャンサ", "photo": "assets/chefs/pacoperez.webp"}], "sponsor": ""}, {"id": "55", "stage": "main", "day": 27, "time": "14:00-14:30", "type": "PANEL DISCUSSION", "title": "高級レストランはどのように進化していくのか？文化を通してか、それとも創造性を通してか？", "people": [{"name": "Moderator: Rafa Tonon", "role": "美食ジャーナリスト兼フードライター", "location": "ポルト、ポルトガル"}, {"name": "Jessica Rosval", "role": "アル・ガット・ヴェルデ", "location": "イタリア、モデナ", "photo": "assets/chefs/jessicarosval.webp"}, {"name": "Fatih Tutak", "role": "トルコ", "location": "イスタンブール、トルコ"}, {"name": "David Žefran", "role": "ミルカ", "location": "クランスカ・ゴーラ、スロベニア", "photo": "assets/chefs/davidzefran.webp"}], "sponsor": ""}, {"id": "56", "stage": "main", "day": 27, "time": "14:30-14:45", "type": "SOLO TALK", "title": "", "people": [{"name": "Matias Perdomo", "role": "対照", "location": "イタリア、ミラノ", "photo": "assets/chefs/matiasperdomo.webp"}], "sponsor": ""}, {"id": "57", "stage": "main", "day": 27, "time": "14:45-15:05", "type": "LIVE COOKING DEMO", "title": "魚の骨：魚のもう一つの側面", "people": [{"name": "Moreno Cedroni", "role": "マドンニーナ・デル・ペスカトーレ", "location": "セニガッリア、イタリア", "photo": "assets/chefs/morenocedroni.webp"}], "sponsor": ""}, {"id": "58", "stage": "main", "day": 27, "time": "15:05-15:20", "type": "SOLO TALK", "title": "共有スペースと景観", "people": [{"name": "Andoni Luiz Aduriz", "role": "ムガリッツ", "location": "スペイン、サン・セバスチャン", "photo": "assets/chefs/andoniluizaduriz.webp"}], "sponsor": ""}, {"id": "59", "stage": "main", "day": 27, "time": "15:20-15:35", "type": "SOLO TALK", "title": "", "people": [{"name": "Albert Raurich", "role": "ドス・パリロス", "location": "スペイン、バルセロナ", "photo": "assets/chefs/albertraurich.webp"}], "sponsor": ""}, {"id": "60", "stage": "main", "day": 27, "time": "15:35-15:55", "type": "PANEL DISCUSSION", "title": "ミクソロジー＝文化", "people": [{"name": "Moderator: Oğul Türkkan", "role": "食品、ワイン、スピリッツの専門家", "location": "イスタンブール、トルコ"}, {"name": "Marc Álvarez", "role": "ひと口飲む", "location": "スペイン、バルセロナ"}, {"name": "Giulia Caffiero", "role": "ゼラニウム", "location": "デンマーク、コペンハーゲン", "photo": "assets/chefs/giuliacaffiero.webp"}], "sponsor": ""}, {"id": "61", "stage": "main", "day": 27, "time": "15:55-16:10", "type": "SOLO TALK", "title": "", "people": [{"name": "Ömür Akkor", "role": "ハヴシュ＆ナトリア", "location": "イスタンブール、トルコ"}], "sponsor": ""}, {"id": "62", "stage": "main", "day": 27, "time": "16:10-16:40", "type": "PANEL DISCUSSION", "title": "中東文化は、世界の食の舞台で新たなモデルを生み出すことができるだろうか？", "people": [{"name": "Moderator: David Joseph Constable", "role": "国際的なレストラン評論家兼旅行ライター、ゴー・ミヨUAE編集長", "location": "アラブ首長国連邦、ドバイ"}, {"name": "Joe Barza", "role": "国際コンサルタント", "location": "ベイルート、レバノン", "photo": "assets/chefs/joebarza.webp"}, {"name": "Mostafa Seif", "role": "クフの", "location": "ギザ、エジプト", "photo": "assets/chefs/mostafaseif.webp"}, {"name": "Ali Ghzawi", "role": "アリー", "location": "アンマン、ヨルダン", "photo": "assets/chefs/alighzawi.webp"}, {"name": "Ali El Bourji", "role": "アトランティス・ドバイ", "location": "アラブ首長国連邦、ドバイ", "photo": "assets/chefs/alielbourji.webp"}], "sponsor": ""}, {"id": "63", "stage": "main", "day": 27, "time": "16:40-17:00", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Gilles Goujon", "role": "オーベルジュ・デュ・ヴュー・ピュイ", "location": "フランス、フォンジョンクーズ", "photo": "assets/chefs/gillesgoujon.webp"}], "sponsor": ""}, {"id": "64", "stage": "main", "day": 27, "time": "17:00-17:20", "type": "LIVE COOKING DEMO", "title": "セレレの料理とカリブ海のマキシマリズム", "people": [{"name": "Jaime Rodríguez", "role": "セレレ", "location": "コロンビア、カルタヘナ", "photo": "assets/chefs/jaimerodriguez.webp"}], "sponsor": ""}, {"id": "65", "stage": "main", "day": 27, "time": "17:20-17:50", "type": "PANEL DISCUSSION", "title": "現代の製菓における創造性の影響", "people": [{"name": "Moderator: Guillaume Erblang", "role": "Food&Sens編集長兼Paroles de Chefs創設者", "location": "フランス、パリ"}, {"name": "Antonio Bachour", "role": "バシュール", "location": "アメリカ合衆国マイアミ", "photo": "assets/chefs/antoniobachour.webp"}, {"name": "Gianluca Fusto", "role": "FUSTOミラノ", "location": "イタリア、ミラノ", "photo": "assets/chefs/gianlucafusto.webp"}, {"name": "Thibault Hauchard", "role": "クラリッジズ", "location": "ロンドン、イギリス", "photo": "assets/chefs/thibaulthauchard.webp"}, {"name": "Nicolas Rouzaud", "role": "ニコラ・ルーゾー、ザ・コノートにて", "location": "ロンドン、イギリス", "photo": "assets/chefs/nicolasrouzaud.webp"}, {"name": "Cesare Murzilli", "role": "ポートレート・ミラノ", "location": "イタリア、ミラノ", "photo": "assets/chefs/cesaremurzilli.webp"}], "sponsor": ""}, {"id": "66", "stage": "main", "day": 27, "time": "17:50-18:10", "type": "LIVE COOKING DEMO", "title": "", "people": [{"name": "Rubén Hernández Mosquero", "role": "EMi", "location": "スペイン、マドリード", "photo": "assets/chefs/rubenhernandezmosquero.webp"}], "sponsor": ""}]
+[
+  {
+    "id": "14",
+    "stage": "main",
+    "day": 26,
+    "time": "09:30-10:15",
+    "type": "OPENING SPEECHES",
+    "title": "",
+    "people": [],
+    "sponsor": ""
+  },
+  {
+    "id": "15",
+    "stage": "main",
+    "day": 26,
+    "time": "10:15-10:45",
+    "type": "EXCLUSIVE CONVERSATION",
+    "title": "",
+    "people": [
+      {
+        "name": "Pierre Hermé",
+        "role": "ピエール・エルメ パリ",
+        "location": "フランス、パリ",
+        "photo": "assets/chefs/pierre-herme.webp"
+      }
+    ],
+    "sponsor": "",
+    "pendingModerator": true
+  },
+  {
+    "id": "16",
+    "stage": "main",
+    "day": 26,
+    "time": "10:45-11:15",
+    "type": "PANEL DISCUSSION",
+    "title": "体験経済と新たな競争環境",
+    "people": [
+      {
+        "name": "Moderator: Levent Erden",
+        "role": "Gazete Oksijen のジャーナリスト、Next Akademi & Academic の創設者",
+        "location": "イスタンブール、トルコ"
+      },
+      {
+        "name": "Gamze Cizreli",
+        "role": "BigChefs共同創業者",
+        "location": "イスタンブール、トルコ"
+      },
+      {
+        "name": "Fettah Tamince",
+        "role": "リクソス取締役会長",
+        "location": "イスタンブール、トルコ"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "17",
+    "stage": "main",
+    "day": 26,
+    "time": "11:15-11:30",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Eduard Xatruch",
+        "role": "楽しむ",
+        "location": "スペイン、バルセロナ",
+        "photo": "assets/chefs/eduardxatruch.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "18",
+    "stage": "main",
+    "day": 26,
+    "time": "11:30-11:50",
+    "type": "LIVE COOKING DEMO",
+    "title": "エヴァイとオリウンディ料理",
+    "people": [
+      {
+        "name": "Luiz Filipe Souza",
+        "role": "エヴァイ",
+        "location": "サンパウロ、ブラジル",
+        "photo": "assets/chefs/luizfilipesouza.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "19",
+    "stage": "main",
+    "day": 26,
+    "time": "11:50-12:05",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Nicolai Nørregaard",
+        "role": "カドー",
+        "location": "デンマーク、コペンハーゲン",
+        "photo": "assets/chefs/nicolainørregaard.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "20",
+    "stage": "main",
+    "day": 26,
+    "time": "12:05-12:20",
+    "type": "SOLO TALK",
+    "title": "多様な言語を語る料理｜人と人との交流が味覚にどう繋がるか",
+    "people": [
+      {
+        "name": "Mauro Uliassi",
+        "role": "ウリアッシ",
+        "location": "セニガッリア、イタリア",
+        "photo": "assets/chefs/massimouliassi.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "64",
+    "stage": "main",
+    "day": 26,
+    "time": "12:20-12:40",
+    "type": "LIVE COOKING DEMO",
+    "title": "セレレの料理とカリブ海のマキシマリズム",
+    "people": [
+      {
+        "name": "Jaime Rodríguez",
+        "role": "セレレ",
+        "location": "コロンビア、カルタヘナ",
+        "photo": "assets/chefs/jaimerodriguez.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "22",
+    "stage": "main",
+    "day": 26,
+    "time": "12:40-13:00",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Introduced by Serda Büyükkoyuncu",
+        "role": "旅行ライター兼テレビ司会者",
+        "location": "イスタンブール、トルコ"
+      },
+      {
+        "name": "Simon Rogan",
+        "role": "アンベル・ホスピタリティ | L'Enclumeと私たちの農場",
+        "location": "カートメル、イギリス",
+        "photo": "assets/chefs/simonrogan.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "23",
+    "stage": "main",
+    "day": 26,
+    "time": "13:00-13:20",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Pablo Rivero",
+        "role": "ドン・フリオ",
+        "location": "ブエノスアイレス - アルゼンチン",
+        "photo": "assets/chefs/pablorivero.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "24",
+    "stage": "main",
+    "day": 26,
+    "time": "13:20-13:35",
+    "type": "SOLO TALK",
+    "title": "高地文化と交流",
+    "people": [
+      {
+        "name": "Emmanuel Renaut",
+        "role": "フロコン・ド・セル",
+        "location": "フランス、メジェーヴ",
+        "photo": "assets/chefs/emmanuelrenaut.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "25",
+    "stage": "main",
+    "day": 26,
+    "time": "13:35-13:50",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Bruno Verjus",
+        "role": "テーブル",
+        "location": "フランス、パリ",
+        "photo": "assets/chefs/brunoverjus.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "26",
+    "stage": "main",
+    "day": 26,
+    "time": "13:50-14:10",
+    "type": "LIVE COOKING DEMO",
+    "title": "三つの文化にまたがる製菓の芸術",
+    "people": [
+      {
+        "name": "Antonio Bachour",
+        "role": "バシュール",
+        "location": "アメリカ合衆国マイアミ",
+        "photo": "assets/chefs/antoniobachour.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "27",
+    "stage": "main",
+    "day": 26,
+    "time": "14:10-14:25",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Christian Escribà",
+        "role": "書き写す",
+        "location": "スペイン、バルセロナ",
+        "photo": "assets/chefs/christianescriba.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "28",
+    "stage": "main",
+    "day": 26,
+    "time": "14:25-14:40",
+    "type": "SOLO TALK",
+    "title": "ラサルテ：エッセンス＆レガシー",
+    "people": [
+      {
+        "name": "Paolo Casagrande",
+        "role": "ラサルテ",
+        "location": "スペイン、バルセロナ",
+        "photo": "assets/chefs/paolocasagrande.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "29",
+    "stage": "main",
+    "day": 26,
+    "time": "14:40-15:00",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Hiroyasu Kawate",
+        "role": "フロリレージュ",
+        "location": "東京、日本",
+        "photo": "assets/chefs/hiroyasukawate.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "30",
+    "stage": "main",
+    "day": 26,
+    "time": "15:00-15:20",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Franco Pepe",
+        "role": "ペペ・イン・グラニ",
+        "location": "イタリア、カイアッツォ",
+        "photo": "assets/chefs/francopepe.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "31",
+    "stage": "main",
+    "day": 26,
+    "time": "15:20-15:50",
+    "type": "PANEL DISCUSSION",
+    "title": "食文化における文化と芸術の反映と未来への展望",
+    "people": [
+      {
+        "name": "Moderator: Paolo Marchi",
+        "role": "クリエイター兼キュレーター、Identità Golose",
+        "location": "イタリア"
+      },
+      {
+        "name": "Pierre Hermé",
+        "role": "ピエール・エルメ パリ",
+        "location": "フランス、パリ",
+        "photo": "assets/chefs/pierre-herme.webp"
+      },
+      {
+        "name": "Bruno Verjus",
+        "role": "テーブル",
+        "location": "フランス、パリ",
+        "photo": "assets/chefs/brunoverjus.webp"
+      },
+      {
+        "name": "Eric Vildgaard",
+        "role": "ヨルドナー",
+        "location": "デンマーク、コペンハーゲン",
+        "photo": "assets/chefs/ericvildgaard.webp"
+      },
+      {
+        "name": "Marco Müller",
+        "role": "ルッツ",
+        "location": "ベルリン、ドイツ",
+        "photo": "assets/chefs/marcomuller.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "32",
+    "stage": "main",
+    "day": 26,
+    "time": "15:50-16:05",
+    "type": "SOLO TALK",
+    "title": "人、旅、そして文化によって形作られた物語",
+    "people": [
+      {
+        "name": "Introduced by Teoman Hünal",
+        "role": "ドリンク＆トラベルライター",
+        "location": "イスタンブール、トルコ"
+      },
+      {
+        "name": "Moderator: Paolo Vizzari",
+        "role": "美食の語り部",
+        "location": "イタリア、ミラノ"
+      },
+      {
+        "name": "Enrico 'Chicco' Cerea",
+        "role": "ダ・ヴィットリオ",
+        "location": "イタリア、ブルサポルト",
+        "photo": "assets/chefs/enrico'chicco'cerea.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "33",
+    "stage": "main",
+    "day": 26,
+    "time": "16:05-16:25",
+    "type": "LIVE COOKING DEMO",
+    "title": "海洋環境におけるアワビ",
+    "people": [
+      {
+        "name": "Alexandre Couillon",
+        "role": "ラ・マリーヌ",
+        "location": "フランス、ノワールムティエ・アン・リル",
+        "photo": "assets/chefs/alexandrecouillon.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "34",
+    "stage": "main",
+    "day": 26,
+    "time": "16:25-16:40",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Akis Neocleous",
+        "role": "ホテルズ・シュカレ",
+        "location": "メキシコ、プラヤ・デル・カルメン",
+        "photo": "assets/chefs/akisneocleous.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "35",
+    "stage": "main",
+    "day": 26,
+    "time": "16:40-17:00",
+    "type": "PANEL DISCUSSION",
+    "title": "未来のソムリエには何が待ち受けているのか？",
+    "people": [
+      {
+        "name": "Moderator: Levon Bağış",
+        "role": "ワイン専門家兼美食ライター",
+        "location": "イスタンブール、トルコ"
+      },
+      {
+        "name": "Mohamed Benabdallah",
+        "role": "アサドール・エチェバリ",
+        "location": "アチョンド、スペイン"
+      },
+      {
+        "name": "Miguel Ángel Millán",
+        "role": "EMi",
+        "location": "スペイン、マドリード"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "36",
+    "stage": "main",
+    "day": 26,
+    "time": "17:00-17:15",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Pia Leon",
+        "role": "キョルレ",
+        "location": "ペルー、リマ",
+        "photo": "assets/chefs/pialeon.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "37",
+    "stage": "main",
+    "day": 26,
+    "time": "17:15-17:35",
+    "type": "LIVE COOKING DEMO",
+    "title": "食文化と文化のルーツ…過去、現在、そして未来",
+    "people": [
+      {
+        "name": "Viki Geunes",
+        "role": "ジルテ",
+        "location": "アントワープ、ベルギー",
+        "photo": "assets/chefs/vikigeunes.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "38",
+    "stage": "main",
+    "day": 26,
+    "time": "17:35-17:55",
+    "type": "LIVE COOKING DEMO",
+    "title": "中国料理における時間の芸術",
+    "people": [
+      {
+        "name": "Vicky Cheng",
+        "role": "翼",
+        "location": "中国香港",
+        "photo": "assets/chefs/vickycheng.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "39",
+    "stage": "main",
+    "day": 26,
+    "time": "17:55-18:10",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Mohammad Orfali",
+        "role": "オルファリ兄弟",
+        "location": "アラブ首長国連邦、ドバイ",
+        "photo": "assets/chefs/mohammadorfali.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "40",
+    "stage": "main",
+    "day": 26,
+    "time": "18:10-18:25",
+    "type": "SOLO TALK",
+    "title": "デザートがデザートでなかったら？",
+    "people": [
+      {
+        "name": "René Frank",
+        "role": "コーダ",
+        "location": "ベルリン、ドイツ",
+        "photo": "assets/chefs/renefrank.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "41",
+    "stage": "main",
+    "day": 26,
+    "time": "18:25-18:45",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Álvaro Clavijo",
+        "role": "エル・チャト",
+        "location": "コロンビア、ボゴタ",
+        "photo": "assets/chefs/alvaroclavijo.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "42",
+    "stage": "main",
+    "day": 27,
+    "time": "10:00-10:20",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Grégoire Berger",
+        "role": "クラーケン",
+        "location": "アラブ首長国連邦、ドバイ",
+        "photo": "assets/chefs/gregoireberger.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "43",
+    "stage": "main",
+    "day": 27,
+    "time": "10:20-10:40",
+    "type": "LIVE COOKING DEMO",
+    "title": "VORO：地中海の創造性",
+    "people": [
+      {
+        "name": "Álvaro Salazar",
+        "role": "ヴォロ",
+        "location": "マヨルカ島、スペイン",
+        "photo": "assets/chefs/alvarosalazar.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "44",
+    "stage": "main",
+    "day": 27,
+    "time": "10:40-10:55",
+    "type": "SOLO TALK",
+    "title": "水の循環：アマゾンの四季",
+    "people": [
+      {
+        "name": "Jaime Pesaque",
+        "role": "マイタ",
+        "location": "ペルー、リマ",
+        "photo": "assets/chefs/jaimepesaque.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "45",
+    "stage": "main",
+    "day": 27,
+    "time": "10:55-11:25",
+    "type": "PANEL DISCUSSION",
+    "title": "メニューにおける文化交流と、地域料理に対するシェフの責任",
+    "people": [
+      {
+        "name": "Moderator: Kaja Sajovic",
+        "role": "フード＆ワインジャーナリスト兼料理旅行ライター",
+        "location": "リュブリャナ、スロベニア"
+      },
+      {
+        "name": "Josh Angus",
+        "role": "隠れる",
+        "location": "ロンドン、イギリス",
+        "photo": "assets/chefs/joshangus.webp"
+      },
+      {
+        "name": "Maksut Aşkar",
+        "role": "ネオローカル",
+        "location": "イスタンブール、トルコ"
+      },
+      {
+        "name": "Jacopo Ticchi",
+        "role": "ダ・ルチオ",
+        "location": "リミニ、イタリア",
+        "photo": "assets/chefs/jacopoticchi.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "46",
+    "stage": "main",
+    "day": 27,
+    "time": "11:25-11:40",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Diego Guerrero",
+        "role": "ステージ",
+        "location": "スペイン、マドリード",
+        "photo": "assets/chefs/diegoguerrero.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "47",
+    "stage": "main",
+    "day": 27,
+    "time": "11:40-11:55",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Moderator: Liam Collens",
+        "role": "フードライター兼レストラン評論家",
+        "location": "アラブ首長国連邦、ドバイ"
+      },
+      {
+        "name": "Himanshu Saini",
+        "role": "トレシンド・スタジオ",
+        "location": "アラブ首長国連邦、ドバイ",
+        "photo": "assets/chefs/himanshusaini.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "48",
+    "stage": "main",
+    "day": 27,
+    "time": "11:55-12:10",
+    "type": "SOLO TALK",
+    "title": "成熟の創造力",
+    "people": [
+      {
+        "name": "Paco Roncero",
+        "role": "パコ・ロンセロ",
+        "location": "スペイン、マドリード",
+        "photo": "assets/chefs/pacoroncero.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "49",
+    "stage": "main",
+    "day": 27,
+    "time": "12:10-12:25",
+    "type": "SOLO TALK",
+    "title": "大地から感情へ：文化表現としての料理",
+    "people": [
+      {
+        "name": "Toño Pérez",
+        "role": "アトリオ",
+        "location": "カセレス、スペイン",
+        "photo": "assets/chefs/tonoperez.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "51",
+    "stage": "main",
+    "day": 27,
+    "time": "12:25-12:40",
+    "type": "SOLO TALK",
+    "title": "教育とイノベーションを通じて美食の未来を形作る",
+    "people": [
+      {
+        "name": "Joxe Mari Aizega",
+        "role": "バスク料理センター",
+        "location": "スペイン、サン・セバスチャン",
+        "photo": "assets/chefs/joxemariaizega.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "52",
+    "stage": "main",
+    "day": 27,
+    "time": "12:40-13:00",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Gianluca Fusto",
+        "role": "FUSTOミラノ",
+        "location": "イタリア、ミラノ",
+        "photo": "assets/chefs/gianlucafusto.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "53",
+    "stage": "main",
+    "day": 27,
+    "time": "13:00-13:20",
+    "type": "LIVE COOKING DEMO",
+    "title": "魂はソースに宿る｜ポルトガルのソースをたどる：記憶から創造へ",
+    "people": [
+      {
+        "name": "Henrique Sá Pessoa",
+        "role": "レストラン エンリケ サ ペソア",
+        "location": "ポルトガル、リスボン",
+        "photo": "assets/chefs/henriquesapessoa.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "54",
+    "stage": "main",
+    "day": 27,
+    "time": "13:20-13:40",
+    "type": "LIVE COOKING DEMO",
+    "title": "ミラマー2026からの新しい海洋技術",
+    "people": [
+      {
+        "name": "Paco Pérez",
+        "role": "ミラマー",
+        "location": "スペイン、リャンサ",
+        "photo": "assets/chefs/pacoperez.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "55",
+    "stage": "main",
+    "day": 27,
+    "time": "13:40-14:10",
+    "type": "PANEL DISCUSSION",
+    "title": "高級レストランはどのように進化していくのか？文化を通してか、それとも創造性を通してか？",
+    "people": [
+      {
+        "name": "Moderator: Rafa Tonon",
+        "role": "美食ジャーナリスト兼フードライター",
+        "location": "ポルト、ポルトガル"
+      },
+      {
+        "name": "Jessica Rosval",
+        "role": "アル・ガット・ヴェルデ",
+        "location": "イタリア、モデナ",
+        "photo": "assets/chefs/jessicarosval.webp"
+      },
+      {
+        "name": "Fatih Tutak",
+        "role": "トルコ",
+        "location": "イスタンブール、トルコ"
+      },
+      {
+        "name": "David Žefran",
+        "role": "ミルカ",
+        "location": "クランスカ・ゴーラ、スロベニア",
+        "photo": "assets/chefs/davidzefran.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "56",
+    "stage": "main",
+    "day": 27,
+    "time": "14:10-14:25",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Matias Perdomo",
+        "role": "対照",
+        "location": "イタリア、ミラノ",
+        "photo": "assets/chefs/matiasperdomo.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "57",
+    "stage": "main",
+    "day": 27,
+    "time": "14:25-14:45",
+    "type": "LIVE COOKING DEMO",
+    "title": "魚の骨：魚のもう一つの側面",
+    "people": [
+      {
+        "name": "Moreno Cedroni",
+        "role": "マドンニーナ・デル・ペスカトーレ",
+        "location": "セニガッリア、イタリア",
+        "photo": "assets/chefs/morenocedroni.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "58",
+    "stage": "main",
+    "day": 27,
+    "time": "14:45-15:00",
+    "type": "SOLO TALK",
+    "title": "共有スペースと景観",
+    "people": [
+      {
+        "name": "Andoni Luiz Aduriz",
+        "role": "ムガリッツ",
+        "location": "スペイン、サン・セバスチャン",
+        "photo": "assets/chefs/andoniluizaduriz.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "59",
+    "stage": "main",
+    "day": 27,
+    "time": "15:00-15:15",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Albert Raurich",
+        "role": "ドス・パリロス",
+        "location": "スペイン、バルセロナ",
+        "photo": "assets/chefs/albertraurich.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "60",
+    "stage": "main",
+    "day": 27,
+    "time": "15:15-15:35",
+    "type": "PANEL DISCUSSION",
+    "title": "ミクソロジー＝文化",
+    "people": [
+      {
+        "name": "Moderator: Oğul Türkkan",
+        "role": "食品、ワイン、スピリッツの専門家",
+        "location": "イスタンブール、トルコ"
+      },
+      {
+        "name": "Marc Álvarez",
+        "role": "ひと口飲む",
+        "location": "スペイン、バルセロナ"
+      },
+      {
+        "name": "Giulia Caffiero",
+        "role": "ゼラニウム",
+        "location": "デンマーク、コペンハーゲン",
+        "photo": "assets/chefs/giuliacaffiero.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "61",
+    "stage": "main",
+    "day": 27,
+    "time": "15:35-15:50",
+    "type": "SOLO TALK",
+    "title": "",
+    "people": [
+      {
+        "name": "Ömür Akkor",
+        "role": "ハヴシュ＆ナトリア",
+        "location": "イスタンブール、トルコ"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "62",
+    "stage": "main",
+    "day": 27,
+    "time": "15:50-16:20",
+    "type": "PANEL DISCUSSION",
+    "title": "中東文化は、世界の食の舞台で新たなモデルを生み出すことができるだろうか？",
+    "people": [
+      {
+        "name": "Moderator: David Joseph Constable",
+        "role": "GAYA編集長",
+        "location": "アラブ首長国連邦、ドバイ"
+      },
+      {
+        "name": "Joe Barza",
+        "role": "国際コンサルタント",
+        "location": "ベイルート、レバノン",
+        "photo": "assets/chefs/joebarza.webp"
+      },
+      {
+        "name": "Mostafa Seif",
+        "role": "クフの",
+        "location": "ギザ、エジプト",
+        "photo": "assets/chefs/mostafaseif.webp"
+      },
+      {
+        "name": "Ali Ghzawi",
+        "role": "アリー",
+        "location": "アンマン、ヨルダン",
+        "photo": "assets/chefs/alighzawi.webp"
+      },
+      {
+        "name": "Ali El Bourji",
+        "role": "アトランティス・ドバイ",
+        "location": "アラブ首長国連邦、ドバイ",
+        "photo": "assets/chefs/alielbourji.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "63",
+    "stage": "main",
+    "day": 27,
+    "time": "16:20-16:40",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Gilles Goujon",
+        "role": "オーベルジュ・デュ・ヴュー・ピュイ",
+        "location": "フランス、フォンジョンクーズ",
+        "photo": "assets/chefs/gillesgoujon.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "21",
+    "stage": "main",
+    "day": 27,
+    "time": "16:40-17:00",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Rodolfo Guzmán",
+        "role": "ボラゴ",
+        "location": "チリ、サンティアゴ",
+        "photo": "assets/chefs/rodolfoguzman.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "65",
+    "stage": "main",
+    "day": 27,
+    "time": "17:00-17:30",
+    "type": "PANEL DISCUSSION",
+    "title": "現代の製菓における創造性の影響",
+    "people": [
+      {
+        "name": "Moderator: Guillaume Erblang",
+        "role": "Food&Sens編集長兼Paroles de Chefs創設者",
+        "location": "フランス、パリ"
+      },
+      {
+        "name": "Antonio Bachour",
+        "role": "バシュール",
+        "location": "アメリカ合衆国マイアミ",
+        "photo": "assets/chefs/antoniobachour.webp"
+      },
+      {
+        "name": "Gianluca Fusto",
+        "role": "FUSTOミラノ",
+        "location": "イタリア、ミラノ",
+        "photo": "assets/chefs/gianlucafusto.webp"
+      },
+      {
+        "name": "Thibault Hauchard",
+        "role": "クラリッジズ",
+        "location": "ロンドン、イギリス",
+        "photo": "assets/chefs/thibaulthauchard.webp"
+      },
+      {
+        "name": "Nicolas Rouzaud",
+        "role": "ニコラ・ルーゾー、ザ・コノートにて",
+        "location": "ロンドン、イギリス",
+        "photo": "assets/chefs/nicolasrouzaud.webp"
+      },
+      {
+        "name": "Cesare Murzilli",
+        "role": "ポートレート・ミラノ",
+        "location": "イタリア、ミラノ",
+        "photo": "assets/chefs/cesaremurzilli.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "66",
+    "stage": "main",
+    "day": 27,
+    "time": "17:30-17:50",
+    "type": "LIVE COOKING DEMO",
+    "title": "",
+    "people": [
+      {
+        "name": "Rubén Hernández Mosquero",
+        "role": "EMi",
+        "location": "スペイン、マドリード",
+        "photo": "assets/chefs/rubenhernandezmosquero.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "0",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "11:30-12:00",
+    "type": "PANEL DISCUSSION",
+    "title": "飲食、観光、ホスピタリティ分野における変化と将来展望。",
+    "people": [
+      {
+        "name": "Moderator: Şafak Tükle",
+        "role": "CNBC-eテレビ司会者",
+        "location": ""
+      },
+      {
+        "name": "Melih Şahinöz",
+        "role": "ETÜDER取締役会会長",
+        "location": ""
+      },
+      {
+        "name": "Oya Narin",
+        "role": "TTTYD取締役会会長",
+        "location": ""
+      },
+      {
+        "name": "Kaya Demirer",
+        "role": "TURYİD取締役会会長",
+        "location": ""
+      },
+      {
+        "name": "Bekir Topuz",
+        "role": "TUSIDの取締役会長",
+        "location": ""
+      },
+      {
+        "name": "Müberra Eresin",
+        "role": "TÜROB取締役会会長",
+        "location": ""
+      },
+      {
+        "name": "Hediye Güral",
+        "role": "TÜROB取締役会副会長、TTYD取締役会副会長、サービス輸出業者協会取締役会メンバー",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "1",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "12:00-12:30",
+    "type": "PANEL DISCUSSION",
+    "title": "ホスピタリティ業界における成長戦略と変化するビジネスモデル",
+    "people": [
+      {
+        "name": "Moderator: Deniz Sipahi",
+        "role": "ヒュリエット紙のコラムニスト兼ジャーナリスト",
+        "location": ""
+      },
+      {
+        "name": "Pelin Akın",
+        "role": "アクフェン・ホールディング取締役",
+        "location": ""
+      },
+      {
+        "name": "Sadettin Cesur",
+        "role": "TUM/TRUホスピタリティ（IST空港）CEO",
+        "location": ""
+      },
+      {
+        "name": "Uğur Talayhan",
+        "role": "アコーホテルが運営するグランドタラビヤ 総支配人",
+        "location": ""
+      },
+      {
+        "name": "Çetin Pehlivan",
+        "role": "テルサネ・イスタンブールのマネージング・ディレクター",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "2",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "12:30-13:00",
+    "type": "PANEL DISCUSSION",
+    "title": "観光業における投資、成長、そして将来展望。",
+    "people": [
+      {
+        "name": "Moderator: Ahu Orakçıoğlu",
+        "role": "Ekotürkニュース番組プレゼンター兼ジャーナリスト",
+        "location": ""
+      },
+      {
+        "name": "Ece Tonbul",
+        "role": "パロマホテルの会長兼CEO",
+        "location": ""
+      },
+      {
+        "name": "Akis Neocleous",
+        "role": "ホテルズ・エスカレ・ホテル・グループ ホテル部門担当上級幹部",
+        "location": "",
+        "photo": "assets/chefs/akisneocleous.webp"
+      },
+      {
+        "name": "Cengiz Barut",
+        "role": "バルートホテルズ取締役",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "3",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "13:00-13:30",
+    "type": "PANEL DISCUSSION",
+    "title": "変化する観光市場は、ホテル投資の将来にどのような影響を与えるのか？",
+    "people": [
+      {
+        "name": "Moderator: Yelda İpekli",
+        "role": "戦略マーケティングおよびブランドマネジメントのスペシャリスト",
+        "location": ""
+      },
+      {
+        "name": "Utkan Gülaçtı",
+        "role": "スイスホテル・ザ・ボスポラス・イスタンブールの総支配人",
+        "location": ""
+      },
+      {
+        "name": "Kılıç Ali Kantar",
+        "role": "CVKパークボスポラスホテルイスタンブールの総支配人",
+        "location": ""
+      },
+      {
+        "name": "Murat Eti",
+        "role": "ペラ・パレス・ホテル総支配人",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-26-1330",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "13:30-14:00",
+    "type": "PANEL DISCUSSION",
+    "title": "未来の高級ホテルを決定づける要因とは？",
+    "people": [
+      {
+        "name": "Moderator: Buse Yıldırım",
+        "role": "NTVプレゼンター",
+        "location": ""
+      },
+      {
+        "name": "Cem Akşahin",
+        "role": "フェアモント・クエーサー・イスタンブール総支配人",
+        "location": ""
+      },
+      {
+        "name": "Ata Eremsoy",
+        "role": "マルマラグループおよびマルマラコレクションの最高執行責任者（COO）",
+        "location": ""
+      },
+      {
+        "name": "Aykut Korkmaz",
+        "role": "シャングリ・ラ ボスポラス イスタンブール 総支配人",
+        "location": ""
+      },
+      {
+        "name": "Serkan Yalçınkaya",
+        "role": "マンダリンオリエンタルボスポラスイスタンブールの総支配人",
+        "location": ""
+      },
+      {
+        "name": "Ceyda Noyan",
+        "role": "セントレジス・イスタンブールの総支配人",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "4",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "14:00-14:30",
+    "type": "PANEL DISCUSSION",
+    "title": "ラグジュアリーの新たな定義と、ホスピタリティ業界における体験の変化。",
+    "people": [
+      {
+        "name": "Moderator: Çağdaş Ertuna",
+        "role": "ジャーナリスト、コラムニスト、グローバル戦略コミュニケーションコンサルタント",
+        "location": ""
+      },
+      {
+        "name": "Ralph Radtke",
+        "role": "シラガン パレス ケンピンスキー イスタンブールの総支配人、ケンピンスキー レジデンシズ トゥルキエの地域ディレクター",
+        "location": ""
+      },
+      {
+        "name": "Jonathan H. Crook",
+        "role": "ザ・ペニンシュラ・イスタンブールのマネージングディレクター",
+        "location": ""
+      },
+      {
+        "name": "Thomas Krooswijk",
+        "role": "フォーシーズンズホテル イスタンブール アット ザ ボスポラス＆スルタンアフメット 総支配人",
+        "location": ""
+      },
+      {
+        "name": "Todori Kalamaris",
+        "role": "ヒルトン・ホテル・トゥルキエ地域総支配人",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "5",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "14:30-15:00",
+    "type": "PANEL DISCUSSION",
+    "title": "美食業界におけるプレミアムブランドとビジネスビジョン",
+    "people": [
+      {
+        "name": "Moderator: Özlem Güsar",
+        "role": "OGGUSTOの創設者",
+        "location": ""
+      },
+      {
+        "name": "Cem Mirap",
+        "role": "ルッカ＆カンティネリーの創設者",
+        "location": ""
+      },
+      {
+        "name": "Pelin Çakar Bingül",
+        "role": "ペーパームーン総支配人",
+        "location": ""
+      },
+      {
+        "name": "Yücel Özalp",
+        "role": "デザート・グループの取締役会長",
+        "location": ""
+      },
+      {
+        "name": "Yaprak Baltacı",
+        "role": "モリーニ氏、Clove & Epoca 共同創設者",
+        "location": ""
+      },
+      {
+        "name": "Mahmut Gökkaya",
+        "role": "カルマ・ボドルムの共同創設者",
+        "location": ""
+      },
+      {
+        "name": "Nazlı Sönmez",
+        "role": "パリ・ソサエティ・インターナショナルおよびリカス・ホスピタリティ・グループのグローバル・ブランド・ディレクター、ジジ・リゴラット氏",
+        "location": ""
+      },
+      {
+        "name": "Mehmet Dinçerler",
+        "role": "Dincerler Group 会長兼 CEO",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "6",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "15:00-15:30",
+    "type": "PANEL DISCUSSION",
+    "title": "文化、経験、そして創造性は、シェフの料理言語をどのように形作るのか？",
+    "people": [
+      {
+        "name": "Moderator: Gökmen Sözen",
+        "role": "Sözen Group CEO 兼 Gastromasa 創設者",
+        "location": ""
+      },
+      {
+        "name": "Zeynep Pınar Taşdemir",
+        "role": "Arakaの創業者兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Aret Sahakyan",
+        "role": "マチャクズ総料理長",
+        "location": ""
+      },
+      {
+        "name": "Maksut Aşkar",
+        "role": "ネオローカル創設パートナー兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Emre Şen",
+        "role": "カーサ ラヴァンダ 創設パートナー兼シェフ",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "7",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "15:30-16:00",
+    "type": "PANEL DISCUSSION",
+    "title": "地域ブランドから全国チェーンへと成長を遂げたレストラングループの歴史",
+    "people": [
+      {
+        "name": "Moderator: Feyzan Ersinan",
+        "role": "オプティミスト・グループ・エージェンシー社長",
+        "location": ""
+      },
+      {
+        "name": "Ahmet Uras",
+        "role": "ガリアードの取締役会長",
+        "location": ""
+      },
+      {
+        "name": "Hüseyin Aymutlu",
+        "role": "ハッピーグループの会長兼CEO",
+        "location": ""
+      },
+      {
+        "name": "Hasan Yeşilyurt",
+        "role": "アッコマルカ・レストラン・グループのパートナー兼ガストロノミー専門家兼コンサルタント",
+        "location": ""
+      },
+      {
+        "name": "Onur Tahincioğlu",
+        "role": "モダンレストラン取締役会コンサルタント",
+        "location": ""
+      },
+      {
+        "name": "Zeki Özen",
+        "role": "シェイクスピア・ビストロ創業者",
+        "location": ""
+      },
+      {
+        "name": "Avni Altan Kosova",
+        "role": "BigChefsのCEO",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "8",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "16:00-16:30",
+    "type": "PANEL DISCUSSION",
+    "title": "伝統から未来へ向かうレストランブランドの歩み",
+    "people": [
+      {
+        "name": "Moderator: Ahmet Güzelyağdöken",
+        "role": "美食ライター、コンサルタント、インストラクターシェフ",
+        "location": ""
+      },
+      {
+        "name": "Osman Serdaroğlu",
+        "role": "Teruar Urlaの創業者兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Ozan Kumbasar",
+        "role": "Vino Localeの創業者兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Osman Sezener",
+        "role": "OD Urlaの創業者兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Atilla Heilbronn",
+        "role": "Narimor Urla の創設者兼シェフ",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "9",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "16:30-17:00",
+    "type": "PANEL DISCUSSION",
+    "title": "伝統から未来へ向かうレストランブランドの歩み",
+    "people": [
+      {
+        "name": "Moderator: Faruk Şüyün",
+        "role": "経済新聞の記者",
+        "location": ""
+      },
+      {
+        "name": "Nuri Develi",
+        "role": "デベリ取締役会長",
+        "location": ""
+      },
+      {
+        "name": "Tahir Tekin Öztan",
+        "role": "サハン・レストラン・グループ取締役会長",
+        "location": ""
+      },
+      {
+        "name": "Erhan Ece",
+        "role": "Sayfiye & Papalinaの創設者",
+        "location": ""
+      },
+      {
+        "name": "Mehmet Murat Çelik",
+        "role": "Sıralı Kebabの創業者",
+        "location": ""
+      },
+      {
+        "name": "Ahmet Karoğlu",
+        "role": "アフメット・ウスタム・オチャクバシュの創設者",
+        "location": ""
+      },
+      {
+        "name": "Ege Ermeç",
+        "role": "Doğanay Food ゼネラルマネージャー",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "10",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "17:00-17:30",
+    "type": "PANEL DISCUSSION",
+    "title": "地元料理の台頭",
+    "people": [
+      {
+        "name": "Moderator: Vedat Başaran",
+        "role": "トルコ料理研究者",
+        "location": ""
+      },
+      {
+        "name": "Sinem Özler",
+        "role": "セラフ　創設パートナー兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Mehmet Akdağ",
+        "role": "7. メフメト、マネージャー兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Çiğdem Seferoğlu",
+        "role": "ホダン創業者兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Uluç Sakarya",
+        "role": "Nazende Cadde の創設者兼シェフ",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "11",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "17:30-18:00",
+    "type": "PANEL DISCUSSION",
+    "title": "トルコでは、イタリア料理の真正性はどのように守られているのか？",
+    "people": [
+      {
+        "name": "Moderator: Aylin Öney Tan",
+        "role": "ヒュリエット・デイリー・ニュースのコラムニスト",
+        "location": ""
+      },
+      {
+        "name": "Claudio Chinali",
+        "role": "イータリー・イスタンブール店長兼テラッツァ・イタリア総料理長",
+        "location": ""
+      },
+      {
+        "name": "Giancarlo Gottardo",
+        "role": "ディバン ホテルズ & レストラン トゥルキエ 料理ディレクター",
+        "location": ""
+      },
+      {
+        "name": "Luigi Mariconda",
+        "role": "イル・コルティーレ エグゼクティブシェフ",
+        "location": ""
+      },
+      {
+        "name": "Giuseppe Pressani",
+        "role": "ペーパームーンのエグゼクティブシェフ",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "12",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "18:00-18:30",
+    "type": "PANEL DISCUSSION",
+    "title": "新世代、新たな体験、そして観光の未来。",
+    "people": [
+      {
+        "name": "Moderator: Murat Güloğlu",
+        "role": "テレビ司会者兼ジャーナリスト",
+        "location": ""
+      },
+      {
+        "name": "Nurçe Erben Hakan",
+        "role": "ルインズ・ラグジュアリー・リゾートの創設者",
+        "location": ""
+      },
+      {
+        "name": "Büşra Karamancı",
+        "role": "メラス・ホテルズ＆リゾーツ取締役",
+        "location": ""
+      },
+      {
+        "name": "Nahit Kara",
+        "role": "Ethno & Adalya Hotelsの取締役会メンバー",
+        "location": ""
+      },
+      {
+        "name": "Zeynep Tamince",
+        "role": "アリエはイスタンブールの理事を務めている。",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "13",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "18:30-19:00",
+    "type": "PANEL DISCUSSION",
+    "title": "高級ホテルで味わう、特別な美食の世界",
+    "people": [
+      {
+        "name": "Moderator: Gualtiero Spotti",
+        "role": "ジャーナリスト",
+        "location": ""
+      },
+      {
+        "name": "Ali El Bourji",
+        "role": "アトランティス・ドバイ 料理部門ディレクター",
+        "location": "",
+        "photo": "assets/chefs/alielbourji.webp"
+      },
+      {
+        "name": "Cesare Murzilli",
+        "role": "ポートレート・ミラノ コーポレート・エグゼクティブ・パティシエ",
+        "location": "",
+        "photo": "assets/chefs/cesaremurzilli.webp"
+      },
+      {
+        "name": "Andreas Block",
+        "role": "ザ・ペニンシュラ・イスタンブール エグゼクティブシェフ",
+        "location": ""
+      },
+      {
+        "name": "Elmar Aliyev",
+        "role": "ガバラ・ホスピタリティ・グループ コーポレート・エグゼクティブ・シェフ",
+        "location": ""
+      },
+      {
+        "name": "Dimitris Tozakidis",
+        "role": "サニグルメマネージャー、料理委員会 SIG",
+        "location": "",
+        "photo": "assets/chefs/dimitristozakidis.webp"
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1030",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "10:30-11:00",
+    "type": "PANEL DISCUSSION",
+    "title": "トルコの新興観光地におけるホテル投資の未来",
+    "people": [
+      {
+        "name": "Moderator: Fatoş Karahasan",
+        "role": "経済新聞の記者",
+        "location": ""
+      },
+      {
+        "name": "İsmet Öztanık",
+        "role": "アバンギャルド・リファインド取締役会長",
+        "location": ""
+      },
+      {
+        "name": "Sabiha Asfuroğlu Abacıoğlu",
+        "role": "アンタキヤのミュージアムホテルCEOは観光投資を担当",
+        "location": ""
+      },
+      {
+        "name": "Yakup Dinler",
+        "role": "ディンラー・グループ取締役会副会長",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "pendingSpeakers": true
+  },
+  {
+    "id": "hospitality-27-1100",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "11:00-11:30",
+    "type": "PANEL DISCUSSION",
+    "title": "トルコ料理の記憶とその未来世代への継承",
+    "people": [
+      {
+        "name": "Moderator: Merin Sever",
+        "role": "ムンディ・ブックス編集長",
+        "location": ""
+      },
+      {
+        "name": "Mahir Polat",
+        "role": "イスタンブール大都市圏自治体の創設者であり、遺産・文化史家。",
+        "location": ""
+      },
+      {
+        "name": "Çiğdem Alagök",
+        "role": "USLAアカデミーゼネラルマネージャー",
+        "location": ""
+      },
+      {
+        "name": "Murat Deniz Temel",
+        "role": "アラフ 創設パートナー兼シェフ",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1130",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "11:30-12:00",
+    "type": "PANEL DISCUSSION",
+    "title": "ブランディングからチェーン展開へ：成長の新たなダイナミクス",
+    "people": [
+      {
+        "name": "Moderator: Reha Arar",
+        "role": "NETホールディング取締役、グルメ＆ライター",
+        "location": ""
+      },
+      {
+        "name": "Levent Veziroğlu",
+        "role": "ホスピタリジェント取締役会長、アクフェン・イェディデエディ取締役会副会長",
+        "location": ""
+      },
+      {
+        "name": "Ergün Demiray",
+        "role": "デデマンホテルの取締役会長",
+        "location": ""
+      },
+      {
+        "name": "Göktuğ Özdemir",
+        "role": "C-paces共同創設者",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1200",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "12:00-12:30",
+    "type": "PANEL DISCUSSION",
+    "title": "次世代型高級宿泊施設における、真正性とブランドアイデンティティ。",
+    "people": [
+      {
+        "name": "Moderator: Şirin Sever",
+        "role": "Postaのコラムニスト",
+        "location": ""
+      },
+      {
+        "name": "Burç Özarutan",
+        "role": "XO ケープ・アーナ総支配人",
+        "location": ""
+      },
+      {
+        "name": "Ali Kızıldağ",
+        "role": "カリスタ・ラグジュアリー・リゾートの総支配人",
+        "location": ""
+      },
+      {
+        "name": "Vito Romeo",
+        "role": "D・マリスベイ総支配人",
+        "location": ""
+      },
+      {
+        "name": "Umut Terzi",
+        "role": "クラブ・マーヴィ総支配人",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1230",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "12:30-13:00",
+    "type": "PANEL DISCUSSION",
+    "title": "トルコにおける極東料理の台頭",
+    "people": [
+      {
+        "name": "Moderator: Bahar Akıncı",
+        "role": "オキシジェン新聞の持続可能な観光コラムニスト",
+        "location": ""
+      },
+      {
+        "name": "Pınar Açılan Horikoshi",
+        "role": "イツミ 共同創業者",
+        "location": ""
+      },
+      {
+        "name": "Zeynel Yılmaz",
+        "role": "ハッカサン ボドルム レストラン ディレクター",
+        "location": ""
+      },
+      {
+        "name": "Hanna Lakiza",
+        "role": "ROKA Türkiye ゼネラルマネージャー",
+        "location": ""
+      },
+      {
+        "name": "Ergün Yücebıyık",
+        "role": "ドラゴンレストランの創設パートナー",
+        "location": ""
+      },
+      {
+        "name": "Alper Korkmaz",
+        "role": "Kaen Sushiの創業者",
+        "location": ""
+      },
+      {
+        "name": "Defne Şengül",
+        "role": "Sushi Barbaの共同創業者",
+        "location": ""
+      },
+      {
+        "name": "Yusuf Saranga",
+        "role": "ワガママ取締役",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1300",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "13:00-13:15",
+    "type": "PANEL DISCUSSION",
+    "title": "「私はカルロ」",
+    "people": [
+      {
+        "name": "Carlo Bernardini",
+        "role": "カルロ・ベルナルディーニ・ファイン・ケータリング＆イベントの創業者兼シェフ",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "pendingModerator": true
+  },
+  {
+    "id": "hospitality-27-1315",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "13:15-13:45",
+    "type": "PANEL DISCUSSION",
+    "title": "肉のカット技術の極意とステーキハウス文化の未来",
+    "people": [
+      {
+        "name": "İbrahim Çolak",
+        "role": "エルベット・ステーキハウスの共同創業者兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Cüneyt Asan",
+        "role": "Günaydın Meat & Restaurants 共同創設者",
+        "location": ""
+      },
+      {
+        "name": "Sidar Budak",
+        "role": "Beeves Steakhouseの創業者兼ヘッドシェフ",
+        "location": ""
+      },
+      {
+        "name": "Adnan Sert",
+        "role": "Ulus Steakhouseの創設パートナー兼運営者",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "pendingModerator": true
+  },
+  {
+    "id": "hospitality-27-1345",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "13:45-14:15",
+    "type": "PANEL DISCUSSION",
+    "title": "テクノロジーとホスピタリティの未来：変化するビジネスモデルと顧客体験",
+    "people": [
+      {
+        "name": "Duygu Kutluoğlu",
+        "role": "FineDine共同創業者兼CEO",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "pendingModerator": true
+  },
+  {
+    "id": "hospitality-27-1415",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "14:15-14:45",
+    "type": "PANEL DISCUSSION",
+    "title": "美食、自然、そして文化は、ブティックホテル経営の未来をどのように形作っているのか？",
+    "people": [
+      {
+        "name": "Moderator: Ayfer Yavi",
+        "role": "スローフードイスタンブール・ヤグムル・ボレジ協会創設者",
+        "location": ""
+      },
+      {
+        "name": "İsmail Kaya",
+        "role": "ベンゴディ・ブティックホテル マネージャー",
+        "location": ""
+      },
+      {
+        "name": "Oben Sarıbuğa",
+        "role": "ホテル・カエリ ホテルマネージャー",
+        "location": ""
+      },
+      {
+        "name": "Hande Gündoğar",
+        "role": "ナダス・カズダラル ゼネラルマネージャー",
+        "location": ""
+      },
+      {
+        "name": "Ezgi Serdaroğlu",
+        "role": "テルアール・ウルラ　創設パートナー兼エクスペリエンスキュレーター",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1445",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "14:45-15:00",
+    "type": "PANEL DISCUSSION",
+    "title": "食文化はどのようにして文化間の架け橋を築くのか？",
+    "people": [
+      {
+        "name": "Moderator: Gökmen Sözen",
+        "role": "Sözen Group CEO 兼 Gastromasa 創設者",
+        "location": ""
+      },
+      {
+        "name": "Arda Türkmen",
+        "role": "テレビ司会者兼シェフ",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1500",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "15:00-15:30",
+    "type": "PANEL DISCUSSION",
+    "title": "シーフード料理における熟練と世代を超えた経験",
+    "people": [
+      {
+        "name": "Moderator: Memet Özer",
+        "role": "チーフTVプログラマー",
+        "location": ""
+      },
+      {
+        "name": "Zeynep Petek Dursun",
+        "role": "Bebek Balıkçısı 3代目代表兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Kaan Kayhan",
+        "role": "Yeniköy Balıkçısıの創設者兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Serkan Pakkan",
+        "role": "デル・マーレ エグゼクティブシェフ",
+        "location": ""
+      },
+      {
+        "name": "Erşan Yılmaz",
+        "role": "BordoMavi Fishの創設者",
+        "location": ""
+      },
+      {
+        "name": "Volkan Bekit",
+        "role": "ニハト氏（二代目代表）",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1530",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "15:30-15:45",
+    "type": "SOLO TALK",
+    "title": "健康的な食生活における正しい選択とバランスの取れたライフスタイル。",
+    "people": [
+      {
+        "name": "Taylan Kümeli",
+        "role": "栄養・食事療法専門家",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1545",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "15:45-16:05",
+    "type": "PANEL DISCUSSION",
+    "title": "ラ・ロレーヌ・パネル",
+    "people": [],
+    "sponsor": "",
+    "pendingModerator": true,
+    "pendingSpeakers": true
+  },
+  {
+    "id": "hospitality-27-1605",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "16:05-16:35",
+    "type": "PANEL DISCUSSION",
+    "title": "トルコにおけるコーヒー文化の発展とブランドの役割の変化",
+    "people": [
+      {
+        "name": "Ahmet Yanıkoğlu",
+        "role": "Caffè Nero Türkiye CEO",
+        "location": ""
+      },
+      {
+        "name": "Alper Balcı",
+        "role": "エスプレッソラボCEO",
+        "location": ""
+      },
+      {
+        "name": "Samet Akbaş",
+        "role": "コーヒーファクトリー総支配人",
+        "location": ""
+      },
+      {
+        "name": "Tamer Koçali",
+        "role": "フアン・バルデス、ブランドディレクター",
+        "location": ""
+      },
+      {
+        "name": "Esin Aktürk Tosya",
+        "role": "カリブーコーヒー トゥルキエ ゼネラルマネージャー",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "pendingModerator": true
+  },
+  {
+    "id": "hospitality-27-1635",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "16:35-17:05",
+    "type": "PANEL DISCUSSION",
+    "title": "トルコ料理の記憶と、その生きたレストラン文化",
+    "people": [
+      {
+        "name": "Taner Olca",
+        "role": "イェセメク第3世代代表",
+        "location": ""
+      },
+      {
+        "name": "İsmail Reyhanoğlu",
+        "role": "リゼ港レストランの三代目代表",
+        "location": ""
+      },
+      {
+        "name": "Handan Kaygusuzer",
+        "role": "ベンディク アビ レストラン オーナー兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Mahir Nazlıcan",
+        "role": "Mahirレストランの創業者兼ヘッドシェフ",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "pendingModerator": true
+  },
+  {
+    "id": "hospitality-27-1705",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "17:05-17:35",
+    "type": "PANEL DISCUSSION",
+    "title": "食文化における体験デザインと変化する期待",
+    "people": [
+      {
+        "name": "Moderator: Ebru Erberdi",
+        "role": "7 Cateringの創設者兼コラムニスト",
+        "location": ""
+      },
+      {
+        "name": "Erdem Dönmez",
+        "role": "カルロ・ベルナルディーニ、ファイン・ケータリング＆イベントの創設パートナー兼シェフ",
+        "location": ""
+      },
+      {
+        "name": "Ali Ronay",
+        "role": "スタジオ・ロネイ創設シェフ",
+        "location": ""
+      },
+      {
+        "name": "Eyüp Kemal Sevinç",
+        "role": "EKS カリナリー アカデミーの創設者、テレビ司会者、シェフ",
+        "location": ""
+      },
+      {
+        "name": "Ayça Bilgin",
+        "role": "Shine Hospitalityの創設者",
+        "location": ""
+      },
+      {
+        "name": "Rafet İnce",
+        "role": "シェフ、起業家、テレビ司会者",
+        "location": ""
+      },
+      {
+        "name": "Doğa Çitçi",
+        "role": "MSM料理芸術センター コーディネーター",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1735",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "17:35-18:05",
+    "type": "PANEL DISCUSSION",
+    "title": "今日のダイナミクスにおける成長とサプライチェーン統合の法則",
+    "people": [
+      {
+        "name": "Moderator: Ebru Erke",
+        "role": "ヒュリエット紙の記者",
+        "location": ""
+      },
+      {
+        "name": "Engin Aras",
+        "role": "ザ・ハンガーの共同創設者",
+        "location": ""
+      },
+      {
+        "name": "Cihan Kamer",
+        "role": "HuQQabazの創設者",
+        "location": ""
+      },
+      {
+        "name": "Faruk Tanyeri Gonzalez",
+        "role": "ランチェロ共同創設者",
+        "location": ""
+      },
+      {
+        "name": "Ayşe Kazancı",
+        "role": "クックショップの創設者",
+        "location": ""
+      }
+    ],
+    "sponsor": ""
+  },
+  {
+    "id": "hospitality-27-1805",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "18:05-18:35",
+    "type": "PANEL DISCUSSION",
+    "title": "外食産業において、規模拡大しながら品質と創造性を維持するにはどうすればよいか？",
+    "people": [
+      {
+        "name": "Rıza Belenkaya",
+        "role": "ミッドポイントR&Dチーフ",
+        "location": ""
+      },
+      {
+        "name": "Mehmet Soykan",
+        "role": "BTAフードサービス社コーポレートキッチンシェフ",
+        "location": ""
+      },
+      {
+        "name": "Zeki Kara",
+        "role": "カラカ・クックプラス ケータリングコーディネーター シェフ",
+        "location": ""
+      },
+      {
+        "name": "Mustafa Özgüler",
+        "role": "Orkide Pastanesi (Orchid Patisserie) のパートナー",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "pendingModerator": true
+  }
+]
