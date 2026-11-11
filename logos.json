@@ -1,0 +1,32 @@
+{
+  "aktob": {
+    "path": "assets/partners/aktob.png",
+    "site": "https://aktob.org.tr",
+    "source": "https://aktob.org.tr/wp-content/uploads/2023/05/aktob_logo.png"
+  },
+  "etuder": {
+    "path": "assets/partners/etuder.png",
+    "site": "https://www.etuder.org.tr/",
+    "source": "https://www.etuder.org.tr/wp-content/uploads/2025/10/etuder.png"
+  },
+  "mutfak": {
+    "path": "assets/partners/mutfak.png",
+    "site": "https://www.mutfakdostlari.org.tr",
+    "source": "https://www.mutfakdostlari.org.tr/assets/logo.jpg"
+  },
+  "turofed": {
+    "path": "assets/partners/turofed.png",
+    "site": "https://turofed.org.tr",
+    "source": "https://turofed.org.tr/assets/img/logo/logo-header.png"
+  },
+  "tusid": {
+    "path": "assets/partners/tusid.png",
+    "site": "https://tusid.org.tr",
+    "source": "https://tusid.org.tr/assets/web/img/logo.png"
+  },
+  "turyid": {
+    "site": "https://turyid.org/",
+    "path": "assets/partners/turyid.png",
+    "source": "https://turyid.org/wp-content/themes/turyid/assets/images/logo.png"
+  }
+}
