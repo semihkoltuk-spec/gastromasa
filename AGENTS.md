@@ -8,3 +8,5 @@
 - Keep OneSignal and cron secrets in Vercel environment variables. Never commit or request secret values in chat.
 
 - Sponsor cards now open stand details (superseding the earlier non-clickable logo design). Stand data is in `stand-directory.json`. Never present assigned digital codes or suggested brand-family matches as official PDF evidence. Preserve conflict notes and do not invent locations for firms absent from the PDF. See `STAND-ESLESTIRME.md`.
+
+- Stand popups use a simple presentation: logo, name, stand, hall, floor-plan name and map link. Per user revision, omit PDF source badges/links, suggested-match labels and explanatory notes from popups. Keep provenance/conflict details in the data and audit document; keep assigned-code clarification in the floor-plan legend.
