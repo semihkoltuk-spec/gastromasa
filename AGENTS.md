@@ -1,0 +1,8 @@
+# Gastromasa project rules
+
+- Publish authorized site revisions by pushing `main`; Vercel deploys automatically.
+- The site is temporarily Turkish-only. Keep all 14 existing language datasets, biographies, dictionaries and the stored language-menu template. Restore multilingual publication only when the user explicitly requests the final multilingual release. The feature flag is `multilingualEnabled` in `i18n.js`.
+- Chef/person names, restaurant/organisation names and venue names are proper names: NEVER translate them when changing languages. Canonical spellings and speaker venues are in `proper-names.json` and `program.en.json`. Preserve them in every program dataset and use `notranslate` markup on their rendered fields. Job descriptions and generic interface labels may be translated. Do not silently translate brand names such as Disfrutar, Table, BACHOUR, HIDE, Wing, Geranium or Portrait Milano.
+- Before the final multilingual release, audit existing biography translations for transliterated names and translated restaurant aliases. Preserve original entities with placeholders when translating full paragraphs; avoid blind word replacement in running prose.
+- News cards live under Basında Biz and are grouped by publication origin into Türkiye Basını and Uluslararası Basın, independently of article language. Euronews (including its Turkish edition) and Kıbrıs Postası are in Uluslararası Basın. Preserve archived articles' actual publication dates. Use source-verified images, titles and dates; never invent publication dates. Keep original foreign headlines in `press.json` even when showing a Turkish rendering.
+- Keep OneSignal and cron secrets in Vercel environment variables. Never commit or request secret values in chat.

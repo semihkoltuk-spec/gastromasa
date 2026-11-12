@@ -87,3 +87,11 @@ Alt alanda yalnızca iletişim bilgileri ve WhatsApp bağlantısı kalır; alt l
 ## Basında Biz haber kartları
 
 İlk haber kartı Euronews'in 3 Kasım 2026 tarihli “Dünyaca ünlü şefler 11. Gastromasa için İstanbul'da buluşacak” haberidir. Başlık ve ana görsel haberin Open Graph verilerinden, tarih `datePublished` bilgisinden doğrulanmıştır. Kart haberi yeni sekmede açar. Görsel yerel `assets/press/` altında tutulur; tarih `press.js` ile seçili dile göre biçimlendirilir. Kartlar masaüstünde üç, tablette iki, telefonda tek sütun olarak görüntülenir.
+
+## Geçici Türkçe yayın ve özel isimler
+
+Kullanıcının isteğiyle `i18n.js` içindeki `multilingualEnabled` bayrağı `false` durumundadır. Languages menüsü görünmez; `?lang=en` gibi eski bağlantılar da Türkçe gösterilir. Menü HTML'i `languageMenuTemplate` içinde, 14 dilin program/biyografi/arayüz dosyaları ise mevcut konumlarında korunur. Final çok dilli yayın istendiğinde bayrak açılarak menü geri yüklenir.
+
+Şef adları, restoran/kurum adları ve mekân adları `proper-names.json` ile kayda alınmıştır. Program dosyalarında özel isimlerin kanonik yazımları korunur. Konuşmacı kartlarında ve kişi satırlarında adlar, restoranlar ve yerler `notranslate` işaretlidir. Mevcut diğer dil biyografileri korunmuştur; çok dilli finalden önce metin içindeki özel isimler de kanonik kaynakla kontrol edilmelidir.
+
+Basında Biz artık toplam 21 haber içerir: Türkiye Basını 10, Uluslararası Basın 11. Kategori bağlantıları aynı sayfada ilgili gruba gider. Ayrım haber diline değil yayın kuruluşunun konumuna dayanır. Haberler grup içinde en yeni tarihten eskiye sıralanır. Tarihi belirtilmeyen OGGUSTO etkinlik rehberinde yayın tarihi uydurulmaz. Orijinal yabancı başlıklar `press.json` içinde saklanır; güncel arayüzde Türkçe karşılıkları gösterilir. Kaynak görseller `assets/press/` altında yereldir.

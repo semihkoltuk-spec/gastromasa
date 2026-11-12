@@ -21,7 +21,8 @@
         "name": "Pierre Hermé",
         "role": "Pierre Hermé Paris",
         "location": "Paris, France",
-        "photo": "assets/chefs/pierre-herme.webp"
+        "photo": "assets/chefs/pierre-herme.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": "",
@@ -38,17 +39,19 @@
       {
         "name": "Moderator: Levent Erden",
         "role": "Journaliste à Gazete Oksijen, Fondatrice de Next Akademi & Academic",
-        "location": "Istanbul, Turquie"
+        "location": "İstanbul, Türkiye"
       },
       {
         "name": "Gamze Cizreli",
-        "role": "Cofondateur, BigChefs",
-        "location": "Istanbul, Turquie"
+        "role": "Co-Founder, BigChefs",
+        "location": "İstanbul, Türkiye",
+        "preserveRole": true
       },
       {
         "name": "Fettah Tamince",
-        "role": "Président du conseil d'administration, Rixos",
-        "location": "Istanbul, Turquie"
+        "role": "Chairman of the Board, Rixos",
+        "location": "İstanbul, Türkiye",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -63,9 +66,10 @@
     "people": [
       {
         "name": "Eduard Xatruch",
-        "role": "Profitez",
-        "location": "Barcelone, Espagne",
-        "photo": "assets/chefs/eduardxatruch.webp"
+        "role": "Disfrutar",
+        "location": "Barcelona, Spain",
+        "photo": "assets/chefs/eduardxatruch.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -81,8 +85,9 @@
       {
         "name": "Luiz Filipe Souza",
         "role": "Evvai",
-        "location": "São Paulo, Brésil",
-        "photo": "assets/chefs/luizfilipesouza.webp"
+        "location": "São Paulo, Brasil",
+        "photo": "assets/chefs/luizfilipesouza.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -98,8 +103,9 @@
       {
         "name": "Nicolai Nørregaard",
         "role": "Kadeau",
-        "location": "Copenhague, Danemark",
-        "photo": "assets/chefs/nicolainørregaard.webp"
+        "location": "Copenhagen, Denmark",
+        "photo": "assets/chefs/nicolainørregaard.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -115,8 +121,9 @@
       {
         "name": "Mauro Uliassi",
         "role": "Uliassi",
-        "location": "Senigallia, Italie",
-        "photo": "assets/chefs/massimouliassi.webp"
+        "location": "Senigallia, Italy",
+        "photo": "assets/chefs/massimouliassi.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -131,9 +138,10 @@
     "people": [
       {
         "name": "Jaime Rodríguez",
-        "role": "CÉLÉ",
-        "location": "Carthagène, Colombie",
-        "photo": "assets/chefs/jaimerodriguez.webp"
+        "role": "CELELE",
+        "location": "Cartagena, Colombia",
+        "photo": "assets/chefs/jaimerodriguez.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -149,13 +157,14 @@
       {
         "name": "Introduced by Serda Büyükkoyuncu",
         "role": "Auteur de récits de voyage et présentateur télé",
-        "location": "Istanbul, Turquie"
+        "location": "İstanbul, Türkiye"
       },
       {
         "name": "Simon Rogan",
-        "role": "Umbel Hospitality | L'Enclume & Notre Ferme",
-        "location": "Cartmel, Royaume-Uni",
-        "photo": "assets/chefs/simonrogan.webp"
+        "role": "Umbel Hospitality | L’Enclume & Our Farm",
+        "location": "Cartmel, United Kingdom",
+        "photo": "assets/chefs/simonrogan.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -171,8 +180,9 @@
       {
         "name": "Pablo Rivero",
         "role": "Don Julio",
-        "location": "Buenos Aires - Argentine",
-        "photo": "assets/chefs/pablorivero.webp"
+        "location": "Buenos Aires - Argentina",
+        "photo": "assets/chefs/pablorivero.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -189,7 +199,8 @@
         "name": "Emmanuel Renaut",
         "role": "Flocons de Sel",
         "location": "Megève, France",
-        "photo": "assets/chefs/emmanuelrenaut.webp"
+        "photo": "assets/chefs/emmanuelrenaut.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -204,9 +215,10 @@
     "people": [
       {
         "name": "Bruno Verjus",
-        "role": "Tableau",
+        "role": "Table",
         "location": "Paris, France",
-        "photo": "assets/chefs/brunoverjus.webp"
+        "photo": "assets/chefs/brunoverjus.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -222,8 +234,9 @@
       {
         "name": "Antonio Bachour",
         "role": "BACHOUR",
-        "location": "Miami, États-Unis",
-        "photo": "assets/chefs/antoniobachour.webp"
+        "location": "Miami, USA",
+        "photo": "assets/chefs/antoniobachour.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -238,9 +251,10 @@
     "people": [
       {
         "name": "Christian Escribà",
-        "role": "Écrivez",
-        "location": "Barcelone, Espagne",
-        "photo": "assets/chefs/christianescriba.webp"
+        "role": "Escribà",
+        "location": "Barcelona, Spain",
+        "photo": "assets/chefs/christianescriba.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -256,8 +270,9 @@
       {
         "name": "Paolo Casagrande",
         "role": "Lasarte",
-        "location": "Barcelone, Espagne",
-        "photo": "assets/chefs/paolocasagrande.webp"
+        "location": "Barcelona, Spain",
+        "photo": "assets/chefs/paolocasagrande.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -273,8 +288,9 @@
       {
         "name": "Hiroyasu Kawate",
         "role": "Florilège",
-        "location": "Tokyo, Japon",
-        "photo": "assets/chefs/hiroyasukawate.webp"
+        "location": "Tokyo, Japan",
+        "photo": "assets/chefs/hiroyasukawate.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -289,9 +305,10 @@
     "people": [
       {
         "name": "Franco Pepe",
-        "role": "Pepe dans Grani",
-        "location": "Caiazzo, Italie",
-        "photo": "assets/chefs/francopepe.webp"
+        "role": "Pepe in Grani",
+        "location": "Caiazzo, Italy",
+        "photo": "assets/chefs/francopepe.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -307,31 +324,35 @@
       {
         "name": "Moderator: Paolo Marchi",
         "role": "Créateur et conservateur, Identità Golose",
-        "location": "Italie"
+        "location": "Italy"
       },
       {
         "name": "Pierre Hermé",
         "role": "Pierre Hermé Paris",
         "location": "Paris, France",
-        "photo": "assets/chefs/pierre-herme.webp"
+        "photo": "assets/chefs/pierre-herme.webp",
+        "preserveRole": true
       },
       {
         "name": "Bruno Verjus",
-        "role": "Tableau",
+        "role": "Table",
         "location": "Paris, France",
-        "photo": "assets/chefs/brunoverjus.webp"
+        "photo": "assets/chefs/brunoverjus.webp",
+        "preserveRole": true
       },
       {
         "name": "Eric Vildgaard",
         "role": "Jordnær",
-        "location": "Copenhague, Danemark",
-        "photo": "assets/chefs/ericvildgaard.webp"
+        "location": "Copenhagen, Denmark",
+        "photo": "assets/chefs/ericvildgaard.webp",
+        "preserveRole": true
       },
       {
         "name": "Marco Müller",
         "role": "Rutz",
-        "location": "Berlin, Allemagne",
-        "photo": "assets/chefs/marcomuller.webp"
+        "location": "Berlin, Germany",
+        "photo": "assets/chefs/marcomuller.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -347,18 +368,19 @@
       {
         "name": "Introduced by Teoman Hünal",
         "role": "Journaliste spécialisé dans les boissons et les voyages",
-        "location": "Istanbul, Turquie"
+        "location": "İstanbul, Türkiye"
       },
       {
         "name": "Moderator: Paolo Vizzari",
         "role": "Conteur gastronomique",
-        "location": "Milan, Italie"
+        "location": "Milan, Italy"
       },
       {
         "name": "Enrico 'Chicco' Cerea",
         "role": "Da Vittorio",
-        "location": "Brusaporto, Italie",
-        "photo": "assets/chefs/enrico'chicco'cerea.webp"
+        "location": "Brusaporto, Italy",
+        "photo": "assets/chefs/enrico'chicco'cerea.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -374,8 +396,9 @@
       {
         "name": "Alexandre Couillon",
         "role": "La Marine",
-        "location": "Noirmoutier-en-l'Île, France",
-        "photo": "assets/chefs/alexandrecouillon.webp"
+        "location": "Noirmoutier en l'Ile, France",
+        "photo": "assets/chefs/alexandrecouillon.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -390,9 +413,10 @@
     "people": [
       {
         "name": "Akis Neocleous",
-        "role": "Hôtels Xcaret",
-        "location": "Playa del Carmen, Mexique",
-        "photo": "assets/chefs/akisneocleous.webp"
+        "role": "Hoteles Xcaret",
+        "location": "Playa del Carmen, Mexico",
+        "photo": "assets/chefs/akisneocleous.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -408,17 +432,19 @@
       {
         "name": "Moderator: Levon Bağış",
         "role": "Expert en vins et auteur spécialisé en gastronomie",
-        "location": "Istanbul, Turquie"
+        "location": "İstanbul, Türkiye"
       },
       {
         "name": "Mohamed Benabdallah",
         "role": "Asador Etxebarri",
-        "location": "Atxondo, Espagne"
+        "location": "Atxondo, Spain",
+        "preserveRole": true
       },
       {
         "name": "Miguel Ángel Millán",
         "role": "EMi",
-        "location": "Madrid, Espagne"
+        "location": "Madrid, Spain",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -434,8 +460,9 @@
       {
         "name": "Pia Leon",
         "role": "Kjolle",
-        "location": "Lima, Pérou",
-        "photo": "assets/chefs/pialeon.webp"
+        "location": "Lima, Peru",
+        "photo": "assets/chefs/pialeon.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -451,8 +478,9 @@
       {
         "name": "Viki Geunes",
         "role": "Zilte",
-        "location": "Anvers, Belgique",
-        "photo": "assets/chefs/vikigeunes.webp"
+        "location": "Antwerp, Belgium",
+        "photo": "assets/chefs/vikigeunes.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -467,9 +495,10 @@
     "people": [
       {
         "name": "Vicky Cheng",
-        "role": "Aile",
-        "location": "Hong Kong, Chine",
-        "photo": "assets/chefs/vickycheng.webp"
+        "role": "Wing",
+        "location": "Hong Kong, China",
+        "photo": "assets/chefs/vickycheng.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -485,8 +514,9 @@
       {
         "name": "Mohammad Orfali",
         "role": "Orfali Bros",
-        "location": "Dubaï, Émirats arabes unis",
-        "photo": "assets/chefs/mohammadorfali.webp"
+        "location": "Dubai, UAE",
+        "photo": "assets/chefs/mohammadorfali.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -502,8 +532,9 @@
       {
         "name": "René Frank",
         "role": "CODA",
-        "location": "Berlin, Allemagne",
-        "photo": "assets/chefs/renefrank.webp"
+        "location": "Berlin, Germany",
+        "photo": "assets/chefs/renefrank.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -519,8 +550,9 @@
       {
         "name": "Álvaro Clavijo",
         "role": "El Chato",
-        "location": "Bogota, Colombie",
-        "photo": "assets/chefs/alvaroclavijo.webp"
+        "location": "Bogotá, Colombia",
+        "photo": "assets/chefs/alvaroclavijo.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -536,8 +568,9 @@
       {
         "name": "Grégoire Berger",
         "role": "Kraken",
-        "location": "Dubaï, Émirats arabes unis",
-        "photo": "assets/chefs/gregoireberger.webp"
+        "location": "Dubai, UAE",
+        "photo": "assets/chefs/gregoireberger.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -553,8 +586,9 @@
       {
         "name": "Álvaro Salazar",
         "role": "VORO",
-        "location": "Majorque, Espagne",
-        "photo": "assets/chefs/alvarosalazar.webp"
+        "location": "Mallorca, Spain",
+        "photo": "assets/chefs/alvarosalazar.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -570,8 +604,9 @@
       {
         "name": "Jaime Pesaque",
         "role": "Mayta",
-        "location": "Lima, Pérou",
-        "photo": "assets/chefs/jaimepesaque.webp"
+        "location": "Lima, Peru",
+        "photo": "assets/chefs/jaimepesaque.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -587,24 +622,27 @@
       {
         "name": "Moderator: Kaja Sajovic",
         "role": "Journaliste spécialisée en gastronomie et vin, et auteure de récits de voyages culinaires",
-        "location": "Ljubljana, Slovénie"
+        "location": "Ljubljana, Slovenia"
       },
       {
         "name": "Josh Angus",
-        "role": "CACHER",
-        "location": "Londres, Royaume-Uni",
-        "photo": "assets/chefs/joshangus.webp"
+        "role": "HIDE",
+        "location": "London, United Kingdom",
+        "photo": "assets/chefs/joshangus.webp",
+        "preserveRole": true
       },
       {
         "name": "Maksut Aşkar",
-        "role": "néolokal",
-        "location": "Istanbul, Turquie"
+        "role": "neolokal",
+        "location": "İstanbul, Türkiye",
+        "preserveRole": true
       },
       {
         "name": "Jacopo Ticchi",
         "role": "Da Lucio",
-        "location": "Rimini, Italie",
-        "photo": "assets/chefs/jacopoticchi.webp"
+        "location": "Rimini, Italy",
+        "photo": "assets/chefs/jacopoticchi.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -620,8 +658,9 @@
       {
         "name": "Diego Guerrero",
         "role": "DSTAgE",
-        "location": "Madrid, Espagne",
-        "photo": "assets/chefs/diegoguerrero.webp"
+        "location": "Madrid, Spain",
+        "photo": "assets/chefs/diegoguerrero.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -637,13 +676,14 @@
       {
         "name": "Moderator: Liam Collens",
         "role": "Critique gastronomique et auteur culinaire",
-        "location": "Dubaï, Émirats arabes unis"
+        "location": "Dubai, UAE"
       },
       {
         "name": "Himanshu Saini",
         "role": "Trèsind Studio",
-        "location": "Dubaï, Émirats arabes unis",
-        "photo": "assets/chefs/himanshusaini.webp"
+        "location": "Dubai, UAE",
+        "photo": "assets/chefs/himanshusaini.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -659,8 +699,9 @@
       {
         "name": "Paco Roncero",
         "role": "Paco Roncero",
-        "location": "Madrid, Espagne",
-        "photo": "assets/chefs/pacoroncero.webp"
+        "location": "Madrid, Spain",
+        "photo": "assets/chefs/pacoroncero.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -676,8 +717,9 @@
       {
         "name": "Toño Pérez",
         "role": "Atrio",
-        "location": "Cáceres, Espagne",
-        "photo": "assets/chefs/tonoperez.webp"
+        "location": "Cáceres, Spain",
+        "photo": "assets/chefs/tonoperez.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -692,9 +734,10 @@
     "people": [
       {
         "name": "Joxe Mari Aizega",
-        "role": "Centre culinaire basque",
-        "location": "Saint-Sébastien, Espagne",
-        "photo": "assets/chefs/joxemariaizega.webp"
+        "role": "Basque Culinary Center",
+        "location": "San Sebastián, Spain",
+        "photo": "assets/chefs/joxemariaizega.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -710,8 +753,9 @@
       {
         "name": "Gianluca Fusto",
         "role": "FUSTO Milano",
-        "location": "Milan, Italie",
-        "photo": "assets/chefs/gianlucafusto.webp"
+        "location": "Milano, Italy",
+        "photo": "assets/chefs/gianlucafusto.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -726,9 +770,10 @@
     "people": [
       {
         "name": "Henrique Sá Pessoa",
-        "role": "Restaurante Henrique Sa Pessoa",
-        "location": "Lisbonne, Portugal",
-        "photo": "assets/chefs/henriquesapessoa.webp"
+        "role": "Restaurante Henrique Sá Pessoa",
+        "location": "Lisbon, Portugal",
+        "photo": "assets/chefs/henriquesapessoa.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -744,8 +789,9 @@
       {
         "name": "Paco Pérez",
         "role": "Miramar",
-        "location": "Llançá, Espagne",
-        "photo": "assets/chefs/pacoperez.webp"
+        "location": "Llançá, Spain",
+        "photo": "assets/chefs/pacoperez.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -766,19 +812,22 @@
       {
         "name": "Jessica Rosval",
         "role": "Al Gatto Verde",
-        "location": "Modène, Italie",
-        "photo": "assets/chefs/jessicarosval.webp"
+        "location": "Modena, Italy",
+        "photo": "assets/chefs/jessicarosval.webp",
+        "preserveRole": true
       },
       {
         "name": "Fatih Tutak",
-        "role": "TURC",
-        "location": "Istanbul, Turquie"
+        "role": "TURK",
+        "location": "İstanbul, Türkiye",
+        "preserveRole": true
       },
       {
         "name": "David Žefran",
         "role": "Milka",
-        "location": "Kranjska Gora, Slovénie",
-        "photo": "assets/chefs/davidzefran.webp"
+        "location": "Kranjska Gora, Slovenia",
+        "photo": "assets/chefs/davidzefran.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -794,8 +843,9 @@
       {
         "name": "Matias Perdomo",
         "role": "Contraste",
-        "location": "Milan, Italie",
-        "photo": "assets/chefs/matiasperdomo.webp"
+        "location": "Milan, Italy",
+        "photo": "assets/chefs/matiasperdomo.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -811,8 +861,9 @@
       {
         "name": "Moreno Cedroni",
         "role": "Madonnina Del Pescatore",
-        "location": "Senigallia, Italie",
-        "photo": "assets/chefs/morenocedroni.webp"
+        "location": "Senigallia, Italy",
+        "photo": "assets/chefs/morenocedroni.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -828,8 +879,9 @@
       {
         "name": "Andoni Luiz Aduriz",
         "role": "Mugaritz",
-        "location": "Saint-Sébastien, Espagne",
-        "photo": "assets/chefs/andoniluizaduriz.webp"
+        "location": "San Sebastián, Spain",
+        "photo": "assets/chefs/andoniluizaduriz.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -845,8 +897,9 @@
       {
         "name": "Albert Raurich",
         "role": "Dos Palillos",
-        "location": "Barcelone, Espagne",
-        "photo": "assets/chefs/albertraurich.webp"
+        "location": "Barcelona, Spain",
+        "photo": "assets/chefs/albertraurich.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -862,18 +915,20 @@
       {
         "name": "Moderator: Oğul Türkkan",
         "role": "Expert en gastronomie, vins et spiritueux",
-        "location": "Istanbul, Turquie"
+        "location": "İstanbul, Türkiye"
       },
       {
         "name": "Marc Álvarez",
         "role": "SIPS",
-        "location": "Barcelone, Espagne"
+        "location": "Barcelona, Spain",
+        "preserveRole": true
       },
       {
         "name": "Giulia Caffiero",
-        "role": "Géranium",
-        "location": "Copenhague, Danemark",
-        "photo": "assets/chefs/giuliacaffiero.webp"
+        "role": "Geranium",
+        "location": "Copenhagen, Denmark",
+        "photo": "assets/chefs/giuliacaffiero.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -888,8 +943,9 @@
     "people": [
       {
         "name": "Ömür Akkor",
-        "role": "Havuş et Natolia",
-        "location": "Istanbul, Turquie"
+        "role": "Havuş & Natolia",
+        "location": "İstanbul, Türkiye",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -905,31 +961,34 @@
       {
         "name": "Moderator: David Joseph Constable",
         "role": "Rédacteur en chef de GAYA",
-        "location": "Dubaï, Émirats arabes unis"
+        "location": "Dubai, UAE"
       },
       {
         "name": "Joe Barza",
         "role": "Consultant international",
-        "location": "Beyrouth, Liban",
+        "location": "Beirut, Lebanon",
         "photo": "assets/chefs/joebarza.webp"
       },
       {
         "name": "Mostafa Seif",
-        "role": "Khéops",
-        "location": "Gizeh, Égypte",
-        "photo": "assets/chefs/mostafaseif.webp"
+        "role": "Khufu’s",
+        "location": "Giza, Egypt",
+        "photo": "assets/chefs/mostafaseif.webp",
+        "preserveRole": true
       },
       {
         "name": "Ali Ghzawi",
         "role": "Alee",
-        "location": "Amman, Jordanie",
-        "photo": "assets/chefs/alighzawi.webp"
+        "location": "Amman, Jordan",
+        "photo": "assets/chefs/alighzawi.webp",
+        "preserveRole": true
       },
       {
         "name": "Ali El Bourji",
-        "role": "Atlantis Dubaï",
-        "location": "Dubaï, Émirats arabes unis",
-        "photo": "assets/chefs/alielbourji.webp"
+        "role": "Atlantis Dubai",
+        "location": "Dubai, UAE",
+        "photo": "assets/chefs/alielbourji.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -945,8 +1004,9 @@
       {
         "name": "Gilles Goujon",
         "role": "Auberge du Vieux Puits",
-        "location": "Fontjoncoise, France",
-        "photo": "assets/chefs/gillesgoujon.webp"
+        "location": "Fontjoncouse, France",
+        "photo": "assets/chefs/gillesgoujon.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -962,8 +1022,9 @@
       {
         "name": "Rodolfo Guzmán",
         "role": "BORAGÓ",
-        "location": "Santiago, Chili",
-        "photo": "assets/chefs/rodolfoguzman.webp"
+        "location": "Santiago, Chile",
+        "photo": "assets/chefs/rodolfoguzman.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -984,32 +1045,37 @@
       {
         "name": "Antonio Bachour",
         "role": "BACHOUR",
-        "location": "Miami, États-Unis",
-        "photo": "assets/chefs/antoniobachour.webp"
+        "location": "Miami, USA",
+        "photo": "assets/chefs/antoniobachour.webp",
+        "preserveRole": true
       },
       {
         "name": "Gianluca Fusto",
         "role": "FUSTO Milano",
-        "location": "Milan, Italie",
-        "photo": "assets/chefs/gianlucafusto.webp"
+        "location": "Milano, Italy",
+        "photo": "assets/chefs/gianlucafusto.webp",
+        "preserveRole": true
       },
       {
         "name": "Thibault Hauchard",
-        "role": "Claridge's",
-        "location": "Londres, Royaume-Uni",
-        "photo": "assets/chefs/thibaulthauchard.webp"
+        "role": "Claridge’s",
+        "location": "London, United Kingdom",
+        "photo": "assets/chefs/thibaulthauchard.webp",
+        "preserveRole": true
       },
       {
         "name": "Nicolas Rouzaud",
-        "role": "Nicolas Rouzaud au Connaught",
-        "location": "Londres, Royaume-Uni",
-        "photo": "assets/chefs/nicolasrouzaud.webp"
+        "role": "Nicolas Rouzaud at The Connaught",
+        "location": "London, United Kingdom",
+        "photo": "assets/chefs/nicolasrouzaud.webp",
+        "preserveRole": true
       },
       {
         "name": "Cesare Murzilli",
-        "role": "Portrait de Milan",
-        "location": "Milan, Italie",
-        "photo": "assets/chefs/cesaremurzilli.webp"
+        "role": "Portrait Milano",
+        "location": "Milano, Italy",
+        "photo": "assets/chefs/cesaremurzilli.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
@@ -1025,8 +1091,9 @@
       {
         "name": "Rubén Hernández Mosquero",
         "role": "EMi",
-        "location": "Madrid, Espagne",
-        "photo": "assets/chefs/rubenhernandezmosquero.webp"
+        "location": "Madrid, Spain",
+        "photo": "assets/chefs/rubenhernandezmosquero.webp",
+        "preserveRole": true
       }
     ],
     "sponsor": ""
