@@ -95,3 +95,9 @@ Kullanıcının isteğiyle `i18n.js` içindeki `multilingualEnabled` bayrağı `
 Şef adları, restoran/kurum adları ve mekân adları `proper-names.json` ile kayda alınmıştır. Program dosyalarında özel isimlerin kanonik yazımları korunur. Konuşmacı kartlarında ve kişi satırlarında adlar, restoranlar ve yerler `notranslate` işaretlidir. Mevcut diğer dil biyografileri korunmuştur; çok dilli finalden önce metin içindeki özel isimler de kanonik kaynakla kontrol edilmelidir.
 
 Basında Biz artık toplam 21 haber içerir: Yerel Mecralar 10, Yabancı Mecralar 11. Kategori bağlantıları aynı sayfada ilgili gruba gider. Ayrım haber diline değil yayın kuruluşunun konumuna dayanır. Haberler grup içinde en yeni tarihten eskiye sıralanır. Tarihi belirtilmeyen OGGUSTO etkinlik rehberinde yayın tarihi uydurulmaz. Orijinal yabancı başlıklar `press.json` içinde saklanır; güncel arayüzde Türkçe karşılıkları gösterilir. Kaynak görseller `assets/press/` altında yereldir.
+
+## Hospitality, Bar ve etkinlik rakamları
+
+Hakkında sayfasında Gastromasa Hospitality ve Gastromasa Bar için ayrı Türkçe tanıtım kartları bulunur. Kullanıcının ilettiği İngilizce kaynaklar ve Türkçe karşılıkları `about-platforms.json` içinde korunur; final dil yayını için kaynak alınmalıdır.
+
+Ana sayfada Bilet Al bağlantısının hemen altında 400+ konuşmacı, 20.000+ ziyaretçi / uluslararası katılımcı / sektör profesyoneli, 200+ marka ve iş ortağı ve 200+ konuşma / panel / demo bilgileri gösterilir. Rakamlar organizatör tarafından iletilmiştir. SVG çizgi ikonlar ve konferans fotoğrafı üzerindeki koyu katman mevcut lacivert/turuncu tasarımı sürdürür. Kartlar masaüstünde dört, telefonda iki sütundur.

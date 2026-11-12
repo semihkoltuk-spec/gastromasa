@@ -1,0 +1,90 @@
+{
+  "platforms": [
+    {
+      "id": "hospitality",
+      "name": "Gastromasa Hospitality",
+      "en": {
+        "heading": "A PLATFORM SHAPING THE FUTURE OF HOSPITALITY & TOURISM",
+        "paragraphs": [
+          "Gastromasa Hospitality brings together leaders, investors and professionals from the worlds of tourism, gastronomy and hospitality on one influential platform.",
+          "From hotel and restaurant management to F&B operations and next-generation guest experiences, the key developments shaping the industry are explored through inspiring talks, strategic perspectives and meaningful networking opportunities."
+        ]
+      },
+      "tr": {
+        "heading": "Ağırlama ve Turizmin Geleceğine Yön Veren Bir Platform",
+        "paragraphs": [
+          "Gastromasa Hospitality; turizm, gastronomi ve ağırlama dünyasının liderlerini, yatırımcılarını ve profesyonellerini güçlü bir platformda bir araya getiriyor.",
+          "Otel ve restoran yönetiminden yiyecek ve içecek operasyonlarına, yeni nesil misafir deneyimlerine uzanan geniş bir çerçevede sektörün geleceğine yön veren gelişmeler; ilham veren konuşmalar, stratejik bakış açıları ve yeni iş bağlantıları kurma fırsatlarıyla ele alınıyor."
+        ]
+      }
+    },
+    {
+      "id": "bar",
+      "name": "Gastromasa Bar",
+      "en": {
+        "heading": "WHERE CULTURE, CREATIVITY & INNOVATION MEET THE WORLD OF BEVERAGE",
+        "paragraphs": [
+          "From coffee and cocktail culture to tasting experiences and next-generation beverage trends, Gastromasa Bar brings together leading professionals, brands and innovations from across the beverage world.",
+          "Baristas, sommeliers, mixologists, bartenders and leading industry professionals share their expertise, creative approaches and future-focused innovations through live demonstrations, tastings and exclusive presentations."
+        ]
+      },
+      "tr": {
+        "heading": "Kültür, Yaratıcılık ve İnovasyonun İçecek Dünyasıyla Buluştuğu Yer",
+        "paragraphs": [
+          "Gastromasa Bar; kahve ve kokteyl kültüründen tadım deneyimlerine ve yeni nesil içecek trendlerine uzanan kapsamıyla içecek dünyasının önde gelen profesyonellerini, markalarını ve yeniliklerini bir araya getiriyor.",
+          "Baristalar, someliyerler, miksolojistler, barmenler ve sektörün öncü isimleri; uzmanlıklarını, yaratıcı yaklaşımlarını ve geleceğe odaklanan yeniliklerini canlı gösterimler, tadımlar ve özel sunumlarla paylaşıyor."
+        ]
+      }
+    }
+  ],
+  "statistics": [
+    {
+      "value": "400+",
+      "tr": {
+        "label": "Konuşmacı",
+        "detail": ""
+      },
+      "en": {
+        "label": "Speakers",
+        "detail": ""
+      },
+      "icon": "microphone"
+    },
+    {
+      "value": "20.000+",
+      "tr": {
+        "label": "Ziyaretçi",
+        "detail": "Uluslararası katılımcılar ve sektör profesyonelleri"
+      },
+      "en": {
+        "label": "Visitors",
+        "detail": "International participants and industry professionals"
+      },
+      "icon": "users"
+    },
+    {
+      "value": "200+",
+      "tr": {
+        "label": "Marka ve İş Ortağı",
+        "detail": ""
+      },
+      "en": {
+        "label": "Brands & Partners",
+        "detail": ""
+      },
+      "icon": "business"
+    },
+    {
+      "value": "200+",
+      "tr": {
+        "label": "Konuşma, Panel ve Demo",
+        "detail": ""
+      },
+      "en": {
+        "label": "Talks, Panels & Demos",
+        "detail": ""
+      },
+      "icon": "presentation"
+    }
+  ]
+}
