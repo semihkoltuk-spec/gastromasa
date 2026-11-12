@@ -1,7 +1,76 @@
 {
   "functions": {
-    "api/schedule-reminders.js": { "maxDuration": 60, "includeFiles": "{program*.json,locales/*.json}" }
+    "api/schedule-reminders.js": {
+      "maxDuration": 60,
+      "includeFiles": "{program*.json,locales/*.json}"
+    }
   },
-  "crons": [{ "path": "/api/schedule-reminders", "schedule": "0 0 * * *" }],
-  "headers": [{ "source": "/OneSignalSDKWorker.js", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }]
+  "crons": [
+    {
+      "path": "/api/schedule-reminders",
+      "schedule": "0 0 * * *"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; base-uri 'none'; object-src 'none'; frame-ancestors 'none'; form-action 'none'; script-src 'self' https://cdn.onesignal.com; script-src-attr 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://*.onesignal.com; media-src 'self'; connect-src 'self' https://*.onesignal.com https://onesignal.com; frame-src https://*.onesignal.com; worker-src 'self' blob:; manifest-src 'self'; upgrade-insecure-requests"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), serial=()"
+        },
+        {
+          "key": "Strict-Transport-Security",
+          "value": "max-age=63072000; includeSubDomains; preload"
+        },
+        {
+          "key": "Cross-Origin-Opener-Policy",
+          "value": "same-origin-allow-popups"
+        },
+        {
+          "key": "Cross-Origin-Resource-Policy",
+          "value": "same-site"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "https://gastromasa.vercel.app"
+        },
+        {
+          "key": "X-DNS-Prefetch-Control",
+          "value": "off"
+        }
+      ]
+    },
+    {
+      "source": "/OneSignalSDKWorker.js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        },
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'none'; script-src https://cdn.onesignal.com; connect-src https://*.onesignal.com https://onesignal.com; img-src 'self' data: https://*.onesignal.com"
+        }
+      ]
+    }
+  ],
+  "buildCommand": "node scripts/build-site.cjs",
+  "outputDirectory": "public"
 }

@@ -1,0 +1,8 @@
+const fs=require('node:fs'),path=require('node:path');
+const root=path.resolve(__dirname,'..'),output=path.join(root,'public');
+const files=['index.html','style.css','i18n.js','languages.js','security.js','app.js','map.js','chefs.js','music.js','gallery.js','countdown.js','navigation.js','push-notifications.js','press.js','partners.js','tickets.js','news.js','OneSignalSDKWorker.js','manifest.webmanifest','about-platforms.json','chef-bios.json','logos.json','news.json','partner-profiles.json','press.json','proper-names.json','stand-directory.json','translations.en.json','translations.es.json',...fs.readdirSync(root).filter(name=>/^program(?:\.[a-z]{2}(?:-CN)?)?\.json$/.test(name))];
+fs.rmSync(output,{recursive:true,force:true});fs.mkdirSync(output);
+function copy(source,target){const stat=fs.lstatSync(source);if(stat.isSymbolicLink())throw Error('Public symlinks are not allowed');if(stat.isDirectory()){fs.mkdirSync(target,{recursive:true});for(const name of fs.readdirSync(source)){if(name.startsWith('.'))continue;copy(path.join(source,name),path.join(target,name))}}else{if(!/\.(?:html|css|js|json|webmanifest|jpe?g|png|webp|svg|mp3|pdf)$/i.test(source))throw Error('Unexpected public file extension');fs.copyFileSync(source,target)}}
+for(const file of files)copy(path.join(root,file),path.join(output,file));
+for(const dir of ['assets','locales','speaker-bios'])copy(path.join(root,dir),path.join(output,dir));
+console.log('Built public site from explicit allowlist; server code, tests and internal notes excluded.');
