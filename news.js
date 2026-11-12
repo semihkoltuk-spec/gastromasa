@@ -2,6 +2,7 @@
  let articlesReady;
  const loadArticles=()=>articlesReady||(articlesReady=SiteData.json('news.json').catch(()=>{articlesReady=null;return null}));
  const format=new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Istanbul'});
+ document.querySelectorAll('#haberler time[datetime]').forEach(node=>{const date=new Date(node.dateTime+'T12:00:00+03:00');if(!Number.isNaN(date.getTime()))node.textContent=format.format(date)});
  document.addEventListener('click',async event=>{
   const trigger=event.target.closest('[data-news-id]');if(!trigger)return;
   const content=await loadArticles(),dialog=document.querySelector('#detail'),body=document.querySelector('#detailBody');

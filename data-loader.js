@@ -1,6 +1,6 @@
 /* One bounded request per JSON resource, shared by all page components. */
 (()=>{
- const requests=new Map(),revision='61';
+ const requests=new Map(),revision='62';
  function json(resource){
   const url=new URL(resource,location.href);if(url.origin!==location.origin||!url.pathname.endsWith('.json'))return Promise.reject(Error('Invalid data resource'));
   url.searchParams.set('v',revision);const key=url.href;if(requests.has(key))return requests.get(key);
