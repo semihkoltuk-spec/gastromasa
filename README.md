@@ -50,7 +50,7 @@ MP3: assets/audio/saragina-rumba.mp3. Sayfa açılışında çalmayı dener; tar
 
 ## Konuşmacılar ve diller
 
-Konuşmacılar bölümü programın önündedir. Languages menüsü 14 dili destekler: TR, EN, ES, IT, DE, FR, PT, ZH-CN, JA, AR, RU, DA, NL, EL. Arapça arayüz sağdan sola gösterilir.
+Bölümler sol menüden ayrı görünümler olarak açılır. Languages menüsü 14 dili destekler: TR, EN, ES, IT, DE, FR, PT, ZH-CN, JA, AR, RU, DA, NL, EL. Arapça arayüz sağdan sola gösterilir.
 
 47 konuşmacının organizatör tarafından iletilen biyografileri eklendi. İngilizce kaynaklar chef-bios.json dosyasındadır; çeviriler speaker-bios/ altında dil başına ayrı dosyalarda tutulur. Arayüz çevirileri locales/ altında yer alır. Biyografi çevirileri makine çevirisidir; sayfa açılışında haricî çeviri servisine ihtiyaç yoktur.
 
@@ -65,3 +65,9 @@ Fotoğraflı listede biyografisi henüz iletilmeyenler: Alexandre Couillon, Chri
 ## Hakkında ve geri sayım
 
 Hakkında bölümü organizatörün ilettiği metni 14 dilde sunar. Sohbet arayüzü ve uygulama kodu kaldırılmıştır. `countdown.js`, ilk program oturumuna göre 26 Kasım 2026 09.30 İstanbul saati (`2026-11-26T09:30:00+03:00`) için kapak üzerindeki kutuda gün/saat/dakika/saniye geri sayımı gösterir. Etkinlik başladığında değerler sıfırda kalır ve başlangıç mesajı görünür.
+
+## Sol menü, logo ve konuşmacı kartları
+
+Ana sayfa kapak galerisi ve sayacı gösterir. Sol üstteki menüden Hakkında, Program, Konuşmacılar, Partnerler, Kroki, Mekân ve Basında Biz görünümlerine geçilir. Sponsorlar alt menüsünde sekiz kategoriye doğrudan bağlantı vardır. URL parçası (#program gibi) doğrudan paylaşılabilir; tarayıcının geri/ileri düğmeleri de desteklenir. Üstteki bilet bağlantısı kaldırılmıştır; kapaktaki bilet bağlantısı korunur.
+
+Ortadaki logo için önerilen dosya: 1200 × 300 px, şeffaf PNG veya SVG. Konuşmacı kartları sabit 3:4 görsel alanı ve üst hizalı içerik kullanır. Çeviri işlemi aynı metni tekrar tekrar dönüştürmez; oturum özeti yerelleştirilmiş, korunmuş bir metin olarak oluşturulur.

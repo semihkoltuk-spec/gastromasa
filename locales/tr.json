@@ -114,7 +114,7 @@
   "Chef information could not be loaded. Please refresh the page.": "Şef bilgileri yüklenemedi. Lütfen sayfayı yenileyin.",
   "Programme could not be loaded. Please refresh the page.": "Program yüklenemedi. Lütfen sayfayı yenileyin.",
   "INTERNATIONAL GASTRONOMY CONFERENCE": "ULUSLARARASI GASTRONOMİ KONFERANSI",
-  "Gold Partner": "Altın Ortak",
+  "Gold Partner": "Gold Partner",
   "Istanbul": "İstanbul",
   "Moderator:": "Moderatör:",
   "Introduced by": "Tarafından tanıtıldı",
@@ -543,5 +543,10 @@
   "Hours": "Saat",
   "Minutes": "Dakika",
   "Seconds": "Saniye",
-  "Gastromasa 2026 has begun.": "Gastromasa 2026 başladı."
+  "Gastromasa 2026 has begun.": "Gastromasa 2026 başladı.",
+  "Open menu": "Menüyü aç",
+  "Close menu": "Menüyü kapat",
+  "Sponsors": "Sponsorlar",
+  "In the Press": "Basında Biz",
+  "Press coverage and publications will be available here soon.": "Basın haberleri ve yayınlar yakında burada yer alacak."
 }
