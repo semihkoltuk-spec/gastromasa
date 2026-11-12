@@ -111,3 +111,7 @@ Sponsor/katılımcı kartları artık dış web sitesine gitmeden stant bilgisi 
 ### Partner tanıtımları
 
 `partner-profiles.json`, 71 partner kartı için tek paragraflık Türkçe tanıtım, web sitesi ve kaynak bilgisini içerir. `partners.js` tanıtımı mevcut stant penceresinin üstünde gösterir. Kaynak listesi ve erişim istisnaları `PARTNER-TANITIM-KAYNAKLARI.md` dosyasındadır.
+
+### Haberler
+
+Sol menüdeki `Haberler`, `news.json` içindeki beş güncel Gastromasa haberini gösterir. Kartlar statik olarak `index.html` içinde bulunur, `news.js` uygulama içi okuma penceresini açar. Kaynak görseller `assets/news` altındadır. Yayın tarihleri kaynak siteye aittir; aktarım tarihi veri dosyasında ayrıca tutulur. Bu sürüm otomatik güncellenen akış değildir. Türkçe metinler, kaynak haberlerin kısa editoryal özetleridir; haberin tamamına kaynak bağlantısından ulaşılır.
