@@ -13,6 +13,7 @@
   const pressCategory=['turkiye-basini','uluslararasi-basin'].includes(hash);const id=pressCategory?'basinda-biz':groups.has(hash)?'partnerler':hash==='sefler'?'konusmacilar':hash;
   const selected=hash==='iletisim'?null:(sections.find(section=>section.id===id)||hero);
   sections.forEach(section=>{section.hidden=section!==selected&&!(selected===hero&&section.id==='haberler')});
+  const allNews=selected?.id==='haberler';document.querySelectorAll('#haberler .news-article').forEach((article,index)=>{article.hidden=!allNews&&index>=5});const more=document.querySelector('.news-more');if(more)more.hidden=allNews;
   document.querySelectorAll('.drawer-nav>a').forEach(link=>{if(link.getAttribute('href')===(id?'#'+id:'#'))link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')});
   requestAnimationFrame(()=>{if(groups.has(hash)||pressCategory)document.getElementById(hash).scrollIntoView({behavior:'instant',block:'start'});else window.scrollTo({top:0,behavior:'instant'})});
  }
