@@ -71,3 +71,9 @@ Hakkında bölümü organizatörün ilettiği metni 14 dilde sunar. Sohbet aray�
 Ana sayfa kapak galerisi ve sayacı gösterir. Sol üstteki menüden Hakkında, Program, Konuşmacılar, Partnerler, Kroki, Mekân ve Basında Biz görünümlerine geçilir. Sponsorlar alt menüsünde sekiz kategoriye doğrudan bağlantı vardır. URL parçası (#program gibi) doğrudan paylaşılabilir; tarayıcının geri/ileri düğmeleri de desteklenir. Üstteki bilet bağlantısı kaldırılmıştır; kapaktaki bilet bağlantısı korunur.
 
 Ortadaki logo için önerilen dosya: 1200 × 300 px, şeffaf PNG veya SVG. Konuşmacı kartları sabit 3:4 görsel alanı ve üst hizalı içerik kullanır. Çeviri işlemi aynı metni tekrar tekrar dönüştürmez; oturum özeti yerelleştirilmiş, korunmuş bir metin olarak oluşturulur.
+
+## Logolar, iletişim ve WhatsApp
+
+İletilen 1200 × 300 px PNG ana logo üst alanda, sol menüde ve alt alanda kullanılır. TUROYD logosu STK kategorisine eklenmiştir. Ana logolar ve sponsor/STK logoları bağlantı içermez. Ana sayfaya sol menüdeki Ana Sayfa bağlantısıyla dönülür.
+
+Basında Biz menüde Kroki'den önce gelir. İletişim, sol menünün son bölümündedir ve sitenin alt alanında adres ile her iki telefon numarasını gösterir. WhatsApp bağlantıları menüde ve alt alanda `https://wa.me/905348111937` adresini açar. Telefon bağlantıları +90 212 213 10 50 ve +90 534 811 19 37 numaralarına yönelir. Adres Arkon Residence 20/B, 19 Mayıs, 19 Mayıs Cd., 34360 Şişli/İstanbul olarak verilmiştir.
