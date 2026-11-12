@@ -107,3 +107,7 @@ Ana sayfada Bilet Al bağlantısının hemen altında 400+ konuşmacı, 20.000+ 
 Sponsor/katılımcı kartları artık dış web sitesine gitmeden stant bilgisi penceresi açar. Kaynak ve eşleştirmeler `stand-directory.json` içinde, inceleme raporu `STAND-ESLESTIRME.md` içindedir. PDF’nin tam kopyası `assets/gastromasa-stand-plani-2026.pdf` adresindedir; mevcut kroki resmi ve kırpımı korunur.
 
 71 kartın 54'ü stant konumuna eşleştirilmiştir (51 PDF kaydı, 3 dijital öneri). Diğer 17 kartta PDF’de konum bulunmadığı açıkça belirtilir. Ayrıca PDF’de adı olup numarası yazmayan USLA ve White Uniform dahil toplam beş yeni dijital kod önerisi, Kroki sayfasında ayrı listelenir. Bu kodlar resmi PDF numarası olarak sunulmaz. Marka/şirket adı farklı olan önerilen eşleşmeler ve çizim–liste farkları modalda görünürdür. Özellikle Fine Dine, TCA, LCB ve ID Fine kayıtları için kaynak farkları saklanmalıdır.
+
+### Partner tanıtımları
+
+`partner-profiles.json`, 71 partner kartı için tek paragraflık Türkçe tanıtım, web sitesi ve kaynak bilgisini içerir. `partners.js` tanıtımı mevcut stant penceresinin üstünde gösterir. Kaynak listesi ve erişim istisnaları `PARTNER-TANITIM-KAYNAKLARI.md` dosyasındadır.

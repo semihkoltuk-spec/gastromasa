@@ -1,0 +1,738 @@
+{
+  "language": "tr",
+  "updatedAt": "2026-11-12",
+  "editorialPolicy": "Kaynaklara dayanan özgün tek paragraflık Türkçe tanıtım özetleri. Şirket ve marka adları korunur.",
+  "profiles": [
+    {
+      "id": "altnmarka",
+      "sourceUrl": "https://www.altinmarkagrubu.com.tr/hakkimizda/",
+      "about": "Altınmarka, kakao ve çikolata alanında üretim yapan bir gıda markasıdır. İstanbul’daki tesislerinde kakao kitlesi, kakao yağı ve kakao tozu üreterek Türkiye ve dünya pazarındaki üreticilere hizmet verir. Kahve ve kakaoya dayanan uzmanlığını teknoloji ve ürün geliştirme çalışmalarıyla birleştirir.",
+      "sourceType": "official-website",
+      "website": "https://www.altinmarkagrubu.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Altınmarka"
+    },
+    {
+      "id": "cci",
+      "sourceUrl": "https://www.cci.com.tr/",
+      "about": "Coca-Cola İçecek (CCI), Anadolu Grubu bünyesinde faaliyet gösteren çok uluslu bir içecek şirketidir. Türkiye’nin yanı sıra farklı ülkelerde Coca-Cola sistemi içindeki içeceklerin üretim, satış ve dağıtımını gerçekleştirir. Geniş operasyon ağıyla tüketicileri farklı içecek kategorilerindeki markalarla buluşturur.",
+      "sourceType": "official-website",
+      "website": "https://www.cci.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "CCI"
+    },
+    {
+      "id": "metro",
+      "sourceUrl": "https://www.metro-tr.com/bilgi-ve-hizmetler/hakkimizda",
+      "about": "Metro Türkiye, profesyonel mutfaklara ve işletmelere gıda ile gıda dışı ürünler sunan bir toptancı kuruluşudur. Tedarik ve mağazacılık hizmetlerinin yanında Türk mutfak kültürünün korunması, yerel ürünlerin tanıtılması ve gastronominin gelişmesi için çalışır. Şeflerle kurduğu iş birlikleriyle mutfak mirasının gelecek kuşaklara aktarılmasını destekler.",
+      "sourceType": "official-website",
+      "website": "https://www.metro-tr.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Metro"
+    },
+    {
+      "id": "turk-hava-yollar",
+      "sourceUrl": "https://www.turkishairlines.com/tr-tr/hakkimizda/",
+      "about": "Türk Hava Yolları, Türkiye’yi uluslararası uçuş ağıyla dünyaya bağlayan hava yolu şirketidir. Farklı coğrafyalardaki yolculara ulaşım hizmeti sunarken seyahat deneyimini hizmet kalitesi ve Türk misafirperverliğiyle bir araya getirir. Küresel operasyonlarını bağlantı olanaklarını geliştirme ve sürdürülebilir büyüme hedefleriyle yürütür.",
+      "sourceType": "official-website",
+      "website": "https://www.turkishairlines.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Türk Hava Yolları"
+    },
+    {
+      "id": "kozoliv",
+      "sourceUrl": "https://www.kozoliv.com.tr/hakkimizda",
+      "about": "Kozoliv, Kuzey Ege’de üç kuşaktır sürdürülen zeytincilik geleneğinden doğan bir zeytin ve zeytinyağı markasıdır. Ailenin tarım deneyimini modern üretim yöntemleriyle buluşturarak bölgenin ürünlerini sofralara taşır. Zeytinin yetiştirilmesinden işlenmesine kadar uzanan süreçte lezzeti ve kaliteyi korumaya odaklanır.",
+      "sourceType": "official-website",
+      "website": "https://www.kozoliv.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Kozoliv"
+    },
+    {
+      "id": "ozmen-un",
+      "sourceUrl": "https://ozmenun.com/hakkimizda/",
+      "about": "Özmen Un, aileden gelen değirmencilik deneyimini teknoloji ve ürün geliştirme çalışmalarıyla sürdüren bir un üreticisidir. Anadolu’nun tarımsal birikiminden yararlanarak farklı kullanım alanlarına yönelik ürünler geliştirir. Üretim yatırımlarının yanında sürdürülebilirlik, sosyal sorumluluk ve tarım sektörüne katkı sağlayan çalışmalara önem verir.",
+      "sourceType": "official-website",
+      "website": "https://ozmenun.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Özmen Un"
+    },
+    {
+      "id": "oztiryakiler",
+      "sourceUrl": "https://oztiryakiler.com.tr/kurumsal/hakkimizda/",
+      "about": "Öztiryakiler, profesyonel mutfaklar için endüstriyel ekipman tasarlayan, üreten ve kurulum hizmeti sunan bir kuruluştur. Hazırlık, pişirme, saklama ve servis süreçlerine yönelik çözümleri otellerden restoranlara, toplu yemek işletmelerinden kurum mutfaklarına kadar farklı alanlarda kullanılır. Mühendislik ve Ar-Ge çalışmalarıyla ürünlerini geliştirir.",
+      "sourceType": "official-website",
+      "website": "https://oztiryakiler.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Öztiryakiler"
+    },
+    {
+      "id": "bonna",
+      "sourceUrl": "https://www.bonna.com.tr/page/aboutus",
+      "about": "Bonna, kökleri Kar Porselen’in seramik üretim deneyimine dayanan ve otel, restoran, kafe sektörüne yönelik çözümler sunan bir sofra markasıdır. Porselen koleksiyonlarında işlevsellik, dayanıklılık ve tasarımı bir araya getirir. Şeflerin farklı sunum anlayışlarını destekleyen ürünleriyle profesyonel sofralara eşlik eder.",
+      "sourceType": "official-website",
+      "website": "https://www.bonna.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Bonna"
+    },
+    {
+      "id": "selpak",
+      "sourceUrl": "https://www.selpak.com.tr/selpak-hikayesi",
+      "about": "Selpak, temizlik kâğıdı ürünleriyle kişisel hijyen ve günlük yaşam ihtiyaçlarına yönelik çözümler sunan bir markadır. Ürün geliştirme yaklaşımında temizlik, konfor ve kullanıcı alışkanlıklarını birlikte değerlendirir. Hijyen konusunda farkındalık yaratmayı ve ailelerin yaşamına katkı sunmayı marka anlayışının bir parçası olarak görür.",
+      "sourceType": "official-website",
+      "website": "https://www.selpak.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Selpak"
+    },
+    {
+      "id": "aktob",
+      "sourceUrl": "https://aktob.org.tr/hakkimizda/",
+      "about": "Akdeniz Turistik Otelciler ve İşletmeciler Birliği (AKTOB), konaklama sektöründeki işletmeleri temsil eden bir turizm örgütüdür. Üyelerinin gelişmesini desteklemek, sektörün sorunlarına çözüm üretmek ve turizm politikalarına katkı sunmak amacıyla çalışır. Kamu kurumları ve sektör paydaşlarıyla iş birliği içinde Türkiye turizminin gelişimini destekler.",
+      "sourceType": "official-website",
+      "website": "https://aktob.org.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "AKTOB"
+    },
+    {
+      "id": "chaine-des-rotisseurs",
+      "sourceUrl": "https://turkey.chainedesrotisseurs.com/",
+      "about": "Chaîne des Rôtisseurs, mutfak sanatlarına, kaliteli yemeğe ve sofra kültürüne ilgi duyanları bir araya getiren uluslararası bir gastronomi derneğidir. Profesyoneller ile gastronomi meraklıları arasında deneyim paylaşımını destekler. Türkiye yapılanması da etkinlikler ve buluşmalar aracılığıyla gastronomi kültürünün gelişmesine katkı sağlar.",
+      "sourceType": "official-website",
+      "website": "https://turkey.chainedesrotisseurs.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Chaîne des Rôtisseurs"
+    },
+    {
+      "id": "etuder",
+      "sourceUrl": "https://www.etuder.org.tr/kurumsal/hakkimizda/",
+      "about": "Ev Dışı Tüketim Tedarikçileri Derneği (ETÜDER), otel, restoran, kafe ve toplu tüketim işletmelerine ürün ve hizmet sağlayan sektör paydaşlarını bir araya getirir. Üretim, tedarik ve dağıtım süreçlerinde standartların gelişmesi için çalışır. Kalite, güvenilirlik ve sektörler arası iş birliği derneğin çalışmalarının temelini oluşturur.",
+      "sourceType": "official-website",
+      "website": "https://www.etuder.org.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "ETÜDER"
+    },
+    {
+      "id": "mutfak-dostlar",
+      "sourceUrl": "https://mutfakdostlari.org.tr/index.php?page=about",
+      "about": "Mutfak Dostları Derneği, Türkiye’nin mutfak zenginliğini araştırmak, geliştirmek ve tanıtmak için çalışan bir gastronomi kuruluşudur. Yeme, içme ve sunum kültürünü bilimsel çalışmalar, eğitimler ve kültürel etkinliklerle ele alır. Mutfak mirasının korunmasını ve yurt içinde olduğu kadar uluslararası alanda da görünür olmasını destekler.",
+      "sourceType": "official-website",
+      "website": "https://mutfakdostlari.org.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Mutfak Dostları"
+    },
+    {
+      "id": "tafed",
+      "sourceUrl": "https://tafed.org.tr/tafed-hakk%C4%B1m%C4%B1zda.html",
+      "about": "Türkiye Aşçılar Federasyonu (TAFED), aşçılık derneklerini aynı çatı altında buluşturarak mesleğin gelişmesine katkı sağlayan bir federasyondur. Mutfak profesyonellerinin eğitimini, mesleki dayanışmasını ve haklarını destekler. Gençlerin ve kadınların mesleğe katılımını teşvik ederken Türk mutfağının ulusal ve uluslararası tanıtımı için çalışır.",
+      "sourceType": "official-website",
+      "website": "https://tafed.org.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "TAFED"
+    },
+    {
+      "id": "ttyd",
+      "sourceUrl": "https://ttyd.org.tr/hakkimizda",
+      "about": "Türkiye Turizm Yatırımcıları Derneği (TTYD), turizm alanında yatırımcı ve işletmeci olarak faaliyet gösteren kuruluşları bir araya getirir. Turizm yatırımlarının gelişmesi, sektörün uzun vadeli büyümesi ve ekonomiye katkısının güçlenmesi için çalışır. Akademik kurumlar, araştırma kuruluşları ve diğer paydaşlarla stratejik projeler yürütür.",
+      "sourceType": "official-website",
+      "website": "https://ttyd.org.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "TTYD"
+    },
+    {
+      "id": "turob",
+      "sourceUrl": "https://www.turob.com/kurumsal/hakkimizda",
+      "about": "Türkiye Otelciler Birliği (TÜROB), otel ve turizm işletmelerini bir araya getirerek konaklama sektörünü temsil eden bir sivil toplum kuruluşudur. Üyeleri ile kamu ve özel sektör arasında iletişim ve koordinasyonu destekler. Turizm alanındaki sorunların değerlendirilmesi, çözüm geliştirilmesi ve ortak projelerin yürütülmesi için çalışır.",
+      "sourceType": "official-website",
+      "website": "https://www.turob.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "TÜROB"
+    },
+    {
+      "id": "turofed",
+      "sourceUrl": "https://turofed.org.tr/TR/2025/1/hakkimizda",
+      "about": "Türkiye Otelciler Federasyonu (TÜROFED), konaklama sektöründeki bölgesel dernekleri bir araya getiren bir çatı kuruluştur. Türkiye turizminin gelişmesine ve sektörün ortak ihtiyaçlarının gündeme taşınmasına katkı sunar. Üye dernekleri aracılığıyla konaklama işletmeleri arasında dayanışmayı, bilgi paylaşımını ve ortak temsili güçlendirmeyi amaçlar.",
+      "sourceType": "official-website",
+      "website": "https://turofed.org.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "TÜROFED"
+    },
+    {
+      "id": "turoyd",
+      "sourceUrl": "https://projectremodel.eu/wp-content/uploads/2024/06/D4.1.-ANALYSIS-OF-THE-HOSPITALITY-SECTOR-IN-TURKEY.pdf",
+      "about": "Turizm Otel Yöneticileri Derneği (TUROYD), turizm ve otel yöneticiliği alanındaki profesyonelleri bir araya getiren bir kuruluştur. Üyelerinin mesleki yaşamları boyunca eğitim ve kariyer olanaklarına erişimini desteklemeyi amaçlar. Konaklama sektörünün gelişimine katkı sağlayan bilgi paylaşımı ve mesleki dayanışma çalışmalarına odaklanır.",
+      "sourceType": "sector-research",
+      "website": "https://turoyd.org/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "sourceNote": "Resmî web sitesi HTTP 404 döndürüyor. REMODEL projesinin Türkiye konaklama sektörü raporundaki dernek tanıtımı temel alındı.",
+      "name": "TUROYD"
+    },
+    {
+      "id": "turyid",
+      "sourceUrl": "https://turyid.org/genel-bakis/",
+      "about": "TURYİD, turizm, restoran yatırımcıları ve gastronomi işletmelerini bir araya getiren bir sivil toplum kuruluşudur. Yeme-içme sektörünün ekonomik, sosyal ve kültürel gelişimi için çalışır. Sürdürülebilir işletmecilik, hizmet standartları ve uluslararası iş birlikleri aracılığıyla Türk gastronomisinin tanıtımına ve sektörün büyümesine katkı sağlar.",
+      "sourceType": "official-website",
+      "website": "https://turyid.org/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "TURYİD"
+    },
+    {
+      "id": "tusid",
+      "sourceUrl": "https://www.tusid.org.tr/tr/hakkimizda/page/1",
+      "about": "TUSİD, endüstriyel mutfak, çamaşırhane, servis ve ikram ekipmanları alanlarında çalışan firmaları temsil eden bir sektör derneğidir. Ağırlama ve konaklama işletmelerine ürün ve hizmet sunan kuruluşlar arasında dayanışmayı destekler. Mesleki ve teknolojik bilgi paylaşımıyla sektör standartlarının geliştirilmesine katkı sağlar.",
+      "sourceType": "official-website",
+      "website": "https://www.tusid.org.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "TUSİD"
+    },
+    {
+      "id": "aryldz",
+      "sourceUrl": "https://aryildizprofessional.com/contentPage.php?id=1",
+      "about": "Aryıldız, mutfak ve sofra ürünleri alanında tasarım ve üretim yapan köklü bir markadır. Çatal, kaşık, bıçak, pişirme gereçleri ve sofra aksesuarlarından oluşan ürünlerini kendi tasarım ve üretim altyapısıyla geliştirir. Değişen kullanım alışkanlıklarını takip ederek işlevselliği estetikle buluşturan koleksiyonlar sunar.",
+      "sourceType": "official-website",
+      "website": "https://aryildizprofessional.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Aryıldız"
+    },
+    {
+      "id": "barilla",
+      "sourceUrl": "https://www.barilla.com/global/help-with/our-company/about-us",
+      "about": "Barilla, İtalya’nın Parma kentinde başlayan yolculuğunu makarna, sos ve unlu mamuller alanında sürdüren bir gıda markasıdır. İtalyan mutfak kültüründen gelen birikimini farklı ürün ve tariflerle sofralara taşır. Günlük yemek hazırlığını destekleyen ürünleriyle iyi yemeği ulaşılabilir kılmaya odaklanır.",
+      "sourceType": "official-website",
+      "website": "https://www.barilla.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Barilla"
+    },
+    {
+      "id": "bekir-hoca",
+      "sourceUrl": "https://bekirhoca.com.tr/hakkimizda/",
+      "about": "Bekir Hoca, geleneksel lezzetleri peynir ve şarküteri ürünleriyle buluşturan bir gıda markasıdır. Ürün yelpazesinde yöresel peynirlerin yanı sıra sucuk, pastırma ve kavurma gibi Türk mutfağının farklı tatları yer alır. Üretim ve tedarik yaklaşımında geleneksel lezzetin korunmasına ve ürün kalitesine önem verir.",
+      "sourceType": "official-website",
+      "website": "https://bekirhoca.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "additionalSourceUrls": [
+        "https://bekirhoca.com.tr/urunlerimiz/"
+      ],
+      "name": "Bekir Hoca"
+    },
+    {
+      "id": "bivero",
+      "sourceUrl": "https://biverogourmet.com/hakkimizda/",
+      "about": "Bivero Gourmet, ithal gıda ürünlerinin tedarik ve dağıtımı alanında faaliyet gösterir. Farklı ülkelerdeki üreticilerle çalışarak profesyonel mutfakları seçkin ürünlerle buluşturur. Sektör deneyimini depolama, paketleme ve dağıtım altyapısıyla birleştirirken kalite yönetimi ve gıda güvenliğini hizmet anlayışının merkezinde tutar.",
+      "sourceType": "official-website",
+      "website": "https://biverogourmet.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Bivero"
+    },
+    {
+      "id": "california-walnuts",
+      "sourceUrl": "https://walnuts.org/about-us/",
+      "about": "California Walnuts, Kaliforniya cevizlerini ve bu ürünlerin mutfaktaki kullanımını tanıtan bir sektör yapılanmasıdır. Ceviz üreticileri ve işleyicilerini destekleyen çalışmalarıyla ürün kalitesi, araştırma ve tüketici bilgilendirmesine odaklanır. Gastronomi profesyonellerine cevizle hazırlanabilecek farklı tarifler ve kullanım alanları hakkında kaynaklar sunar.",
+      "sourceType": "official-website",
+      "website": "https://walnuts.org/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "additionalSourceUrls": [
+        "https://www.californiawalnuts.eu/"
+      ],
+      "name": "California Walnuts"
+    },
+    {
+      "id": "callebaut",
+      "sourceUrl": "https://www.callebaut.com/en/about-us/history",
+      "about": "Callebaut, 1911’de Belçika’da başlayan çikolata üretim geleneğini profesyonel mutfaklarla buluşturan bir markadır. Kakao çekirdeğinden çikolataya uzanan üretim deneyimiyle şeflerin, pastacıların ve çikolata ustalarının çalışmalarına eşlik eder. Chocolate Academy ağı üzerinden teknik bilgi paylaşımını ve mesleki gelişimi destekler.",
+      "sourceType": "official-website",
+      "website": "https://www.callebaut.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Callebaut"
+    },
+    {
+      "id": "cayista",
+      "sourceUrl": "https://cayista.com/tr/kurumsal",
+      "about": "Cayista, profesyonel kullanım için çay demleme sistemleri geliştiren bir markadır. Su sıcaklığı, demleme süresi ve dem sıcaklığını birlikte yöneterek servis boyunca tutarlı sonuçlar elde edilmesine odaklanır. İşlevselliği tasarımla birleştiren sistemleriyle işletmelerin çay hazırlama ve sunum süreçlerine çözüm sunar.",
+      "sourceType": "official-website",
+      "website": "https://cayista.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "additionalSourceUrls": [
+        "https://cayista.com/tr"
+      ],
+      "name": "Cayista"
+    },
+    {
+      "id": "deliziya",
+      "sourceUrl": "https://deliziya.com.tr/hakkimizda/",
+      "about": "Deliziya, sofra hardalı üretimi ve farklı dünya mutfaklarına ait gıda ürünlerinin tedarikiyle faaliyet gösteren bir kuruluştur. Otel, restoran, şarküteri ve perakende kanallarına hizmet verir. Kendi ürünlerinin yanı sıra farklı mutfak kültürlerinden lezzetleri profesyonel kullanıcılar ve satış noktalarıyla buluşturur.",
+      "sourceType": "official-website",
+      "website": "https://deliziya.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Deliziya"
+    },
+    {
+      "id": "dene-bi-cerez",
+      "sourceUrl": "https://www.dnbcerez.com/kurumsal/hakkimizda",
+      "about": "Dene bi Çerez, kuruyemiş, baharat, lokum, kuru meyve, kuru sebze ve bitki çayları sunan bir gıda markasıdır. Farklı tüketim alışkanlıklarına uygun ürünleriyle hem bireysel hem kurumsal ihtiyaçlara cevap verir. Üretim ve tedarik süreçlerinde tazelik, hijyen ve müşteri memnuniyetini ön planda tutar.",
+      "sourceType": "official-website",
+      "website": "https://www.dnbcerez.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Dene bi Çerez"
+    },
+    {
+      "id": "doganay",
+      "sourceUrl": "https://www.doganaygida.com.tr/hakkimizda",
+      "about": "Doğanay, tarımsal üretimden gelen deneyimini geleneksel fermente lezzetlerle birleştiren bir gıda markasıdır. Adana’daki tesislerinde şalgam, sirke, sos ve farklı içecekler üretir. Özellikle Adana’nın şalgam kültürünü Türkiye’nin farklı bölgelerindeki tüketicilere ve dünya sofralarına ulaştırmaya odaklanır.",
+      "sourceType": "official-website",
+      "website": "https://www.doganaygida.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Doğanay"
+    },
+    {
+      "id": "eataly",
+      "sourceUrl": "https://www.eataly.com.tr/tr/hakkimizda/",
+      "about": "Eataly, İtalyan yiyecek ve içecek kültürünü alışveriş, yeme-içme ve öğrenme deneyimleriyle bir araya getiren bir gastronomi konseptidir. İlk mağazasını Torino’da açan marka, farklı ürünleri ve üreticilerin hikâyelerini ziyaretçileriyle buluşturur. Kaliteli ürüne erişimi ve tüketilen gıdayı yakından tanımayı önemser.",
+      "sourceType": "official-website",
+      "website": "https://www.eataly.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Eataly"
+    },
+    {
+      "id": "edovital",
+      "sourceUrl": "https://www.kastamonusarimsagi.com/sayfa/bizkimiz",
+      "about": "Edovital, Kastamonu sarımsağı ve özellikle siyah sarımsak alanındaki ürünleriyle faaliyet gösteren bir gıda kuruluşudur. Yerel bir tarım ürününü araştırma ve ürün geliştirme çalışmalarıyla farklı kullanım alanlarına taşır. Üretim anlayışında insanı, çevreyi ve etik değerleri gözeterek profesyonel mutfaklara ve tüketicilere ulaşmayı amaçlar.",
+      "sourceType": "official-website",
+      "website": "https://www.kastamonusarimsagi.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Edovital"
+    },
+    {
+      "id": "eker",
+      "sourceUrl": "https://eker.com/sayfa/Tarihce",
+      "about": "Eker, süt ve süt ürünleri alanında faaliyet gösteren bir gıda markasıdır. Ayran, yoğurt, peynir, tereyağı ve kefir gibi ürünlerin yanında sütlü tatlılar ve meyveli yoğurtlar sunar. Üretim ve soğuk zincir dağıtım süreçleriyle ürünlerini farklı satış kanallarına ve tüketicilere ulaştırır.",
+      "sourceType": "official-website",
+      "website": "https://eker.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "additionalSourceUrls": [
+        "https://eker.com/"
+      ],
+      "name": "Eker"
+    },
+    {
+      "id": "ekol",
+      "sourceUrl": "https://www.ekolfood.com/hakkimizda/",
+      "about": "Ekol Food, dünya mutfaklarına ait gıda ürünlerini profesyonel mutfaklarla buluşturan bir tedarik ve dağıtım şirketidir. Farklı ülkelerin markalarını geniş ürün portföyü içinde sunar. Depolama, soğuk zincir ve lojistik altyapısıyla restoran, otel ve diğer işletmelerin özel ürün ihtiyaçlarına hizmet verir.",
+      "sourceType": "official-website",
+      "website": "https://www.ekolfood.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Ekol"
+    },
+    {
+      "id": "empero",
+      "sourceUrl": "https://empero.com.tr/tr/hakkimizda",
+      "about": "Empero, profesyonel mutfaklar için paslanmaz çelik ekipman ve proje çözümleri üreten bir kuruluştur. Hazırlık, pişirme, soğutma, bulaşıkhane ve teşhir ihtiyaçlarına yönelik ürünler geliştirir. Standart mutfak ekipmanlarının yanında özel projeler, mobil mutfaklar ve sahra mutfağı çözümleriyle farklı kullanım alanlarına hizmet verir.",
+      "sourceType": "official-website",
+      "website": "https://empero.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Empero"
+    },
+    {
+      "id": "erust",
+      "sourceUrl": "https://www.erustciftligi.com/About",
+      "about": "Erüst, Antalya’da aileden gelen tarımsal üretim deneyimini modern yetiştiricilik yöntemleriyle sürdüren bir markadır. Seracılık ve taze ürün üretimindeki birikimini yeni tarım teknolojileriyle geliştirir. Profesyonel mutfaklara ve tüketicilere ulaşan ürünlerinde çeşitlilik, üretim bilgisi ve sürdürülebilir tarım uygulamalarına önem verir.",
+      "sourceType": "official-website",
+      "website": "https://www.erustciftligi.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Erüst"
+    },
+    {
+      "id": "euro-fresh",
+      "sourceUrl": "https://www.eurofresh.com.tr/hakkimizda/",
+      "about": "Euro Fresh, mutfaklarda kullanıma yönelik farklı gıda ürünleri geliştiren ve üreten bir kuruluştur. Gıda güvenliğini temel alan üretim yaklaşımını soğuk zincir dağıtımıyla birleştirir. Ürünlerin tazeliğini koruyarak satış noktalarına ve tüketicilere ulaşmasını, çevreye ve topluma saygılı bir üretim anlayışıyla ele alır.",
+      "sourceType": "official-website",
+      "website": "https://www.eurofresh.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Euro Fresh"
+    },
+    {
+      "id": "fine-dine",
+      "sourceUrl": "https://www.finedinemenu.com/en/",
+      "about": "Fine dine, restoran, kafe, bar ve oteller için dijital çözümler geliştiren bir teknoloji platformudur. Dijital menü, sipariş, pazarlama ve işletme analizlerini yapay zekâ destekli araçlarla bir araya getirir. İşletmelerin misafir deneyimini geliştirmesine, operasyonlarını yönetmesine ve satış fırsatlarını değerlendirmesine yardımcı olur.",
+      "sourceType": "official-website",
+      "website": "https://www.finedinemenu.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Fine dine"
+    },
+    {
+      "id": "frenox",
+      "sourceUrl": "https://www.frenox.com/tr/kurumsal/sirket-profili",
+      "about": "Frenox, profesyonel mutfaklar için endüstriyel buzdolabı ve derin dondurucu üreten bir markadır. Ticari soğutma alanındaki deneyimini farklı hacim ve kullanım ihtiyaçlarına uygun ürünlerle sürdürür. Restoran, otel ve gıda işletmelerinin saklama süreçleri için üretim, ürün geliştirme ve servis desteği sunar.",
+      "sourceType": "official-website",
+      "website": "https://www.frenox.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Frenox"
+    },
+    {
+      "id": "galez",
+      "sourceUrl": "https://galez.com.tr/kurumsal/hakkimizda-1.html",
+      "about": "Galez, Gaziantep mutfağının lezzetlerini dondurulmuş gıda ürünleriyle farklı mutfaklara taşıyan bir markadır. Lahmacun, içli köfte ve katmer gibi geleneksel ürünleri profesyonel kullanım ve pratik hazırlık ihtiyaçları için sunar. Ürün portföyünde bölgesel tarifleri ve hazır yemek çözümlerini bir araya getirir.",
+      "sourceType": "official-website",
+      "website": "https://galez.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Galez"
+    },
+    {
+      "id": "id-fine",
+      "sourceUrl": "https://www.idfine.com.tr/kurumsal/uretim-ve-kalite",
+      "about": "ID Fine, otel, restoran ve kafe profesyonelleri için porselen ve stoneware sofra çözümleri geliştirir. Köklü üretim deneyimini dayanıklılık, hijyen ve tasarım bütünlüğüyle birleştiren koleksiyonlar sunar. Birbiriyle birlikte kullanılabilen ürünleriyle şeflerin tabaklama ve servis ihtiyaçlarına uzun vadeli çözümler sağlamayı amaçlar.",
+      "sourceType": "official-website",
+      "website": "https://www.idfine.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "ID Fine"
+    },
+    {
+      "id": "keramikos",
+      "sourceUrl": "https://www.otuzbeslik.com/yazilar/seramikle-dans-keramikos",
+      "about": "Keramikos, Kerem Alsan’ın Urla’da kurduğu bir seramik atölyesi ve tasarım markasıdır. El yapımı üretimi, sofra ürünlerini ve dekoratif objeleri aynı çatı altında buluşturur. Yetişkinlere ve çocuklara yönelik atölyelerle seramikle tanışmak isteyenlere üretim sürecini deneyimleme ve yaratıcılıklarını geliştirme olanağı sunar.",
+      "sourceType": "founder-interview",
+      "website": "https://keramikos.info/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "sourceNote": "Resmî web sitesine erişilemedi. Kerem Alsan ile yapılan söyleşi temel alındı.",
+      "name": "Keramikos"
+    },
+    {
+      "id": "kroom",
+      "sourceUrl": "https://www.krommutfak.com.tr/kurumsal",
+      "about": "Kroom, Krom Mutfak bünyesinde endüstriyel mutfak üretimi alanında faaliyet gösteren bir markadır. Profesyonel işletmelerin ihtiyaçlarına yönelik ekipman ve proje çözümleri geliştirir. Teknik uzmanlığını üretim teknolojileriyle birleştirerek mutfakların işleyişini destekleyen, kullanım ihtiyaçlarına göre şekillenen ürün ve hizmetler sunar.",
+      "sourceType": "official-website",
+      "website": "https://www.krommutfak.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Kroom"
+    },
+    {
+      "id": "lactalis",
+      "sourceUrl": "https://www.akgida.com.tr/hakkimizda/",
+      "about": "Lactalis Türkiye, süt ve süt ürünleri alanında faaliyet gösteren ve Lactalis grubunun üretim deneyiminden yararlanan bir kuruluştur. İçim, Président ve Masterini gibi markalarla farklı tüketici ihtiyaçlarına ulaşır. Süt, yoğurt, peynir ve diğer süt ürünlerini üretim, satış ve dağıtım ağıyla pazara sunar.",
+      "sourceType": "official-website",
+      "website": "https://www.akgida.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Lactalis"
+    },
+    {
+      "id": "la-lorraine",
+      "sourceUrl": "https://llbg.com/tr-TR/biz-kimiz",
+      "about": "La Lorraine, Belçika kökenli La Lorraine Bakery Group’un unlu mamuller alanındaki markalarından biridir. Ekmek ve farklı fırın ürünlerini perakende ve profesyonel gıda hizmetleriyle buluşturur. Fırıncılık deneyimini üretim teknolojileri ve ürün geliştirme çalışmalarıyla birleştirerek işletmelerin farklı servis ihtiyaçlarına yönelik seçenekler sunar.",
+      "sourceType": "official-website",
+      "website": "https://llbg.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "La Lorraine"
+    },
+    {
+      "id": "larenda",
+      "sourceUrl": "https://www.larendacheese.com/hakkimizda",
+      "about": "Larenda, Niğde’de peynir üretimine başlayan ve doğal kum taşı mağaralarında olgunlaştırılan peynirleriyle tanınan bir markadır. Mağaranın nemi, sıcaklığı ve doğal ortamı ürünlerin kendine özgü karakterinin oluşmasına katkı sağlar. Niğde Mavisi, Tabal ve Kütük gibi farklı peynir çeşitlerini tüketicilerle buluşturur.",
+      "sourceType": "official-website",
+      "website": "https://www.larendacheese.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Larenda"
+    },
+    {
+      "id": "lcb",
+      "sourceUrl": "https://lecordonbleu.ozyegin.edu.tr/istanbul/hakkimizda/",
+      "about": "Le Cordon Bleu, mutfak sanatları ve ağırlama alanlarında eğitim veren uluslararası bir kurumdur. Türkiye’de Özyeğin Üniversitesi iş birliğiyle profesyonel şeflerin rehberliğinde eğitimler sunar. Mutfak ve pastacılık tekniklerini uygulamalı çalışmalarla aktarırken kariyerini geliştirmek ya da gastronomiye adım atmak isteyen katılımcılara ulaşır.",
+      "sourceType": "official-website",
+      "website": "https://lecordonbleu.ozyegin.edu.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "LCB"
+    },
+    {
+      "id": "les-vergers-boiron",
+      "sourceUrl": "https://les-vergers-boiron.com/en_gb/beverage/about-us/",
+      "about": "Les Vergers Boiron, Fransa’da aile girişimi olarak başlayan meyve uzmanlığını gastronomi, pastacılık ve miksoloji alanlarına taşıyan bir markadır. Meyvenin aromasını ve lezzetini ortaya çıkaran profesyonel çözümler geliştirir. Ürün seçimi, işleme ve duyusal değerlendirme süreçleriyle şeflerin ve içecek profesyonellerinin yaratıcılığını destekler.",
+      "sourceType": "official-website",
+      "website": "https://les-vergers-boiron.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Les Vergers Boiron"
+    },
+    {
+      "id": "magnum",
+      "sourceUrl": "https://corporate.magnumicecream.com/en/brands/magnum.html/",
+      "about": "Magnum, dondurmayı çikolata kaplamayla birleştiren ürünleriyle tanınan bir markadır. Farklı tat, boyut ve sunum seçenekleriyle dondurma deneyimini çeşitlendirir. Belçikalı çikolata ustalarının katkısıyla geliştirilen kaplama geleneğini yeni ürünlerle sürdürerek tüketicilere farklı lezzet alternatifleri sunar.",
+      "sourceType": "official-website",
+      "website": "https://corporate.magnumicecream.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Magnum"
+    },
+    {
+      "id": "napoli-antica",
+      "sourceUrl": "https://tr.linkedin.com/company/napoli-antica",
+      "about": "Napoli Antica, artizan İtalyan peynirleri alanında faaliyet gösteren bir markadır. İtalyan peynir geleneğinden gelen ürünleriyle farklı mutfak ihtiyaçlarına hitap eder. Peynir üretimindeki uzmanlığını gastronomiyle buluşturarak restoranların, şeflerin ve bu lezzetlere ilgi duyan tüketicilerin kullanımına yönelik ürünler sunar.",
+      "sourceType": "official-company-profile",
+      "website": "https://napoliantica.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "sourceNote": "Resmî web sitesi HTTP 500 döndürüyor. Şirketin kendi LinkedIn Hakkımızda profili kullanıldı.",
+      "name": "Napoli Antica"
+    },
+    {
+      "id": "nesos",
+      "sourceUrl": "https://www.nesos.com.tr/hakk%C4%B1m%C4%B1zda",
+      "about": "Nesos, endüstriyel sos üretimi alanında çalışan bir gıda şirketidir. Kocaeli’deki tesislerinde ev dışı tüketim, hızlı yemek zincirleri, perakende ve ihracat için farklı soslar üretir. Ar-Ge çalışmalarıyla özel reçeteler ve özel etiketli ürünler geliştirerek müşterilerinin ihtiyacına göre çözümler sunar.",
+      "sourceType": "official-website",
+      "website": "https://www.nesos.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Nesos"
+    },
+    {
+      "id": "ozgun",
+      "sourceUrl": "https://magaza.ozgunzeytin.com.tr/sayfa/hakkimizda",
+      "about": "Özgün, kökleri Midilli’den Ayvalık’a uzanan bir ailenin zeytincilik birikimini sürdüren zeytin ve zeytinyağı markasıdır. Ayvalık’taki tesislerinde bölgenin ürünlerini işleyerek tüketicilerle buluşturur. Aile işletmesi yaklaşımını, üretim deneyimini ve zeytinin doğal karakterini korumaya verdiği önemi çalışmalarının merkezinde tutar.",
+      "sourceType": "official-website",
+      "website": "https://magaza.ozgunzeytin.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Özgün"
+    },
+    {
+      "id": "pepsico",
+      "sourceUrl": "https://www.pepsico.com.tr/hakk%C4%B1m%C4%B1zda/pepsico-hakk%C4%B1nda",
+      "about": "Pepsico, yiyecek ve içecek alanlarında faaliyet gösteren uluslararası bir şirkettir. Türkiye’de üretim ve dağıtım operasyonlarının yanında yerel tarım tedarikiyle de çalışır. Farklı tüketim anlarına yönelik içecek ve atıştırmalık markalarını, çiftçilerden tedarikçilere uzanan geniş bir iş ağıyla tüketicilere ulaştırır.",
+      "sourceType": "official-website",
+      "website": "https://www.pepsico.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Pepsico"
+    },
+    {
+      "id": "robot-coupe",
+      "sourceUrl": "https://www.robot-coupe.com/uk/en_GB/the-company",
+      "about": "Robot Coupe, Fransa’da profesyonel gıda hazırlama ekipmanları tasarlayan ve üreten bir markadır. Sebze hazırlama makineleri, parçalayıcılar, mikserler ve el blenderleriyle mutfakların farklı hazırlık süreçlerine hizmet verir. Ürün geliştirme birikimiyle şeflerin günlük iş akışını destekleyen pratik ekipman çözümleri sunar.",
+      "sourceType": "official-website",
+      "website": "https://www.robot-coupe.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Robot Coupe"
+    },
+    {
+      "id": "rubikap",
+      "sourceUrl": "https://rubikap.com/hakkimizda/",
+      "about": "Rubikap, Metplas bünyesinde profesyonel ağırlama sektörüne yönelik masaüstü servis ürünleri geliştiren bir markadır. Özellikle polikarbonat ürünlerinde dayanıklılık, ergonomi ve uzun süreli kullanıma odaklanır. Otel, restoran ve diğer ticari işletmelerin servis ihtiyaçları için estetik ve ekonomik seçenekler sunar.",
+      "sourceType": "official-website",
+      "website": "https://rubikap.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Rubikap"
+    },
+    {
+      "id": "salted",
+      "sourceUrl": "https://saltedgoods.com/",
+      "about": "Salted, Ege’de kuşaklar boyunca sürdürülen tuz üretim deneyimini gurme tuzlarla buluşturan bir markadır. Yapraksı tuz ve fleur de sel gibi çeşitleriyle şeflere yerel alternatifler sunar. Aileden gelen üretim bilgisini doğallığa verdiği önemle birleştirerek tuzun farklı lezzet ve dokularını sofralara taşır.",
+      "sourceType": "official-website",
+      "website": "https://saltedgoods.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Salted"
+    },
+    {
+      "id": "smr",
+      "sourceUrl": "https://www.smrprofessional.com/hakkimizda",
+      "about": "SMR, endüstriyel mutfak ekipmanlarının ithalatı, ihracatı ve tedariki alanında faaliyet gösteren bir kuruluştur. Sektörden gelen deneyimi yeni nesil bir hizmet yaklaşımıyla birleştirir. Farklı uluslararası markaları temsil ederek işletmelerin mutfak tasarımı ve ekipman ihtiyaçlarına müşteri odaklı çözümler sunar.",
+      "sourceType": "official-website",
+      "website": "https://www.smrprofessional.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "SMR"
+    },
+    {
+      "id": "spicy-seoul",
+      "sourceUrl": "https://www.spicyseoulfoods.com/_files/ugd/568b61_421da87467de4301b0c2e052100e6f8a.pdf",
+      "about": "Spicy Seoul, Güney Kore mutfağının ürünlerini Türkiye’ye taşıyan bir gıda ithalatçısı ve dağıtıcısıdır. İstanbul merkezli faaliyetleriyle Koreli üreticilerin farklı ürünlerini mutfaklarla buluşturur. Soslardan içeceklere uzanan ürün seçenekleriyle Kore lezzetlerinin tanınmasına ve profesyonel mutfaklarda kullanılmasına katkı sağlar.",
+      "sourceType": "official-website",
+      "website": "https://www.spicyseoulfoods.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Spicy Seoul"
+    },
+    {
+      "id": "sunar-un",
+      "sourceUrl": "https://sunaryatirim.com.tr/sirketlerimiz/sunar-un/",
+      "about": "Sunar Un, Osmaniye’de başlayan üretim yolculuğunu buğday işleme ve un üretimi alanında sürdüren bir kuruluştur. Çukurova’nın tarımsal kaynaklarını modern üretim bilgisiyle değerlendirir. Ekmeklik unlar, pastane ve özel fırın ürünleri için un çeşitleri ile perakende ambalajlı seçeneklerden oluşan bir portföy sunar.",
+      "sourceType": "official-website",
+      "website": "https://sunaryatirim.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Sunar Un"
+    },
+    {
+      "id": "tca",
+      "sourceUrl": "https://turkishculinaryacademy.com/biz-kimiz/",
+      "about": "TCA – Turkish Culinary Academy, aşçılık, pastacılık ve ekmekçilik alanlarında profesyonel eğitimler sunan bir gastronomi okuludur. Uygulamalı eğitimleri sektör stajları ve kariyer desteğiyle birleştirir. Mesleğe adım atmak veya mutfak becerilerini geliştirmek isteyen katılımcılara farklı program ve atölyelerle ulaşır.",
+      "sourceType": "official-website",
+      "website": "https://turkishculinaryacademy.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "additionalSourceUrls": [
+        "https://turkishculinaryacademy.com/sikca-sorulan-sorular/"
+      ],
+      "name": "TCA"
+    },
+    {
+      "id": "tellioglu",
+      "sourceUrl": "https://www.tellioglu.com.tr/hakkimizda.html",
+      "about": "Tellioğlu, Balıkesir’de un üretimiyle başlayan birikimini gıda ve tarım alanında sürdüren bir şirketler grubudur. Farklı buğdaylardan geliştirilen un çeşitleriyle profesyonel ve bireysel kullanıcıların ihtiyaçlarına cevap verir. Üretim teknolojisi, laboratuvar analizleri ve Ar-Ge çalışmalarıyla ürün kalitesinin sürekliliğine odaklanır.",
+      "sourceType": "official-website",
+      "website": "https://www.tellioglu.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Tellioğlu"
+    },
+    {
+      "id": "thermomix",
+      "sourceUrl": "https://thermomix.vorwerk.com.tr/pages/about-us",
+      "about": "Thermomix, Vorwerk’in farklı hazırlama ve pişirme işlevlerini bir araya getiren mutfak markasıdır. Mühendislik, tasarım ve kişisel danışmanlığı aynı deneyimde buluşturarak günlük yemek hazırlığını kolaylaştırmayı amaçlar. Ürünlerini kullanıcı topluluğunun ihtiyaçları doğrultusunda geliştirirken pratiklik ve kullanım deneyimine önem verir.",
+      "sourceType": "official-website",
+      "website": "https://thermomix.vorwerk.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Thermomix"
+    },
+    {
+      "id": "turco",
+      "sourceUrl": "https://turcotruffle.com/pages/hakkimizda",
+      "about": "Turco, şef Murat Çakıroğlu’nun araştırma ve ürün geliştirme çalışmalarından doğan bir trüf ürünleri markasıdır. Siyah ve beyaz trüflerden elde edilen yağlar, soslar, dilimler ve farklı gurme ürünler sunar. Trüfün aromasını profesyonel mutfaklara ve tüketicilere ulaştırarak farklı kullanım seçenekleri geliştirmeyi amaçlar.",
+      "sourceType": "official-website",
+      "website": "https://turcotruffle.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Turco"
+    },
+    {
+      "id": "turkova",
+      "sourceUrl": "https://www.turkova.com.tr/kurumsal",
+      "about": "Türkova, süt ve peynir ürünleriyle ev dışı tüketim ve perakende kanallarına hizmet veren bir markadır. Batı Karadeniz’den toplanan sütlerle farklı mutfak uygulamalarına yönelik peynir çeşitleri üretir. Tost, pide, börek, hamburger ve pizza gibi kullanım alanlarına uygun ürünlerle işletmelerin ihtiyaçlarına odaklanır.",
+      "sourceType": "official-website",
+      "website": "https://www.turkova.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "additionalSourceUrls": [
+        "https://www.turkova.com.tr/"
+      ],
+      "name": "Türkova"
+    },
+    {
+      "id": "ufs",
+      "sourceUrl": "https://www.unileverfoodsolutions.com.tr/",
+      "about": "UFS – Unilever Food Solutions, profesyonel mutfaklar için ürün, tarif ve uygulama desteği sunar. Şeflerin günlük ihtiyaçlarını dikkate alan gıda çözümlerini mutfak trendleri ve teknik bilgilerle birleştirir. Knorr Professional ve Hellmann’s gibi markalarla işletmelerin yemek hazırlama ve menü geliştirme süreçlerine eşlik eder.",
+      "sourceType": "official-website",
+      "website": "https://www.unileverfoodsolutions.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "UFS"
+    },
+    {
+      "id": "unilever-pro",
+      "sourceUrl": "https://www.unileverprofessional.com/tr/tr/about/",
+      "about": "Unilever Pro, işletmelere yönelik profesyonel temizlik çözümleri sunan Unilever Professional yapılanmasıdır. Otel, restoran ve diğer işletmelerin hijyen ihtiyaçlarına uygun ürünler geliştirir. Temizlik süreçlerini daha pratik hâle getirmeyi ve personelin günlük işlerini etkili çözümlerle desteklemeyi amaçlar.",
+      "sourceType": "official-website",
+      "website": "https://www.unileverprofessional.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Unilever Pro"
+    },
+    {
+      "id": "unox",
+      "sourceUrl": "https://www.unox.com/tr_tr/unox-d%C3%BCnyasi/who-we-are/tarih%C3%A7emiz/",
+      "about": "Unox, profesyonel mutfak ve fırıncılık işletmeleri için pişirme teknolojileri geliştiren bir markadır. Dondurulmuş ekmek ve kruvasan pişirmeye yönelik çözümlerle başlayan yolculuğunu farklı fırın sistemleriyle sürdürür. Bilim, mühendislik ve ürün geliştirme çalışmalarını birleştirerek işletmelerin pişirme süreçlerini destekler.",
+      "sourceType": "official-website",
+      "website": "https://www.unox.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Unox"
+    },
+    {
+      "id": "usa-pulses",
+      "sourceUrl": "https://usapulses.org/about/about-usa-pulses/",
+      "about": "USA Pulses, Amerika Birleşik Devletleri’nde yetiştirilen bakliyatların üretimini ve tüketimini destekleyen kâr amacı gütmeyen bir kuruluştur. Mercimek, nohut, kuru bezelye ve fasulye gibi ürünlerin tanıtımı için çalışır. Araştırma, eğitim ve sektör iş birlikleriyle bakliyatların beslenme ve tarımdaki rolünü güçlendirmeyi hedefler.",
+      "sourceType": "official-website",
+      "website": "https://usapulses.org/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "USA Pulses"
+    },
+    {
+      "id": "yayla",
+      "sourceUrl": "https://yaylastore.com/pages/hakkimizda",
+      "about": "Yayla, bakliyat ve temel gıda ürünlerini tüketicilerle buluşturan bir markadır. Pirinç, bulgur, mercimek, nohut ve fasulye gibi ürünlerin yanında farklı kullanım alışkanlıklarına uygun seçenekler sunar. Ürün geliştirme ve üretim yaklaşımıyla bakliyatları günlük beslenmenin pratik ve çeşitli bir parçası hâline getirmeye odaklanır.",
+      "sourceType": "official-website",
+      "website": "https://yaylastore.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Yayla"
+    },
+    {
+      "id": "zambo",
+      "sourceUrl": "https://www.zambo.com.tr/sayfa/hakkimizda",
+      "about": "Zambo, İstanbul Eminönü’nde sakız ve çikolatayla başlayan üretim geleneğini sürdüren bir gıda markasıdır. Beyoğlu çikolatalarının yanında waffle ve krep sosları, fındık kremaları ve farklı ezmeler üretir. Perakende ürünlerini profesyonel mutfaklara yönelik çikolata ve pastacılık çözümleriyle bir arada sunar.",
+      "sourceType": "official-website",
+      "website": "https://www.zambo.com.tr/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Zambo"
+    },
+    {
+      "id": "zest",
+      "sourceUrl": "https://www.zest-porcelain.com/",
+      "about": "Zest, porselen üretiminde geleneksel ustalığı çağdaş tasarım ve teknolojiyle buluşturan bir sofra markasıdır. Koleksiyonlarında malzemeyi işleme deneyimini farklı form ve yüzeylerle ifade eder. Porseleni hem bir üretim alanı hem de zanaat mirası olarak ele alarak sofralar için farklı sunum seçenekleri geliştirir.",
+      "sourceType": "official-website",
+      "website": "https://www.zest-porcelain.com/",
+      "checkedAt": "2026-11-12",
+      "textType": "Turkish editorial summary",
+      "name": "Zest"
+    }
+  ]
+}

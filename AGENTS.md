@@ -10,3 +10,5 @@
 - Sponsor cards now open stand details (superseding the earlier non-clickable logo design). Stand data is in `stand-directory.json`. Never present assigned digital codes or suggested brand-family matches as official PDF evidence. Preserve conflict notes and do not invent locations for firms absent from the PDF. See `STAND-ESLESTIRME.md`.
 
 - Stand popups use a simple presentation: logo, name, stand, hall, floor-plan name and map link. Per user revision, omit PDF source badges/links, suggested-match labels and explanatory notes from popups. Keep provenance/conflict details in the data and audit document; keep assigned-code clarification in the floor-plan legend.
+
+- All 71 sponsor/partner cards show one Turkish introductory paragraph from `partner-profiles.json` above any existing stand details. Keep website/source metadata and access exceptions in that data and `PARTNER-TANITIM-KAYNAKLARI.md`; do not restore PDF badges or source notes in the popup. Profiles use original Turkish summaries, not long copied passages. Preserve brand names. Zest is Zest Porcelain; Keramikos is the Urla brand by Kerem Alsan.
