@@ -6,3 +6,5 @@
 - Before the final multilingual release, audit existing biography translations for transliterated names and translated restaurant aliases. Preserve original entities with placeholders when translating full paragraphs; avoid blind word replacement in running prose.
 - News cards live under Basında Biz and are grouped by publication origin into Yerel Mecralar and Yabancı Mecralar, independently of article language. Euronews (including its Turkish edition) and Kıbrıs Postası are in Yabancı Mecralar. Preserve archived articles' actual publication dates. Use source-verified images, titles and dates; never invent publication dates. Keep original foreign headlines in `press.json` even when showing a Turkish rendering.
 - Keep OneSignal and cron secrets in Vercel environment variables. Never commit or request secret values in chat.
+
+- Sponsor cards now open stand details (superseding the earlier non-clickable logo design). Stand data is in `stand-directory.json`. Never present assigned digital codes or suggested brand-family matches as official PDF evidence. Preserve conflict notes and do not invent locations for firms absent from the PDF. See `STAND-ESLESTIRME.md`.

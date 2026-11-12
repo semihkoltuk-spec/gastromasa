@@ -101,3 +101,9 @@ Basında Biz artık toplam 21 haber içerir: Yerel Mecralar 10, Yabancı Mecrala
 Hakkında sayfasında Gastromasa Hospitality ve Gastromasa Bar için ayrı Türkçe tanıtım kartları bulunur. Kullanıcının ilettiği İngilizce kaynaklar ve Türkçe karşılıkları `about-platforms.json` içinde korunur; final dil yayını için kaynak alınmalıdır.
 
 Ana sayfada Bilet Al bağlantısının hemen altında 400+ konuşmacı, 20.000+ ziyaretçi / uluslararası katılımcı / sektör profesyoneli, 200+ marka ve iş ortağı ve 200+ konuşma / panel / demo bilgileri gösterilir. Rakamlar organizatör tarafından iletilmiştir. SVG çizgi ikonlar ve konferans fotoğrafı üzerindeki koyu katman mevcut lacivert/turuncu tasarımı sürdürür. Kartlar masaüstünde dört, telefonda iki sütundur.
+
+## Sponsor stant bilgileri
+
+Sponsor/katılımcı kartları artık dış web sitesine gitmeden stant bilgisi penceresi açar. Kaynak ve eşleştirmeler `stand-directory.json` içinde, inceleme raporu `STAND-ESLESTIRME.md` içindedir. PDF’nin tam kopyası `assets/gastromasa-stand-plani-2026.pdf` adresindedir; mevcut kroki resmi ve kırpımı korunur.
+
+71 kartın 54'ü stant konumuna eşleştirilmiştir (51 PDF kaydı, 3 dijital öneri). Diğer 17 kartta PDF’de konum bulunmadığı açıkça belirtilir. Ayrıca PDF’de adı olup numarası yazmayan USLA ve White Uniform dahil toplam beş yeni dijital kod önerisi, Kroki sayfasında ayrı listelenir. Bu kodlar resmi PDF numarası olarak sunulmaz. Marka/şirket adı farklı olan önerilen eşleşmeler ve çizim–liste farkları modalda görünürdür. Özellikle Fine Dine, TCA, LCB ve ID Fine kayıtları için kaynak farkları saklanmalıdır.
