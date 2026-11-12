@@ -83,7 +83,7 @@ button.partner-card{width:100%;cursor:pointer;font:inherit;transition:border-col
 
 /* Home video: preserve every edge of the landscape cover, including all logos. */
 .home-video-feature{max-width:none;margin:28px 0 32px}
-.home-video-feature .press-video-cover{height:auto;aspect-ratio:720/406;background:#0c0b25}
+.home-video-feature .press-video-cover{height:auto;aspect-ratio:1888/1048;background:#0c0b25}
 .home-video-feature .press-video-cover>img{display:block;width:100%;height:100%;object-fit:contain;object-position:center;opacity:1;transform:none}
 .home-video-feature .press-video-cover:hover>img{transform:none}
 .home-video-feature .press-video-cover:after{display:none}

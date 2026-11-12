@@ -48,3 +48,7 @@ Instagram: kullanıcı onayıyla `https://www.instagram.com/reel/DebJFE4oIi3/emb
 
 ### Ana sayfa video yerleşimi revizyonu
 Video Basında Biz’den çıkarılıp ana sayfada galerinin hemen altına taşındı. Yeni yatay kapak aynı Reels videosunun 2. saniyesindeki manzaradan alındı; yalnızca videonun üst/alt siyah bantları çıkarıldı, kapak tarayıcıda kırpılmıyor. Kullanıcının mesaj içinde gösterdiği “11th Edition” yazılı ekran görüntüsünün indirilebilir dosyası bulunmadığından birebir görsel değişimi için JPG/PNG dosyası bekleniyor. Müzik durdurma/devam ettirme davranışı korunur.
+
+
+### Kullanıcının tam kapak dosyası
+ZIP içinde iletilen 1888×1048 PNG, `assets/press/instagram-user-cover.png` olarak değiştirilmeden eklendi. Geçici video karesinin yerini aldı. Kapak oranı dosyayla eşleştirildi; logo, 11th Edition ve Sözen Group yazıları kırpılmadan gösterilir. Birebir kapak değişimi tamamlandı.
