@@ -18,3 +18,6 @@
 - `#haberler` is the dedicated Gastromasa news section, separate from external press coverage in Basında Biz. `news.json` stores the five latest entries verified against https://www.gastromasa.com/news/ and the official WordPress posts API, in source order with original publication dates, original titles and locally stored source images. `news.js` opens Turkish editorial summaries in the app and links to each original story. Preserve proper names. Do not silently replace publication dates with import dates or claim automatic feed syncing; this is a curated snapshot.
 
 - Show the existing `#haberler` section on the home page immediately after the hero’s Rakamlarla Gastromasa statistics. Keep its menu/deep link and shared article dialogs; do not duplicate the news cards. Other routes continue to show only their selected content.
+
+
+- The footer includes compact Instagram, Facebook, X and YouTube icon links to the user-provided Gastromasa accounts. Newsletter signup is postponed at the user’s request; do not publish a newsletter form or email endpoint until requested again.
