@@ -83,3 +83,7 @@ Basında Biz menüde Kroki'den önce gelir. İletişim, sol menünün son bölü
 OneSignal web push altyapısı hazırlanmıştır. Etkinleştirmek için [BILDIRIM-KURULUM.md](BILDIRIM-KURULUM.md) adımlarını uygulayın. Bağlantı yapılmadan bildirim açma arayüzü gösterilmez. OneSignal, 85 oturumun her biri için İstanbul saatine göre başlangıçtan 5 dakika önce gönderilecek mesajları planlar. Gizli yapılandırma Vercel ortam değişkenlerinde tutulur. Hesap bağlanmadan gerçek cihaz teslimi doğrulanamaz.
 
 Alt alanda yalnızca iletişim bilgileri ve WhatsApp bağlantısı kalır; alt logo, konferans adı ve partner bağlantısı kaldırılmıştır. Telefonlar tek satırda gösterilir.
+
+## Basında Biz haber kartları
+
+İlk haber kartı Euronews'in 3 Kasım 2026 tarihli “Dünyaca ünlü şefler 11. Gastromasa için İstanbul'da buluşacak” haberidir. Başlık ve ana görsel haberin Open Graph verilerinden, tarih `datePublished` bilgisinden doğrulanmıştır. Kart haberi yeni sekmede açar. Görsel yerel `assets/press/` altında tutulur; tarih `press.js` ile seçili dile göre biçimlendirilir. Kartlar masaüstünde üç, tablette iki, telefonda tek sütun olarak görüntülenir.

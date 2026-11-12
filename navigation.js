@@ -16,5 +16,5 @@
   document.querySelectorAll('.drawer-nav>a').forEach(link=>{if(link.getAttribute('href')===(id?'#'+id:'#'))link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')});
   requestAnimationFrame(()=>{if(groups.has(hash))document.getElementById(hash).scrollIntoView({behavior:'instant',block:'start'});else window.scrollTo({top:0,behavior:'instant'})});
  }
- addEventListener('hashchange',showPage);showPage();
+ addEventListener('hashchange',showPage);if(document.readyState!=='complete')addEventListener('load',showPage,{once:true});showPage();
 })();
