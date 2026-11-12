@@ -1,9 +1,9 @@
 (()=>{
- const readJson=url=>fetch(url).then(response=>{if(!response.ok)throw Error();return response.json()}).catch(()=>null);
- const contentReady=Promise.all([readJson('stand-directory.json'),readJson('partner-profiles.json?v=50')]);
+ let contentReady;
+ const loadContent=()=>contentReady||(contentReady=Promise.all([SiteData.json('stand-directory.json'),SiteData.json('partner-profiles.json')]).catch(()=>{contentReady=null;return [null,null]}));
  document.addEventListener('click',async event=>{
   const trigger=event.target.closest('[data-partner-id]');if(!trigger)return;
-  const [directory,profiles]=await contentReady,dialog=document.querySelector('#detail'),body=document.querySelector('#detailBody');
+  const [directory,profiles]=await loadContent(),dialog=document.querySelector('#detail'),body=document.querySelector('#detailBody');
   if(!directory){body.innerHTML='<h2>Firma bilgileri yüklenemedi</h2><p>Lütfen sayfayı yenileyip tekrar deneyin.</p>';if(!dialog.open)dialog.showModal();return}
   const record=directory.records.find(item=>item.id===trigger.dataset.partnerId);if(!record)return;
   const profile=profiles?.profiles.find(item=>item.id===record.id);

@@ -1,9 +1,10 @@
 (()=>{
- const articlesReady=fetch('news.json?v=52').then(response=>{if(!response.ok)throw Error();return response.json()}).catch(()=>null);
+ let articlesReady;
+ const loadArticles=()=>articlesReady||(articlesReady=SiteData.json('news.json').catch(()=>{articlesReady=null;return null}));
  const format=new Intl.DateTimeFormat('tr-TR',{day:'numeric',month:'long',year:'numeric',timeZone:'Europe/Istanbul'});
  document.addEventListener('click',async event=>{
   const trigger=event.target.closest('[data-news-id]');if(!trigger)return;
-  const content=await articlesReady,dialog=document.querySelector('#detail'),body=document.querySelector('#detailBody');
+  const content=await loadArticles(),dialog=document.querySelector('#detail'),body=document.querySelector('#detailBody');
   const article=content?.articles.find(item=>item.id===trigger.dataset.newsId);
   if(!article){body.innerHTML='<h2>Haber yüklenemedi</h2><p>Lütfen sayfayı yenileyip tekrar deneyin.</p>';if(!dialog.open)dialog.showModal();return}
   const date=format.format(new Date(article.date+'T12:00:00+03:00'));

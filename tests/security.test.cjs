@@ -31,3 +31,5 @@ test('scheduler prevents concurrent provider runs and rapid authorized retries',
  const handler=require(handlerPath),response=()=>({code:0,setHeader(){},status(code){this.code=code;return this},json(){}});
  try{const first=response(),second=response(),third=response();const running=handler({method:'GET',headers:{}},first);await handler({method:'GET',headers:{}},second);assert.equal(second.code,429);release();await running;assert.equal(first.code,200);await handler({method:'GET',headers:{}},third);assert.equal(third.code,429);assert.equal(calls,1)}finally{release();require.cache[modulePath].exports=original;delete require.cache[handlerPath]}
 });
+
+test('minified production program is semantically identical in all languages',()=>{const path=require('node:path'),root=path.join(__dirname,'..');for(const name of fs.readdirSync(root).filter(n=>/^program(?:\.[a-z]{2}(?:-CN)?)?\.json$/.test(n))){const input=fs.readFileSync(path.join(root,name),'utf8'),output=fs.readFileSync(path.join(root,'public',name),'utf8');assert.deepEqual(JSON.parse(input),JSON.parse(output));assert(output.length<input.length)}});

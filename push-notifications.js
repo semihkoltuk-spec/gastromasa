@@ -18,7 +18,7 @@
   const script=document.createElement('script');script.src='https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js';script.async=true;script.onerror=()=>{clearTimeout(timeout);reject(Error('Push SDK unavailable'))};document.head.appendChild(script);
  })}
  async function start(){
-  const response=await fetch('/api/push-config',{cache:'no-store'});if(!response.ok)return;
+  const response=await fetch('/api/push-config');if(!response.ok)return;
   const config=await response.json();if(!config.configured)return;
   await window.localeReady;
   panels.forEach(panel=>{panel.hidden=false;panel.querySelector('[data-push-heading]').textContent=text('Session reminders');panel.querySelector('[data-push-description]').textContent=text('Receive a notification 5 minutes before every session.')});
