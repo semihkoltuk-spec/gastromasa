@@ -290,5 +290,33 @@
     "originalTitle": "Gastronomideki dünya markamızın mimarı Gökmen Sözen",
     "title": "Gastronomideki dünya markamızın mimarı Gökmen Sözen",
     "imagePosition": "center 20%"
+  },
+  {
+    "id": "haberege",
+    "publisher": "Haber Ege",
+    "group": "turkiye",
+    "url": "https://www.haberege.com.tr/gastromasa-2026-dunya-gastronomi-dunyasini-istanbulda-bulusturacak-1793713974-4361160",
+    "date": "2026-11-03",
+    "image": "assets/press/haberege.webp",
+    "imageWidth": 1599,
+    "imageHeight": 899,
+    "imageUrl": "https://cdn.webaksiyon.com/uploads/13591/2026/11/03/1793706905-1762769915-sahne-1793712573-208_large-165253.webp",
+    "originalTitle": "Gastromasa 2026, Dünya Gastronomi Dünyasını İstanbul’da Buluşturacak",
+    "title": "Gastromasa 2026, Dünya Gastronomi Dünyasını İstanbul’da Buluşturacak",
+    "imagePosition": "center"
+  },
+  {
+    "id": "tourismtoday",
+    "publisher": "Tourism Today",
+    "group": "turkiye",
+    "url": "https://www.tourismtoday.net/turizm-haberleri/gastronomi/gastromasa-2025-gastronomi-dunyasinin-efsane-isimlerini-bulusturacak",
+    "date": "2025-10-15",
+    "image": "assets/press/tourismtoday.webp",
+    "imageWidth": 1600,
+    "imageHeight": 920,
+    "imageUrl": "https://cdn.tourismtoday.net/media/6443b220-gastromasa-2025-gastronomi-dunyasinin.webp",
+    "originalTitle": "Gastromasa 2025, gastronomi dünyasının efsane isimlerini buluşturacak",
+    "title": "Gastromasa 2025, gastronomi dünyasının efsane isimlerini buluşturacak",
+    "imagePosition": "center"
   }
 ]
