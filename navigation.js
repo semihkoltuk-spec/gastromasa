@@ -12,7 +12,7 @@
   const hash=decodeURIComponent(location.hash.slice(1));
   const pressCategory=['turkiye-basini','uluslararasi-basin'].includes(hash);const id=pressCategory?'basinda-biz':groups.has(hash)?'partnerler':hash==='sefler'?'konusmacilar':hash;
   const selected=hash==='iletisim'?null:(sections.find(section=>section.id===id)||hero);
-  sections.forEach(section=>{section.hidden=section!==selected});
+  sections.forEach(section=>{section.hidden=section!==selected&&!(selected===hero&&section.id==='haberler')});
   document.querySelectorAll('.drawer-nav>a').forEach(link=>{if(link.getAttribute('href')===(id?'#'+id:'#'))link.setAttribute('aria-current','page');else link.removeAttribute('aria-current')});
   requestAnimationFrame(()=>{if(groups.has(hash)||pressCategory)document.getElementById(hash).scrollIntoView({behavior:'instant',block:'start'});else window.scrollTo({top:0,behavior:'instant'})});
  }
