@@ -45,3 +45,6 @@ Bakanlığın yazdırma bağlantısı HTTP 503 döndürüyor; arama dizininde bu
 - Son Dakika: 13 Kasım 2024; haberin görsel alanı boş, önceki kullanıcı tercihine göre mevcut Gastromasa sahne fotoğrafı kullanıldı.
 
 Instagram: kullanıcı onayıyla `https://www.instagram.com/reel/DebJFE4oIi3/embed/` oynatıcısı tıklamada açılır. Kapak bu gönderinin gömülü sayfasındaki gönderi görselinden alındı. Kalıcı/sona eren CDN video URL'si kullanılmaz. Sayfa açılışında Instagram isteği/iframe yüklenmez. Video kutusu açılınca müzik durur; kapat/ESC/arka plan tıklaması veya bölüm değişimiyle iframe kaldırılır ve önceden çalan müzik devam eder. Instagram bitiş olayı sağlamadığından videonun sonunda otomatik müzik dönüşü iddia edilmez. Instagram'ın erişim/oturum gereksinimleri için özgün gönderiye alternatif bağlantı bulunur.
+
+### Ana sayfa video yerleşimi revizyonu
+Video Basında Biz’den çıkarılıp ana sayfada galerinin hemen altına taşındı. Yeni yatay kapak aynı Reels videosunun 2. saniyesindeki manzaradan alındı; yalnızca videonun üst/alt siyah bantları çıkarıldı, kapak tarayıcıda kırpılmıyor. Kullanıcının mesaj içinde gösterdiği “11th Edition” yazılı ekran görüntüsünün indirilebilir dosyası bulunmadığından birebir görsel değişimi için JPG/PNG dosyası bekleniyor. Müzik durdurma/devam ettirme davranışı korunur.
