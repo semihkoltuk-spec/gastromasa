@@ -553,5 +553,15 @@
   "Contact": "Kontakt",
   "Address": "Adresse",
   "Phone": "Telefon",
-  "Contact us on WhatsApp": "Kontakt os på WhatsApp"
+  "Contact us on WhatsApp": "Kontakt os på WhatsApp",
+  "Session reminders": "Sessionspåmindelser",
+  "Receive a notification 5 minutes before every session.": "Få en notifikation 5 minutter før hver session.",
+  "Enable notifications": "Aktivér notifikationer",
+  "Disable notifications": "Deaktivér notifikationer",
+  "Notifications are enabled.": "Notifikationer er aktiveret.",
+  "Notifications are disabled.": "Notifikationer er deaktiveret.",
+  "Enable notification permission in your browser settings.": "Tillad notifikationer i browserens indstillinger.",
+  "On iPhone, add this site to your Home Screen using Safari, then open it from there to enable notifications.": "På iPhone skal du føje siden til hjemmeskærmen via Safari og åbne den derfra for at aktivere notifikationer.",
+  "This browser does not support push notifications.": "Denne browser understøtter ikke pushnotifikationer.",
+  "Notifications could not be enabled. Please try again.": "Notifikationer kunne ikke aktiveres. Prøv igen."
 }

@@ -553,5 +553,15 @@
   "Contact": "Contatti",
   "Address": "Indirizzo",
   "Phone": "Telefono",
-  "Contact us on WhatsApp": "Contattaci su WhatsApp"
+  "Contact us on WhatsApp": "Contattaci su WhatsApp",
+  "Session reminders": "Promemoria delle sessioni",
+  "Receive a notification 5 minutes before every session.": "Ricevi una notifica 5 minuti prima di ogni sessione.",
+  "Enable notifications": "Attiva notifiche",
+  "Disable notifications": "Disattiva notifiche",
+  "Notifications are enabled.": "Le notifiche sono attive.",
+  "Notifications are disabled.": "Le notifiche sono disattivate.",
+  "Enable notification permission in your browser settings.": "Abilita le notifiche nelle impostazioni del browser.",
+  "On iPhone, add this site to your Home Screen using Safari, then open it from there to enable notifications.": "Su iPhone, aggiungi il sito alla schermata Home da Safari e aprilo da lì per attivare le notifiche.",
+  "This browser does not support push notifications.": "Questo browser non supporta le notifiche push.",
+  "Notifications could not be enabled. Please try again.": "Impossibile attivare le notifiche. Riprova."
 }

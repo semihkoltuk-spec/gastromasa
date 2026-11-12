@@ -77,3 +77,9 @@ Ortadaki logo için önerilen dosya: 1200 × 300 px, şeffaf PNG veya SVG. Konu�
 İletilen 1200 × 300 px PNG ana logo üst alanda, sol menüde ve alt alanda kullanılır. TUROYD logosu STK kategorisine eklenmiştir. Ana logolar ve sponsor/STK logoları bağlantı içermez. Ana sayfaya sol menüdeki Ana Sayfa bağlantısıyla dönülür.
 
 Basında Biz menüde Kroki'den önce gelir. İletişim, sol menünün son bölümündedir ve sitenin alt alanında adres ile her iki telefon numarasını gösterir. WhatsApp bağlantıları menüde ve alt alanda `https://wa.me/905348111937` adresini açar. Telefon bağlantıları +90 212 213 10 50 ve +90 534 811 19 37 numaralarına yönelir. Adres Arkon Residence 20/B, 19 Mayıs, 19 Mayıs Cd., 34360 Şişli/İstanbul olarak verilmiştir.
+
+## Oturum bildirimleri
+
+OneSignal web push altyapısı hazırlanmıştır. Etkinleştirmek için [BILDIRIM-KURULUM.md](BILDIRIM-KURULUM.md) adımlarını uygulayın. Bağlantı yapılmadan bildirim açma arayüzü gösterilmez. OneSignal, 85 oturumun her biri için İstanbul saatine göre başlangıçtan 5 dakika önce gönderilecek mesajları planlar. Gizli yapılandırma Vercel ortam değişkenlerinde tutulur. Hesap bağlanmadan gerçek cihaz teslimi doğrulanamaz.
+
+Alt alanda yalnızca iletişim bilgileri ve WhatsApp bağlantısı kalır; alt logo, konferans adı ve partner bağlantısı kaldırılmıştır. Telefonlar tek satırda gösterilir.

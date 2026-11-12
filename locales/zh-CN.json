@@ -553,5 +553,15 @@
   "Contact": "联系我们",
   "Address": "地址",
   "Phone": "电话",
-  "Contact us on WhatsApp": "通过 WhatsApp 联系我们"
+  "Contact us on WhatsApp": "通过 WhatsApp 联系我们",
+  "Session reminders": "会议提醒",
+  "Receive a notification 5 minutes before every session.": "每场会议开始前5分钟接收通知。",
+  "Enable notifications": "开启通知",
+  "Disable notifications": "关闭通知",
+  "Notifications are enabled.": "通知已开启。",
+  "Notifications are disabled.": "通知已关闭。",
+  "Enable notification permission in your browser settings.": "请在浏览器设置中允许通知。",
+  "On iPhone, add this site to your Home Screen using Safari, then open it from there to enable notifications.": "在iPhone上，请通过Safari将此网站添加到主屏幕，再从主屏幕打开以启用通知。",
+  "This browser does not support push notifications.": "此浏览器不支持推送通知。",
+  "Notifications could not be enabled. Please try again.": "无法开启通知，请重试。"
 }

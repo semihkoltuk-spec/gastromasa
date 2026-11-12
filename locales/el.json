@@ -553,5 +553,15 @@
   "Contact": "Επικοινωνία",
   "Address": "Διεύθυνση",
   "Phone": "Τηλέφωνο",
-  "Contact us on WhatsApp": "Επικοινωνήστε μαζί μας μέσω WhatsApp"
+  "Contact us on WhatsApp": "Επικοινωνήστε μαζί μας μέσω WhatsApp",
+  "Session reminders": "Υπενθυμίσεις συνεδριών",
+  "Receive a notification 5 minutes before every session.": "Λάβετε ειδοποίηση 5 λεπτά πριν από κάθε συνεδρία.",
+  "Enable notifications": "Ενεργοποίηση ειδοποιήσεων",
+  "Disable notifications": "Απενεργοποίηση ειδοποιήσεων",
+  "Notifications are enabled.": "Οι ειδοποιήσεις είναι ενεργές.",
+  "Notifications are disabled.": "Οι ειδοποιήσεις είναι ανενεργές.",
+  "Enable notification permission in your browser settings.": "Επιτρέψτε τις ειδοποιήσεις στις ρυθμίσεις του προγράμματος περιήγησης.",
+  "On iPhone, add this site to your Home Screen using Safari, then open it from there to enable notifications.": "Σε iPhone, προσθέστε τον ιστότοπο στην αρχική οθόνη μέσω Safari και ανοίξτε τον από εκεί για να ενεργοποιήσετε τις ειδοποιήσεις.",
+  "This browser does not support push notifications.": "Αυτό το πρόγραμμα περιήγησης δεν υποστηρίζει ειδοποιήσεις push.",
+  "Notifications could not be enabled. Please try again.": "Δεν ήταν δυνατή η ενεργοποίηση των ειδοποιήσεων. Δοκιμάστε ξανά."
 }

@@ -553,5 +553,15 @@
   "Contact": "お問い合わせ",
   "Address": "住所",
   "Phone": "電話",
-  "Contact us on WhatsApp": "WhatsAppでお問い合わせ"
+  "Contact us on WhatsApp": "WhatsAppでお問い合わせ",
+  "Session reminders": "セッションの通知",
+  "Receive a notification 5 minutes before every session.": "各セッションの開始5分前に通知を受け取れます。",
+  "Enable notifications": "通知を有効にする",
+  "Disable notifications": "通知を無効にする",
+  "Notifications are enabled.": "通知は有効です。",
+  "Notifications are disabled.": "通知は無効です。",
+  "Enable notification permission in your browser settings.": "ブラウザの設定で通知を許可してください。",
+  "On iPhone, add this site to your Home Screen using Safari, then open it from there to enable notifications.": "iPhoneではSafariからこのサイトをホーム画面に追加し、ホーム画面から開いて通知を有効にしてください。",
+  "This browser does not support push notifications.": "このブラウザはプッシュ通知に対応していません。",
+  "Notifications could not be enabled. Please try again.": "通知を有効にできませんでした。もう一度お試しください。"
 }

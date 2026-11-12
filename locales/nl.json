@@ -553,5 +553,15 @@
   "Contact": "Contact",
   "Address": "Adres",
   "Phone": "Telefoon",
-  "Contact us on WhatsApp": "Neem contact op via WhatsApp"
+  "Contact us on WhatsApp": "Neem contact op via WhatsApp",
+  "Session reminders": "Sessiemeldingen",
+  "Receive a notification 5 minutes before every session.": "Ontvang 5 minuten voor elke sessie een melding.",
+  "Enable notifications": "Meldingen inschakelen",
+  "Disable notifications": "Meldingen uitschakelen",
+  "Notifications are enabled.": "Meldingen zijn ingeschakeld.",
+  "Notifications are disabled.": "Meldingen zijn uitgeschakeld.",
+  "Enable notification permission in your browser settings.": "Sta meldingen toe in de browserinstellingen.",
+  "On iPhone, add this site to your Home Screen using Safari, then open it from there to enable notifications.": "Voeg deze site op iPhone via Safari toe aan het beginscherm en open de site daarvandaan om meldingen in te schakelen.",
+  "This browser does not support push notifications.": "Deze browser ondersteunt geen pushmeldingen.",
+  "Notifications could not be enabled. Please try again.": "Meldingen konden niet worden ingeschakeld. Probeer het opnieuw."
 }

@@ -553,5 +553,15 @@
   "Contact": "Контакты",
   "Address": "Адрес",
   "Phone": "Телефон",
-  "Contact us on WhatsApp": "Свяжитесь с нами в WhatsApp"
+  "Contact us on WhatsApp": "Свяжитесь с нами в WhatsApp",
+  "Session reminders": "Напоминания о сессиях",
+  "Receive a notification 5 minutes before every session.": "Получайте уведомление за 5 минут до начала каждой сессии.",
+  "Enable notifications": "Включить уведомления",
+  "Disable notifications": "Отключить уведомления",
+  "Notifications are enabled.": "Уведомления включены.",
+  "Notifications are disabled.": "Уведомления отключены.",
+  "Enable notification permission in your browser settings.": "Разрешите уведомления в настройках браузера.",
+  "On iPhone, add this site to your Home Screen using Safari, then open it from there to enable notifications.": "На iPhone добавьте сайт на экран «Домой» через Safari, затем откройте его оттуда, чтобы включить уведомления.",
+  "This browser does not support push notifications.": "Этот браузер не поддерживает push-уведомления.",
+  "Notifications could not be enabled. Please try again.": "Не удалось включить уведомления. Попробуйте ещё раз."
 }

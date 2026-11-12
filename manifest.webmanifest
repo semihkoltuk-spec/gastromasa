@@ -1,0 +1,11 @@
+{
+  "id": "/",
+  "name": "Gastromasa 2026",
+  "short_name": "Gastromasa",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#141448",
+  "theme_color": "#141448",
+  "lang": "tr"
+}

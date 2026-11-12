@@ -553,5 +553,15 @@
   "Contact": "İletişim",
   "Address": "Adres",
   "Phone": "Telefon",
-  "Contact us on WhatsApp": "WhatsApp üzerinden iletişime geçin"
+  "Contact us on WhatsApp": "WhatsApp üzerinden iletişime geçin",
+  "Session reminders": "Oturum bildirimleri",
+  "Receive a notification 5 minutes before every session.": "Her oturumdan 5 dakika önce bildirim alın.",
+  "Enable notifications": "Bildirimleri aç",
+  "Disable notifications": "Bildirimleri kapat",
+  "Notifications are enabled.": "Bildirimler açık.",
+  "Notifications are disabled.": "Bildirimler kapalı.",
+  "Enable notification permission in your browser settings.": "Tarayıcı ayarlarından bildirim iznini açın.",
+  "On iPhone, add this site to your Home Screen using Safari, then open it from there to enable notifications.": "iPhone’da Safari üzerinden bu siteyi Ana Ekran’a ekleyin. Ardından siteyi oradan açıp bildirimleri etkinleştirin.",
+  "This browser does not support push notifications.": "Bu tarayıcı push bildirimlerini desteklemiyor.",
+  "Notifications could not be enabled. Please try again.": "Bildirimler açılamadı. Lütfen tekrar deneyin."
 }

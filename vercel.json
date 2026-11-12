@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/schedule-reminders.js": { "maxDuration": 60, "includeFiles": "{program*.json,locales/*.json}" }
+  },
+  "crons": [{ "path": "/api/schedule-reminders", "schedule": "0 0 * * *" }],
+  "headers": [{ "source": "/OneSignalSDKWorker.js", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }]
+}
