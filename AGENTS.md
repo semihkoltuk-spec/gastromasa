@@ -9,7 +9,7 @@
 
 - Sponsor cards now open stand details (superseding the earlier non-clickable logo design). Stand data is in `stand-directory.json`. Never present assigned digital codes or suggested brand-family matches as official PDF evidence. Preserve conflict notes and do not invent locations for firms absent from the PDF. See `STAND-ESLESTIRME.md`.
 
-- Stand popups use a simple presentation: logo, name, stand, hall, floor-plan name and map link. Per user revision, omit PDF source badges/links, suggested-match labels and explanatory notes from popups. Keep provenance/conflict details in the data and audit document; keep assigned-code clarification in the floor-plan legend.
+- Stand popups use a simple presentation: logo, name, stand, hall and map link. Per user revision, omit PDF source badges/links, suggested-match labels and explanatory notes from popups. Keep provenance/conflict details in the data and audit document; keep assigned-code clarification in the floor-plan legend.
 
 - All 71 sponsor/partner cards show one Turkish introductory paragraph from `partner-profiles.json` above any existing stand details. Keep website/source metadata and access exceptions in that data and `PARTNER-TANITIM-KAYNAKLARI.md`; do not restore PDF badges or source notes in the popup. Profiles use original Turkish summaries, not long copied passages. Preserve brand names. Zest is Zest Porcelain; Keramikos is the Urla brand by Kerem Alsan.
 
@@ -34,3 +34,5 @@
 - Optimized hero/gallery WebP assets are under `assets/optimized/`. The user's video cover is served as a pixel-identical lossless WebP there; keep the original PNG under `assets/press/` and full 1888×1048 composition. Performance figures and verification limits are documented in `PERFORMANS-INCELEMESI.md`; do not claim 2,000-user capacity based on small smoke tests.
 
 - Official news now includes 15 entries in exact source order. The ten added on 12 November 2026 have IDs 40740, 40737, 40732, 40729, 40723, 40720, 40715, 40711, 40709 and 40706. Posts 40711 and 40709 have no featured image or article image on the official site; use the approved Gastromasa stage fallback. See HABER-KAYNAKLARI.md. Preserve the original first five entries. Home shows only the newest five cards, followed by a “Devamı” link to #haberler; the Haberler route shows all 15 and hides that link. Route changes/back navigation must restore the correct card visibility without duplicating cards.
+
+- Partner dialog eyebrow shows the clicked card’s actual category from its partner-group heading (without the numeric prefix), never the generic “Partnerlerimiz”. Use singular “Katılımcı Firma” and “Sivil Toplum Kuruluşu” for individual firms/organisations. Remove “Krokide geçen ad” from every dialog; retain `pdfName` in stand data for provenance. Applies to all 71 partner cards and stand-only records.
