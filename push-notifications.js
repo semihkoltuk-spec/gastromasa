@@ -38,5 +38,6 @@
    try{if(sdk.User.PushSubscription.optedIn)await sdk.User.PushSubscription.optOut();else await sdk.User.PushSubscription.optIn();refresh()}catch{refresh();message('Notifications could not be enabled. Please try again.')}
   }));
  }
- start().catch(()=>{if(panels.some(panel=>!panel.hidden)){message('Notifications could not be enabled. Please try again.');buttons.forEach(button=>button.hidden=true)}});
+ let started=false;function startOnRoute(){if(started||location.hash!=='#program')return;started=true;start().catch(()=>{if(panels.some(panel=>!panel.hidden)){message('Notifications could not be enabled. Please try again.');buttons.forEach(button=>button.hidden=true)}});}
+ window.addEventListener('hashchange',startOnRoute);startOnRoute();
 })();

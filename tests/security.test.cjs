@@ -33,3 +33,8 @@ test('scheduler prevents concurrent provider runs and rapid authorized retries',
 });
 
 test('minified production program is semantically identical in all languages',()=>{const path=require('node:path'),root=path.join(__dirname,'..');for(const name of fs.readdirSync(root).filter(n=>/^program(?:\.[a-z]{2}(?:-CN)?)?\.json$/.test(n))){const input=fs.readFileSync(path.join(root,name),'utf8'),output=fs.readFileSync(path.join(root,'public',name),'utf8');assert.deepEqual(JSON.parse(input),JSON.parse(output));assert(output.length<input.length)}});
+
+test('production bundle references exist, are fingerprinted and preserve script order',()=>{
+ const html=fs.readFileSync(path.join(root,'public/index.html'),'utf8');const scripts=[...html.matchAll(/<script src="([^"]+)"/g)];assert.equal(scripts.length,1);assert.match(scripts[0][1],/^\/static\/site\.[a-f0-9]{16}\.js$/);const bundle=fs.readFileSync(path.join(root,'public',scripts[0][1]),'utf8');new (require('node:vm').Script)(bundle);assert(bundle.indexOf('const requests=new Map()')<bundle.indexOf('const supportedLanguages='));assert(!html.includes('preload="auto"'));const css=fs.readFileSync(path.join(root,'public',html.match(/href="(\/static\/[^\"]+css)"/)[1]),'utf8');assert(!css.includes('fonts.googleapis.com'));for(const url of css.matchAll(/url\((\/assets\/fonts\/[^)]+)\)/g))assert(fs.existsSync(path.join(root,'public',url[1])));
+ const offline=fs.readFileSync(path.join(root,'public/gastromasa-program.html'),'utf8');assert.equal((offline.match(/<article>/g)||[]).length,113);assert(!offline.includes('<script'));assert(offline.includes('Maksut Aşkar'));
+});
