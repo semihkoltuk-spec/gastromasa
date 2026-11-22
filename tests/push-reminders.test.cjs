@@ -5,13 +5,13 @@ const now=Date.parse('2026-11-12T00:00:00Z');
 const {programs,locales}=loadPrograms();
 const plan=buildPlan(programs,locales,config,now);
 const response=data=>({ok:true,json:async()=>data});
-test('all 85 sessions are scheduled exactly five minutes before Istanbul start, in 14 languages',()=>{
- assert.equal(plan.length,85);assert.equal(plan[0].send_after,'2026-11-26T06:25:00.000Z');
+test('all 113 sessions are scheduled exactly five minutes before Istanbul start, in 14 languages',()=>{
+ assert.equal(plan.length,113);assert.equal(plan[0].send_after,'2026-11-26T06:25:00.000Z');
  for(const notification of plan){assert.equal(Date.parse(notification.data.start_at)-Date.parse(notification.send_after),300000);assert.equal(Object.keys(notification.contents).length,14);assert.equal(notification.ttl,300);assert(notification.contents.tr.includes('5 dakika'));assert(!JSON.stringify(notification).includes(config.apiKey));assert(!JSON.stringify(notification).includes(config.secret))}
- assert.equal(new Set(plan.map(n=>n.idempotency_key)).size,85);
+ assert.equal(new Set(plan.map(n=>n.idempotency_key)).size,113);
 });
 test('past reminders are never delivered late or immediately after reconfiguration',()=>{
- assert.equal(buildPlan(programs,locales,config,Date.parse('2026-11-26T06:26:00Z')).length,84);
+ assert.equal(buildPlan(programs,locales,config,Date.parse('2026-11-26T06:26:00Z')).length,112);
  assert.equal(buildPlan(programs,locales,config,Date.parse('2026-11-28T00:00:00Z')).length,0);
 });
 test('scheduler requires a bearer secret and a complete provider configuration',()=>{

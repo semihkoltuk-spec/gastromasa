@@ -5,9 +5,9 @@
     "day": 26,
     "time": "09:30-10:15",
     "type": "OPENING SPEECHES",
-    "title": "",
     "people": [],
-    "sponsor": ""
+    "sponsor": "",
+    "title": ""
   },
   {
     "id": "15",
@@ -15,7 +15,6 @@
     "day": 26,
     "time": "10:15-10:45",
     "type": "EXCLUSIVE CONVERSATION",
-    "title": "",
     "people": [
       {
         "name": "Pierre Hermé",
@@ -26,7 +25,7 @@
       }
     ],
     "sponsor": "",
-    "pendingModerator": true
+    "title": ""
   },
   {
     "id": "16",
@@ -34,11 +33,10 @@
     "day": 26,
     "time": "10:45-11:15",
     "type": "PANEL DISCUSSION",
-    "title": "Deneyim Ekonomisi ve Yeni Rekabet Ortamı",
     "people": [
       {
         "name": "Moderator: Levent Erden",
-        "role": "Gazete Oksijen'de Gazeteci, Next Akademi & Academic Kurucusu",
+        "role": "Journalist at Gazete Oksijen, Founder of Next Akademi & Academic",
         "location": "İstanbul, Türkiye"
       },
       {
@@ -54,7 +52,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Deneyim Ekonomisi ve Yeni Rekabet Ortamı"
   },
   {
     "id": "17",
@@ -62,7 +61,6 @@
     "day": 26,
     "time": "11:15-11:30",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Eduard Xatruch",
@@ -72,7 +70,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "CHEFseasons",
+    "title": "Disfrutar: Yaratıcılık ve Kültür"
   },
   {
     "id": "18",
@@ -80,7 +79,6 @@
     "day": 26,
     "time": "11:30-11:50",
     "type": "LIVE COOKING DEMO",
-    "title": "Evvai ve Oriundi Mutfağı",
     "people": [
       {
         "name": "Luiz Filipe Souza",
@@ -90,7 +88,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Evvai ve Oriundi Mutfağı"
   },
   {
     "id": "19",
@@ -98,7 +97,6 @@
     "day": 26,
     "time": "11:50-12:05",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Nicolai Nørregaard",
@@ -108,7 +106,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": ""
   },
   {
     "id": "20",
@@ -116,7 +115,6 @@
     "day": 26,
     "time": "12:05-12:20",
     "type": "SOLO TALK",
-    "title": "Birçok Dili Konuşan Mutfak | İnsan Etkileşimi Nasıl Lezzete Dönüşür?",
     "people": [
       {
         "name": "Mauro Uliassi",
@@ -126,7 +124,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Birçok Dili Konuşan Mutfak | İnsan Etkileşimi Nasıl Lezzete Dönüşür?"
   },
   {
     "id": "64",
@@ -134,7 +133,6 @@
     "day": 26,
     "time": "12:20-12:40",
     "type": "LIVE COOKING DEMO",
-    "title": "Celele'nin Mutfağı ve Karayip Maksimalizmi",
     "people": [
       {
         "name": "Jaime Rodríguez",
@@ -144,56 +142,56 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Celele'nin Mutfağı ve Karayip Maksimalizmi"
   },
   {
-    "id": "22",
+    "id": "36",
     "stage": "main",
     "day": 26,
-    "time": "12:40-13:00",
+    "time": "12:40-12:55",
     "type": "LIVE COOKING DEMO",
-    "title": "",
     "people": [
       {
         "name": "Introduced by Serda Büyükkoyuncu",
-        "role": "Seyahat Yazarı ve TV Sunucusu",
+        "role": "Travel Writer & TV Presenter",
         "location": "İstanbul, Türkiye"
       },
       {
-        "name": "Simon Rogan",
-        "role": "Umbel Hospitality | L’Enclume & Our Farm",
-        "location": "Cartmel, United Kingdom",
-        "photo": "assets/chefs/simonrogan.webp",
+        "name": "Pia León",
+        "role": "Kjolle",
+        "location": "Lima, Peru",
+        "photo": "assets/chefs/pialeon.webp",
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "CHEFseasons",
+    "title": "Doğa ve Coğrafya: Dönüşen Malzemeler"
   },
   {
-    "id": "23",
+    "id": "40",
     "stage": "main",
     "day": 26,
-    "time": "13:00-13:20",
-    "type": "LIVE COOKING DEMO",
-    "title": "",
+    "time": "12:55-13:10",
+    "type": "SOLO TALK",
     "people": [
       {
-        "name": "Pablo Rivero",
-        "role": "Don Julio",
-        "location": "Buenos Aires - Argentina",
-        "photo": "assets/chefs/pablorivero.webp",
+        "name": "René Frank",
+        "role": "CODA",
+        "location": "Berlin, Germany",
+        "photo": "assets/chefs/renefrank.webp",
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Ya tatlı, tatlı olmasaydı?"
   },
   {
     "id": "24",
     "stage": "main",
     "day": 26,
-    "time": "13:20-13:35",
+    "time": "13:10-13:25",
     "type": "SOLO TALK",
-    "title": "Yüksek Rakım Kültürü ve Etkileşimi",
     "people": [
       {
         "name": "Emmanuel Renaut",
@@ -203,15 +201,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Yüksek Rakım Kültürü ve Etkileşimi"
   },
   {
     "id": "25",
     "stage": "main",
     "day": 26,
-    "time": "13:35-13:50",
+    "time": "13:25-13:40",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Bruno Verjus",
@@ -221,15 +219,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": ""
   },
   {
     "id": "26",
     "stage": "main",
     "day": 26,
-    "time": "13:50-14:10",
+    "time": "13:40-14:00",
     "type": "LIVE COOKING DEMO",
-    "title": "Üç Kültürde Pastacılık Sanatı",
     "people": [
       {
         "name": "Antonio Bachour",
@@ -239,15 +237,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Üç Kültürde Pastacılık Sanatı"
   },
   {
     "id": "27",
     "stage": "main",
     "day": 26,
-    "time": "14:10-14:25",
+    "time": "14:00-14:15",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Christian Escribà",
@@ -257,15 +255,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Crema Catalana: Gelenekten Barcelona'da Rambla'daki Canlı Mutfak Gösterisine"
   },
   {
     "id": "28",
     "stage": "main",
     "day": 26,
-    "time": "14:25-14:40",
+    "time": "14:15-14:30",
     "type": "SOLO TALK",
-    "title": "Lasarte: Özü ve Mirası",
     "people": [
       {
         "name": "Paolo Casagrande",
@@ -275,15 +273,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Lasarte: Özü ve Mirası"
   },
   {
     "id": "29",
     "stage": "main",
     "day": 26,
-    "time": "14:40-15:00",
+    "time": "14:30-14:50",
     "type": "LIVE COOKING DEMO",
-    "title": "",
     "people": [
       {
         "name": "Hiroyasu Kawate",
@@ -293,15 +291,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Zamanın Tadı | Japon Yemek Kültüründe Fermantasyon ve Olgunlaştırma"
   },
   {
     "id": "30",
     "stage": "main",
     "day": 26,
-    "time": "15:00-15:20",
+    "time": "14:50-15:10",
     "type": "LIVE COOKING DEMO",
-    "title": "",
     "people": [
       {
         "name": "Franco Pepe",
@@ -311,19 +309,19 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Etkileşim | İki Kültürün Birleşimi"
   },
   {
     "id": "31",
     "stage": "main",
     "day": 26,
-    "time": "15:20-15:50",
+    "time": "15:10-15:40",
     "type": "PANEL DISCUSSION",
-    "title": "Gastronomide Kültür ve Sanatın Yansımaları ve Geleceğe Yönelik Beklentiler",
     "people": [
       {
         "name": "Moderator: Paolo Marchi",
-        "role": "Yaratıcı ve Küratör, Identità Golose",
+        "role": "Creator & Curator, Identità Golose",
         "location": "Italy"
       },
       {
@@ -346,33 +344,26 @@
         "location": "Copenhagen, Denmark",
         "photo": "assets/chefs/ericvildgaard.webp",
         "preserveRole": true
-      },
-      {
-        "name": "Marco Müller",
-        "role": "Rutz",
-        "location": "Berlin, Germany",
-        "photo": "assets/chefs/marcomuller.webp",
-        "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Gastronomide Kültür ve Sanatın Yansımaları ve Geleceğe Yönelik Beklentiler"
   },
   {
     "id": "32",
     "stage": "main",
     "day": 26,
-    "time": "15:50-16:05",
+    "time": "15:40-15:55",
     "type": "SOLO TALK",
-    "title": "İnsanların, yolculukların ve kültürlerin şekillendirdiği bir hikaye",
     "people": [
       {
         "name": "Introduced by Teoman Hünal",
-        "role": "İçecek ve Seyahat Yazarı",
+        "role": "Drinks & Travel Writer",
         "location": "İstanbul, Türkiye"
       },
       {
         "name": "Moderator: Paolo Vizzari",
-        "role": "Gastronomi Hikaye Anlatıcısı",
+        "role": "Gastronomic Storyteller",
         "location": "Milan, Italy"
       },
       {
@@ -383,15 +374,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "İnsanların, yolculukların ve kültürlerin şekillendirdiği bir hikaye"
   },
   {
     "id": "33",
     "stage": "main",
     "day": 26,
-    "time": "16:05-16:25",
+    "time": "15:55-16:15",
     "type": "LIVE COOKING DEMO",
-    "title": "Deniz Ortamındaki Abalon",
     "people": [
       {
         "name": "Alexandre Couillon",
@@ -401,15 +392,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Deniz Ortamındaki Abalon"
   },
   {
     "id": "34",
     "stage": "main",
     "day": 26,
-    "time": "16:25-16:40",
+    "time": "16:15-16:30",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Akis Neocleous",
@@ -419,19 +410,73 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Xcaret: Meksika'nın Bir Gastronomi Destinasyonuna Dönüştüğü Yer"
+  },
+  {
+    "id": "37",
+    "stage": "main",
+    "day": 26,
+    "time": "16:30-16:50",
+    "type": "LIVE COOKING DEMO",
+    "people": [
+      {
+        "name": "Viki Geunes",
+        "role": "Zilte",
+        "location": "Antwerp, Belgium",
+        "photo": "assets/chefs/vikigeunes.webp",
+        "preserveRole": true
+      }
+    ],
+    "sponsor": "",
+    "title": "Kökler... Gastronomi ve Kültürde Geçmiş, Bugün ve Gelecek"
+  },
+  {
+    "id": "38",
+    "stage": "main",
+    "day": 26,
+    "time": "16:50-17:10",
+    "type": "LIVE COOKING DEMO",
+    "people": [
+      {
+        "name": "Vicky Cheng",
+        "role": "Wing",
+        "location": "Hong Kong, China",
+        "photo": "assets/chefs/vickycheng.webp",
+        "preserveRole": true
+      }
+    ],
+    "sponsor": "CHEFseasons",
+    "title": "Çin Mutfağında Zaman Sanatı"
+  },
+  {
+    "id": "39",
+    "stage": "main",
+    "day": 26,
+    "time": "17:10-17:25",
+    "type": "SOLO TALK",
+    "people": [
+      {
+        "name": "Mohammad Orfali",
+        "role": "Orfali Bros",
+        "location": "Dubai, UAE",
+        "photo": "assets/chefs/mohammadorfali.webp",
+        "preserveRole": true
+      }
+    ],
+    "sponsor": "",
+    "title": ""
   },
   {
     "id": "35",
     "stage": "main",
     "day": 26,
-    "time": "16:40-17:00",
+    "time": "17:25-17:45",
     "type": "PANEL DISCUSSION",
-    "title": "Geleceğin Sommelierlerini Neler Bekliyor?",
     "people": [
       {
         "name": "Moderator: Levon Bağış",
-        "role": "Şarap Uzmanı ve Gastronomi Yazarı",
+        "role": "Wine Expert & Gastronomy Writer",
         "location": "İstanbul, Türkiye"
       },
       {
@@ -447,115 +492,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
-  },
-  {
-    "id": "36",
-    "stage": "main",
-    "day": 26,
-    "time": "17:00-17:15",
-    "type": "SOLO TALK",
-    "title": "",
-    "people": [
-      {
-        "name": "Pia Leon",
-        "role": "Kjolle",
-        "location": "Lima, Peru",
-        "photo": "assets/chefs/pialeon.webp",
-        "preserveRole": true
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "37",
-    "stage": "main",
-    "day": 26,
-    "time": "17:15-17:35",
-    "type": "LIVE COOKING DEMO",
-    "title": "Kökler... Gastronomi ve Kültürde Geçmiş, Bugün ve Gelecek",
-    "people": [
-      {
-        "name": "Viki Geunes",
-        "role": "Zilte",
-        "location": "Antwerp, Belgium",
-        "photo": "assets/chefs/vikigeunes.webp",
-        "preserveRole": true
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "38",
-    "stage": "main",
-    "day": 26,
-    "time": "17:35-17:55",
-    "type": "LIVE COOKING DEMO",
-    "title": "Çin Mutfağında Zaman Sanatı",
-    "people": [
-      {
-        "name": "Vicky Cheng",
-        "role": "Wing",
-        "location": "Hong Kong, China",
-        "photo": "assets/chefs/vickycheng.webp",
-        "preserveRole": true
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "39",
-    "stage": "main",
-    "day": 26,
-    "time": "17:55-18:10",
-    "type": "SOLO TALK",
-    "title": "",
-    "people": [
-      {
-        "name": "Mohammad Orfali",
-        "role": "Orfali Bros",
-        "location": "Dubai, UAE",
-        "photo": "assets/chefs/mohammadorfali.webp",
-        "preserveRole": true
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "40",
-    "stage": "main",
-    "day": 26,
-    "time": "18:10-18:25",
-    "type": "SOLO TALK",
-    "title": "Ya tatlı, tatlı olmasaydı?",
-    "people": [
-      {
-        "name": "René Frank",
-        "role": "CODA",
-        "location": "Berlin, Germany",
-        "photo": "assets/chefs/renefrank.webp",
-        "preserveRole": true
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "41",
-    "stage": "main",
-    "day": 26,
-    "time": "18:25-18:45",
-    "type": "LIVE COOKING DEMO",
-    "title": "",
-    "people": [
-      {
-        "name": "Álvaro Clavijo",
-        "role": "El Chato",
-        "location": "Bogotá, Colombia",
-        "photo": "assets/chefs/alvaroclavijo.webp",
-        "preserveRole": true
-      }
-    ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Geleceğin Sommelierlerini Neler Bekliyor?"
   },
   {
     "id": "42",
@@ -563,7 +501,6 @@
     "day": 27,
     "time": "10:00-10:20",
     "type": "LIVE COOKING DEMO",
-    "title": "",
     "people": [
       {
         "name": "Grégoire Berger",
@@ -573,7 +510,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Sisin Denizle Buluştuğu Yere Dönüş"
   },
   {
     "id": "43",
@@ -581,7 +519,6 @@
     "day": 27,
     "time": "10:20-10:40",
     "type": "LIVE COOKING DEMO",
-    "title": "VORO: Akdeniz Yaratıcılığı",
     "people": [
       {
         "name": "Álvaro Salazar",
@@ -591,25 +528,31 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "VORO: Akdeniz Yaratıcılığı"
   },
   {
-    "id": "44",
+    "id": "63",
     "stage": "main",
     "day": 27,
     "time": "10:40-10:55",
-    "type": "SOLO TALK",
-    "title": "Su Döngüleri: Amazon'un Dört Mevsimi",
+    "type": "LIVE COOKING DEMO",
     "people": [
       {
-        "name": "Jaime Pesaque",
-        "role": "Mayta",
-        "location": "Lima, Peru",
-        "photo": "assets/chefs/jaimepesaque.webp",
+        "name": "Moderator: Guillaume Erblang",
+        "role": "Editor-in-Chief, Food&Sens & Founder of Paroles de Chefs",
+        "location": "Paris, France"
+      },
+      {
+        "name": "Gilles Goujon",
+        "role": "Auberge du Vieux Puits",
+        "location": "Fontjoncouse, France",
+        "photo": "assets/chefs/gillesgoujon.webp",
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Köklerden Mirasa | Kültür ve Etkileşim Aktarım Sanatını Nasıl Şekillendirir?"
   },
   {
     "id": "45",
@@ -617,24 +560,24 @@
     "day": 27,
     "time": "10:55-11:25",
     "type": "PANEL DISCUSSION",
-    "title": "Menüde Kültürel Değişim ve Şeflerin Bölgesel Mutfaklara Karşı Sorumluluğu",
     "people": [
       {
-        "name": "Moderator: Kaja Sajovic",
-        "role": "Yemek ve Şarap Gazetecisi ve Gastronomi Seyahat Yazarı",
-        "location": "Ljubljana, Slovenia"
+        "name": "Moderator: Davide Bertellini",
+        "role": "Journalist & Food Critic",
+        "location": "Milan, Italy"
       },
       {
-        "name": "Josh Angus",
-        "role": "HIDE",
-        "location": "London, United Kingdom",
-        "photo": "assets/chefs/joshangus.webp",
+        "name": "Mohammad Orfali",
+        "role": "Orfali Bros",
+        "location": "Dubai, UAE",
+        "photo": "assets/chefs/mohammadorfali.webp",
         "preserveRole": true
       },
       {
-        "name": "Maksut Aşkar",
-        "role": "neolokal",
-        "location": "İstanbul, Türkiye",
+        "name": "David Žefran",
+        "role": "Milka",
+        "location": "Kranjska Gora, Slovenia",
+        "photo": "assets/chefs/davidzefran.webp",
         "preserveRole": true
       },
       {
@@ -645,7 +588,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Menüde Kültürel Değişim ve Şeflerin Bölgesel Mutfaklara Karşı Sorumluluğu"
   },
   {
     "id": "46",
@@ -653,7 +597,6 @@
     "day": 27,
     "time": "11:25-11:40",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Diego Guerrero",
@@ -663,7 +606,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "İmkânsızın Laboratuvarı"
   },
   {
     "id": "47",
@@ -671,11 +615,10 @@
     "day": 27,
     "time": "11:40-11:55",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Moderator: Liam Collens",
-        "role": "Yemek Yazarı ve Restoran Eleştirmeni",
+        "role": "Food Writer & Restautant Critic",
         "location": "Dubai, UAE"
       },
       {
@@ -686,7 +629,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Yükselen Hindistan"
   },
   {
     "id": "48",
@@ -694,7 +638,6 @@
     "day": 27,
     "time": "11:55-12:10",
     "type": "SOLO TALK",
-    "title": "Olgunluğun Yaratıcı Gücü",
     "people": [
       {
         "name": "Paco Roncero",
@@ -704,7 +647,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Olgunluğun Yaratıcı Gücü"
   },
   {
     "id": "49",
@@ -712,7 +656,6 @@
     "day": 27,
     "time": "12:10-12:25",
     "type": "SOLO TALK",
-    "title": "Topraktan Duyguya: Kültürel İfade Biçimi Olarak Mutfak",
     "people": [
       {
         "name": "Toño Pérez",
@@ -722,7 +665,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Topraktan Duyguya: Kültürel İfade Biçimi Olarak Mutfak"
   },
   {
     "id": "51",
@@ -730,7 +674,6 @@
     "day": 27,
     "time": "12:25-12:40",
     "type": "SOLO TALK",
-    "title": "Eğitim ve İnovasyon Yoluyla Gastronominin Geleceğini Şekillendirmek",
     "people": [
       {
         "name": "Joxe Mari Aizega",
@@ -740,7 +683,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Eğitim ve İnovasyon Yoluyla Gastronominin Geleceğini Şekillendirmek"
   },
   {
     "id": "52",
@@ -748,7 +692,6 @@
     "day": 27,
     "time": "12:40-13:00",
     "type": "LIVE COOKING DEMO",
-    "title": "",
     "people": [
       {
         "name": "Gianluca Fusto",
@@ -758,7 +701,8 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": ""
   },
   {
     "id": "53",
@@ -766,25 +710,24 @@
     "day": 27,
     "time": "13:00-13:20",
     "type": "LIVE COOKING DEMO",
-    "title": "Ruh Sosun İçinde Gizli | Portekiz Soslarının Haritası: Hafızadan Yaratıma",
     "people": [
       {
-        "name": "Henrique Sá Pessoa",
+        "name": "Henrique Sá Pessoa",
         "role": "Restaurante Henrique Sá Pessoa",
         "location": "Lisbon, Portugal",
         "photo": "assets/chefs/henriquesapessoa.webp",
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Ruh Sosun İçinde Gizli | Portekiz Soslarının Haritası: Hafızadan Yaratıma"
   },
   {
     "id": "54",
     "stage": "main",
     "day": 27,
-    "time": "13:20-13:40",
-    "type": "LIVE COOKING DEMO",
-    "title": "Miramar 2026'dan Yeni Denizcilik Teknikleri",
+    "time": "13:20-13:35",
+    "type": "SOLO TALK",
     "people": [
       {
         "name": "Paco Pérez",
@@ -794,51 +737,52 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Miramar 2026'dan Yeni Deniz Ürünleri Teknikleri"
   },
   {
     "id": "55",
     "stage": "main",
     "day": 27,
-    "time": "13:40-14:10",
+    "time": "13:35-14:05",
     "type": "PANEL DISCUSSION",
-    "title": "Lüks yemek kültürü nasıl evrilecek? Kültür mü, yoksa yaratıcılık mı?",
     "people": [
       {
         "name": "Moderator: Rafa Tonon",
-        "role": "Gastronomi Gazetecisi ve Yemek Yazarı",
+        "role": "Gastronomy Journalist & Food Writer",
         "location": "Porto, Portugal"
       },
       {
-        "name": "Jessica Rosval",
-        "role": "Al Gatto Verde",
-        "location": "Modena, Italy",
-        "photo": "assets/chefs/jessicarosval.webp",
+        "name": "Viki Geunes",
+        "role": "Zilte",
+        "location": "Antwerp, Belgium",
+        "photo": "assets/chefs/vikigeunes.webp",
         "preserveRole": true
       },
       {
-        "name": "Fatih Tutak",
-        "role": "TURK",
-        "location": "İstanbul, Türkiye",
+        "name": "Paolo Casagrande",
+        "role": "Lasarte",
+        "location": "Barcelona, Spain",
+        "photo": "assets/chefs/paolocasagrande.webp",
         "preserveRole": true
       },
       {
-        "name": "David Žefran",
-        "role": "Milka",
-        "location": "Kranjska Gora, Slovenia",
-        "photo": "assets/chefs/davidzefran.webp",
+        "name": "Nicolai Nørregaard",
+        "role": "Kadeau",
+        "location": "Copenhagen, Denmark",
+        "photo": "assets/chefs/nicolainørregaard.webp",
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Lüks yemek kültürü nasıl evrilecek? Kültür mü, yoksa yaratıcılık mı?"
   },
   {
     "id": "56",
     "stage": "main",
     "day": 27,
-    "time": "14:10-14:25",
+    "time": "14:05-14:20",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Matias Perdomo",
@@ -848,15 +792,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "CHEFseasons",
+    "title": ""
   },
   {
     "id": "57",
     "stage": "main",
     "day": 27,
-    "time": "14:25-14:45",
+    "time": "14:20-14:40",
     "type": "LIVE COOKING DEMO",
-    "title": "Balık Kılçıkları: Balığın Diğer Yüzü",
     "people": [
       {
         "name": "Moreno Cedroni",
@@ -866,15 +810,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Balık Kılçıkları: Balığın Diğer Yüzü"
   },
   {
     "id": "58",
     "stage": "main",
     "day": 27,
-    "time": "14:45-15:00",
+    "time": "14:40-14:55",
     "type": "SOLO TALK",
-    "title": "Ortak Alanlar ve Peyzajlar",
     "people": [
       {
         "name": "Andoni Luiz Aduriz",
@@ -884,15 +828,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Ortak Alanlar ve Peyzajlar"
   },
   {
     "id": "59",
     "stage": "main",
     "day": 27,
-    "time": "15:00-15:15",
+    "time": "14:55-15:10",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Albert Raurich",
@@ -902,25 +846,43 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": ""
+  },
+  {
+    "id": "main-27-v33-1510",
+    "stage": "main",
+    "day": 27,
+    "time": "15:10-15:25",
+    "type": "SOLO TALK",
+    "people": [
+      {
+        "name": "Maksut Aşkar",
+        "role": "neolokal",
+        "location": "İstanbul, Türkiye",
+        "preserveRole": true
+      }
+    ],
+    "sponsor": "",
+    "title": "Gelenek Bir İsim Değil, Bir Fiildir"
   },
   {
     "id": "60",
     "stage": "main",
     "day": 27,
-    "time": "15:15-15:35",
+    "time": "15:25-15:45",
     "type": "PANEL DISCUSSION",
-    "title": "Miksoloji = Kültür",
     "people": [
       {
         "name": "Moderator: Oğul Türkkan",
-        "role": "Yiyecek, Şarap ve Alkollü İçecek Uzmanı",
+        "role": "Food, Wine & Spirit Expert",
         "location": "İstanbul, Türkiye"
       },
       {
-        "name": "Marc Álvarez",
-        "role": "SIPS",
-        "location": "Barcelona, Spain",
+        "name": "Dimitris Tozakidis",
+        "role": "Sani Gourmet Manager, Culinary Committee Halkidiki",
+        "location": "Halkdiki, Greece",
+        "photo": "assets/chefs/dimitristozakidis.webp",
         "preserveRole": true
       },
       {
@@ -931,15 +893,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Miksoloji = Kültür"
   },
   {
     "id": "61",
     "stage": "main",
     "day": 27,
-    "time": "15:35-15:50",
+    "time": "15:45-16:00",
     "type": "SOLO TALK",
-    "title": "",
     "people": [
       {
         "name": "Ömür Akkor",
@@ -948,26 +910,27 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": ""
   },
   {
     "id": "62",
     "stage": "main",
     "day": 27,
-    "time": "15:50-16:20",
+    "time": "16:00-16:30",
     "type": "PANEL DISCUSSION",
-    "title": "Orta Doğu kültürü, küresel gastronomi sahnesinde yeni modeller yaratabilir mi?",
     "people": [
       {
         "name": "Moderator: David Joseph Constable",
-        "role": "GAYA Genel Yayın Yönetmeni",
+        "role": "GAYA Editor-in-Chief",
         "location": "Dubai, UAE"
       },
       {
         "name": "Joe Barza",
-        "role": "Uluslararası Danışman",
+        "role": "International Consultant",
         "location": "Beirut, Lebanon",
-        "photo": "assets/chefs/joebarza.webp"
+        "photo": "assets/chefs/joebarza.webp",
+        "preserveRole": true
       },
       {
         "name": "Mostafa Seif",
@@ -991,55 +954,37 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
-  },
-  {
-    "id": "63",
-    "stage": "main",
-    "day": 27,
-    "time": "16:20-16:40",
-    "type": "LIVE COOKING DEMO",
-    "title": "",
-    "people": [
-      {
-        "name": "Gilles Goujon",
-        "role": "Auberge du Vieux Puits",
-        "location": "Fontjoncouse, France",
-        "photo": "assets/chefs/gillesgoujon.webp",
-        "preserveRole": true
-      }
-    ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Orta Doğu kültürü, küresel gastronomi sahnesinde yeni modeller yaratabilir mi?"
   },
   {
     "id": "21",
     "stage": "main",
     "day": 27,
-    "time": "16:40-17:00",
+    "time": "16:30-16:45",
     "type": "LIVE COOKING DEMO",
-    "title": "",
     "people": [
       {
-        "name": "Rodolfo Guzmán",
+        "name": "Rodolfo Guzmán",
         "role": "BORAGÓ",
         "location": "Santiago, Chile",
         "photo": "assets/chefs/rodolfoguzman.webp",
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "İlerlemek İçin Geçmişe Bakıyoruz"
   },
   {
     "id": "65",
     "stage": "main",
     "day": 27,
-    "time": "17:00-17:30",
+    "time": "16:45-17:15",
     "type": "PANEL DISCUSSION",
-    "title": "Modern Pastacılıkta Yaratıcılığın Etkisi",
     "people": [
       {
         "name": "Moderator: Guillaume Erblang",
-        "role": "Food&Sens Baş Editörü ve Paroles de Chefs'in Kurucusu",
+        "role": "Editor-in-Chief, Food&Sens & Founder of Paroles de Chefs",
         "location": "Paris, France"
       },
       {
@@ -1078,15 +1023,15 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "Modern Pastacılıkta Yaratıcılığın Etkisi"
   },
   {
     "id": "66",
     "stage": "main",
     "day": 27,
-    "time": "17:30-17:50",
+    "time": "17:15-17:35",
     "type": "LIVE COOKING DEMO",
-    "title": "",
     "people": [
       {
         "name": "Rubén Hernández Mosquero",
@@ -1096,19 +1041,37 @@
         "preserveRole": true
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "EMi'de Öğle Yemeği"
+  },
+  {
+    "id": "41",
+    "stage": "main",
+    "day": 27,
+    "time": "17:35-17:55",
+    "type": "LIVE COOKING DEMO",
+    "people": [
+      {
+        "name": "Álvaro Clavijo",
+        "role": "El Chato",
+        "location": "Bogotá, Colombia",
+        "photo": "assets/chefs/alvaroclavijo.webp",
+        "preserveRole": true
+      }
+    ],
+    "sponsor": "",
+    "title": ""
   },
   {
     "id": "0",
     "stage": "hospitality",
     "day": 26,
-    "time": "11:30-12:00",
+    "time": "11:00-11:30",
     "type": "PANEL DISCUSSION",
-    "title": "GASTRONOMİ, TURİZM VE AĞIRLAMA SEKTÖRÜNDE DEĞİŞİM VE GELECEK BEKLENTİLERİ",
     "people": [
       {
-        "name": "Moderator: Şafak Tükle",
-        "role": "CNBC-e TV Sunucusu",
+        "name": "Moderator: Vedat Başaran",
+        "role": "Türk Mutfağı Araştırmacısı",
         "location": ""
       },
       {
@@ -1117,44 +1080,29 @@
         "location": ""
       },
       {
-        "name": "Oya Narin",
-        "role": "TTTYD Yönetim Kurulu Başkanı",
-        "location": ""
-      },
-      {
         "name": "Kaya Demirer",
         "role": "TURYİD Yönetim Kurulu Başkanı",
         "location": ""
       },
       {
-        "name": "Bekir Topuz",
-        "role": "TUSİD Yönetim Kurulu Başkanı",
-        "location": ""
-      },
-      {
-        "name": "Müberra Eresin",
-        "role": "TÜROB Yönetim Kurulu Başkanı",
-        "location": ""
-      },
-      {
-        "name": "Hediye Güral",
-        "role": "TÜROB Yönetim Kurulu Başkan Yardımcısı, TTYD Yönetim Kurulu Başkan Yardımcısı, Hizmet İhracatçıları Birliği Yönetim Kurulu Üyesi",
+        "name": "Ramazan Bingöl",
+        "role": "TÜRES Genel Başkanı",
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "GASTRONOMİ, TURİZM VE AĞIRLAMA SEKTÖRÜNDE DEĞİŞİM VE GELECEK BEKLENTİLERİ"
   },
   {
-    "id": "1",
+    "id": "2",
     "stage": "hospitality",
     "day": 26,
-    "time": "12:00-12:30",
+    "time": "11:30-12:00",
     "type": "PANEL DISCUSSION",
-    "title": "AĞIRLAMA SEKTÖRÜNDE BÜYÜME STRATEJİLERİ VE DEĞİŞEN İŞ MODELLERİ",
     "people": [
       {
-        "name": "Moderator: Deniz Sipahi",
-        "role": "Hürriyet Gazetesi Köşe Yazarı & Gazeteci",
+        "name": "Moderator: Levent Erden",
+        "role": "Next Akademi Kurucusu",
         "location": ""
       },
       {
@@ -1163,30 +1111,20 @@
         "location": ""
       },
       {
-        "name": "Sadettin Cesur",
-        "role": "TUM/TRU Hospitality (IST Airport) CEO",
-        "location": ""
-      },
-      {
-        "name": "Uğur Talayhan",
-        "role": "The Grand Tarabya Managed by Accor Genel Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Çetin Pehlivan",
-        "role": "Tersane İstanbul Yönetici Direktörü",
+        "name": "Gamze Cizreli",
+        "role": "BigChefs Kurucu Ortağı",
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "TURİZMDE YATIRIM, BÜYÜME VE GELECEK VİZYONU"
   },
   {
-    "id": "2",
+    "id": "1",
     "stage": "hospitality",
     "day": 26,
-    "time": "12:30-13:00",
+    "time": "12:00-12:30",
     "type": "PANEL DISCUSSION",
-    "title": "TURİZMDE YATIRIM, BÜYÜME VE GELECEK VİZYONU",
     "people": [
       {
         "name": "Moderator: Ahu Orakçıoğlu",
@@ -1194,35 +1132,49 @@
         "location": ""
       },
       {
-        "name": "Ece Tonbul",
-        "role": "Paloma Hotels Yönetim Kurulu Başkanı & CEO",
+        "name": "Sadettin Cesur",
+        "role": "TUM/TRU Hospitality (IST Airport) CEO",
         "location": ""
       },
       {
-        "name": "Akis Neocleous",
-        "role": "Hoteles Xcaret Oteller Grubu Otellerden Sorumlu Üst Düzey Yöneticisi",
-        "location": "",
-        "photo": "assets/chefs/akisneocleous.webp"
+        "name": "Şebnem Ferman",
+        "role": "Gabala Hospitality Group Yönetim Kurulu Başkanı",
+        "location": ""
+      },
+      {
+        "name": "Uğur Talayhan",
+        "role": "The Grand Tarabya Bosphorus Genel Müdürü",
+        "location": ""
       },
       {
         "name": "Cengiz Barut",
         "role": "Barut Hotels Yönetim Kurulu Üyesi",
         "location": ""
+      },
+      {
+        "name": "Çetin Pehlivan",
+        "role": "Tersane İstanbul Managing Director",
+        "location": ""
+      },
+      {
+        "name": "Nurçe Erben Hakan",
+        "role": "Mondrian Bodrum Kurucusu",
+        "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "AĞIRLAMA SEKTÖRÜNDE BÜYÜME STRATEJİLERİ VE DEĞİŞEN İŞ MODELLERİ"
   },
   {
-    "id": "3",
+    "id": "hospitality-26-1330",
     "stage": "hospitality",
     "day": 26,
-    "time": "13:00-13:30",
+    "time": "12:30-13:00",
     "type": "PANEL DISCUSSION",
-    "title": "DEĞİŞEN TURİZM PAZARI OTEL YATIRIMLARININ GELECEĞİNİ NASIL ETKİLİYOR?",
     "people": [
       {
-        "name": "Moderator: Yelda İpekli",
-        "role": "Stratejik Pazarlama & Marka Yönetim Uzmanı",
+        "name": "Moderator: Kaya Demirer",
+        "role": "TURYİD Yönetim Kurulu Başkanı",
         "location": ""
       },
       {
@@ -1231,34 +1183,8 @@
         "location": ""
       },
       {
-        "name": "Kılıç Ali Kantar",
-        "role": "CVK Park Bosphorus Hotel İstanbul Genel Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Murat Eti",
-        "role": "Pera Palace Hotel Genel Müdürü",
-        "location": ""
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "hospitality-26-1330",
-    "stage": "hospitality",
-    "day": 26,
-    "time": "13:30-14:00",
-    "type": "PANEL DISCUSSION",
-    "title": "GELECEĞİN LÜKS OTELLERİNİ HANGİ DİNAMİKLER BELİRLEYECEK?",
-    "people": [
-      {
-        "name": "Moderator: Buse Yıldırım",
-        "role": "NTV Sunucusu",
-        "location": ""
-      },
-      {
-        "name": "Cem Akşahin",
-        "role": "Fairmont Quasar Istanbul Genel Müdürü",
+        "name": "Serkan Yalçınkaya",
+        "role": "Mandarin Oriental Bosphorus Istanbul Genel Müdürü",
         "location": ""
       },
       {
@@ -1272,25 +1198,20 @@
         "location": ""
       },
       {
-        "name": "Serkan Yalçınkaya",
-        "role": "Mandarin Oriental Bosphorus Istanbul Genel Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Ceyda Noyan",
-        "role": "The St. Regis Istanbul Genel Müdürü",
+        "name": "Rufat Babayev",
+        "role": "Grand Hyatt Istanbul Genel Müdürü Türkiye & Hırvatistan Hyatt Otelleri Bölge Başkanı",
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "GELECEĞİN LÜKS OTELLERİNİ HANGİ DİNAMİKLER BELİRLEYECEK?"
   },
   {
     "id": "4",
     "stage": "hospitality",
     "day": 26,
-    "time": "14:00-14:30",
+    "time": "13:00-13:30",
     "type": "PANEL DISCUSSION",
-    "title": "LÜKSÜN YENİ TANIMI VE AĞIRLAMA SEKTÖRÜNDE DEĞİŞEN DENEYİM ANLAYIŞI",
     "people": [
       {
         "name": "Moderator: Çağdaş Ertuna",
@@ -1303,8 +1224,14 @@
         "location": ""
       },
       {
+        "name": "Akis Neocleous",
+        "role": "Hoteles Xcaret Oteller Grubu Otellerden Sorumlu Üst Düzey Yöneticisi",
+        "location": "",
+        "photo": "assets/chefs/akisneocleous.webp"
+      },
+      {
         "name": "Jonathan H. Crook",
-        "role": "The Peninsula İstanbul Genel Müdürü // Managing Director",
+        "role": "The Peninsula İstanbul Genel Müdürü",
         "location": ""
       },
       {
@@ -1318,7 +1245,80 @@
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "LÜKSÜN YENİ TANIMI VE AĞIRLAMA SEKTÖRÜNDE DEĞİŞEN DENEYİM ANLAYIŞI"
+  },
+  {
+    "id": "3",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "13:30-14:00",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Yelda İpekli",
+        "role": "Stratejik Pazarlama & Marka Yönetim Uzmanı",
+        "location": ""
+      },
+      {
+        "name": "Kılıç Ali Kantar",
+        "role": "CVK Park Bosphorus Hotel İstanbul Genel Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Murat Eti",
+        "role": "Pera Palace Hotel Genel Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Cem Akşahin",
+        "role": "Fairmont Quasar Istanbul Genel Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Ceyda Noyan",
+        "role": "The St. Regis Istanbul Genel Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Ayça Bilgin",
+        "role": "Shine Hospitality Kurucusu, Otel Yatırımları ve Marka Geliştirme Uzmanı",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "DEĞİŞEN TURİZM PAZARI OTEL YATIRIMLARININ GELECEĞİNİ NASIL ETKİLİYOR?"
+  },
+  {
+    "id": "hospitality-26-v33-1400",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "14:00-14:30",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Özge Şahin",
+        "role": "Atıksız Mutfak Şefi & TV Programcısı",
+        "location": ""
+      },
+      {
+        "name": "Zümrüt Yezdani Kedik",
+        "role": "Pernod Ricard Türkiye Hukuk, Kurumsal İletişim & Dış İlişkiler Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Coşkun Aral",
+        "role": "Gazeteci",
+        "location": ""
+      },
+      {
+        "name": "Yiğitcan Gençer",
+        "role": "Twins Cocktail Lab Kurucusu",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "PERNOD RICARD TÜRKİYE"
   },
   {
     "id": "5",
@@ -1326,7 +1326,6 @@
     "day": 26,
     "time": "14:30-15:00",
     "type": "PANEL DISCUSSION",
-    "title": "GASTRONOMİDE PREMIUM MARKALAR VE İŞLETME VİZYONU",
     "people": [
       {
         "name": "Moderator: Özlem Güsar",
@@ -1334,8 +1333,8 @@
         "location": ""
       },
       {
-        "name": "Cem Mirap",
-        "role": "Lucca & Cantinery Kurucusu",
+        "name": "Nazlı Sönmez",
+        "role": "Gigi Rigolatto, Paris Society International & RIKAS Hospitality Group Global Marka Direktörü",
         "location": ""
       },
       {
@@ -1354,30 +1353,36 @@
         "location": ""
       },
       {
-        "name": "Mahmut Gökkaya",
-        "role": "Karma Bodrum Kurucu Ortağı",
-        "location": ""
-      },
-      {
-        "name": "Nazlı Sönmez",
-        "role": "Gigi Rigolatto, Paris Society International & RIKAS Hospitality Group Global Marka Direktörü",
-        "location": ""
-      },
-      {
-        "name": "Mehmet Dinçerler",
-        "role": "Dinçerler Group Yönetim Kurulu Başkanı & CEO",
+        "name": "Levent Veziroğlu",
+        "role": "Hospitelligent Yönetim Kurulu Başkanı & Akfen Yedideyedi Yönetim Kurulu Başkan Vekili",
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "GASTRONOMİDE PREMIUM MARKALAR VE İŞLETME VİZYONU"
+  },
+  {
+    "id": "hospitality-26-v33-1500",
+    "stage": "hospitality",
+    "day": 26,
+    "time": "15:00-15:15",
+    "type": "SOLO TALK",
+    "people": [
+      {
+        "name": "Refika Birgül",
+        "role": "Yazar, Refika'nın Mutfağı Kurucusu & Program Yapımcısı",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "DÜNYAYA İLHAM OLABİLECEK TÜRK MUTFAĞI TEKNİKLERİ"
   },
   {
     "id": "6",
     "stage": "hospitality",
     "day": 26,
-    "time": "15:00-15:30",
+    "time": "15:15-15:45",
     "type": "PANEL DISCUSSION",
-    "title": "KÜLTÜR, DENEYİM VE YARATICILIK BİR ŞEFİN MUTFAK DİLİNİ NASIL ŞEKİLLENDİRİR?",
     "people": [
       {
         "name": "Moderator: Gökmen Sözen",
@@ -1405,19 +1410,19 @@
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "KÜLTÜR, DENEYİM VE YARATICILIK BİR ŞEFİN MUTFAK DİLİNİ NASIL ŞEKİLLENDİRİR?"
   },
   {
     "id": "7",
     "stage": "hospitality",
     "day": 26,
-    "time": "15:30-16:00",
+    "time": "15:45-16:15",
     "type": "PANEL DISCUSSION",
-    "title": "YEREL MARKALARDAN ULUSAL ZİNCİRLERE RESTORAN GRUPLARININ BÜYÜME YOLCULUĞU",
     "people": [
       {
         "name": "Moderator: Feyzan Ersinan",
-        "role": "Optimist Group Ajans Baskanı",
+        "role": "Optimist Group Ajans Başkanı",
         "location": ""
       },
       {
@@ -1427,79 +1432,38 @@
       },
       {
         "name": "Hüseyin Aymutlu",
-        "role": "Happy Group Yönetim Kurulu Başkanı ve CEO'su",
+        "role": "Happy Group Yönetim Kurulu Başkanı & CEO",
         "location": ""
       },
       {
         "name": "Hasan Yeşilyurt",
-        "role": "Akkomarka Restoran Grubu Ortağı & Gastronomi Profesyoneli & Danışman",
+        "role": "Akkomarka Restoran Grubu Ortağı ve Gastronomi Profesyoneli & Danışman",
+        "location": ""
+      },
+      {
+        "name": "Altan Kosova",
+        "role": "BigChefs CEO",
         "location": ""
       },
       {
         "name": "Onur Tahincioğlu",
-        "role": "Modern Restaurant YK Danışmanı",
-        "location": ""
-      },
-      {
-        "name": "Zeki Özen",
-        "role": "Shakespeare Bistro Kurucusu",
-        "location": ""
-      },
-      {
-        "name": "Avni Altan Kosova",
-        "role": "BigChefs CEO",
+        "role": "Modern Restaurant Yönetim Kurulu Danışmanı",
         "location": ""
       }
     ],
-    "sponsor": ""
-  },
-  {
-    "id": "8",
-    "stage": "hospitality",
-    "day": 26,
-    "time": "16:00-16:30",
-    "type": "PANEL DISCUSSION",
-    "title": "GELENEKTEN GELECEĞE RESTORAN MARKALARININ YOLCULUĞU",
-    "people": [
-      {
-        "name": "Moderator: Ahmet Güzelyağdöken",
-        "role": "Gastronomi Yazarı, Danışman & Eğitmen Şef",
-        "location": ""
-      },
-      {
-        "name": "Osman Serdaroğlu",
-        "role": "Teruar Urla Kurucusu & Şefi",
-        "location": ""
-      },
-      {
-        "name": "Ozan Kumbasar",
-        "role": "Vino Locale Kurucusu & Şefi",
-        "location": ""
-      },
-      {
-        "name": "Osman Sezener",
-        "role": "OD Urla Kurucusu & Şefi",
-        "location": ""
-      },
-      {
-        "name": "Atilla Heilbronn",
-        "role": "Narimor Urla Kurucusu & Şefi",
-        "location": ""
-      }
-    ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "YEREL MARKALARDAN ULUSAL ZİNCİRLERE RESTORAN GRUPLARININ BÜYÜME YOLCULUĞU"
   },
   {
     "id": "9",
     "stage": "hospitality",
     "day": 26,
-    "time": "16:30-17:00",
+    "time": "16:15-16:45",
     "type": "PANEL DISCUSSION",
-    "title": "GELENEKTEN GELECEĞE RESTORAN MARKALARININ YOLCULUĞU",
     "people": [
       {
-        "name": "Moderator: Faruk Şüyün",
-        "role": "Ekonomi Gazetesi Yazarı",
+        "name": "Moderator: Şirin Sever",
+        "role": "Posta Gazetesi Yazarı",
         "location": ""
       },
       {
@@ -1526,26 +1490,21 @@
         "name": "Ahmet Karoğlu",
         "role": "Ahmet Ustam Ocakbaşı Kurucusu",
         "location": ""
-      },
-      {
-        "name": "Ege Ermeç",
-        "role": "Doğanay Gıda Genel Müdürü",
-        "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "GELENEKTEN GELECEĞE RESTORAN MARKALARININ YOLCULUĞU"
   },
   {
     "id": "10",
     "stage": "hospitality",
     "day": 26,
-    "time": "17:00-17:30",
+    "time": "16:45-17:15",
     "type": "PANEL DISCUSSION",
-    "title": "YEREL MUTFAKLARIN YÜKSELİŞİ",
     "people": [
       {
-        "name": "Moderator: Vedat Başaran",
-        "role": "Türk Mutfağı Araştırmacısı",
+        "name": "Moderator: Şafak Tükle",
+        "role": "CNBC-e Sunucusu",
         "location": ""
       },
       {
@@ -1569,15 +1528,15 @@
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "YEREL MUTFAKLARIN YÜKSELİŞİ"
   },
   {
     "id": "11",
     "stage": "hospitality",
     "day": 26,
-    "time": "17:30-18:00",
+    "time": "17:15-17:45",
     "type": "PANEL DISCUSSION",
-    "title": "TÜRKİYE’DE İTALYAN MUTFAĞININ ÖZGÜNLÜĞÜ NASIL KORUNUYOR?",
     "people": [
       {
         "name": "Moderator: Aylin Öney Tan",
@@ -1605,136 +1564,98 @@
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "TÜRKİYE’DE İTALYAN MUTFAĞININ ÖZGÜNLÜĞÜ NASIL KORUNUYOR?"
   },
   {
-    "id": "12",
+    "id": "8",
     "stage": "hospitality",
     "day": 26,
-    "time": "18:00-18:30",
+    "time": "17:45-18:15",
     "type": "PANEL DISCUSSION",
-    "title": "YENİ KUŞAKLAR, YENİ DENEYİMLER VE TURİZMİN GELECEĞİ",
     "people": [
       {
-        "name": "Moderator: Murat Güloğlu",
-        "role": "TV Programcısı & Gazeteci",
+        "name": "Moderator: Ahmet Güzelyağdöken",
+        "role": "Gastronomi Yazarı, Danışman & Eğitmen Şef",
         "location": ""
       },
       {
-        "name": "Nurçe Erben Hakan",
-        "role": "Ruins Luxury Resort Kurucusu",
+        "name": "Osman Serdaroğlu",
+        "role": "Teruar Urla Kurucusu & Şefi",
         "location": ""
       },
       {
-        "name": "Büşra Karamancı",
-        "role": "Melas Hotels & Resorts Yönetim Kurulu Üyesi",
+        "name": "Ozan Kumbasar",
+        "role": "Vino Locale Kurucusu & Şefi",
         "location": ""
       },
       {
-        "name": "Nahit Kara",
-        "role": "Ethno & Adalya Hotels Yönetim Kurulu Üyesi",
+        "name": "Osman Sezener",
+        "role": "OD Urla Kurucusu & Şefi",
         "location": ""
       },
       {
-        "name": "Zeynep Tamince",
-        "role": "Aliée İstanbul Yönetim Kurulu Üyesi",
+        "name": "Atilla Heilbronn",
+        "role": "Narimor Urla Kurucusu & Şefi",
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "URLA’YI KÜRESEL BİR GASTRONOMİ DESTİNASYONUNA DÖNÜŞTÜREN MUTFAKLARIN ARDINDAKİ VİZYON"
   },
   {
     "id": "13",
     "stage": "hospitality",
     "day": 26,
-    "time": "18:30-19:00",
+    "time": "18:15-18:45",
     "type": "PANEL DISCUSSION",
-    "title": "LÜKS OTELLERDE GASTRONOMİNİN AYRICALIKLI DÜNYASI",
     "people": [
       {
         "name": "Moderator: Gualtiero Spotti",
-        "role": "Journalist",
+        "role": "Gazeteci",
         "location": ""
       },
       {
         "name": "Ali El Bourji",
-        "role": "Atlantis Dubai Director Culinary",
+        "role": "Atlantis Dubai Mutfak Direktörü",
         "location": "",
         "photo": "assets/chefs/alielbourji.webp"
       },
       {
         "name": "Cesare Murzilli",
-        "role": "Portrait Milano Corporate Executive Pastry Chef",
+        "role": "Portrait Milano Kurumsal Executive Şefi",
         "location": "",
         "photo": "assets/chefs/cesaremurzilli.webp"
       },
       {
         "name": "Andreas Block",
-        "role": "The Peninsula İstanbul Executive Chef",
+        "role": "The Peninsula İstanbul Executive Şefi",
         "location": ""
       },
       {
         "name": "Elmar Aliyev",
-        "role": "Gabala Hospitality Group Corporate Executive Chef",
-        "location": ""
-      },
-      {
-        "name": "Dimitris Tozakidis",
-        "role": "Sani Gourmet Manager, Culinary Committee SIG",
-        "location": "",
-        "photo": "assets/chefs/dimitristozakidis.webp"
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "hospitality-27-1030",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "10:30-11:00",
-    "type": "PANEL DISCUSSION",
-    "title": "TÜRKİYE'NİN YÜKSELEN DESTİNASYONLARINDA OTEL YATIRIMLARININ GELECEĞİ",
-    "people": [
-      {
-        "name": "Moderator: Fatoş Karahasan",
-        "role": "Ekonomi Gazetesi Yazarı",
-        "location": ""
-      },
-      {
-        "name": "İsmet Öztanık",
-        "role": "Avantgarde Refined Yönetim Kurulu Başkanı",
-        "location": ""
-      },
-      {
-        "name": "Sabiha Asfuroğlu Abacıoğlu",
-        "role": "The Museum Hotel Antakya Turizm Yatırımlarından Sorumlu CEO",
-        "location": ""
-      },
-      {
-        "name": "Yakup Dinler",
-        "role": "Dinler Group Yönetim Kurulu Başkan Yardımcısı",
+        "role": "Gabala Hospitality Group Kurumsal Mutfak Şefi",
         "location": ""
       }
     ],
     "sponsor": "",
-    "pendingSpeakers": true
+    "title": "LÜKS OTELLERDE GASTRONOMİNİN AYRICALIKLI DÜNYASI"
   },
   {
     "id": "hospitality-27-1100",
     "stage": "hospitality",
     "day": 27,
-    "time": "11:00-11:30",
+    "time": "10:00-10:30",
     "type": "PANEL DISCUSSION",
-    "title": "TÜRK GASTRONOMİSİNİN HAFIZASI VE GELECEK KUŞAKLARA AKTARIMI",
     "people": [
       {
-        "name": "Moderator: Merin Sever",
-        "role": "Mundi Kitap Yönetici Editörü",
+        "name": "Moderator: Aret Vartanyan",
+        "role": "Yazar",
         "location": ""
       },
       {
-        "name": "Mahir Polat",
-        "role": "İBB Miras Kurucusu & Kültür Tarihçisi",
+        "name": "Talia Bayat",
+        "role": "TAB Studio Kurucusu",
         "location": ""
       },
       {
@@ -1748,7 +1669,70 @@
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "TÜRK GASTRONOMİSİNİN HAFIZASI VE GELECEK KUŞAKLARA AKTARIMI"
+  },
+  {
+    "id": "hospitality-27-1030",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "10:30-11:00",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Dr. Fatoş Karahasan",
+        "role": "Gazeteci & Yazar",
+        "location": ""
+      },
+      {
+        "name": "İsmet Öztanık",
+        "role": "Avantgarde Collection & Lucis Initiative Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Sabiha Asfuroğlu Abbasoğlu",
+        "role": "The Museum Hotel Antakya Turizm Yatırımlarından Sorumlu CEO",
+        "location": ""
+      },
+      {
+        "name": "Mine Özmen",
+        "role": "Hışvahan Kurucusu",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "TÜRKİYE’NİN YÜKSELEN DESTİNASYONLARINDA OTEL YATIRIMLARININ GELECEĞİ"
+  },
+  {
+    "id": "hospitality-27-v33-1100",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "11:00-11:30",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Gökmen Sözen",
+        "role": "Sözen Group CEO & Gastromasa Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Mehmet Yalçınkaya",
+        "role": "MasterChef",
+        "location": ""
+      },
+      {
+        "name": "Somer Sivrioğlu",
+        "role": "MasterChef",
+        "location": ""
+      },
+      {
+        "name": "Danilo Zanna",
+        "role": "MasterChef",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "MASTERCHEF’TE KÜLTÜRLERİN VE MUTFAKLARIN ETKİLEŞİMİ"
   },
   {
     "id": "hospitality-27-1130",
@@ -1756,16 +1740,10 @@
     "day": 27,
     "time": "11:30-12:00",
     "type": "PANEL DISCUSSION",
-    "title": "MARKALAŞMADAN ZİNCİRLEŞMEYE BÜYÜMENİN YENİ DİNAMİKLERİ",
     "people": [
       {
         "name": "Moderator: Reha Arar",
         "role": "NET Holding Yönetim Kurulu Üyesi ve Gurme & Yazar",
-        "location": ""
-      },
-      {
-        "name": "Levent Veziroğlu",
-        "role": "Hospitelligent Yönetim Kurulu Başkanı & Akfen Yedideyedi Yönetim Kurulu Başkan Vekili",
         "location": ""
       },
       {
@@ -1774,12 +1752,18 @@
         "location": ""
       },
       {
+        "name": "Mahmut Gökkaya",
+        "role": "Karma Bodrum Kurucu Ortağı",
+        "location": ""
+      },
+      {
         "name": "Göktuğ Özdemir",
         "role": "C-paces Kurucu Ortağı",
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "MARKALAŞMADAN ZİNCİRLEŞMEYE BÜYÜMENİN YENİ DİNAMİKLERİ"
   },
   {
     "id": "hospitality-27-1200",
@@ -1787,21 +1771,10 @@
     "day": 27,
     "time": "12:00-12:30",
     "type": "PANEL DISCUSSION",
-    "title": "YENİ NESİL LÜKS KONAKLAMADA ÖZGÜNLÜK VE MARKA KİMLİĞİ",
     "people": [
       {
-        "name": "Moderator: Şirin Sever",
-        "role": "Posta Köşe Yazarı",
-        "location": ""
-      },
-      {
-        "name": "Burç Özarutan",
-        "role": "XO Cape Arnna Genel Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Ali Kızıldağ",
-        "role": "Calista Luxury Resort Genel Müdürü",
+        "name": "Moderator: Emre Buga",
+        "role": "Haber Spikeri & Editör",
         "location": ""
       },
       {
@@ -1813,9 +1786,15 @@
         "name": "Umut Terzi",
         "role": "Club Marvy Genel Müdürü",
         "location": ""
+      },
+      {
+        "name": "Can Göktaş",
+        "role": "Six Senses Kaplankaya Genel Müdürü",
+        "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "YENİ NESİL LÜKS KONAKLAMADA ÖZGÜNLÜK VE MARKA KİMLİĞİ"
   },
   {
     "id": "hospitality-27-1230",
@@ -1823,7 +1802,6 @@
     "day": 27,
     "time": "12:30-13:00",
     "type": "PANEL DISCUSSION",
-    "title": "TÜRKİYE’DE UZAK DOĞU GASTRONOMİSİNİN YÜKSELİŞİ",
     "people": [
       {
         "name": "Moderator: Bahar Akıncı",
@@ -1851,31 +1829,31 @@
         "location": ""
       },
       {
-        "name": "Alper Korkmaz",
-        "role": "Kaen Sushi Kurucusu",
-        "location": ""
-      },
-      {
-        "name": "Defne Şengül",
-        "role": "Sushi Barba Kurucu Ortağı",
+        "name": "Metehan Çulha",
+        "role": "Barba Sushi & Lounge Kurucu Ortağı",
         "location": ""
       },
       {
         "name": "Yusuf Saranga",
-        "role": "Wagamama Yönetim Kurulu Üyesi",
+        "role": "Wagamama Yönetim Kurulu Başkanı",
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "TÜRKİYE’DE UZAK DOĞU GASTRONOMİSİNİN YÜKSELİŞİ"
   },
   {
     "id": "hospitality-27-1300",
     "stage": "hospitality",
     "day": 27,
     "time": "13:00-13:15",
-    "type": "PANEL DISCUSSION",
-    "title": "\"I AM CARLO\"",
+    "type": "EXCLUSIVE CONVERSATION",
     "people": [
+      {
+        "name": "Moderator: Aylin Öney Tan",
+        "role": "Hürriyet Daily News Köşe Yazarı",
+        "location": ""
+      },
       {
         "name": "Carlo Bernardini",
         "role": "Carlo Bernardini Fine Catering & Events Kurucusu & Şefi",
@@ -1883,16 +1861,56 @@
       }
     ],
     "sponsor": "",
-    "pendingModerator": true
+    "title": "\"I AM CARLO\""
+  },
+  {
+    "id": "hospitality-27-v33-1315",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "13:15-13:45",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Dilistan Shipman",
+        "role": "İstanbul Nişantaşı Universitesi Sanat ve Tasarım Fakültesi Gastronomy & Culinary Arts Bölüm Başkanı",
+        "location": ""
+      },
+      {
+        "name": "Kazım Çil",
+        "role": "TUM & TRU Hospitality & Retail Operasyonlardan Sorumlu Genel Müdür Yardımcısı COO",
+        "location": ""
+      },
+      {
+        "name": "İlyas Faruk Tanyeri Gonzalez",
+        "role": "Ranchero ve Perran Ocakbaşı Kurucu Ortağı",
+        "location": ""
+      },
+      {
+        "name": "Zeki Özen",
+        "role": "Shakespeare Bistro Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Alper Korkmaz",
+        "role": "Kaen Sushi Kurucusu",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "RESTORAN MARKALARINDA BÜYÜME VE OPERASYONEL MÜKEMMELLİK NASIL SAĞLANIR?"
   },
   {
     "id": "hospitality-27-1315",
     "stage": "hospitality",
     "day": 27,
-    "time": "13:15-13:45",
+    "time": "13:45-14:15",
     "type": "PANEL DISCUSSION",
-    "title": "ETİN USTALIĞI VE STEAKHOUSE KÜLTÜRÜNÜN GELECEĞİ",
     "people": [
+      {
+        "name": "Moderator: Memet Özer",
+        "role": "TV Programcısı & Şef",
+        "location": ""
+      },
       {
         "name": "İbrahim Çolak",
         "role": "Elbet Steakhouse Kurucu Ortağı & Şefi",
@@ -1909,74 +1927,20 @@
         "location": ""
       },
       {
-        "name": "Adnan Sert",
-        "role": "By Ulus Steakhouse Kurucu Ortağı & İşletmecisi",
+        "name": "Ömer Seyfi Aktülün",
+        "role": "Şazeli Restaurantları Yönetim Kurulu Başkanı",
         "location": ""
       }
     ],
     "sponsor": "",
-    "pendingModerator": true
-  },
-  {
-    "id": "hospitality-27-1345",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "13:45-14:15",
-    "type": "PANEL DISCUSSION",
-    "title": "TEKNOLOJİ VE HOSPITALITY'NİN GELECEĞİ DEĞİŞEN İŞ MODELLERİ VE MİSAFİR DENEYİMİ",
-    "people": [
-      {
-        "name": "Duygu Kutluoğlu",
-        "role": "FineDine Kurucu Ortağı & CEO",
-        "location": ""
-      }
-    ],
-    "sponsor": "",
-    "pendingModerator": true
-  },
-  {
-    "id": "hospitality-27-1415",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "14:15-14:45",
-    "type": "PANEL DISCUSSION",
-    "title": "GASTRONOMİ, DOĞA VE KÜLTÜR BUTİK OTELCİLİĞİN GELECEĞİNİ NASIL ŞEKİLLENDİRİYOR?",
-    "people": [
-      {
-        "name": "Moderator: Ayfer Yavi",
-        "role": "Slow Food İstanbul Yağmur Böreği Birliği Kurucusu",
-        "location": ""
-      },
-      {
-        "name": "İsmail Kaya",
-        "role": "Bengodi Boutique Hotel Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Oben Sarıbuğa",
-        "role": "Hotel Caeli Otel Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Hande Gündoğar",
-        "role": "Nadas Kazdağları Genel Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Ezgi Serdaroğlu",
-        "role": "Teruar Urla Kurucu Ortağı ve Deneyim Küratörü",
-        "location": ""
-      }
-    ],
-    "sponsor": ""
+    "title": "ETİN USTALIĞI VE STEAKHOUSE KÜLTÜRÜNÜN GELECEĞİ"
   },
   {
     "id": "hospitality-27-1445",
     "stage": "hospitality",
     "day": 27,
-    "time": "14:45-15:00",
-    "type": "PANEL DISCUSSION",
-    "title": "GASTRONOMİ KÜLTÜRLER ARASINDA NASIL BİR KÖPRÜ KURUYOR?",
+    "time": "14:15-14:30",
+    "type": "EXCLUSIVE CONVERSATION",
     "people": [
       {
         "name": "Moderator: Gökmen Sözen",
@@ -1989,34 +1953,101 @@
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "GASTRONOMİ KÜLTÜRLER ARASINDA NASIL BİR KÖPRÜ KURUYOR?"
+  },
+  {
+    "id": "12",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "14:30-15:00",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Murat Güloğlu",
+        "role": "TV Programcısı & Gazeteci",
+        "location": ""
+      },
+      {
+        "name": "Büşra Karamancı",
+        "role": "Melas Hotels & Resorts Yönetim Kurulu Üyesi",
+        "location": ""
+      },
+      {
+        "name": "Nahit Kara",
+        "role": "Ethno & Adalya Hotels Yönetim Kurulu Üyesi",
+        "location": ""
+      },
+      {
+        "name": "Maya Tansever",
+        "role": "Sunset Grill & Bar Genel Koordinatörü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "YENİ KUŞAKLAR, YENİ DENEYİMLER VE TURİZMİN GELECEĞİ"
+  },
+  {
+    "id": "hospitality-27-1415",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "15:00-15:30",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Ayfer Yavi",
+        "role": "Slow Food İstanbul Yağmur Böreği Birliği Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "İsmail Kaya",
+        "role": "Bengodi Boutique Hotel Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Şamil Gence",
+        "role": "Caeli Genel Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Hande Gündoğar",
+        "role": "Nadas Kazdağları Genel Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Ezgi Serdaroğlu",
+        "role": "Teruar Urla Kurucu Ortağı & Deneyim Küratörü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GASTRONOMİ, DOĞA VE KÜLTÜRÜN BULUŞTUĞU YENİ KONAKLAMA DENEYİMLERİ"
+  },
+  {
+    "id": "hospitality-27-v33-1530",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "15:30-15:45",
+    "type": "SESSION",
+    "people": [],
+    "sponsor": "Yayla",
+    "title": "YAYLA TÜRKİYE OTURUMU"
   },
   {
     "id": "hospitality-27-1500",
     "stage": "hospitality",
     "day": 27,
-    "time": "15:00-15:30",
+    "time": "15:45-16:15",
     "type": "PANEL DISCUSSION",
-    "title": "DENİZ ÜRÜNLERİ GASTRONOMİSİNDE USTALIK VE KUŞAKLAR ARASI DENEYİM",
     "people": [
       {
-        "name": "Moderator: Memet Özer",
-        "role": "TV Programcısı Şefi",
-        "location": ""
-      },
-      {
-        "name": "Zeynep Petek Dursun",
-        "role": "Bebek Balıkçısı 3. Kuşak Temsilcisi & Şefi",
+        "name": "Moderator: Reha Tartıcı",
+        "role": "Gastronomi & Mutfak Kültürü Yazarı",
         "location": ""
       },
       {
         "name": "Kaan Kayhan",
         "role": "Yeniköy Balıkçısı Kurucusu & Şefi",
-        "location": ""
-      },
-      {
-        "name": "Serkan Pakkan",
-        "role": "Del Mare Executive Şefi",
         "location": ""
       },
       {
@@ -2028,83 +2059,157 @@
         "name": "Volkan Bekit",
         "role": "Bay Nihat 2. Kuşak Temsilcisi",
         "location": ""
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "hospitality-27-1530",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "15:30-15:45",
-    "type": "SOLO TALK",
-    "title": "SAĞLIKLI BESLENMEDE DOĞRU TERCİHLER VE DENGELİ YAŞAM",
-    "people": [
+      },
       {
-        "name": "Taylan Kümeli",
-        "role": "Sağlıklı Beslenme ve Diyet Uzmanı",
+        "name": "Süreyya Üzmez",
+        "role": "Trilye Restaurant Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Ertuğrul Sürgit",
+        "role": "Yalova Restaurant 3. Kuşak İşletmecisi",
         "location": ""
       }
     ],
-    "sponsor": ""
+    "sponsor": "",
+    "title": "BALIK GASTRONOMİSİNİN USTALARI İLE LEZZETTEN MARKAYA UZANAN YOLCULUK"
   },
   {
     "id": "hospitality-27-1545",
     "stage": "hospitality",
     "day": 27,
-    "time": "15:45-16:05",
+    "time": "16:15-16:45",
     "type": "PANEL DISCUSSION",
-    "title": "LA LORRAINE PANELİ",
-    "people": [],
-    "sponsor": "",
-    "pendingModerator": true,
-    "pendingSpeakers": true
+    "people": [
+      {
+        "name": "Eray Şahinbay",
+        "role": "La Lorraine Türkiye & Orta Doğu Pazarlama Direktörü",
+        "location": ""
+      }
+    ],
+    "sponsor": "La Lorraine",
+    "title": "FIRINCILIKTA DEĞİŞEN TÜKETİCİ BEKLENTİLERİ VE YENİ TRENDLER"
   },
   {
     "id": "hospitality-27-1605",
     "stage": "hospitality",
     "day": 27,
-    "time": "16:05-16:35",
+    "time": "16:45-17:15",
     "type": "PANEL DISCUSSION",
-    "title": "TÜRKİYE’DE KAHVE KÜLTÜRÜNÜN GELİŞİMİ VE MARKALARIN DÖNÜŞEN ROLÜ",
     "people": [
+      {
+        "name": "Moderator: Cenk Girginol",
+        "role": "Gastronomi Yazarı & Kahve Danışmanı",
+        "location": ""
+      },
       {
         "name": "Ahmet Yanıkoğlu",
         "role": "Caffè Nero Türkiye CEO'su",
         "location": ""
       },
       {
-        "name": "Alper Balcı",
-        "role": "Espressolab CEO",
-        "location": ""
-      },
-      {
         "name": "Samet Akbaş",
-        "role": "Coffee Factory Genel Müdürü",
+        "role": "Viyana Kahvesi CEO & Yönetim Kurulu Üyesi",
         "location": ""
       },
       {
-        "name": "Tamer Koçali",
-        "role": "Juan Valdez Marka Direktörü",
+        "name": "Erol Şahin",
+        "role": "Coffee Factory CEO",
         "location": ""
       },
       {
-        "name": "Esin Aktürk Tosya",
-        "role": "Caribou Coffee Türkiye Genel Müdürü",
+        "name": "Bülent Özgür Kılıç",
+        "role": "1401 Cofffe House Yönetim Kurulu Başkanı",
+        "location": ""
+      },
+      {
+        "name": "Sam Çeviköz",
+        "role": "Espresso Akademi Roastery Kurucu Ortağı",
+        "location": ""
+      },
+      {
+        "name": "Ünal Karababa",
+        "role": "Mikel Coffee Türkiye Genel Müdür Yardımcısı",
         "location": ""
       }
     ],
     "sponsor": "",
-    "pendingModerator": true
+    "title": "TÜRKİYE’DE KAHVE KÜLTÜRÜNÜN GELİŞİMİ VE MARKALARIN DÖNÜŞEN ROLÜ"
+  },
+  {
+    "id": "hospitality-27-v33-1715",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "17:15-17:45",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Başak Nur Okşak",
+        "role": "Gastronomi Gazetecisi",
+        "location": ""
+      },
+      {
+        "name": "Zeki Kara",
+        "role": "Karaca CookPlus Catering Koordinatör Şef",
+        "location": ""
+      },
+      {
+        "name": "Rafet İnce",
+        "role": "Şef, Girişimci & TV Programcısı",
+        "location": ""
+      },
+      {
+        "name": "Murat İlke Özipek",
+        "role": "Gastronometro Müdürü & Eğitmen Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GASTRONOMİDE OPERASYONEL MÜKEMMELLİK VE YARATICILIK NASIL BİR ARAYA GELİR?"
+  },
+  {
+    "id": "hospitality-27-1705",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "17:45-18:15",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Ebru Erberdi",
+        "role": "7 Catering Yönetim Kurulu Başkanı & Köşe Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Erdem Dönmez",
+        "role": "Carlo Bernardini Fine Catering & Events Kurucu Ortağı & Şefi",
+        "location": ""
+      },
+      {
+        "name": "Ali Ronay",
+        "role": "Studio Ronay Kurucu Şef",
+        "location": ""
+      },
+      {
+        "name": "Ayça Bilgin",
+        "role": "Shine Hospitality Kurucusu, Otel Yatırımları ve Marka Geliştirme Stratejisti",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GASTRONOMİDE DENEYİM TASARIMI MARKA DEĞERİNİN İNŞASINDA NASIL BİR ROL OYNUYOR?"
   },
   {
     "id": "hospitality-27-1635",
     "stage": "hospitality",
     "day": 27,
-    "time": "16:35-17:05",
+    "time": "18:15-18:45",
     "type": "PANEL DISCUSSION",
-    "title": "TÜRK MUTFAĞININ HAFIZASI VE YAŞAYAN LOKANTA KÜLTÜRÜ",
     "people": [
+      {
+        "name": "Moderator: Esin Sungur",
+        "role": "Mutfak Dostları Derneği Başkanı",
+        "location": ""
+      },
       {
         "name": "Taner Olca",
         "role": "Yesemek 3. Kuşak Temsilcisi",
@@ -2127,29 +2232,514 @@
       }
     ],
     "sponsor": "",
+    "title": "TÜRK MUTFAĞININ HAFIZASI VE YAŞAYAN LOKANTA KÜLTÜRÜ"
+  },
+  {
+    "id": "eyup-26-v33-1100",
+    "stage": "eyup",
+    "day": 26,
+    "time": "11:00-11:40",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Orkun Bulut",
+        "role": "Girişimci & Gastronomi Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Volkan Arık",
+        "role": "Lokanta by Divan Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Serkan Anavatan",
+        "role": "Yelve Urla Kurucusu & Şefi",
+        "location": ""
+      },
+      {
+        "name": "Serkan Aksoy",
+        "role": "Nicole Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Bahtiyar Büyükduman",
+        "role": "Telezzüz Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Özgür Üstün",
+        "role": "Avlu Restaurant Executive Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GELENEKSEL LEZZETLERİN ÇAĞDAŞ YORUMU"
+  },
+  {
+    "id": "eyup-26-v33-1140",
+    "stage": "eyup",
+    "day": 26,
+    "time": "11:40-12:20",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Oğuz Otay",
+        "role": "Gezmek Yetmez Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Ufuk Ügümü",
+        "role": "Hünkar Lokantası 4. Kuşak Temsilcisi",
+        "location": ""
+      },
+      {
+        "name": "Süleyman Tarakçı",
+        "role": "Nalia Kurucusu & Şefi",
+        "location": ""
+      },
+      {
+        "name": "Ergin Sönmezler",
+        "role": "Yanyalı Fehmi Lokantası 3. Kuşak Temsilcisi",
+        "location": ""
+      },
+      {
+        "name": "Hacı Abdullah Korun",
+        "role": "Hacı Abdullah Lokantası Kurucu Ortağı",
+        "location": ""
+      },
+      {
+        "name": "Özay Çınar",
+        "role": "Pandeli Restoran Müdürü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GELENEKSEL RESTORANLAR GASTRONOMİ TURİZMİNE NASIL KATKI SAĞLIYOR?"
+  },
+  {
+    "id": "eyup-26-v33-1220",
+    "stage": "eyup",
+    "day": 26,
+    "time": "12:20-12:50",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Bahar Akbulut",
+        "role": "Fine People Community Kurucusu & Girişimci",
+        "location": ""
+      },
+      {
+        "name": "Yener Özden",
+        "role": "Istanbul Marriott Hotel Şişli Yiyecek & İçecek Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Samuel Linder",
+        "role": "The Peninsula Istanbul Yiyecek & İçecekten Sorumlu Genel Müdür Yardımcısı",
+        "location": ""
+      },
+      {
+        "name": "İlhan Beşer",
+        "role": "Çırağan Palace Kempinski Istanbul Yiyecek & İçecek Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Melih Kayır",
+        "role": "The Grand Tarabya Managed by Accor Yiyecek & İçecek Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Alper Sonuk",
+        "role": "Fairmont Quasar Istanbul Yiyecek & İçecek Müdürü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "OTELCİLİKTE YİYECEK & İÇECEK YÖNETİMİ VE RESTORAN DENEYİMİNİN KURGULANMASI"
+  },
+  {
+    "id": "eyup-26-v33-1250",
+    "stage": "eyup",
+    "day": 26,
+    "time": "12:50-13:30",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Mehmet Ali Börtücene",
+        "role": "The Rabbit Hole Kurucusu & Şefi",
+        "location": ""
+      },
+      {
+        "name": "Atakan Özen",
+        "role": "Tola Bursa Kurcusu & Şefi",
+        "location": ""
+      },
+      {
+        "name": "Tuna Yüzüak",
+        "role": "Alma Table Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Umut Karakuş",
+        "role": "Muutto Kurucu Ortağı & Şefi",
+        "location": ""
+      },
+      {
+        "name": "Ahmet Gündoğar",
+        "role": "SUZ Restaurant Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Aslı Mutlu",
+        "role": "Karnas Vineyards Restaurant Kurucu Ortağı & Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "YARATICILIK VE KİMLİK İLE GELİŞEN ŞEF RESTORANLARININ BAŞARI FORMÜLÜ",
     "pendingModerator": true
   },
   {
-    "id": "hospitality-27-1705",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "17:05-17:35",
+    "id": "eyup-26-v33-1330",
+    "stage": "eyup",
+    "day": 26,
+    "time": "13:30-14:10",
     "type": "PANEL DISCUSSION",
-    "title": "GASTRONOMİDE DENEYİM TASARIMI VE DEĞİŞEN BEKLENTİLER",
     "people": [
       {
-        "name": "Moderator: Ebru Erberdi",
-        "role": "7 Catering Kurucusu & Köşe Yazarı",
+        "name": "Moderator: Selin Kutucular",
+        "role": "Yazar",
         "location": ""
       },
       {
-        "name": "Erdem Dönmez",
-        "role": "Carlo Bernardini Fine Catering & Events Kurucu Ortağı & Şefi",
+        "name": "Tahsin Fettahoğlu",
+        "role": "İskele Balık Lara Kurucusu",
         "location": ""
       },
       {
-        "name": "Ali Ronay",
-        "role": "Studio Ronay Kurucu Şef",
+        "name": "Taner Aydın",
+        "role": "Girida Port Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Zeynep Petek Dursun",
+        "role": "Bebek Balıkçısı 3. Kuşak Temsilcisi & Şefi",
+        "location": ""
+      },
+      {
+        "name": "Ziya Kaçar",
+        "role": "Calypso Fish Kurucu Ortağı & Şefi",
+        "location": ""
+      },
+      {
+        "name": "Serkan Pakkan",
+        "role": "Del Mare Executive Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GELENEKTEN GÜNÜMÜZE BALIK RESTORANLARINDA DEĞİŞEN GASTRONOMİ KÜLTÜRÜ"
+  },
+  {
+    "id": "eyup-26-v33-1410",
+    "stage": "eyup",
+    "day": 26,
+    "time": "14:10-14:25",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Ege Ermeç",
+        "role": "Doğanay Gıda Genel Müdürü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "ŞALGAMIN GASTRONOMİDEKİ YERİ",
+    "pendingModerator": true
+  },
+  {
+    "id": "eyup-26-v33-1425",
+    "stage": "eyup",
+    "day": 26,
+    "time": "14:25-14:55",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Yağız İzgül",
+        "role": "TV Programcısı & Şef",
+        "location": ""
+      },
+      {
+        "name": "Tolgahan Bıyıklı",
+        "role": "TURK Fatih Tutak Head Sommelier",
+        "location": ""
+      },
+      {
+        "name": "Ersin Topkara",
+        "role": "neolokal Sommelier",
+        "location": ""
+      },
+      {
+        "name": "Miray Kocababuç",
+        "role": "Nicole Restaurant Sommelier",
+        "location": ""
+      },
+      {
+        "name": "Nebiye Kaya",
+        "role": "The Peninsula Istanbul Baş Sommelieri",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "KADEHLE DERİNLEŞEN TABAKLARDA SOMMELIER’İN GASTRONOMİ DENEYİMİNDEKİ ROLÜ"
+  },
+  {
+    "id": "eyup-26-v33-1455",
+    "stage": "eyup",
+    "day": 26,
+    "time": "14:55-15:10",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Orkun Bulut",
+        "role": "Girişimci & Gastronomi Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Duygu Kutluoğlu",
+        "role": "FineDine' Kurucu Ortağı & CEO",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "YAPAY ZEKANIN TEKNOLOJİ & HOSPITALITY'E ETKİSİ"
+  },
+  {
+    "id": "eyup-26-v33-1510",
+    "stage": "eyup",
+    "day": 26,
+    "time": "15:10-15:50",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: İpek İzci",
+        "role": "Hürriyet Gazetesi Köşe Yazarı & Gazeteci",
+        "location": ""
+      },
+      {
+        "name": "Savaş Aydemir",
+        "role": "Conrad Istanbul Bosphorus Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Görkem Özkan",
+        "role": "Four Seasons Hotel Istanbul at the Bosphorus Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Soner Kesgin",
+        "role": "Swissôtel The Bosphorus İstanbul Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Yusuf Gülyiyen",
+        "role": "Grand Hyatt İstanbul Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Şevket Cihan",
+        "role": "Shangri-La Bosphorus İstanbul Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Ali İhsan Özkan",
+        "role": "The Ritz Carlton Istanbul Executive Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "LÜKS OTEL GASTRONOMİSİNDE GLOBAL STANDARTLAR & YEREL KİMLİK"
+  },
+  {
+    "id": "eyup-26-v33-1550",
+    "stage": "eyup",
+    "day": 26,
+    "time": "15:50-16:10",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Özge Şahin",
+        "role": "Atıksız Mutfak Şefi & TV Programcısı",
+        "location": ""
+      },
+      {
+        "name": "Jale Balcı",
+        "role": "Gastronomi Danışmanı, Şef & Yazar & Gıda Teknikeri",
+        "location": ""
+      },
+      {
+        "name": "Dilara Koçak",
+        "role": "Beslenme ve Diyet Uzmanı, FAO Gıda Şampiyonu, The Good Wild Co Kurucu Ortağı, Sürdürülebilir Yaşam Elçisi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "İYİ GIDA, SAĞLIKLI YAŞAM VE SÜRDÜRÜLEBİLİR GELECEĞİN YENİ DİNAMİKLERİ NELER?"
+  },
+  {
+    "id": "eyup-26-v33-1610",
+    "stage": "eyup",
+    "day": 26,
+    "time": "16:10-16:25",
+    "type": "SOLO TALK",
+    "people": [
+      {
+        "name": "Miguel Ángel Millán",
+        "role": "EMi I General Manager & Wine Director",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "DREAMERS"
+  },
+  {
+    "id": "eyup-26-v33-1625",
+    "stage": "eyup",
+    "day": 26,
+    "time": "16:25-16:55",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Reyhan Ülker",
+        "role": "Aposto Editör",
+        "location": ""
+      },
+      {
+        "name": "Gökçen Yıldırım",
+        "role": "Yazz Collective Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Özgür Bozgurt",
+        "role": "Six Senses Kaplankaya Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Nihat Doğtürk",
+        "role": "Miori Göcek Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "İsmail Akdeniz",
+        "role": "ATG Hotels Group Gastronomi Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Hüseyin Büyükbostancı",
+        "role": "Ahãma Executive Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "YEREL KİMLİK VE KÜRESEL TRENDLER GASTRONOMİYİ NASIL DÖNÜŞTÜRÜYOR?"
+  },
+  {
+    "id": "eyup-26-v33-1655",
+    "stage": "eyup",
+    "day": 26,
+    "time": "16:55-17:25",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Natali Yarcan Çelikkol",
+        "role": "TV Programcısı & Yemek Kitabı Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Mustafa Özgüler",
+        "role": "Orkide Pastanesi İşletme Ortağı",
+        "location": ""
+      },
+      {
+        "name": "Malte Rohmann",
+        "role": "The Peninsula Istanbul Pastry Şefi",
+        "location": ""
+      },
+      {
+        "name": "Gamze Baş",
+        "role": "Çikolata Şefi & Tat Küratörü",
+        "location": ""
+      },
+      {
+        "name": "Marc Pauquet",
+        "role": "Le Cordon Bleu Istanbul Eğitmen Şefi & Pastane Bölümü Yöneticisi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "PATISSERIE VE ÇİKOLATA DÜNYASINDA YENİ TRENDLER VE YARATICI YAKLAŞIMLAR"
+  },
+  {
+    "id": "eyup-26-v33-1725",
+    "stage": "eyup",
+    "day": 26,
+    "time": "17:25-17:55",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Aykut Üner",
+        "role": "İçecek Atölyesi Kurucusu & İçecek Uzmanı",
+        "location": ""
+      },
+      {
+        "name": "Talat Arslan",
+        "role": "T’brothers Kurucu Ortağı Usla Bar, Servis & Miksoloji Eğitmeni",
+        "location": ""
+      },
+      {
+        "name": "Bircan Çelik",
+        "role": "Cocktail Mafia Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Vedat Akar",
+        "role": "Mathilda Kurucusu & Bartender",
+        "location": ""
+      },
+      {
+        "name": "Onur Balk",
+        "role": "Inspired Cocktail & Agata Bar Kurucusu ve Miksoloji Uzmanı",
+        "location": ""
+      },
+      {
+        "name": "Musa Yavuz",
+        "role": "Yiyecek & İçecek Koordinatörü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "MODERN KOKTEYL KÜLTÜRÜNDE LEZZET, TEKNİK & DENEYİMİN SINIRLARI NASIL GENİŞLİYOR?"
+  },
+  {
+    "id": "eyup-26-v33-1755",
+    "stage": "eyup",
+    "day": 26,
+    "time": "17:55-18:25",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Jülide Dalyan",
+        "role": "Gastronomiden Haberler Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Altuğ Tezer",
+        "role": "86 Ent Group Koordinatör Şefi",
+        "location": ""
+      },
+      {
+        "name": "Tolga Kamiloğlu",
+        "role": "Ritüel Kurucusu & Şefi",
         "location": ""
       },
       {
@@ -2158,89 +2748,505 @@
         "location": ""
       },
       {
-        "name": "Ayça Bilgin",
-        "role": "Shine Hospitality Kurucusu",
-        "location": ""
-      },
-      {
-        "name": "Rafet İnce",
-        "role": "Şef, Girişimci & TV Programcısı",
-        "location": ""
-      },
-      {
-        "name": "Doğa Çitçi",
-        "role": "MSM Mutfak Sanatları Merkezi Koordinatörü",
-        "location": ""
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "hospitality-27-1735",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "17:35-18:05",
-    "type": "PANEL DISCUSSION",
-    "title": "GÜNÜMÜZ DİNAMİKLERİYLE BÜYÜMENİN VE ZİNCİRLEŞMENİN KODLARI",
-    "people": [
-      {
-        "name": "Moderator: Ebru Erke",
-        "role": "Hürriyet Gazetesi Yazarı",
-        "location": ""
-      },
-      {
-        "name": "Engin Aras",
-        "role": "The Hunger Kurucu Ortağı",
-        "location": ""
-      },
-      {
-        "name": "Cihan Kamer",
-        "role": "HuQQabaz Kurucusu",
-        "location": ""
-      },
-      {
-        "name": "Faruk Tanyeri Gonzalez",
-        "role": "Ranchero Kurucu Ortağı",
-        "location": ""
-      },
-      {
-        "name": "Ayşe Kazancı",
-        "role": "Cookshop Kurucusu",
-        "location": ""
-      }
-    ],
-    "sponsor": ""
-  },
-  {
-    "id": "hospitality-27-1805",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "18:05-18:35",
-    "type": "PANEL DISCUSSION",
-    "title": "GASTRONOMİDE ÖLÇEK BÜYÜRKEN KALİTE VE YARATICILIK NASIL KORUNUR?",
-    "people": [
-      {
-        "name": "Rıza Belenkaya",
-        "role": "Midpoint Ar-Ge Şefi",
-        "location": ""
-      },
-      {
-        "name": "Mehmet Soykan",
-        "role": "BTA Food Services Kurumsal Mutfak Şefi",
-        "location": ""
-      },
-      {
-        "name": "Zeki Kara",
-        "role": "Karaca CookPlus Catering Koordinatör şef",
-        "location": ""
-      },
-      {
-        "name": "Mustafa Özgüler",
-        "role": "Orkide Pastanesi İşletme Ortağı",
+        "name": "Uğur Alparslan",
+        "role": "Culinary Director at Pera Palace Hotel",
         "location": ""
       }
     ],
     "sponsor": "",
-    "pendingModerator": true
+    "title": "MUTFAK VİZYONU VE LİDERLİK GASTRONOMİDE BAŞARIYI NASIL ŞEKİLLENDİRİR?"
+  },
+  {
+    "id": "eyup-27-v33-1000",
+    "stage": "eyup",
+    "day": 27,
+    "time": "10:00-10:40",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Burçak Şener",
+        "role": "Gastronomi Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Yakup Yıldız",
+        "role": "Çırağan Palace Kempinski Bartender",
+        "location": ""
+      },
+      {
+        "name": "Okan Sergül",
+        "role": "The Ritz-Carlton Istanbul Head Bartender",
+        "location": ""
+      },
+      {
+        "name": "Burak Temnur",
+        "role": "Four Seasons Hotel Istanbul at Sultanahmet Head Miksolojist",
+        "location": ""
+      },
+      {
+        "name": "Atakan Atasoy",
+        "role": "Hilton İstanbul Bosphorus Head Bartender",
+        "location": ""
+      },
+      {
+        "name": "Ramazan Dadak",
+        "role": "Upperist Bar Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Necip Tolga Güleç",
+        "role": "JW Marriott Istanbul Bosphorus Bartender",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "OTEL VE RESTORAN GASTRONOMİSİNDE OPERASYONEL MÜKEMMELLİK & MİSAFİR DENEYİMİ"
+  },
+  {
+    "id": "eyup-27-v33-1040",
+    "stage": "eyup",
+    "day": 27,
+    "time": "10:40-11:10",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Reha Arar",
+        "role": "NET Holding Yönetim Kurulu Başkanı",
+        "location": ""
+      },
+      {
+        "name": "Serdar Çalışkan",
+        "role": "Swissôtel The Bosphorus Istanbul Yiyecek & İçecek Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Eyüp Nezirler",
+        "role": "Raffles Istanbul Yiyecek & İçecek Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Eylül Candan",
+        "role": "Cactus Hotels Group Yiyecek & İçecek Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Barış Metin",
+        "role": "CVK Park Bosphorus Hotel İstanbul Yiyecek & İçecek Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Rufi Yalın",
+        "role": "Mikla Restoran Müdürü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "OTEL GASTRONOMİSİNDE OPERASYONEL MÜKEMMELLİK & MİSAFİR DENEYİMİ"
+  },
+  {
+    "id": "eyup-27-v33-1110",
+    "stage": "eyup",
+    "day": 27,
+    "time": "11:10-11:40",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Berna Abik",
+        "role": "Gazete Oksijen Editörü",
+        "location": ""
+      },
+      {
+        "name": "Ertan Özturan",
+        "role": "Madera Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Kenan Çetinkaya",
+        "role": "Araf İstanbul Kurucusu & Şefi",
+        "location": ""
+      },
+      {
+        "name": "İsmet Saz",
+        "role": "İsmet Saz Grup Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Mevlüt Özkaya",
+        "role": "Mürver Restaurant Executive Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "ATEŞİN İZİNDE GELENEKSEL MUTFAKTAN ÇAĞDAŞ YORUMLARA"
+  },
+  {
+    "id": "eyup-27-v33-1140",
+    "stage": "eyup",
+    "day": 27,
+    "time": "11:40-12:20",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Faruk Şüyün",
+        "role": "Ekonomi Gazetesi Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Okan Aydemir",
+        "role": "Raffles Istanbul Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Serhat Eliçora",
+        "role": "CVK Park Bosphorus Hotel İstanbul Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Şafak Erten",
+        "role": "JW Marriott Istanbul Bosphorus Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Alexis Atlamazoğlu",
+        "role": "The Grand Tarabya Bosphorus Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Selim Ay",
+        "role": "Hilton İstanbul Bomonti Mutfak Şefi",
+        "location": ""
+      },
+      {
+        "name": "Efe Anıl Çetin",
+        "role": "Rixos Tersane İstanbul Executive Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "LÜKS OTEL MUTFAKLARINDA EKİP YÖNETİMİ, KALİTE & SÜRDÜRÜLEBİLİR BAŞARI"
+  },
+  {
+    "id": "eyup-27-v33-1220",
+    "stage": "eyup",
+    "day": 27,
+    "time": "12:20-12:50",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Reha Tartıcı",
+        "role": "Gastronomi & Mutfak Kültürü Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Zeynep Yıldız",
+        "role": "Midpoint Group Satın Alma Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Mehmet Soykan",
+        "role": "BTA Food & Services Merkez Mutfak Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Talip Günel",
+        "role": "Happy Group Satın Alma Müdürü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GASTRONOMİDE TEDARİK STRATEJİLERİ VE MUTFAK VİZYONUNUN BULUŞMASI"
+  },
+  {
+    "id": "eyup-27-v33-1250",
+    "stage": "eyup",
+    "day": 27,
+    "time": "12:50-13:30",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Prof. Özge Samancı",
+        "role": "Yemek Kültürü Tarihçisi",
+        "location": ""
+      },
+      {
+        "name": "Birkan Erköylü",
+        "role": "c-paces Group Executive Şefi & Feriye İstanbul Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Alper Tuğrul Ünlütürk",
+        "role": "Natolia Kurucu Ortağı & Mutfak Koordinatörü",
+        "location": ""
+      },
+      {
+        "name": "Vedat Demir",
+        "role": "Dogus Hospitality & Retail Group Marka Şefi",
+        "location": ""
+      },
+      {
+        "name": "Onur Dönmez",
+        "role": "Tuğra Restoran Mutfak Şefi",
+        "location": ""
+      },
+      {
+        "name": "Mehmet Gök",
+        "role": "Bocuse d'Or Türkiye Başkanı & Chef At Work Danışmanlık Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Rıza Belenkaya",
+        "role": "Midpoint Ar-Ge Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "TÜRK MUTFAĞININ KÖKLÜ MİRASI & ÇAĞDAŞ GASTRONOMİDEKİ YORUMLARI"
+  },
+  {
+    "id": "eyup-27-v33-1330",
+    "stage": "eyup",
+    "day": 27,
+    "time": "13:30-14:10",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Esin Övet",
+        "role": "Gazeteci & Yazar",
+        "location": ""
+      },
+      {
+        "name": "Uğur Alparslan",
+        "role": "Pera Palace Hotel Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Arif Madakbaş",
+        "role": "Renaissance Polat Istanbul Hotel Yeşilköy Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Ali Elikkaya",
+        "role": "Sheraton İstanbul Ataköy Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Orhan Eryılmaz",
+        "role": "Calista Luxury Resort Mutfak Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Taner Özkan",
+        "role": "JW Marriott Hotel Ankara Mutfak Direktörü",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "OTEL MUTFAKLARINDA ULUSLARARASI STANDARTLARI KORURKEN ÖZGÜNLÜK NASIL SAĞLANIYOR?"
+  },
+  {
+    "id": "eyup-27-v33-1410",
+    "stage": "eyup",
+    "day": 27,
+    "time": "14:10-14:50",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Lale Elmacıoğlu",
+        "role": "Gazeteci & Ekotürk TV Sunucusu",
+        "location": ""
+      },
+      {
+        "name": "Eren Canatar",
+        "role": "Townhouse Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Emir Ali Enç",
+        "role": "Fahri Konsolos Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Serhan Akıncı",
+        "role": "Minibar Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Emirhan Paralı",
+        "role": "Tavern Kurucu Ortağı",
+        "location": ""
+      },
+      {
+        "name": "Yiğit Onbaşı",
+        "role": "Kiff Kurucu Ortağı",
+        "location": ""
+      },
+      {
+        "name": "Pınar Ece Kaleli",
+        "role": "Artsy & Scallop Kurucusu",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "BAĞIMSIZ MEKÂNLARIN YÜKSELİŞİNDE YARATICILIK, REKABET & MARKALAŞMA"
+  },
+  {
+    "id": "eyup-27-v33-1450",
+    "stage": "eyup",
+    "day": 27,
+    "time": "14:50-15:30",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Memet Özer",
+        "role": "TV Programcısı & Şef",
+        "location": ""
+      },
+      {
+        "name": "Suna Hakyemez",
+        "role": "ROKA Türkiye Head Şef",
+        "location": ""
+      },
+      {
+        "name": "Emrah Orak",
+        "role": "Zuma Türkiye Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Fatih Alkan",
+        "role": "Akira Back Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Korhan Gülsoy",
+        "role": "Inari Omakase Group Executive Şefi",
+        "location": ""
+      },
+      {
+        "name": "Barlas Günebak",
+        "role": "Roku Omakase Kurucusu & Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "UZAK DOĞU MUTFAĞI'NIN TÜRKİYE'DEKİ FINE DINING YORUMU"
+  },
+  {
+    "id": "eyup-27-v33-1530",
+    "stage": "eyup",
+    "day": 27,
+    "time": "15:30-16:00",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Başak Nur Okşak",
+        "role": "Gastronomi Gazetecisi",
+        "location": ""
+      },
+      {
+        "name": "Ercan Egi",
+        "role": "Swissôtel The Bosphorus Pastry Şefi",
+        "location": ""
+      },
+      {
+        "name": "Yalçın Köse",
+        "role": "Four Seasons Bosphorus Executive Pastry Chef",
+        "location": ""
+      },
+      {
+        "name": "Harun Gümüş",
+        "role": "Çırağan Palace Kempinski, Istanbul Executive Pastry Şefi",
+        "location": ""
+      },
+      {
+        "name": "Barış Uçar",
+        "role": "Raffles Istanbul Pastry Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "LÜKS OTEL PASTACILIĞINDA İMZA LEZZETLER & ÖZGÜN KİMLİK"
+  },
+  {
+    "id": "eyup-27-v33-1600",
+    "stage": "eyup",
+    "day": 27,
+    "time": "16:00-16:30",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Defne Tüysüzoğlu",
+        "role": "Le Cordon Bleu Türkiye Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Kübra Yaman",
+        "role": "Otto Bite Executive Pastry Şefi",
+        "location": ""
+      },
+      {
+        "name": "Gökhan Ali Çamkerten",
+        "role": "Viyana Kahvesi Şefi",
+        "location": ""
+      },
+      {
+        "name": "Serpil Ürgen",
+        "role": "Maçakızı Pastry Şefi",
+        "location": ""
+      },
+      {
+        "name": "Merve Burcu Akbulut",
+        "role": "Merveilleux Patisserie Kurucusu & Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "LÜKS RESTORAN YÖNETİMİNDE DENEYİM & HİZMET STANDARTLARI NASIL DEĞİŞİYOR?"
+  },
+  {
+    "id": "eyup-27-v33-1700",
+    "stage": "eyup",
+    "day": 27,
+    "time": "17:00-17:15",
+    "type": "SOLO TALK",
+    "people": [
+      {
+        "name": "Özgür Kızıl",
+        "role": "Coffee Trader & Belgesel Yönetmeni",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "YENİ BİR BAŞLANGIÇ: GASTRONOMİDE KAHVENİN HAK ETTİĞİ YER"
+  },
+  {
+    "id": "eyup-27-v33-1715",
+    "stage": "eyup",
+    "day": 27,
+    "time": "17:15-17:45",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Aliye Gümüş",
+        "role": "Gazeteci ve Gastronomi Kültürü Yazarı",
+        "location": ""
+      },
+      {
+        "name": "Çağrı Karaboğa",
+        "role": "Grand Hyatt İstanbul Outlet Manager",
+        "location": ""
+      },
+      {
+        "name": "Mehmet Erhan Özel",
+        "role": "Swissôtel The Bosphorus Head Sommelier",
+        "location": ""
+      },
+      {
+        "name": "Alper Sapan",
+        "role": "CVK Park Bosphrous İstanbul Head Sommelier",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "ULUSLARARASI RESTORAN MARKALARINDA İÇECEK EŞLEŞMELERİ NASIL OLUŞTURULUYOR?"
   }
 ]
