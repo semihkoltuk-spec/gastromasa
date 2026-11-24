@@ -17,11 +17,16 @@
     "type": "EXCLUSIVE CONVERSATION",
     "people": [
       {
+        "name": "Moderator: Rafa Tonon",
+        "role": "Gastronomy Journalist & Food Writer",
+        "location": "Porto, Portugal"
+      },
+      {
         "name": "Pierre Hermé",
-        "role": "Pierre Hermé Paris",
+        "role": "Pierre Hermé, Pastry Chef & Chocolatier, Founder of Maison Pierre Hermé Paris",
         "location": "Paris, France",
-        "photo": "assets/chefs/pierre-herme.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/pierre-herme.webp"
       }
     ],
     "sponsor": "",
@@ -46,9 +51,15 @@
         "preserveRole": true
       },
       {
-        "name": "Fettah Tamince",
-        "role": "Chairman of the Board, Rixos",
-        "location": "İstanbul, Türkiye",
+        "name": "Pelin Akın",
+        "role": "Akfen Holding Board Member",
+        "location": "",
+        "preserveRole": true
+      },
+      {
+        "name": "Barış Tansever",
+        "role": "Sunset Grill & Bar Founder",
+        "location": "",
         "preserveRole": true
       }
     ],
@@ -66,11 +77,11 @@
         "name": "Eduard Xatruch",
         "role": "Disfrutar",
         "location": "Barcelona, Spain",
-        "photo": "assets/chefs/eduardxatruch.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/eduardxatruch.webp"
       }
     ],
-    "sponsor": "CHEFseasons",
+    "sponsor": "",
     "title": "Disfrutar: Yaratıcılık ve Kültür"
   },
   {
@@ -84,30 +95,30 @@
         "name": "Luiz Filipe Souza",
         "role": "Evvai",
         "location": "São Paulo, Brasil",
-        "photo": "assets/chefs/luizfilipesouza.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/luizfilipesouza.webp"
       }
     ],
     "sponsor": "",
     "title": "Evvai ve Oriundi Mutfağı"
   },
   {
-    "id": "19",
+    "id": "26",
     "stage": "main",
     "day": 26,
     "time": "11:50-12:05",
-    "type": "SOLO TALK",
+    "type": "LIVE COOKING DEMO",
     "people": [
       {
-        "name": "Nicolai Nørregaard",
-        "role": "Kadeau",
-        "location": "Copenhagen, Denmark",
-        "photo": "assets/chefs/nicolainørregaard.webp",
-        "preserveRole": true
+        "name": "Antonio Bachour",
+        "role": "BACHOUR",
+        "location": "Miami, USA",
+        "preserveRole": true,
+        "photo": "assets/chefs/antoniobachour.webp"
       }
     ],
     "sponsor": "",
-    "title": ""
+    "title": "Üç Kültürde Pastacılık Sanatı"
   },
   {
     "id": "20",
@@ -120,8 +131,8 @@
         "name": "Mauro Uliassi",
         "role": "Uliassi",
         "location": "Senigallia, Italy",
-        "photo": "assets/chefs/massimouliassi.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/massimouliassi.webp"
       }
     ],
     "sponsor": "",
@@ -138,8 +149,8 @@
         "name": "Jaime Rodríguez",
         "role": "CELELE",
         "location": "Cartagena, Colombia",
-        "photo": "assets/chefs/jaimerodriguez.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/jaimerodriguez.webp"
       }
     ],
     "sponsor": "",
@@ -150,22 +161,17 @@
     "stage": "main",
     "day": 26,
     "time": "12:40-12:55",
-    "type": "LIVE COOKING DEMO",
+    "type": "SOLO TALK",
     "people": [
-      {
-        "name": "Introduced by Serda Büyükkoyuncu",
-        "role": "Travel Writer & TV Presenter",
-        "location": "İstanbul, Türkiye"
-      },
       {
         "name": "Pia León",
         "role": "Kjolle",
         "location": "Lima, Peru",
-        "photo": "assets/chefs/pialeon.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/pialeon.webp"
       }
     ],
-    "sponsor": "CHEFseasons",
+    "sponsor": "",
     "title": "Doğa ve Coğrafya: Dönüşen Malzemeler"
   },
   {
@@ -179,8 +185,8 @@
         "name": "René Frank",
         "role": "CODA",
         "location": "Berlin, Germany",
-        "photo": "assets/chefs/renefrank.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/renefrank.webp"
       }
     ],
     "sponsor": "",
@@ -197,8 +203,8 @@
         "name": "Emmanuel Renaut",
         "role": "Flocons de Sel",
         "location": "Megève, France",
-        "photo": "assets/chefs/emmanuelrenaut.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/emmanuelrenaut.webp"
       }
     ],
     "sponsor": "",
@@ -215,30 +221,30 @@
         "name": "Bruno Verjus",
         "role": "Table",
         "location": "Paris, France",
-        "photo": "assets/chefs/brunoverjus.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/brunoverjus.webp"
+      }
+    ],
+    "sponsor": "",
+    "title": "Sofra | Yabancıların Birbirini İnsan Olarak Tanıdığı Yer"
+  },
+  {
+    "id": "19",
+    "stage": "main",
+    "day": 26,
+    "time": "13:40-14:00",
+    "type": "SOLO TALK",
+    "people": [
+      {
+        "name": "Nicolai Nørregaard",
+        "role": "Kadeau",
+        "location": "Copenhagen, Denmark",
+        "preserveRole": true,
+        "photo": "assets/chefs/nicolainørregaard.webp"
       }
     ],
     "sponsor": "",
     "title": ""
-  },
-  {
-    "id": "26",
-    "stage": "main",
-    "day": 26,
-    "time": "13:40-14:00",
-    "type": "LIVE COOKING DEMO",
-    "people": [
-      {
-        "name": "Antonio Bachour",
-        "role": "BACHOUR",
-        "location": "Miami, USA",
-        "photo": "assets/chefs/antoniobachour.webp",
-        "preserveRole": true
-      }
-    ],
-    "sponsor": "",
-    "title": "Üç Kültürde Pastacılık Sanatı"
   },
   {
     "id": "27",
@@ -251,8 +257,8 @@
         "name": "Christian Escribà",
         "role": "Escribà",
         "location": "Barcelona, Spain",
-        "photo": "assets/chefs/christianescriba.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/christianescriba.webp"
       }
     ],
     "sponsor": "",
@@ -269,8 +275,8 @@
         "name": "Paolo Casagrande",
         "role": "Lasarte",
         "location": "Barcelona, Spain",
-        "photo": "assets/chefs/paolocasagrande.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/paolocasagrande.webp"
       }
     ],
     "sponsor": "",
@@ -287,8 +293,8 @@
         "name": "Hiroyasu Kawate",
         "role": "Florilège",
         "location": "Tokyo, Japan",
-        "photo": "assets/chefs/hiroyasukawate.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/hiroyasukawate.webp"
       }
     ],
     "sponsor": "",
@@ -305,8 +311,8 @@
         "name": "Franco Pepe",
         "role": "Pepe in Grani",
         "location": "Caiazzo, Italy",
-        "photo": "assets/chefs/francopepe.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/francopepe.webp"
       }
     ],
     "sponsor": "",
@@ -328,22 +334,22 @@
         "name": "Pierre Hermé",
         "role": "Pierre Hermé Paris",
         "location": "Paris, France",
-        "photo": "assets/chefs/pierre-herme.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/pierre-herme.webp"
       },
       {
         "name": "Bruno Verjus",
         "role": "Table",
         "location": "Paris, France",
-        "photo": "assets/chefs/brunoverjus.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/brunoverjus.webp"
       },
       {
         "name": "Eric Vildgaard",
         "role": "Jordnær",
         "location": "Copenhagen, Denmark",
-        "photo": "assets/chefs/ericvildgaard.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/ericvildgaard.webp"
       }
     ],
     "sponsor": "",
@@ -354,13 +360,8 @@
     "stage": "main",
     "day": 26,
     "time": "15:40-15:55",
-    "type": "SOLO TALK",
+    "type": "EXCLUSIVE CONVERSATION",
     "people": [
-      {
-        "name": "Introduced by Teoman Hünal",
-        "role": "Drinks & Travel Writer",
-        "location": "İstanbul, Türkiye"
-      },
       {
         "name": "Moderator: Paolo Vizzari",
         "role": "Gastronomic Storyteller",
@@ -370,8 +371,8 @@
         "name": "Enrico 'Chicco' Cerea",
         "role": "Da Vittorio",
         "location": "Brusaporto, Italy",
-        "photo": "assets/chefs/enrico'chicco'cerea.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/enrico'chicco'cerea.webp"
       }
     ],
     "sponsor": "",
@@ -388,8 +389,8 @@
         "name": "Alexandre Couillon",
         "role": "La Marine",
         "location": "Noirmoutier en l'Ile, France",
-        "photo": "assets/chefs/alexandrecouillon.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/alexandrecouillon.webp"
       }
     ],
     "sponsor": "",
@@ -406,8 +407,8 @@
         "name": "Akis Neocleous",
         "role": "Hoteles Xcaret",
         "location": "Playa del Carmen, Mexico",
-        "photo": "assets/chefs/akisneocleous.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/akisneocleous.webp"
       }
     ],
     "sponsor": "",
@@ -424,8 +425,8 @@
         "name": "Viki Geunes",
         "role": "Zilte",
         "location": "Antwerp, Belgium",
-        "photo": "assets/chefs/vikigeunes.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/vikigeunes.webp"
       }
     ],
     "sponsor": "",
@@ -442,11 +443,11 @@
         "name": "Vicky Cheng",
         "role": "Wing",
         "location": "Hong Kong, China",
-        "photo": "assets/chefs/vickycheng.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/vickycheng.webp"
       }
     ],
-    "sponsor": "CHEFseasons",
+    "sponsor": "",
     "title": "Çin Mutfağında Zaman Sanatı"
   },
   {
@@ -460,8 +461,8 @@
         "name": "Mohammad Orfali",
         "role": "Orfali Bros",
         "location": "Dubai, UAE",
-        "photo": "assets/chefs/mohammadorfali.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/mohammadorfali.webp"
       }
     ],
     "sponsor": "",
@@ -506,8 +507,8 @@
         "name": "Grégoire Berger",
         "role": "Kraken",
         "location": "Dubai, UAE",
-        "photo": "assets/chefs/gregoireberger.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/gregoireberger.webp"
       }
     ],
     "sponsor": "",
@@ -524,8 +525,8 @@
         "name": "Álvaro Salazar",
         "role": "VORO",
         "location": "Mallorca, Spain",
-        "photo": "assets/chefs/alvarosalazar.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/alvarosalazar.webp"
       }
     ],
     "sponsor": "",
@@ -547,8 +548,8 @@
         "name": "Gilles Goujon",
         "role": "Auberge du Vieux Puits",
         "location": "Fontjoncouse, France",
-        "photo": "assets/chefs/gillesgoujon.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/gillesgoujon.webp"
       }
     ],
     "sponsor": "",
@@ -570,22 +571,22 @@
         "name": "Mohammad Orfali",
         "role": "Orfali Bros",
         "location": "Dubai, UAE",
-        "photo": "assets/chefs/mohammadorfali.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/mohammadorfali.webp"
       },
       {
         "name": "David Žefran",
         "role": "Milka",
         "location": "Kranjska Gora, Slovenia",
-        "photo": "assets/chefs/davidzefran.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/davidzefran.webp"
       },
       {
         "name": "Jacopo Ticchi",
         "role": "Da Lucio",
         "location": "Rimini, Italy",
-        "photo": "assets/chefs/jacopoticchi.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/jacopoticchi.webp"
       }
     ],
     "sponsor": "",
@@ -602,8 +603,8 @@
         "name": "Diego Guerrero",
         "role": "DSTAgE",
         "location": "Madrid, Spain",
-        "photo": "assets/chefs/diegoguerrero.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/diegoguerrero.webp"
       }
     ],
     "sponsor": "",
@@ -625,8 +626,8 @@
         "name": "Himanshu Saini",
         "role": "Trèsind Studio",
         "location": "Dubai, UAE",
-        "photo": "assets/chefs/himanshusaini.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/himanshusaini.webp"
       }
     ],
     "sponsor": "",
@@ -643,8 +644,8 @@
         "name": "Paco Roncero",
         "role": "Paco Roncero",
         "location": "Madrid, Spain",
-        "photo": "assets/chefs/pacoroncero.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/pacoroncero.webp"
       }
     ],
     "sponsor": "",
@@ -661,8 +662,8 @@
         "name": "Toño Pérez",
         "role": "Atrio",
         "location": "Cáceres, Spain",
-        "photo": "assets/chefs/tonoperez.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/tonoperez.webp"
       }
     ],
     "sponsor": "",
@@ -679,8 +680,8 @@
         "name": "Joxe Mari Aizega",
         "role": "Basque Culinary Center",
         "location": "San Sebastián, Spain",
-        "photo": "assets/chefs/joxemariaizega.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/joxemariaizega.webp"
       }
     ],
     "sponsor": "",
@@ -697,8 +698,8 @@
         "name": "Gianluca Fusto",
         "role": "FUSTO Milano",
         "location": "Milano, Italy",
-        "photo": "assets/chefs/gianlucafusto.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/gianlucafusto.webp"
       }
     ],
     "sponsor": "",
@@ -715,8 +716,8 @@
         "name": "Henrique Sá Pessoa",
         "role": "Restaurante Henrique Sá Pessoa",
         "location": "Lisbon, Portugal",
-        "photo": "assets/chefs/henriquesapessoa.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/henriquesapessoa.webp"
       }
     ],
     "sponsor": "",
@@ -733,8 +734,8 @@
         "name": "Paco Pérez",
         "role": "Miramar",
         "location": "Llançá, Spain",
-        "photo": "assets/chefs/pacoperez.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/pacoperez.webp"
       }
     ],
     "sponsor": "",
@@ -756,22 +757,22 @@
         "name": "Viki Geunes",
         "role": "Zilte",
         "location": "Antwerp, Belgium",
-        "photo": "assets/chefs/vikigeunes.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/vikigeunes.webp"
       },
       {
         "name": "Paolo Casagrande",
         "role": "Lasarte",
         "location": "Barcelona, Spain",
-        "photo": "assets/chefs/paolocasagrande.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/paolocasagrande.webp"
       },
       {
         "name": "Nicolai Nørregaard",
         "role": "Kadeau",
         "location": "Copenhagen, Denmark",
-        "photo": "assets/chefs/nicolainørregaard.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/nicolainørregaard.webp"
       }
     ],
     "sponsor": "",
@@ -788,11 +789,11 @@
         "name": "Matias Perdomo",
         "role": "Contraste",
         "location": "Milan, Italy",
-        "photo": "assets/chefs/matiasperdomo.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/matiasperdomo.webp"
       }
     ],
-    "sponsor": "CHEFseasons",
+    "sponsor": "",
     "title": ""
   },
   {
@@ -806,8 +807,8 @@
         "name": "Moreno Cedroni",
         "role": "Madonnina Del Pescatore",
         "location": "Senigallia, Italy",
-        "photo": "assets/chefs/morenocedroni.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/morenocedroni.webp"
       }
     ],
     "sponsor": "",
@@ -824,8 +825,8 @@
         "name": "Andoni Luiz Aduriz",
         "role": "Mugaritz",
         "location": "San Sebastián, Spain",
-        "photo": "assets/chefs/andoniluizaduriz.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/andoniluizaduriz.webp"
       }
     ],
     "sponsor": "",
@@ -842,8 +843,8 @@
         "name": "Albert Raurich",
         "role": "Dos Palillos",
         "location": "Barcelona, Spain",
-        "photo": "assets/chefs/albertraurich.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/albertraurich.webp"
       }
     ],
     "sponsor": "",
@@ -882,15 +883,15 @@
         "name": "Dimitris Tozakidis",
         "role": "Sani Gourmet Manager, Culinary Committee Halkidiki",
         "location": "Halkdiki, Greece",
-        "photo": "assets/chefs/dimitristozakidis.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/dimitristozakidis.webp"
       },
       {
         "name": "Giulia Caffiero",
         "role": "Geranium",
         "location": "Copenhagen, Denmark",
-        "photo": "assets/chefs/giuliacaffiero.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/giuliacaffiero.webp"
       }
     ],
     "sponsor": "",
@@ -929,29 +930,29 @@
         "name": "Joe Barza",
         "role": "International Consultant",
         "location": "Beirut, Lebanon",
-        "photo": "assets/chefs/joebarza.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/joebarza.webp"
       },
       {
         "name": "Mostafa Seif",
         "role": "Khufu’s",
         "location": "Giza, Egypt",
-        "photo": "assets/chefs/mostafaseif.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/mostafaseif.webp"
       },
       {
         "name": "Ali Ghzawi",
         "role": "Alee",
         "location": "Amman, Jordan",
-        "photo": "assets/chefs/alighzawi.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/alighzawi.webp"
       },
       {
         "name": "Ali El Bourji",
         "role": "Atlantis Dubai",
         "location": "Dubai, UAE",
-        "photo": "assets/chefs/alielbourji.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/alielbourji.webp"
       }
     ],
     "sponsor": "",
@@ -968,8 +969,8 @@
         "name": "Rodolfo Guzmán",
         "role": "BORAGÓ",
         "location": "Santiago, Chile",
-        "photo": "assets/chefs/rodolfoguzman.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/rodolfoguzman.webp"
       }
     ],
     "sponsor": "",
@@ -991,36 +992,36 @@
         "name": "Antonio Bachour",
         "role": "BACHOUR",
         "location": "Miami, USA",
-        "photo": "assets/chefs/antoniobachour.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/antoniobachour.webp"
       },
       {
         "name": "Gianluca Fusto",
         "role": "FUSTO Milano",
         "location": "Milano, Italy",
-        "photo": "assets/chefs/gianlucafusto.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/gianlucafusto.webp"
       },
       {
         "name": "Thibault Hauchard",
         "role": "Claridge’s",
         "location": "London, United Kingdom",
-        "photo": "assets/chefs/thibaulthauchard.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/thibaulthauchard.webp"
       },
       {
         "name": "Nicolas Rouzaud",
         "role": "Nicolas Rouzaud at The Connaught",
         "location": "London, United Kingdom",
-        "photo": "assets/chefs/nicolasrouzaud.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/nicolasrouzaud.webp"
       },
       {
         "name": "Cesare Murzilli",
         "role": "Portrait Milano",
         "location": "Milano, Italy",
-        "photo": "assets/chefs/cesaremurzilli.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/cesaremurzilli.webp"
       }
     ],
     "sponsor": "",
@@ -1037,8 +1038,8 @@
         "name": "Rubén Hernández Mosquero",
         "role": "EMi",
         "location": "Madrid, Spain",
-        "photo": "assets/chefs/rubenhernandezmosquero.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/rubenhernandezmosquero.webp"
       }
     ],
     "sponsor": "",
@@ -1049,14 +1050,14 @@
     "stage": "main",
     "day": 27,
     "time": "17:35-17:55",
-    "type": "LIVE COOKING DEMO",
+    "type": "SOLO TALK",
     "people": [
       {
         "name": "Álvaro Clavijo",
         "role": "El Chato",
         "location": "Bogotá, Colombia",
-        "photo": "assets/chefs/alvaroclavijo.webp",
-        "preserveRole": true
+        "preserveRole": true,
+        "photo": "assets/chefs/alvaroclavijo.webp"
       }
     ],
     "sponsor": "",
@@ -1066,7 +1067,7 @@
     "id": "0",
     "stage": "hospitality",
     "day": 26,
-    "time": "11:00-11:30",
+    "time": "11:15-11:45",
     "type": "PANEL DISCUSSION",
     "people": [
       {
@@ -1094,36 +1095,10 @@
     "title": "GASTRONOMİ, TURİZM VE AĞIRLAMA SEKTÖRÜNDE DEĞİŞİM VE GELECEK BEKLENTİLERİ"
   },
   {
-    "id": "2",
-    "stage": "hospitality",
-    "day": 26,
-    "time": "11:30-12:00",
-    "type": "PANEL DISCUSSION",
-    "people": [
-      {
-        "name": "Moderator: Levent Erden",
-        "role": "Next Akademi Kurucusu",
-        "location": ""
-      },
-      {
-        "name": "Pelin Akın",
-        "role": "Akfen Holding Yönetim Kurulu Üyesi",
-        "location": ""
-      },
-      {
-        "name": "Gamze Cizreli",
-        "role": "BigChefs Kurucu Ortağı",
-        "location": ""
-      }
-    ],
-    "sponsor": "",
-    "title": "TURİZMDE YATIRIM, BÜYÜME VE GELECEK VİZYONU"
-  },
-  {
     "id": "1",
     "stage": "hospitality",
     "day": 26,
-    "time": "12:00-12:30",
+    "time": "11:45-12:30",
     "type": "PANEL DISCUSSION",
     "people": [
       {
@@ -1152,13 +1127,13 @@
         "location": ""
       },
       {
-        "name": "Çetin Pehlivan",
-        "role": "Tersane İstanbul Managing Director",
+        "name": "Nurçe Erben Hakan",
+        "role": "Mondrian Bodrum Kurucusu",
         "location": ""
       },
       {
-        "name": "Nurçe Erben Hakan",
-        "role": "Mondrian Bodrum Kurucusu",
+        "name": "Çetin Pehlivan",
+        "role": "Tersane İstanbul Managing Director",
         "location": ""
       }
     ],
@@ -1178,18 +1153,13 @@
         "location": ""
       },
       {
-        "name": "Utkan Gülaçtı",
-        "role": "Swissôtel The Bosphorus İstanbul Genel Müdürü",
-        "location": ""
-      },
-      {
         "name": "Serkan Yalçınkaya",
         "role": "Mandarin Oriental Bosphorus Istanbul Genel Müdürü",
         "location": ""
       },
       {
         "name": "Ata Eremsoy",
-        "role": "The Marmara Group & The Marmara Collection COO",
+        "role": "The Marmara Hospitality Group - COO",
         "location": ""
       },
       {
@@ -1199,7 +1169,7 @@
       },
       {
         "name": "Rufat Babayev",
-        "role": "Grand Hyatt Istanbul Genel Müdürü Türkiye & Hırvatistan Hyatt Otelleri Bölge Başkanı",
+        "role": "Türkiye & Hırvatistan Hyatt Otelleri Bölge Başkanı",
         "location": ""
       }
     ],
@@ -1214,8 +1184,8 @@
     "type": "PANEL DISCUSSION",
     "people": [
       {
-        "name": "Moderator: Çağdaş Ertuna",
-        "role": "Gazeteci, Köşe Yazarı & Küresel Stratejik İletişim Danışmanı",
+        "name": "Moderator: Gonca Karakaş",
+        "role": "Effect Burson CEO",
         "location": ""
       },
       {
@@ -1231,17 +1201,12 @@
       },
       {
         "name": "Jonathan H. Crook",
-        "role": "The Peninsula İstanbul Genel Müdürü",
+        "role": "The Peninsula İstanbul Genel Müdürü // Managing Director",
         "location": ""
       },
       {
         "name": "Thomas Krooswijk",
         "role": "Four Seasons Hotel Istanbul at the Bosphorus & Sultanahmet Genel Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Todori Kalamaris",
-        "role": "Hilton Hotels Türkiye Bölge Genel Müdürü",
         "location": ""
       }
     ],
@@ -1276,13 +1241,13 @@
         "location": ""
       },
       {
-        "name": "Ceyda Noyan",
-        "role": "The St. Regis Istanbul Genel Müdürü",
+        "name": "Ayça Bilgin",
+        "role": "Shine Hospitality Kurucusu, Otel Yatırımları ve Marka Geliştirme Uzmanı",
         "location": ""
       },
       {
-        "name": "Ayça Bilgin",
-        "role": "Shine Hospitality Kurucusu, Otel Yatırımları ve Marka Geliştirme Uzmanı",
+        "name": "Ceyda Noyan",
+        "role": "The St. Regis Istanbul Genel Müdürü",
         "location": ""
       }
     ],
@@ -1317,8 +1282,8 @@
         "location": ""
       }
     ],
-    "sponsor": "",
-    "title": "PERNOD RICARD TÜRKİYE"
+    "sponsor": "Bodrum Yeşili",
+    "title": "BODRUM YEŞİLİ: BİR MANDALINDEN BAŞLAYAN HİKÂYE"
   },
   {
     "id": "5",
@@ -1339,7 +1304,7 @@
       },
       {
         "name": "Pelin Çakar Bingül",
-        "role": "Papermoon Genel Müdürü",
+        "role": "Paper Moon Genel Müdürü",
         "location": ""
       },
       {
@@ -1405,6 +1370,11 @@
         "location": ""
       },
       {
+        "name": "Cihan Çetinkaya",
+        "role": "C2 Danışmanlık Kurucu",
+        "location": ""
+      },
+      {
         "name": "Emre Şen",
         "role": "Casa Lavanda Kurucu Ortağı & Şefi",
         "location": ""
@@ -1431,8 +1401,8 @@
         "location": ""
       },
       {
-        "name": "Hüseyin Aymutlu",
-        "role": "Happy Group Yönetim Kurulu Başkanı & CEO",
+        "name": "Zeki Özen",
+        "role": "Shakespeare Bistro Kurucusu",
         "location": ""
       },
       {
@@ -1600,7 +1570,7 @@
         "location": ""
       }
     ],
-    "sponsor": "",
+    "sponsor": "Mondrian",
     "title": "URLA’YI KÜRESEL BİR GASTRONOMİ DESTİNASYONUNA DÖNÜŞTÜREN MUTFAKLARIN ARDINDAKİ VİZYON"
   },
   {
@@ -1669,7 +1639,7 @@
         "location": ""
       }
     ],
-    "sponsor": "",
+    "sponsor": "AKKOMARKA",
     "title": "TÜRK GASTRONOMİSİNİN HAFIZASI VE GELECEK KUŞAKLARA AKTARIMI"
   },
   {
@@ -1755,11 +1725,6 @@
         "name": "Mahmut Gökkaya",
         "role": "Karma Bodrum Kurucu Ortağı",
         "location": ""
-      },
-      {
-        "name": "Göktuğ Özdemir",
-        "role": "C-paces Kurucu Ortağı",
-        "location": ""
       }
     ],
     "sponsor": "",
@@ -1839,7 +1804,7 @@
         "location": ""
       }
     ],
-    "sponsor": "",
+    "sponsor": "İmpeks",
     "title": "TÜRKİYE’DE UZAK DOĞU GASTRONOMİSİNİN YÜKSELİŞİ"
   },
   {
@@ -1886,13 +1851,13 @@
         "location": ""
       },
       {
-        "name": "Zeki Özen",
-        "role": "Shakespeare Bistro Kurucusu",
+        "name": "Alper Korkmaz",
+        "role": "Kaen Sushi Kurucusu",
         "location": ""
       },
       {
-        "name": "Alper Korkmaz",
-        "role": "Kaen Sushi Kurucusu",
+        "name": "Ozan Benlioğlu",
+        "role": "Sour & Sweet Kurucu Ortağı",
         "location": ""
       }
     ],
@@ -1932,29 +1897,29 @@
         "location": ""
       }
     ],
-    "sponsor": "",
+    "sponsor": "Culinarist",
     "title": "ETİN USTALIĞI VE STEAKHOUSE KÜLTÜRÜNÜN GELECEĞİ"
   },
   {
-    "id": "hospitality-27-1445",
+    "id": "hospitality-27-v33-1530",
     "stage": "hospitality",
     "day": 27,
     "time": "14:15-14:30",
     "type": "EXCLUSIVE CONVERSATION",
     "people": [
       {
-        "name": "Moderator: Gökmen Sözen",
-        "role": "Sözen Group CEO & Gastromasa Kurucusu",
+        "name": "Erim Şanal",
+        "role": "Yayla Marka Şefi",
         "location": ""
       },
       {
-        "name": "Arda Türkmen",
-        "role": "TV Programcısı & Şef",
+        "name": "Eda Karabulut",
+        "role": "Yayla Marka Şefi",
         "location": ""
       }
     ],
-    "sponsor": "",
-    "title": "GASTRONOMİ KÜLTÜRLER ARASINDA NASIL BİR KÖPRÜ KURUYOR?"
+    "sponsor": "Yayla",
+    "title": "TANE TANE ANLATIYORUZ: YAYLA ZENGİNLEŞTİRİLMİŞ PİRİNÇ"
   },
   {
     "id": "12",
@@ -2024,14 +1989,25 @@
     "title": "GASTRONOMİ, DOĞA VE KÜLTÜRÜN BULUŞTUĞU YENİ KONAKLAMA DENEYİMLERİ"
   },
   {
-    "id": "hospitality-27-v33-1530",
+    "id": "hospitality-27-1445",
     "stage": "hospitality",
     "day": 27,
     "time": "15:30-15:45",
-    "type": "SESSION",
-    "people": [],
-    "sponsor": "Yayla",
-    "title": "YAYLA TÜRKİYE OTURUMU"
+    "type": "EXCLUSIVE CONVERSATION",
+    "people": [
+      {
+        "name": "Moderator: Gökmen Sözen",
+        "role": "Sözen Group CEO & Gastromasa Kurucusu",
+        "location": ""
+      },
+      {
+        "name": "Arda Türkmen",
+        "role": "TV Programcısı & Şef",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GASTRONOMİ KÜLTÜRLER ARASINDA NASIL BİR KÖPRÜ KURUYOR?"
   },
   {
     "id": "hospitality-27-1500",
@@ -2082,13 +2058,23 @@
     "type": "PANEL DISCUSSION",
     "people": [
       {
+        "name": "Moderator: Prof. Dr. Özge Samancı",
+        "role": "Yemek Kültürü Tarihçisi",
+        "location": ""
+      },
+      {
         "name": "Eray Şahinbay",
         "role": "La Lorraine Türkiye & Orta Doğu Pazarlama Direktörü",
+        "location": ""
+      },
+      {
+        "name": "Efe Anıl Çetin",
+        "role": "Rixos Tersane İstanbul Executive Şefi",
         "location": ""
       }
     ],
     "sponsor": "La Lorraine",
-    "title": "FIRINCILIKTA DEĞİŞEN TÜKETİCİ BEKLENTİLERİ VE YENİ TRENDLER"
+    "title": "KÖKLERDEN GELECEĞE: TÜRKİYE’DE UNLU MAMULLERİN DÜNÜ, BUGÜNÜ, YARINI"
   },
   {
     "id": "hospitality-27-1605",
@@ -2137,72 +2123,10 @@
     "title": "TÜRKİYE’DE KAHVE KÜLTÜRÜNÜN GELİŞİMİ VE MARKALARIN DÖNÜŞEN ROLÜ"
   },
   {
-    "id": "hospitality-27-v33-1715",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "17:15-17:45",
-    "type": "PANEL DISCUSSION",
-    "people": [
-      {
-        "name": "Moderator: Başak Nur Okşak",
-        "role": "Gastronomi Gazetecisi",
-        "location": ""
-      },
-      {
-        "name": "Zeki Kara",
-        "role": "Karaca CookPlus Catering Koordinatör Şef",
-        "location": ""
-      },
-      {
-        "name": "Rafet İnce",
-        "role": "Şef, Girişimci & TV Programcısı",
-        "location": ""
-      },
-      {
-        "name": "Murat İlke Özipek",
-        "role": "Gastronometro Müdürü & Eğitmen Şefi",
-        "location": ""
-      }
-    ],
-    "sponsor": "",
-    "title": "GASTRONOMİDE OPERASYONEL MÜKEMMELLİK VE YARATICILIK NASIL BİR ARAYA GELİR?"
-  },
-  {
-    "id": "hospitality-27-1705",
-    "stage": "hospitality",
-    "day": 27,
-    "time": "17:45-18:15",
-    "type": "PANEL DISCUSSION",
-    "people": [
-      {
-        "name": "Moderator: Ebru Erberdi",
-        "role": "7 Catering Yönetim Kurulu Başkanı & Köşe Yazarı",
-        "location": ""
-      },
-      {
-        "name": "Erdem Dönmez",
-        "role": "Carlo Bernardini Fine Catering & Events Kurucu Ortağı & Şefi",
-        "location": ""
-      },
-      {
-        "name": "Ali Ronay",
-        "role": "Studio Ronay Kurucu Şef",
-        "location": ""
-      },
-      {
-        "name": "Ayça Bilgin",
-        "role": "Shine Hospitality Kurucusu, Otel Yatırımları ve Marka Geliştirme Stratejisti",
-        "location": ""
-      }
-    ],
-    "sponsor": "",
-    "title": "GASTRONOMİDE DENEYİM TASARIMI MARKA DEĞERİNİN İNŞASINDA NASIL BİR ROL OYNUYOR?"
-  },
-  {
     "id": "hospitality-27-1635",
     "stage": "hospitality",
     "day": 27,
-    "time": "18:15-18:45",
+    "time": "17:15-17:45",
     "type": "PANEL DISCUSSION",
     "people": [
       {
@@ -2233,6 +2157,42 @@
     ],
     "sponsor": "",
     "title": "TÜRK MUTFAĞININ HAFIZASI VE YAŞAYAN LOKANTA KÜLTÜRÜ"
+  },
+  {
+    "id": "hospitality-27-v33-1715",
+    "stage": "hospitality",
+    "day": 27,
+    "time": "17:45-18:15",
+    "type": "PANEL DISCUSSION",
+    "people": [
+      {
+        "name": "Moderator: Başak Nur Okşak",
+        "role": "Gastronomi Gazetecisi",
+        "location": ""
+      },
+      {
+        "name": "Zeki Kara",
+        "role": "Karaca CookPlus Catering Koordinatör Şef",
+        "location": ""
+      },
+      {
+        "name": "Rafet İnce",
+        "role": "Şef, Girişimci & TV Programcısı",
+        "location": ""
+      },
+      {
+        "name": "Murat İlke Özipek",
+        "role": "Gastronometro Müdürü & Eğitmen Şefi",
+        "location": ""
+      },
+      {
+        "name": "Doğa Çitçi",
+        "role": "Doğa Çitçi, MSM Koordinatör Şefi",
+        "location": ""
+      }
+    ],
+    "sponsor": "",
+    "title": "GASTRONOMİDE OPERASYONEL MÜKEMMELLİK VE YARATICILIK NASIL BİR ARAYA GELİR?"
   },
   {
     "id": "eyup-26-v33-1100",
@@ -2270,51 +2230,61 @@
         "name": "Özgür Üstün",
         "role": "Avlu Restaurant Executive Şefi",
         "location": ""
+      },
+      {
+        "name": "Barlas Günebak",
+        "role": "Roku Omakase Kurucusu & Şefi",
+        "location": ""
       }
     ],
     "sponsor": "",
-    "title": "GELENEKSEL LEZZETLERİN ÇAĞDAŞ YORUMU"
+    "title": "YEREL KÖKLER VE KÜRESEL ETKİLER RESTORANLARIN MUTFAK KİMLİĞİNİ NASIL ŞEKİLLENDİRİYOR?"
   },
   {
-    "id": "eyup-26-v33-1140",
+    "id": "eyup-27-v33-1000",
     "stage": "eyup",
     "day": 26,
     "time": "11:40-12:20",
     "type": "PANEL DISCUSSION",
     "people": [
       {
-        "name": "Moderator: Oğuz Otay",
-        "role": "Gezmek Yetmez Kurucusu",
+        "name": "Moderator: Burçak Şener",
+        "role": "Gastronomi Yazarı",
         "location": ""
       },
       {
-        "name": "Ufuk Ügümü",
-        "role": "Hünkar Lokantası 4. Kuşak Temsilcisi",
+        "name": "Yakup Yıldız",
+        "role": "Çırağan Palace Kempinski Bartender",
         "location": ""
       },
       {
-        "name": "Süleyman Tarakçı",
-        "role": "Nalia Kurucusu & Şefi",
+        "name": "Okan Sergül",
+        "role": "The Ritz-Carlton Istanbul Head Bartender",
         "location": ""
       },
       {
-        "name": "Ergin Sönmezler",
-        "role": "Yanyalı Fehmi Lokantası 3. Kuşak Temsilcisi",
+        "name": "Burak Temnur",
+        "role": "Four Seasons Hotel Istanbul at Sultanahmet Head Miksolojist",
         "location": ""
       },
       {
-        "name": "Hacı Abdullah Korun",
-        "role": "Hacı Abdullah Lokantası Kurucu Ortağı",
+        "name": "Atakan Atasoy",
+        "role": "Hilton İstanbul Bosphorus Head Bartender",
         "location": ""
       },
       {
-        "name": "Özay Çınar",
-        "role": "Pandeli Restoran Müdürü",
+        "name": "Ramazan Dadak",
+        "role": "Upperist Bar Müdürü",
+        "location": ""
+      },
+      {
+        "name": "Necip Tolga Güleç",
+        "role": "JW Marriott Istanbul Bosphorus Bartender",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "GELENEKSEL RESTORANLAR GASTRONOMİ TURİZMİNE NASIL KATKI SAĞLIYOR?"
+    "title": "OTEL VE RESTORAN GASTRONOMİSİNDE OPERASYONEL MÜKEMMELLİK & MİSAFİR DENEYİMİ"
   },
   {
     "id": "eyup-26-v33-1220",
@@ -2365,6 +2335,11 @@
     "type": "PANEL DISCUSSION",
     "people": [
       {
+        "name": "Moderator: Ebru Erberdi",
+        "role": "7 Catering Yönetim Kurulu Başkanı & Köşe Yazarı",
+        "location": ""
+      },
+      {
         "name": "Mehmet Ali Börtücene",
         "role": "The Rabbit Hole Kurucusu & Şefi",
         "location": ""
@@ -2396,8 +2371,7 @@
       }
     ],
     "sponsor": "",
-    "title": "YARATICILIK VE KİMLİK İLE GELİŞEN ŞEF RESTORANLARININ BAŞARI FORMÜLÜ",
-    "pendingModerator": true
+    "title": "YARATICILIK VE KİMLİK İLE GELİŞEN ŞEF RESTORANLARININ BAŞARI FORMÜLÜ"
   },
   {
     "id": "eyup-26-v33-1330",
@@ -2445,7 +2419,7 @@
     "stage": "eyup",
     "day": 26,
     "time": "14:10-14:25",
-    "type": "PANEL DISCUSSION",
+    "type": "EXCLUSIVE CONVERSATION",
     "people": [
       {
         "name": "Ege Ermeç",
@@ -2454,8 +2428,7 @@
       }
     ],
     "sponsor": "",
-    "title": "ŞALGAMIN GASTRONOMİDEKİ YERİ",
-    "pendingModerator": true
+    "title": "ŞALGAMIN GASTRONOMİDEKİ YERİ"
   },
   {
     "id": "eyup-26-v33-1425",
@@ -2610,8 +2583,8 @@
     "type": "PANEL DISCUSSION",
     "people": [
       {
-        "name": "Moderator: Reyhan Ülker",
-        "role": "Aposto Editör",
+        "name": "Moderator: Ahmet Güzelyağdöken",
+        "role": "Gastronomi Yazarı, Danışman & Eğitmen Şef",
         "location": ""
       },
       {
@@ -2656,11 +2629,6 @@
         "location": ""
       },
       {
-        "name": "Mustafa Özgüler",
-        "role": "Orkide Pastanesi İşletme Ortağı",
-        "location": ""
-      },
-      {
         "name": "Malte Rohmann",
         "role": "The Peninsula Istanbul Pastry Şefi",
         "location": ""
@@ -2702,11 +2670,6 @@
         "location": ""
       },
       {
-        "name": "Vedat Akar",
-        "role": "Mathilda Kurucusu & Bartender",
-        "location": ""
-      },
-      {
         "name": "Onur Balk",
         "role": "Inspired Cocktail & Agata Bar Kurucusu ve Miksoloji Uzmanı",
         "location": ""
@@ -2714,6 +2677,11 @@
       {
         "name": "Musa Yavuz",
         "role": "Yiyecek & İçecek Koordinatörü",
+        "location": ""
+      },
+      {
+        "name": "Ece Garip",
+        "role": "Casa Regina Kurucusu ve Şefi",
         "location": ""
       }
     ],
@@ -2748,8 +2716,8 @@
         "location": ""
       },
       {
-        "name": "Uğur Alparslan",
-        "role": "Culinary Director at Pera Palace Hotel",
+        "name": "Erdem Dönmez",
+        "role": "Carlo Bernardini Fine Catering & Events Kurucu Ortağı & Şefi",
         "location": ""
       }
     ],
@@ -2757,50 +2725,45 @@
     "title": "MUTFAK VİZYONU VE LİDERLİK GASTRONOMİDE BAŞARIYI NASIL ŞEKİLLENDİRİR?"
   },
   {
-    "id": "eyup-27-v33-1000",
+    "id": "eyup-26-v33-1140",
     "stage": "eyup",
     "day": 27,
     "time": "10:00-10:40",
     "type": "PANEL DISCUSSION",
     "people": [
       {
-        "name": "Moderator: Burçak Şener",
-        "role": "Gastronomi Yazarı",
+        "name": "Moderator: Oğuz Otay",
+        "role": "Gezmek Yetmez Kurucusu",
         "location": ""
       },
       {
-        "name": "Yakup Yıldız",
-        "role": "Çırağan Palace Kempinski Bartender",
+        "name": "Ufuk Ügümü",
+        "role": "Hünkar Lokantası 4. Kuşak Temsilcisi",
         "location": ""
       },
       {
-        "name": "Okan Sergül",
-        "role": "The Ritz-Carlton Istanbul Head Bartender",
+        "name": "Süleyman Tarakçı",
+        "role": "Nalia Kurucusu & Şefi",
         "location": ""
       },
       {
-        "name": "Burak Temnur",
-        "role": "Four Seasons Hotel Istanbul at Sultanahmet Head Miksolojist",
+        "name": "Ergin Sönmezler",
+        "role": "Yanyalı Fehmi Lokantası 3. Kuşak Temsilcisi",
         "location": ""
       },
       {
-        "name": "Atakan Atasoy",
-        "role": "Hilton İstanbul Bosphorus Head Bartender",
+        "name": "Hacı Abdullah Korun",
+        "role": "Hacı Abdullah Lokantası Kurucu Ortağı",
         "location": ""
       },
       {
-        "name": "Ramazan Dadak",
-        "role": "Upperist Bar Müdürü",
-        "location": ""
-      },
-      {
-        "name": "Necip Tolga Güleç",
-        "role": "JW Marriott Istanbul Bosphorus Bartender",
+        "name": "Özay Çınar",
+        "role": "Pandeli Restoran Müdürü",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "OTEL VE RESTORAN GASTRONOMİSİNDE OPERASYONEL MÜKEMMELLİK & MİSAFİR DENEYİMİ"
+    "title": "ŞEHİR OTELLERİNDE BAR KÜLTÜRÜ & YENİ NESİL MİSAFİR BEKLENTİLERİ"
   },
   {
     "id": "eyup-27-v33-1040",
@@ -3087,7 +3050,7 @@
       }
     ],
     "sponsor": "",
-    "title": "BAĞIMSIZ MEKÂNLARIN YÜKSELİŞİNDE YARATICILIK, REKABET & MARKALAŞMA"
+    "title": "RESTORAN VE BAR İŞLETMECİLİĞİNDE KONSEPT, KİMLİK VE DENEYİM"
   },
   {
     "id": "eyup-27-v33-1450",
