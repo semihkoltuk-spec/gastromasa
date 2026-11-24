@@ -18,7 +18,7 @@
     "people": [
       {
         "name": "Moderator: Rafa Tonon",
-        "role": "Gastronomy Journalist & Food Writer",
+        "role": "Гастрономический журналист и кулинарный писатель",
         "location": "Porto, Portugal"
       },
       {
@@ -41,7 +41,7 @@
     "people": [
       {
         "name": "Moderator: Levent Erden",
-        "role": "Journalist at Gazete Oksijen, Founder of Next Akademi & Academic",
+        "role": "Журналист Gazete Oksijen, основатель Next Akademi & Academic",
         "location": "İstanbul, Türkiye"
       },
       {
@@ -82,8 +82,7 @@
       }
     ],
     "sponsor": "CHEFseasons",
-    "title": "DISFRUTAR: CREATIVITY AND CULTURE",
-    "translationPending": true
+    "title": "Disfrutar: ТВОРЧЕСТВО И КУЛЬТУРА"
   },
   {
     "id": "18",
@@ -101,7 +100,7 @@
       }
     ],
     "sponsor": "KAPP",
-    "title": "Эввай и кухня Орунди"
+    "title": "Evvai и кухня Ориунди"
   },
   {
     "id": "26",
@@ -119,7 +118,7 @@
       }
     ],
     "sponsor": "Özmen Un",
-    "title": "Искусство кондитерского дела в трех культурах"
+    "title": "Кондитерское искусство в трех культурах"
   },
   {
     "id": "20",
@@ -137,7 +136,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Кухня, говорящая на многих языках | Как человеческое взаимодействие превращается во вкус"
+    "title": "Кухня, говорящая на многих языках | Как человеческое взаимодействие становится вкусом"
   },
   {
     "id": "64",
@@ -155,7 +154,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Кухня Селеле и карибский максимализм"
+    "title": "Кухня Celele и карибский максимализм"
   },
   {
     "id": "36",
@@ -173,8 +172,7 @@
       }
     ],
     "sponsor": "CHEFseasons",
-    "title": "NATURE & TERRITORY: EVOLVING MATERIALS",
-    "translationPending": true
+    "title": "ПРИРОДА И ТЕРРИТОРИЯ: РАЗВИВАЮЩИЕСЯ МАТЕРИАЛЫ"
   },
   {
     "id": "40",
@@ -192,7 +190,7 @@
       }
     ],
     "sponsor": "",
-    "title": "А что, если бы десерт не был десертом?"
+    "title": "Что, если бы десерт не был десертом?"
   },
   {
     "id": "24",
@@ -210,7 +208,7 @@
       }
     ],
     "sponsor": "Porland",
-    "title": "Культура и взаимодействие в высокогорных районах"
+    "title": "Высотная культура и взаимодействие"
   },
   {
     "id": "25",
@@ -228,8 +226,7 @@
       }
     ],
     "sponsor": "",
-    "title": "THE TABLE | WHERE STRANGERS BECOME HUMAN TO ONE ANOTHER",
-    "translationPending": true
+    "title": "Table | ГДЕ НЕЗНАКОМЦЫ СТАНОВЯТСЯ ДРУГ ДРУГУ ЧЕЛОВЕЧЕСКИМИ"
   },
   {
     "id": "19",
@@ -265,8 +262,7 @@
       }
     ],
     "sponsor": "",
-    "title": "CREMA CATALANA FROM TRADITION TO SHOWCOOKING AT RAMBLA IN BARCELONA",
-    "translationPending": true
+    "title": "CREMA CATALANA ОТ ТРАДИЦИИ ДО ШОУ-КУЛИНГИ НА Rambla В БАРСЕЛОНЕ"
   },
   {
     "id": "28",
@@ -284,7 +280,7 @@
       }
     ],
     "sponsor": "Öztiryakiler",
-    "title": "Ласарте: Сущность и наследие"
+    "title": "Lasarte: Сущность и наследие"
   },
   {
     "id": "29",
@@ -302,8 +298,7 @@
       }
     ],
     "sponsor": "",
-    "title": "THE TASTE OF TIME | FERMENTATION AND AGING IN JAPANESE FOOD CULTURE",
-    "translationPending": true
+    "title": "ВКУС ВРЕМЕНИ | БРОЖЕНИЕ И ВЫРЕЖЕНИЕ В ЯПОНСКОЙ КУЛЬТУРЕ ПИЩЕВОЙ КУЛЬТУРЫ"
   },
   {
     "id": "30",
@@ -321,8 +316,7 @@
       }
     ],
     "sponsor": "Özmen Un",
-    "title": "CONTAMINATION | THE UNION OF TWO CULTURES",
-    "translationPending": true
+    "title": "ЗАГРЯЗНЕНИЕ | СОЮЗ ДВУХ КУЛЬТУР"
   },
   {
     "id": "31",
@@ -333,7 +327,7 @@
     "people": [
       {
         "name": "Moderator: Paolo Marchi",
-        "role": "Creator & Curator, Identità Golose",
+        "role": "Создатель и куратор, Identità Golose",
         "location": "Italy"
       },
       {
@@ -359,7 +353,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Отражение культуры и искусства в гастрономии и перспективы на будущее"
+    "title": "Отражение культуры и искусства в гастрономии и ожидания на будущее"
   },
   {
     "id": "32",
@@ -370,7 +364,7 @@
     "people": [
       {
         "name": "Moderator: Paolo Vizzari",
-        "role": "Gastronomic Storyteller",
+        "role": "Гастрономический рассказчик",
         "location": "Milan, Italy"
       },
       {
@@ -382,7 +376,7 @@
       }
     ],
     "sponsor": "",
-    "title": "История, сформированная людьми, путешествиями и культурами."
+    "title": "История, созданная людьми, путешествиями и культурами"
   },
   {
     "id": "33",
@@ -418,8 +412,7 @@
       }
     ],
     "sponsor": "",
-    "title": "XCARET: WHERE MEXICO BECOMES A CULINARY DESTINATION",
-    "translationPending": true
+    "title": "Xcaret: ГДЕ МЕКСИКА СТАНОВИТСЯ КУЛИНАРНЫМ НАПРАВЛЕНИЕМ"
   },
   {
     "id": "37",
@@ -437,7 +430,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Корни… Прошлое, настоящее и будущее в гастрономии и культуре."
+    "title": "Корни... Прошлое, настоящее и будущее в гастрономии и культуре"
   },
   {
     "id": "38",
@@ -484,7 +477,7 @@
     "people": [
       {
         "name": "Moderator: Levon Bağış",
-        "role": "Wine Expert & Gastronomy Writer",
+        "role": "Винный эксперт и гастрономический писатель",
         "location": "İstanbul, Türkiye"
       },
       {
@@ -519,8 +512,7 @@
       }
     ],
     "sponsor": "",
-    "title": "BACK WHERE THE MIST MEETS THE SEA",
-    "translationPending": true
+    "title": "НАЗАД, ГДЕ ТУМАН ВСТРЕЧАЕТСЯ С МОРЕМ"
   },
   {
     "id": "43",
@@ -549,7 +541,7 @@
     "people": [
       {
         "name": "Moderator: Guillaume Erblang",
-        "role": "Editor-in-Chief, Food&Sens & Founder of Paroles de Chefs",
+        "role": "Главный редактор Food&Sens и основатель Paroles de Chefs",
         "location": "Paris, France"
       },
       {
@@ -561,8 +553,7 @@
       }
     ],
     "sponsor": "",
-    "title": "FROM ROOTS TO LEGACY | HOW CULTURE AND INTERACTION SHAPE THE ART OF TRANSMISSION",
-    "translationPending": true
+    "title": "ОТ КОРНЕЙ К НАСЛЕДСТВУ | КАК КУЛЬТУРА И ВЗАИМОДЕЙСТВИЕ ФОРМИРУЮТ ИСКУССТВО ПЕРЕДАЧИ"
   },
   {
     "id": "45",
@@ -573,7 +564,7 @@
     "people": [
       {
         "name": "Moderator: Davide Bertellini",
-        "role": "Journalist & Food Critic",
+        "role": "Журналист и кулинарный критик",
         "location": "Milan, Italy"
       },
       {
@@ -599,7 +590,7 @@
       }
     ],
     "sponsor": "Jumbo",
-    "title": "Культурный обмен в меню и ответственность шеф-поваров перед региональной кухней"
+    "title": "Культурный обмен в меню и ответственность поваров за региональные кухни"
   },
   {
     "id": "46",
@@ -617,8 +608,7 @@
       }
     ],
     "sponsor": "",
-    "title": "LABORATORY OF THE IMPOSSIBLE",
-    "translationPending": true
+    "title": "ЛАБОРАТОРИЯ НЕВОЗМОЖНОГО"
   },
   {
     "id": "47",
@@ -629,7 +619,7 @@
     "people": [
       {
         "name": "Moderator: Liam Collens",
-        "role": "Food Writer & Restautant Critic",
+        "role": "Кулинарный писатель и ресторанный критик",
         "location": "Dubai, UAE"
       },
       {
@@ -641,8 +631,7 @@
       }
     ],
     "sponsor": "",
-    "title": "RISING INDIA",
-    "translationPending": true
+    "title": "РАСТУЩАЯ ИНДИЯ"
   },
   {
     "id": "48",
@@ -678,7 +667,7 @@
       }
     ],
     "sponsor": "",
-    "title": "От земли к эмоциям: кухня как культурное выражение."
+    "title": "От земли к эмоциям: кухня как выражение культуры"
   },
   {
     "id": "51",
@@ -696,7 +685,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Формирование будущего гастрономии посредством образования и инноваций."
+    "title": "Формирование будущего гастрономии посредством образования и инноваций"
   },
   {
     "id": "52",
@@ -732,7 +721,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Душа в соусе | Карта португальских соусов: от воспоминаний до создания"
+    "title": "Душа в соусе |\nКартирование соусов Португалии: от памяти до создания"
   },
   {
     "id": "54",
@@ -750,7 +739,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Новые морские технологии с выставки Miramar 2026"
+    "title": "Новые морские методы от Miramar 2026 г."
   },
   {
     "id": "55",
@@ -761,7 +750,7 @@
     "people": [
       {
         "name": "Moderator: Rafa Tonon",
-        "role": "Gastronomy Journalist & Food Writer",
+        "role": "Гастрономический журналист и кулинарный писатель",
         "location": "Porto, Portugal"
       },
       {
@@ -823,7 +812,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Рыбьи кости: другая сторона рыбы"
+    "title": "Рыбные кости: обратная сторона рыбы"
   },
   {
     "id": "58",
@@ -841,7 +830,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Общие пространства и ландшафты"
+    "title": "Общие пространства и пейзажи"
   },
   {
     "id": "59",
@@ -876,8 +865,7 @@
       }
     ],
     "sponsor": "",
-    "title": "TRADITION IS A VERB, NOT A NOUN",
-    "translationPending": true
+    "title": "ТРАДИЦИЯ – ЭТО ГЛАГОЛ, А НЕ СУЩЕСТВИТЕЛЬНОЕ"
   },
   {
     "id": "60",
@@ -888,7 +876,7 @@
     "people": [
       {
         "name": "Moderator: Oğul Türkkan",
-        "role": "Food, Wine & Spirit Expert",
+        "role": "Эксперт по еде, вину и спиртным напиткам",
         "location": "İstanbul, Türkiye"
       },
       {
@@ -935,7 +923,7 @@
     "people": [
       {
         "name": "Moderator: David Joseph Constable",
-        "role": "GAYA Editor-in-Chief",
+        "role": "Главный редактор ГАЯ",
         "location": "Dubai, UAE"
       },
       {
@@ -968,7 +956,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Может ли ближневосточная культура создать новые модели на мировой гастрономической арене?"
+    "title": "Может ли культура Middle Eastern создавать новые модели на мировой гастрономической сцене?"
   },
   {
     "id": "21",
@@ -986,8 +974,7 @@
       }
     ],
     "sponsor": "",
-    "title": "WE LOOK BACK TO MOVE FORWARD",
-    "translationPending": true
+    "title": "МЫ ОЖИДАЕМ НАЗАД, ЧТОБЫ ДВИЖАТЬСЯ ВПЕРЕД"
   },
   {
     "id": "65",
@@ -998,7 +985,7 @@
     "people": [
       {
         "name": "Moderator: Guillaume Erblang",
-        "role": "Editor-in-Chief, Food&Sens & Founder of Paroles de Chefs",
+        "role": "Главный редактор Food&Sens и основатель Paroles de Chefs",
         "location": "Paris, France"
       },
       {
@@ -1038,7 +1025,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Влияние творчества на современное кондитерское искусство"
+    "title": "Влияние творчества на кондитерские изделия Modern"
   },
   {
     "id": "66",
@@ -1056,8 +1043,7 @@
       }
     ],
     "sponsor": "",
-    "title": "LUNCH AT EMI",
-    "translationPending": true
+    "title": "ОБЕД В EMi"
   },
   {
     "id": "41",
@@ -1091,22 +1077,22 @@
       },
       {
         "name": "Melih Şahinöz",
-        "role": "Председатель совета директоров ETÜDER",
+        "role": "ETÜDER Председатель правления",
         "location": ""
       },
       {
         "name": "Kaya Demirer",
-        "role": "Председатель совета директоров TURYİD",
+        "role": "TURYİD Председатель правления",
         "location": ""
       },
       {
         "name": "Ramazan Bingöl",
-        "role": "TÜRES Genel Başkanı",
+        "role": "Председатель TÜRES",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Изменения и будущие ожидания в секторах гастрономии, туризма и гостиничного бизнеса."
+    "title": "Изменения и будущие ожидания в секторах гастрономии, туризма и гостеприимства."
   },
   {
     "id": "1",
@@ -1117,42 +1103,42 @@
     "people": [
       {
         "name": "Moderator: Ahu Orakçıoğlu",
-        "role": "Ведущий новостной программы Ekotürk и журналист.",
+        "role": "Ведущий и журналист программы новостей Ekotürk News",
         "location": ""
       },
       {
         "name": "Sadettin Cesur",
-        "role": "Генеральный директор TUM/TRU Hospitality (аэропорт IST)",
+        "role": "TUM/TRU Hospitality (IST Airport) Генеральный директор",
         "location": ""
       },
       {
         "name": "Şebnem Ferman",
-        "role": "Gabala Hospitality Group Yönetim Kurulu Başkanı",
+        "role": "Gabala Hospitality Group Председатель правления",
         "location": ""
       },
       {
         "name": "Uğur Talayhan",
-        "role": "The Grand Tarabya Bosphorus Genel Müdürü",
+        "role": "Генеральный директор The Grand Tarabya Bosphorus",
         "location": ""
       },
       {
         "name": "Cengiz Barut",
-        "role": "Член совета директоров сети отелей Barut Hotels",
+        "role": "Barut Hotels Член правления",
         "location": ""
       },
       {
         "name": "Nurçe Erben Hakan",
-        "role": "Mondrian Bodrum Kurucusu",
+        "role": "Основатель Mondrian Bodrum",
         "location": ""
       },
       {
         "name": "Çetin Pehlivan",
-        "role": "Tersane İstanbul Managing Director",
+        "role": "Терсане Стамбул Управляющий директор",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Стратегии роста и меняющиеся бизнес-модели в индустрии гостеприимства"
+    "title": "Стратегии роста и изменение бизнес-моделей в индустрии гостеприимства"
   },
   {
     "id": "hospitality-26-1330",
@@ -1163,40 +1149,37 @@
     "people": [
       {
         "name": "Moderator: Kaya Demirer",
-        "role": "Председатель совета директоров TURYİD",
+        "role": "TURYİD Председатель правления",
         "location": ""
       },
       {
         "name": "Serkan Yalçınkaya",
-        "role": "Генеральный менеджер отеля Mandarin Oriental Bosphorus Istanbul",
+        "role": "Генеральный директор Mandarin Oriental Bosphorus Istanbul",
         "location": ""
       },
       {
         "name": "Ata Eremsoy",
-        "role": "The Marmara Hospitality Group - COO",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "The Marmara Hospitality Group - Главный операционный директор",
+        "location": ""
       },
       {
         "name": "Aykut Korkmaz",
-        "role": "Генеральный директор Шангри-Ла Босфор Стамбул",
+        "role": "Генеральный директор Shangri-La Bosphorus İstanbul",
         "location": ""
       },
       {
         "name": "Rufat Babayev",
-        "role": "Türkiye & Hırvatistan Hyatt Otelleri Bölge Başkanı",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Türkiye & Hırvatistan Hyatt Otelleri Региональный президент",
+        "location": ""
       },
       {
         "name": "Utkan Gülaçtı",
-        "role": "Swissôtel The Bosphorus İstanbul Genel Müdürü",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Генеральный директор Swissôtel The Bosphorus İstanbul",
+        "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Какие факторы определят будущее роскошных отелей?"
+    "title": "Какая динамика будет определять роскошные отели будущего?"
   },
   {
     "id": "4",
@@ -1207,30 +1190,28 @@
     "people": [
       {
         "name": "Moderator: Gonca Karakaş",
-        "role": "Effect Burson CEO",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Effect Burson Генеральный директор",
+        "location": ""
       },
       {
         "name": "Ralph Radtke",
-        "role": "Генеральный директор Чираган Палас Кемпински Стамбул и региональный директор Kempinski Residences Türkiye",
+        "role": "Çırağan Palace Kempinski İstanbul Генеральный директор и региональный директор Kempinski Residences в Турции",
         "location": ""
       },
       {
         "name": "Akis Neocleous",
-        "role": "Руководитель высшего звена в гостиничной группе Hoteles Xcaret, отвечающий за отели.",
+        "role": "Hoteles Xcaret Oteller Grubu Otellerden Sorumlu Üst Düzey Менеджер",
         "location": "",
         "photo": "assets/chefs/akisneocleous.webp"
       },
       {
         "name": "Jonathan H. Crook",
-        "role": "The Peninsula İstanbul Genel Müdürü // Managing Director",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "The Peninsula İstanbul Генеральный директор // Управляющий директор",
+        "location": ""
       },
       {
         "name": "Thomas Krooswijk",
-        "role": "Генеральный менеджер отеля Four Seasons Hotel Istanbul at the Bosphorus & Sultanahmet",
+        "role": "Генеральный директор Four Seasons Hotel Istanbul at the Bosphorus & Sultanahmet",
         "location": ""
       }
     ],
@@ -1246,37 +1227,37 @@
     "people": [
       {
         "name": "Moderator: Yelda İpekli",
-        "role": "Специалист по стратегическому маркетингу и управлению брендом",
+        "role": "Stratejik Эксперт по маркетингу и бренд-менеджменту",
         "location": ""
       },
       {
         "name": "Kılıç Ali Kantar",
-        "role": "Генеральный менеджер отеля CVK Park Bosphorus Hotel Istanbul",
+        "role": "Генеральный директор CVK Park Bosphorus Hotel İstanbul",
         "location": ""
       },
       {
         "name": "Murat Eti",
-        "role": "Генеральный менеджер отеля Pera Palace",
+        "role": "Генеральный директор Pera Palace Hotel",
         "location": ""
       },
       {
         "name": "Cem Akşahin",
-        "role": "Генеральный менеджер отеля Fairmont Quasar Istanbul",
+        "role": "Генеральный директор Fairmont Quasar Istanbul",
         "location": ""
       },
       {
         "name": "Ayça Bilgin",
-        "role": "Shine Hospitality Kurucusu, Otel Yatırımları ve Marka Geliştirme Uzmanı",
+        "role": "Shine Hospitality Основатель, эксперт по гостиничным инвестициям и развитию брендов",
         "location": ""
       },
       {
         "name": "Ceyda Noyan",
-        "role": "Генеральный менеджер отеля The St. Regis Istanbul",
+        "role": "Генеральный директор The St. Regis Istanbul",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Как изменения на рынке туризма повлияют на будущее инвестиций в гостиничный бизнес?"
+    "title": "Как изменяющийся рынок туризма влияет на будущее инвестиций в гостиничный бизнес?"
   },
   {
     "id": "hospitality-26-v33-1400",
@@ -1287,28 +1268,27 @@
     "people": [
       {
         "name": "Moderator: Özge Şahin",
-        "role": "Atıksız Mutfak Şefi & TV Programcısı",
+        "role": "Atıksız Кухонный повар и телепрограммист",
         "location": ""
       },
       {
         "name": "Zümrüt Yezdani Kedik",
-        "role": "Pernod Ricard Türkiye Hukuk, Kurumsal İletişim & Dış İlişkiler Direktörü",
+        "role": "Pernod Ricard Türkiye Директор по правовым вопросам, корпоративным коммуникациям и внешним связям",
         "location": ""
       },
       {
         "name": "Coşkun Aral",
-        "role": "Gazeteci",
+        "role": "журналист",
         "location": ""
       },
       {
         "name": "Yiğitcan Gençer",
-        "role": "Twins Cocktail Lab Kurucusu",
+        "role": "Основатель Twins Cocktail Lab",
         "location": ""
       }
     ],
     "sponsor": "Bodrum Yeşili",
-    "title": "Bodrum Yeşili: A Story Beginning with a Mandarin",
-    "translationPending": true
+    "title": "Bodrum Yeşili: История, начинающаяся с мандарина"
   },
   {
     "id": "5",
@@ -1324,32 +1304,32 @@
       },
       {
         "name": "Nazlı Sönmez",
-        "role": "Джиджи Риголатто, глобальный бренд-директор Paris Society International и RIKAS Hospitality Group.",
+        "role": "Gigi Rigolatto, Paris Society International & RIKAS Hospitality Group Global Бренд-директор",
         "location": ""
       },
       {
         "name": "Pelin Çakar Bingül",
-        "role": "Генеральный менеджер Papermoon",
+        "role": "Генеральный директор Paper Moon",
         "location": ""
       },
       {
         "name": "Yücel Özalp",
-        "role": "Председатель совета директоров Desert Group",
+        "role": "Desert Group Председатель правления",
         "location": ""
       },
       {
         "name": "Yaprak Baltacı",
-        "role": "Морини, соучредитель Clove & Epoca",
+        "role": "Соучредитель Morini, Clove & Epoca",
         "location": ""
       },
       {
         "name": "Levent Veziroğlu",
-        "role": "Председатель совета директоров Hospitalligent и заместитель председателя совета директоров Akfen Yedideyedi",
+        "role": "Hospitelligent Председатель совета директоров и заместитель председателя правления Akfen Yedideyedi",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Премиум-бренды и бизнес-видение в гастрономии"
+    "title": "Премиальные бренды и бизнес-видение в гастрономии"
   },
   {
     "id": "hospitality-26-v33-1500",
@@ -1360,13 +1340,12 @@
     "people": [
       {
         "name": "Refika Birgül",
-        "role": "Yazar, Refika'nın Mutfağı Kurucusu & Program Yapımcısı",
+        "role": "Автор, основатель Refika'nın Mutfağı и продюсер программы",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Turkish Culinary Techniques That Can Inspire the World",
-    "translationPending": true
+    "title": "Турецкие кулинарные приемы, которые могут вдохновить мир"
   },
   {
     "id": "6",
@@ -1377,38 +1356,37 @@
     "people": [
       {
         "name": "Moderator: Gökmen Sözen",
-        "role": "Генеральный директор Sözen Group и основатель Gastromasa",
+        "role": "Sözen Group Генеральный директор и основатель Gastromasa",
         "location": ""
       },
       {
         "name": "Zeynep Pınar Taşdemir",
-        "role": "Основатель и шеф-повар ресторана Araka",
+        "role": "Araka Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Aret Sahakyan",
-        "role": "Мачакизы, шеф-повар",
+        "role": "Maçakızı Шеф-повар",
         "location": ""
       },
       {
         "name": "Maksut Aşkar",
-        "role": "Основатель и шеф-повар компании neolokal",
+        "role": "neolokal Соучредитель и руководитель",
         "location": ""
       },
       {
         "name": "Cihan Çetinkaya",
-        "role": "C2 Danışmanlık Kurucu",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "C2 Danışmanlık Основатель",
+        "location": ""
       },
       {
         "name": "Emre Şen",
-        "role": "Партнер-основатель и шеф-повар Casa Lavanda",
+        "role": "Casa Lavanda Соучредитель и руководитель",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Как культура, опыт и креативность формируют кулинарный язык шеф-повара?"
+    "title": "Как культура, опыт и творчество формируют кулинарный язык шеф-повара?"
   },
   {
     "id": "7",
@@ -1419,37 +1397,37 @@
     "people": [
       {
         "name": "Moderator: Feyzan Ersinan",
-        "role": "Президент агентства «Оптимист Групп»",
+        "role": "Optimist Group Ajans Голова",
         "location": ""
       },
       {
         "name": "Ahmet Uras",
-        "role": "Председатель совета директоров компании The Galliard",
+        "role": "The Galliard Председатель правления",
         "location": ""
       },
       {
         "name": "Zeki Özen",
-        "role": "Основатель бистро «Шекспир»",
+        "role": "Основатель Shakespeare Bistro",
         "location": ""
       },
       {
         "name": "Hasan Yeşilyurt",
-        "role": "Akkomarka Restoran Grubu Ortağı ve Gastronomi Profesyoneli & Danışman",
+        "role": "Партнер ресторанной группы Аккомарка, профессионал и консультант в области гастрономии",
         "location": ""
       },
       {
         "name": "Altan Kosova",
-        "role": "BigChefs CEO",
+        "role": "BigChefs Генеральный директор",
         "location": ""
       },
       {
         "name": "Onur Tahincioğlu",
-        "role": "Modern Restaurant Yönetim Kurulu Danışmanı",
+        "role": "Modern Советник совета директоров ресторана",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Путь развития ресторанных групп от местных брендов до национальных сетей."
+    "title": "Путь роста ресторанных групп от местных брендов к национальным сетям"
   },
   {
     "id": "9",
@@ -1460,37 +1438,37 @@
     "people": [
       {
         "name": "Moderator: Şirin Sever",
-        "role": "Posta Gazetesi Yazarı",
+        "role": "Автор газеты Posta",
         "location": ""
       },
       {
         "name": "Nuri Develi",
-        "role": "Председатель совета директоров Develi",
+        "role": "Develi Председатель правления",
         "location": ""
       },
       {
         "name": "Tahir Tekin Öztan",
-        "role": "Председатель совета директоров ресторанной группы Sahan",
+        "role": "Sahan Restoran Grup Председатель правления",
         "location": ""
       },
       {
         "name": "Erhan Ece",
-        "role": "Основательница Sayfiye & Papalina",
+        "role": "Основатель Sayfiye & Papalina",
         "location": ""
       },
       {
         "name": "Mehmet Murat Çelik",
-        "role": "Основатель Sıralı Kebab",
+        "role": "Основатель Sıralı Kebap",
         "location": ""
       },
       {
         "name": "Ahmet Karoğlu",
-        "role": "Основатель Ахмета Устама Окакбаши",
+        "role": "Основатель Ahmet Ustam Ocakbaşı",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Путь ресторанных брендов от традиций к будущему"
+    "title": "Путешествие ресторанных брендов от традиций к будущему"
   },
   {
     "id": "10",
@@ -1501,27 +1479,27 @@
     "people": [
       {
         "name": "Moderator: Şafak Tükle",
-        "role": "CNBC-e Sunucusu",
+        "role": "Ведущий CNBC-e",
         "location": ""
       },
       {
         "name": "Sinem Özler",
-        "role": "Сераф, соучредитель и шеф-повар.",
+        "role": "Seraf Соучредитель и руководитель",
         "location": ""
       },
       {
         "name": "Mehmet Akdağ",
-        "role": "7. Мехмет, менеджер и шеф-повар",
+        "role": "7 Mehmet Оператор и руководитель",
         "location": ""
       },
       {
         "name": "Çiğdem Seferoğlu",
-        "role": "Ходан — основатель и шеф-повар.",
+        "role": "Hodan Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Uluç Sakarya",
-        "role": "Основатель и шеф-повар Nazende Cadde",
+        "role": "Nazende Cadde Основатель и руководитель",
         "location": ""
       }
     ],
@@ -1537,27 +1515,27 @@
     "people": [
       {
         "name": "Moderator: Aylin Öney Tan",
-        "role": "Обозреватель газеты «Хурриет Дейли Ньюс»",
+        "role": "Hürriyet Daily News Обозреватель",
         "location": ""
       },
       {
         "name": "Claudio Chinali",
-        "role": "Директор Eataly Istanbul и шеф-повар Terrazza Italia",
+        "role": "Eataly İstanbul Директор и Terrazza Italia Исполнительный директор",
         "location": ""
       },
       {
         "name": "Giancarlo Gottardo",
-        "role": "Divan Hotels & Restaurants Türkiye Кулинарный директор",
+        "role": "Divan Otelleri & Restoranları Türkiye Директор кухни",
         "location": ""
       },
       {
         "name": "Luigi Mariconda",
-        "role": "Шеф-повар ресторана Il Cortile",
+        "role": "Il Cortile Шеф-повар",
         "location": ""
       },
       {
         "name": "Giuseppe Pressani",
-        "role": "Шеф-повар ресторана Paper Moon",
+        "role": "Paper Moon Шеф-повар",
         "location": ""
       }
     ],
@@ -1573,33 +1551,32 @@
     "people": [
       {
         "name": "Moderator: Ahmet Güzelyağdöken",
-        "role": "Писатель, консультант и шеф-повар, специализирующийся на гастрономии.",
+        "role": "Гастрономический писатель, консультант и инструктор-шеф-повар",
         "location": ""
       },
       {
         "name": "Osman Serdaroğlu",
-        "role": "Основатель и шеф-повар ресторана Teruar Urla",
+        "role": "Teruar Urla Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Ozan Kumbasar",
-        "role": "Основатель и шеф-повар ресторана Vino Locale",
+        "role": "Vino Locale Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Osman Sezener",
-        "role": "Основатель и шеф-повар ресторана OD Urla",
+        "role": "OD Urla Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Atilla Heilbronn",
-        "role": "Основатель и шеф-повар Наримора Урлы",
+        "role": "Narimor Urla Основатель и руководитель",
         "location": ""
       }
     ],
     "sponsor": "Mondrian",
-    "title": "The Vision Behind the Kitchens Transforming Urla into a Global Gastronomy Destination",
-    "translationPending": true
+    "title": "Видение кухни, превращающее Urla в глобальное гастрономическое направление"
   },
   {
     "id": "13",
@@ -1610,29 +1587,29 @@
     "people": [
       {
         "name": "Moderator: Gualtiero Spotti",
-        "role": "Gazeteci",
+        "role": "журналист",
         "location": ""
       },
       {
         "name": "Ali El Bourji",
-        "role": "Atlantis Dubai Mutfak Direktörü",
+        "role": "Atlantis Dubai Директор кухни",
         "location": "",
         "photo": "assets/chefs/alielbourji.webp"
       },
       {
         "name": "Cesare Murzilli",
-        "role": "Portrait Milano Kurumsal Executive Şefi",
+        "role": "Portrait Milano Kurumsal Шеф-повар",
         "location": "",
         "photo": "assets/chefs/cesaremurzilli.webp"
       },
       {
         "name": "Andreas Block",
-        "role": "The Peninsula İstanbul Executive Şefi",
+        "role": "The Peninsula İstanbul Шеф-повар",
         "location": ""
       },
       {
         "name": "Elmar Aliyev",
-        "role": "Gabala Hospitality Group Kurumsal Mutfak Şefi",
+        "role": "Gabala Hospitality Group Kurumsal Шеф-повар кухни",
         "location": ""
       }
     ],
@@ -1648,22 +1625,22 @@
     "people": [
       {
         "name": "Moderator: Aret Vartanyan",
-        "role": "Yazar",
+        "role": "Автор",
         "location": ""
       },
       {
         "name": "Talia Bayat",
-        "role": "TAB Studio Kurucusu",
+        "role": "Основатель TAB Studio",
         "location": ""
       },
       {
         "name": "Çiğdem Alagök",
-        "role": "Генеральный менеджер Академии USLA",
+        "role": "Генеральный директор USLA Akademi",
         "location": ""
       },
       {
         "name": "Murat Deniz Temel",
-        "role": "Алаф — соучредитель и шеф-повар.",
+        "role": "Alaf Соучредитель и руководитель",
         "location": ""
       }
     ],
@@ -1679,27 +1656,27 @@
     "people": [
       {
         "name": "Moderator: Dr. Fatoş Karahasan",
-        "role": "Gazeteci & Yazar",
+        "role": "Журналист и писатель",
         "location": ""
       },
       {
         "name": "İsmet Öztanık",
-        "role": "Avantgarde Collection & Lucis Initiative Kurucusu",
+        "role": "Основатель Avantgarde Collection & Lucis Initiative",
         "location": ""
       },
       {
         "name": "Sabiha Asfuroğlu Abbasoğlu",
-        "role": "The Museum Hotel Antakya Turizm Yatırımlarından Sorumlu CEO",
+        "role": "The Museum Hotel Antakya Turizm Yatırımlarından Sorumlu Генеральный директор",
         "location": ""
       },
       {
         "name": "Mine Özmen",
-        "role": "Hışvahan Kurucusu",
+        "role": "Основатель Hışvahan",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Будущее инвестиций в гостиничный бизнес в развивающихся туристических направлениях Турции"
+    "title": "Будущее гостиничных инвестиций в развивающихся направлениях Турции"
   },
   {
     "id": "hospitality-27-v33-1100",
@@ -1710,7 +1687,7 @@
     "people": [
       {
         "name": "Moderator: Gökmen Sözen",
-        "role": "Генеральный директор Sözen Group и основатель Gastromasa",
+        "role": "Sözen Group Генеральный директор и основатель Gastromasa",
         "location": ""
       },
       {
@@ -1730,8 +1707,7 @@
       }
     ],
     "sponsor": "",
-    "title": "The Interaction of Cultures and Cuisines on MasterChef",
-    "translationPending": true
+    "title": "Взаимодействие культур и кухонь на MasterChef"
   },
   {
     "id": "hospitality-27-1130",
@@ -1742,12 +1718,12 @@
     "people": [
       {
         "name": "Moderator: Reha Arar",
-        "role": "Член совета директоров NET Holding, гурман и писатель.",
+        "role": "NET Holding Член правления, гурман и автор",
         "location": ""
       },
       {
         "name": "Ergün Demiray",
-        "role": "Председатель совета директоров компании Dedeman Hotels",
+        "role": "Dedeman Hotels Председатель правления",
         "location": ""
       },
       {
@@ -1768,27 +1744,27 @@
     "people": [
       {
         "name": "Moderator: Emre Buga",
-        "role": "Haber Spikeri & Editör",
+        "role": "Диктор и редактор",
         "location": ""
       },
       {
         "name": "Vito Romeo",
-        "role": "Д. Марис Бэй, генеральный менеджер",
+        "role": "Генеральный директор D Maris Bay",
         "location": ""
       },
       {
         "name": "Umut Terzi",
-        "role": "Генеральный менеджер клуба Marvy",
+        "role": "Генеральный директор Club Marvy",
         "location": ""
       },
       {
         "name": "Can Göktaş",
-        "role": "Six Senses Kaplankaya Genel Müdürü",
+        "role": "Генеральный директор Six Senses Kaplankaya",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Аутентичность и фирменный стиль в сегменте элитного жилья нового поколения."
+    "title": "Аутентичность и индивидуальность бренда в роскошном жилье нового поколения."
   },
   {
     "id": "hospitality-27-1230",
@@ -1799,12 +1775,12 @@
     "people": [
       {
         "name": "Moderator: Bahar Akıncı",
-        "role": "Обозреватель рубрики «Устойчивый туризм» в газете «Кислород»",
+        "role": "Обозреватель газеты «Оксижен» по устойчивому туризму",
         "location": ""
       },
       {
         "name": "Pınar Açılan Horikoshi",
-        "role": "Соучредитель Ицуми",
+        "role": "Соучредитель İtsumi",
         "location": ""
       },
       {
@@ -1819,17 +1795,17 @@
       },
       {
         "name": "Ergün Yücebıyık",
-        "role": "Партнер-основатель ресторана Dragon",
+        "role": "Сооснователь ресторана Dragon",
         "location": ""
       },
       {
         "name": "Metehan Çulha",
-        "role": "Barba Sushi & Lounge Kurucu Ortağı",
+        "role": "Соучредитель Barba Sushi & Lounge",
         "location": ""
       },
       {
         "name": "Yusuf Saranga",
-        "role": "Wagamama Yönetim Kurulu Başkanı",
+        "role": "Wagamama Председатель правления",
         "location": ""
       }
     ],
@@ -1845,17 +1821,17 @@
     "people": [
       {
         "name": "Moderator: Aylin Öney Tan",
-        "role": "Обозреватель газеты «Хурриет Дейли Ньюс»",
+        "role": "Hürriyet Daily News Обозреватель",
         "location": ""
       },
       {
         "name": "Carlo Bernardini",
-        "role": "Основатель и шеф-повар компании Carlo Bernardini Fine Catering & Events",
+        "role": "Carlo Bernardini Fine Catering & Events Основатель и руководитель",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "«Я — Карло»"
+    "title": "\"Я Карло\""
   },
   {
     "id": "hospitality-27-v33-1315",
@@ -1866,17 +1842,17 @@
     "people": [
       {
         "name": "Moderator: Dilistan Shipman",
-        "role": "İstanbul Nişantaşı Universitesi Sanat ve Tasarım Fakültesi Gastronomy & Culinary Arts Bölüm Başkanı",
+        "role": "İstanbul Nişantaşı Universitesi Факультет искусства и дизайна, заведующий кафедрой гастрономии и кулинарного искусства",
         "location": ""
       },
       {
         "name": "Kazım Çil",
-        "role": "TUM & TRU Hospitality & Retail Operasyonlardan Sorumlu Genel Müdür Yardımcısı COO",
+        "role": "TUM & TRU Hospitality & Retail Operasyonlardan Sorumlu Заместитель генерального директора, операционный директор",
         "location": ""
       },
       {
         "name": "İlyas Faruk Tanyeri Gonzalez",
-        "role": "Ranchero ve Perran Ocakbaşı Kurucu Ortağı",
+        "role": "Соучредитель Ranchero ve Perran Ocakbaşı",
         "location": ""
       },
       {
@@ -1886,14 +1862,12 @@
       },
       {
         "name": "Ozan Benlioğlu",
-        "role": "Sour & Sweet Kurucu Ortağı",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Соучредитель Sour & Sweet",
+        "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Can Restaurant Brands Achieve Growth and Operational Excellence?",
-    "translationPending": true
+    "title": "Как ресторанным брендам добиться роста и операционного совершенства?"
   },
   {
     "id": "hospitality-27-1315",
@@ -1904,32 +1878,32 @@
     "people": [
       {
         "name": "Moderator: Memet Özer",
-        "role": "TV Programcısı & Şef",
+        "role": "Телепрограммист и шеф-повар",
         "location": ""
       },
       {
         "name": "İbrahim Çolak",
-        "role": "Соучредитель и шеф-повар ресторана Elbet Steakhouse",
+        "role": "Elbet Steakhouse Соучредитель и руководитель",
         "location": ""
       },
       {
         "name": "Cüneyt Asan",
-        "role": "Соучредитель Günaydın Meat & Restaurants",
+        "role": "Соучредитель Günaydın Et & Restoranları",
         "location": ""
       },
       {
         "name": "Sidar Budak",
-        "role": "Основатель и шеф-повар ресторана Beeves Steakhouse",
+        "role": "Beeves Steakhouse Основатель и генеральный директор",
         "location": ""
       },
       {
         "name": "Ömer Seyfi Aktülün",
-        "role": "Şazeli Restaurantları Yönetim Kurulu Başkanı",
+        "role": "Şazeli Председатель правления ресторана",
         "location": ""
       }
     ],
     "sponsor": "Culinarist",
-    "title": "Мастерство разделки мяса и будущее культуры стейк-хаусов"
+    "title": "Мясное мастерство и будущее стейкхаусной культуры"
   },
   {
     "id": "hospitality-27-v33-1530",
@@ -1940,20 +1914,17 @@
     "people": [
       {
         "name": "Erim Şanal",
-        "role": "Yayla Marka Şefi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Yayla Руководитель бренда",
+        "location": ""
       },
       {
         "name": "Eda Karabulut",
-        "role": "Yayla Marka Şefi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Yayla Руководитель бренда",
+        "location": ""
       }
     ],
     "sponsor": "Yayla",
-    "title": "Grain by Grain: Yayla Fortified Rice",
-    "translationPending": true
+    "title": "По зерну: Yayla Обогащенный рис"
   },
   {
     "id": "12",
@@ -1964,27 +1935,27 @@
     "people": [
       {
         "name": "Moderator: Murat Güloğlu",
-        "role": "Телеведущий и журналист",
+        "role": "Телепрограммист и журналист",
         "location": ""
       },
       {
         "name": "Büşra Karamancı",
-        "role": "Член совета директоров Melas Hotels & Resorts",
+        "role": "Melas Hotels & Resorts Член правления",
         "location": ""
       },
       {
         "name": "Nahit Kara",
-        "role": "Член совета директоров отелей Ethno & Adalya.",
+        "role": "Ethno & Adalya Hotels Член правления",
         "location": ""
       },
       {
         "name": "Maya Tansever",
-        "role": "Sunset Grill & Bar Genel Koordinatörü",
+        "role": "Sunset Grill & Bar Генеральный координатор",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Новые поколения, новые впечатления и будущее туризма."
+    "title": "Новые поколения, новый опыт и будущее туризма."
   },
   {
     "id": "hospitality-27-1415",
@@ -1995,7 +1966,7 @@
     "people": [
       {
         "name": "Moderator: Ayfer Yavi",
-        "role": "Основатель Ассоциации Слоу Фуд Стамбул Ягмур Бореги",
+        "role": "Основатель Slow Food İstanbul Yağmur Böreği Birliği",
         "location": ""
       },
       {
@@ -2005,23 +1976,22 @@
       },
       {
         "name": "Şamil Gence",
-        "role": "Caeli Genel Müdürü",
+        "role": "Генеральный директор Caeli",
         "location": ""
       },
       {
         "name": "Hande Gündoğar",
-        "role": "Надас Каздаглары Генеральный директор",
+        "role": "Генеральный директор Nadas Kazdağları",
         "location": ""
       },
       {
         "name": "Ezgi Serdaroğlu",
-        "role": "Teruar Urla Kurucu Ortağı & Deneyim Küratörü",
+        "role": "Teruar Urla Соучредитель и куратор опыта",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "New Hospitality Experiences at the Meeting Point of Gastronomy, Nature and Culture",
-    "translationPending": true
+    "title": "Новые впечатления от гостеприимства на стыке гастрономии, природы и культуры"
   },
   {
     "id": "hospitality-27-1445",
@@ -2032,17 +2002,17 @@
     "people": [
       {
         "name": "Moderator: Gökmen Sözen",
-        "role": "Генеральный директор Sözen Group и основатель Gastromasa",
+        "role": "Sözen Group Генеральный директор и основатель Gastromasa",
         "location": ""
       },
       {
         "name": "Arda Türkmen",
-        "role": "Телеведущий и шеф-повар",
+        "role": "Телепрограммист и шеф-повар",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Как гастрономия помогает налаживать связи между культурами?"
+    "title": "Как гастрономия строит мост между культурами?"
   },
   {
     "id": "hospitality-27-1500",
@@ -2053,38 +2023,37 @@
     "people": [
       {
         "name": "Moderator: Reha Tartıcı",
-        "role": "Gastronomi & Mutfak Kültürü Yazarı",
+        "role": "Писатель по гастрономии и кулинарной культуре",
         "location": ""
       },
       {
         "name": "Kaan Kayhan",
-        "role": "Основатель и шеф-повар Yeniköy Balıkçısı",
+        "role": "Yeniköy Balıkçısı Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Erşan Yılmaz",
-        "role": "Основатель компании BordoMavi Fish",
+        "role": "Основатель BordoMavi Balık",
         "location": ""
       },
       {
         "name": "Volkan Bekit",
-        "role": "Г-н Нихат, представитель второго поколения.",
+        "role": "Г-н Нихат Представитель 2-го поколения",
         "location": ""
       },
       {
         "name": "Süreyya Üzmez",
-        "role": "Trilye Restaurant Kurucusu",
+        "role": "Основатель ресторана Trilye",
         "location": ""
       },
       {
         "name": "Ertuğrul Sürgit",
-        "role": "Yalova Restaurant 3. Kuşak İşletmecisi",
+        "role": "Yalova Оператор ресторана третьего поколения",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "The Journey from Flavour to Brand with the Masters of Seafood Gastronomy",
-    "translationPending": true
+    "title": "Путешествие от вкуса к бренду с мастерами морской гастрономии"
   },
   {
     "id": "hospitality-27-1545",
@@ -2095,24 +2064,22 @@
     "people": [
       {
         "name": "Moderator: Prof. Dr. Özge Samancı",
-        "role": "Yemek Kültürü Tarihçisi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Историк пищевой культуры",
+        "location": ""
       },
       {
         "name": "Eray Şahinbay",
-        "role": "La Lorraine Türkiye & Orta Doğu Pazarlama Direktörü",
+        "role": "La Lorraine Türkiye & Orta Doğu Директор по маркетингу",
         "location": ""
       },
       {
         "name": "Efe Anıl Çetin",
-        "role": "Rixos Tersane İstanbul Executive Şefi",
+        "role": "Rixos Tersane İstanbul Шеф-повар",
         "location": ""
       }
     ],
     "sponsor": "La Lorraine",
-    "title": "From Roots to the Future: The Past, Present and Future of Bakery Products in Türkiye",
-    "translationPending": true
+    "title": "От истоков к будущему: прошлое, настоящее и будущее хлебобулочных изделий в Турции"
   },
   {
     "id": "hospitality-27-1605",
@@ -2123,7 +2090,7 @@
     "people": [
       {
         "name": "Moderator: Cenk Girginol",
-        "role": "Gastronomi Yazarı & Kahve Danışmanı",
+        "role": "Гастрономический писатель и консультант по кофе",
         "location": ""
       },
       {
@@ -2133,32 +2100,32 @@
       },
       {
         "name": "Samet Akbaş",
-        "role": "Viyana Kahvesi CEO & Yönetim Kurulu Üyesi",
+        "role": "Viyana Kahvesi Генеральный директор и член правления",
         "location": ""
       },
       {
         "name": "Erol Şahin",
-        "role": "Coffee Factory CEO",
+        "role": "Coffee Factory Генеральный директор",
         "location": ""
       },
       {
         "name": "Bülent Özgür Kılıç",
-        "role": "1401 Cofffe House Yönetim Kurulu Başkanı",
+        "role": "1401 Cofffe House Председатель правления",
         "location": ""
       },
       {
         "name": "Sam Çeviköz",
-        "role": "Espresso Akademi Roastery Kurucu Ortağı",
+        "role": "Соучредитель Espresso Akademi Roastery",
         "location": ""
       },
       {
         "name": "Ünal Karababa",
-        "role": "Mikel Coffee Türkiye Genel Müdür Yardımcısı",
+        "role": "Mikel Coffee Türkiye Заместитель генерального директора",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Развитие кофейной культуры в Турции и меняющаяся роль брендов."
+    "title": "Развитие кофейной культуры в Турции и преобразующая роль брендов"
   },
   {
     "id": "hospitality-27-1635",
@@ -2169,32 +2136,32 @@
     "people": [
       {
         "name": "Moderator: Esin Sungur",
-        "role": "Mutfak Dostları Derneği Başkanı",
+        "role": "Mutfak Dostları Derneği Голова",
         "location": ""
       },
       {
         "name": "Taner Olca",
-        "role": "Представитель третьего поколения Есемека",
+        "role": "Yesemek Представитель 3-го поколения",
         "location": ""
       },
       {
         "name": "İsmail Reyhanoğlu",
-        "role": "Представитель третьего поколения ресторана Rize Port",
+        "role": "Rize Liman Lokantası Представитель 3-го поколения",
         "location": ""
       },
       {
         "name": "Handan Kaygusuzer",
-        "role": "Бегендик Аби Владелец и шеф-повар ресторана",
+        "role": "Beğendik Abi Lokantası Оператор и руководитель",
         "location": ""
       },
       {
         "name": "Mahir Nazlıcan",
-        "role": "Основатель и шеф-повар ресторана Mahir",
+        "role": "Mahir Lokantası Основатель и шеф-повар",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Память о турецкой кухне и ее живой ресторанной культуре."
+    "title": "Память о турецкой кухне и ее живой ресторанной культуре"
   },
   {
     "id": "hospitality-27-v33-1715",
@@ -2205,12 +2172,12 @@
     "people": [
       {
         "name": "Moderator: Başak Nur Okşak",
-        "role": "Gastronomi Gazetecisi",
+        "role": "Гастрономический журналист",
         "location": ""
       },
       {
         "name": "Zeki Kara",
-        "role": "Karaca CookPlus Координатор кейтеринга Шеф-повар",
+        "role": "Karaca CookPlus Catering Главный координатор",
         "location": ""
       },
       {
@@ -2220,19 +2187,17 @@
       },
       {
         "name": "Murat İlke Özipek",
-        "role": "Gastronometro Müdürü & Eğitmen Şefi",
+        "role": "Gastronometro Менеджер и главный инструктор",
         "location": ""
       },
       {
         "name": "Doğa Çitçi",
-        "role": "Mutfak Sanatları Merkezi Koordinatör Şefi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Mutfak Sanatları Merkezi Главный координатор",
+        "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Do Operational Excellence and Creativity Come Together in Gastronomy?",
-    "translationPending": true
+    "title": "Как сочетаются операционное совершенство и креативность в гастрономии?"
   },
   {
     "id": "eyup-26-v33-1100",
@@ -2243,43 +2208,42 @@
     "people": [
       {
         "name": "Moderator: Orkun Bulut",
-        "role": "Girişimci & Gastronomi Yazarı",
+        "role": "Предприниматель и гастрономический писатель",
         "location": ""
       },
       {
         "name": "Volkan Arık",
-        "role": "Lokanta by Divan Executive Şefi",
+        "role": "Lokanta by Divan Шеф-повар",
         "location": ""
       },
       {
         "name": "Serkan Anavatan",
-        "role": "Yelve Urla Kurucusu & Şefi",
+        "role": "Yelve Urla Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Serkan Aksoy",
-        "role": "Nicole Executive Şefi",
+        "role": "Nicole Шеф-повар",
         "location": ""
       },
       {
         "name": "Bahtiyar Büyükduman",
-        "role": "Telezzüz Executive Şefi",
+        "role": "Telezzüz Шеф-повар",
         "location": ""
       },
       {
         "name": "Özgür Üstün",
-        "role": "Avlu Restaurant Executive Şefi",
+        "role": "Avlu Шеф-повар ресторана",
         "location": ""
       },
       {
         "name": "Barlas Günebak",
-        "role": "Roku Omakase Kurucusu & Şefi",
+        "role": "Roku Omakase Основатель и руководитель",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Do Local Roots and Global Influences Shape Restaurants’ Culinary Identity?",
-    "translationPending": true
+    "title": "Как местные корни и глобальные влияния формируют кулинарную идентичность ресторанов?"
   },
   {
     "id": "eyup-27-v33-1000",
@@ -2290,43 +2254,42 @@
     "people": [
       {
         "name": "Moderator: Burçak Şener",
-        "role": "Gastronomi Yazarı",
+        "role": "Гастрономический писатель",
         "location": ""
       },
       {
         "name": "Yakup Yıldız",
-        "role": "Çırağan Palace Kempinski Bartender",
+        "role": "Çırağan Palace Kempinski Бармен",
         "location": ""
       },
       {
         "name": "Okan Sergül",
-        "role": "The Ritz-Carlton Istanbul Head Bartender",
+        "role": "The Ritz-Carlton Istanbul Главный бармен",
         "location": ""
       },
       {
         "name": "Burak Temnur",
-        "role": "Four Seasons Hotel Istanbul at Sultanahmet Head Miksolojist",
+        "role": "Four Seasons Hotel Istanbul at Sultanahmet Главный миксолог",
         "location": ""
       },
       {
         "name": "Atakan Atasoy",
-        "role": "Hilton İstanbul Bosphorus Head Bartender",
+        "role": "Hilton İstanbul Bosphorus Главный бармен",
         "location": ""
       },
       {
         "name": "Ramazan Dadak",
-        "role": "Upperist Bar Müdürü",
+        "role": "Менеджер бара Upperist",
         "location": ""
       },
       {
         "name": "Necip Tolga Güleç",
-        "role": "JW Marriott Istanbul Bosphorus Bartender",
+        "role": "JW Marriott Istanbul Bosphorus Бармен",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Bar Culture in City Hotels and Next-Generation Guest Expectations",
-    "translationPending": true
+    "title": "Барная культура в городских отелях и ожидания гостей нового поколения"
   },
   {
     "id": "eyup-26-v33-1220",
@@ -2337,38 +2300,37 @@
     "people": [
       {
         "name": "Moderator: Bahar Akbulut",
-        "role": "Fine People Community Kurucusu & Girişimci",
+        "role": "Fine People Community Основатель и предприниматель",
         "location": ""
       },
       {
         "name": "Yener Özden",
-        "role": "Istanbul Marriott Hotel Şişli Yiyecek & İçecek Direktörü",
+        "role": "Istanbul Marriott Hotel Şişli Yiyecek & Директор по напиткам",
         "location": ""
       },
       {
         "name": "Samuel Linder",
-        "role": "The Peninsula Istanbul Yiyecek & İçecekten Sorumlu Genel Müdür Yardımcısı",
+        "role": "The Peninsula Istanbul Yiyecek & Заместитель генерального директора, ответственный за напитки",
         "location": ""
       },
       {
         "name": "İlhan Beşer",
-        "role": "Çırağan Palace Kempinski Istanbul Yiyecek & İçecek Müdürü",
+        "role": "Çırağan Palace Kempinski Istanbul Yiyecek & Менеджер по напиткам",
         "location": ""
       },
       {
         "name": "Melih Kayır",
-        "role": "The Grand Tarabya Managed by Accor Yiyecek & İçecek Direktörü",
+        "role": "The Grand Tarabya Managed by Accor Yiyecek & Директор по напиткам",
         "location": ""
       },
       {
         "name": "Alper Sonuk",
-        "role": "Fairmont Quasar Istanbul Yiyecek & İçecek Müdürü",
+        "role": "Fairmont Quasar Istanbul Yiyecek & Менеджер по напиткам",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Food and Beverage Management in Hospitality and Designing the Restaurant Experience",
-    "translationPending": true
+    "title": "Управление продуктами питания и напитками в сфере гостеприимства и проектирование ресторанного опыта"
   },
   {
     "id": "eyup-26-v33-1250",
@@ -2379,43 +2341,42 @@
     "people": [
       {
         "name": "Moderator: Ebru Erberdi",
-        "role": "7 Catering Yönetim Kurulu Başkanı & Köşe Yazarı",
+        "role": "7 Catering Председатель и обозреватель",
         "location": ""
       },
       {
         "name": "Mehmet Ali Börtücene",
-        "role": "The Rabbit Hole Kurucusu & Şefi",
+        "role": "The Rabbit Hole Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Atakan Özen",
-        "role": "Tola Bursa Kurcusu & Şefi",
+        "role": "Tola Bursa Kurcusu & Начальник",
         "location": ""
       },
       {
         "name": "Tuna Yüzüak",
-        "role": "Alma Table Executive Şefi",
+        "role": "Alma Table Шеф-повар",
         "location": ""
       },
       {
         "name": "Umut Karakuş",
-        "role": "Muutto Kurucu Ortağı & Şefi",
+        "role": "Muutto Соучредитель и руководитель",
         "location": ""
       },
       {
         "name": "Ahmet Gündoğar",
-        "role": "SUZ Restaurant Executive Şefi",
+        "role": "Шеф-повар ресторана СУЗ",
         "location": ""
       },
       {
         "name": "Aslı Mutlu",
-        "role": "Karnas Vineyards Restaurant Kurucu Ortağı & Şefi",
+        "role": "Karnas Vineyards Соучредитель и шеф-повар ресторана",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "The Success Formula of Chef Restaurants Driven by Creativity and Identity",
-    "translationPending": true
+    "title": "Формула успеха ресторанов от шеф-поваров, движимых креативностью и индивидуальностью"
   },
   {
     "id": "eyup-26-v33-1330",
@@ -2426,38 +2387,37 @@
     "people": [
       {
         "name": "Moderator: Selin Kutucular",
-        "role": "Yazar",
+        "role": "Автор",
         "location": ""
       },
       {
         "name": "Tahsin Fettahoğlu",
-        "role": "İskele Balık Lara Kurucusu",
+        "role": "Основатель İskele Balık Lara",
         "location": ""
       },
       {
         "name": "Taner Aydın",
-        "role": "Girida Port Kurucusu",
+        "role": "Основатель Girida Port",
         "location": ""
       },
       {
         "name": "Zeynep Petek Dursun",
-        "role": "Бебек Балыкчисы, представитель третьего поколения и шеф-повар",
+        "role": "Bebek Balıkçısı Представитель и руководитель третьего поколения",
         "location": ""
       },
       {
         "name": "Ziya Kaçar",
-        "role": "Calypso Fish Kurucu Ortağı & Şefi",
+        "role": "Calypso Fish Соучредитель и руководитель",
         "location": ""
       },
       {
         "name": "Serkan Pakkan",
-        "role": "Дель Маре, шеф-повар.",
+        "role": "Del Mare Шеф-повар",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Changing Gastronomic Culture in Fish Restaurants, from Tradition to the Present",
-    "translationPending": true
+    "title": "Изменение гастрономической культуры в рыбных ресторанах: от традиций к современности"
   },
   {
     "id": "eyup-26-v33-1410",
@@ -2468,13 +2428,12 @@
     "people": [
       {
         "name": "Ege Ermeç",
-        "role": "Генеральный директор Doğanay Food",
+        "role": "Генеральный директор Doğanay Gıda",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "The Place of Şalgam in Gastronomy",
-    "translationPending": true
+    "title": "Место Шалгама в гастрономии"
   },
   {
     "id": "eyup-26-v33-1425",
@@ -2485,33 +2444,32 @@
     "people": [
       {
         "name": "Moderator: Yağız İzgül",
-        "role": "TV Programcısı & Şef",
+        "role": "Телепрограммист и шеф-повар",
         "location": ""
       },
       {
         "name": "Tolgahan Bıyıklı",
-        "role": "TURK Fatih Tutak Head Sommelier",
+        "role": "TURK Fatih Tutak Главный сомелье",
         "location": ""
       },
       {
         "name": "Ersin Topkara",
-        "role": "neolokal Sommelier",
+        "role": "neolokal Сомелье",
         "location": ""
       },
       {
         "name": "Miray Kocababuç",
-        "role": "Nicole Restaurant Sommelier",
+        "role": "Nicole Сомелье ресторана",
         "location": ""
       },
       {
         "name": "Nebiye Kaya",
-        "role": "The Peninsula Istanbul Baş Sommelieri",
+        "role": "The Peninsula Istanbul Baş Сомелье",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "The Sommelier’s Role in a Gastronomic Experience Enriched by the Glass",
-    "translationPending": true
+    "title": "Роль сомелье в гастрономическом опыте, обогащенном бокалом"
   },
   {
     "id": "eyup-26-v33-1455",
@@ -2522,18 +2480,17 @@
     "people": [
       {
         "name": "Moderator: Orkun Bulut",
-        "role": "Girişimci & Gastronomi Yazarı",
+        "role": "Предприниматель и гастрономический писатель",
         "location": ""
       },
       {
         "name": "Duygu Kutluoğlu",
-        "role": "Соучредитель и генеральный директор FineDine",
+        "role": "FineDine' Соучредитель и генеральный директор",
         "location": ""
       }
     ],
     "sponsor": "FineDine",
-    "title": "The Impact of Artificial Intelligence on Technology and Hospitality",
-    "translationPending": true
+    "title": "Влияние искусственного интеллекта на технологии и гостиничный бизнес"
   },
   {
     "id": "eyup-26-v33-1510",
@@ -2544,43 +2501,42 @@
     "people": [
       {
         "name": "Moderator: İpek İzci",
-        "role": "Hürriyet Gazetesi Köşe Yazarı & Gazeteci",
+        "role": "Hürriyet Газетный обозреватель и журналист",
         "location": ""
       },
       {
         "name": "Savaş Aydemir",
-        "role": "Conrad Istanbul Bosphorus Executive Şefi",
+        "role": "Conrad Istanbul Bosphorus Шеф-повар",
         "location": ""
       },
       {
         "name": "Görkem Özkan",
-        "role": "Four Seasons Hotel Istanbul at the Bosphorus Executive Şefi",
+        "role": "Four Seasons Hotel Istanbul at the Bosphorus Шеф-повар",
         "location": ""
       },
       {
         "name": "Soner Kesgin",
-        "role": "Swissôtel The Bosphorus İstanbul Executive Şefi",
+        "role": "Swissôtel The Bosphorus İstanbul Шеф-повар",
         "location": ""
       },
       {
         "name": "Yusuf Gülyiyen",
-        "role": "Grand Hyatt İstanbul Executive Şefi",
+        "role": "Grand Hyatt İstanbul Шеф-повар",
         "location": ""
       },
       {
         "name": "Şevket Cihan",
-        "role": "Shangri-La Bosphorus İstanbul Executive Şefi",
+        "role": "Shangri-La Bosphorus İstanbul Шеф-повар",
         "location": ""
       },
       {
         "name": "Ali İhsan Özkan",
-        "role": "The Ritz Carlton Istanbul Executive Şefi",
+        "role": "The Ritz Carlton Istanbul Шеф-повар",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Global Standards and Local Identity in Luxury Hotel Gastronomy",
-    "translationPending": true
+    "title": "Глобальные стандарты и местная идентичность в гастрономии роскошных отелей"
   },
   {
     "id": "eyup-26-v33-1550",
@@ -2591,23 +2547,22 @@
     "people": [
       {
         "name": "Moderator: Özge Şahin",
-        "role": "Atıksız Mutfak Şefi & TV Programcısı",
+        "role": "Atıksız Кухонный повар и телепрограммист",
         "location": ""
       },
       {
         "name": "Jale Balcı",
-        "role": "Gastronomi Danışmanı, Şef & Yazar & Gıda Teknikeri",
+        "role": "Консультант по гастрономии, шеф-повар, писатель и техник-пищевик",
         "location": ""
       },
       {
         "name": "Dilara Koçak",
-        "role": "Beslenme ve Diyet Uzmanı, FAO Gıda Şampiyonu, The Good Wild Co Kurucu Ortağı, Sürdürülebilir Yaşam Elçisi",
+        "role": "Beslenme ve Diyet Uzmanı, FAO Gıda Şampiyonu, The Good Wild Co Соучредитель, Посол устойчивого образа жизни",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "What Are the New Dynamics of Good Food, Healthy Living and a Sustainable Future?",
-    "translationPending": true
+    "title": "Какова новая динамика хорошего питания, здорового образа жизни и устойчивого будущего?"
   },
   {
     "id": "eyup-26-v33-1610",
@@ -2618,13 +2573,12 @@
     "people": [
       {
         "name": "Miguel Ángel Millán",
-        "role": "EMi I General Manager & Wine Director",
+        "role": "EMi I Генеральный директор и винный директор",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Dreamers",
-    "translationPending": true
+    "title": "Мечтатели"
   },
   {
     "id": "eyup-26-v33-1625",
@@ -2635,38 +2589,37 @@
     "people": [
       {
         "name": "Moderator: Ahmet Güzelyağdöken",
-        "role": "Писатель, консультант и шеф-повар, специализирующийся на гастрономии.",
+        "role": "Гастрономический писатель, консультант и инструктор-шеф-повар",
         "location": ""
       },
       {
         "name": "Gökçen Yıldırım",
-        "role": "Yazz Collective Executive Şefi",
+        "role": "Yazz Collective Шеф-повар",
         "location": ""
       },
       {
         "name": "Özgür Bozgurt",
-        "role": "Six Senses Kaplankaya Executive Şefi",
+        "role": "Six Senses Kaplankaya Шеф-повар",
         "location": ""
       },
       {
         "name": "Nihat Doğtürk",
-        "role": "Miori Göcek Executive Şefi",
+        "role": "Miori Göcek Шеф-повар",
         "location": ""
       },
       {
         "name": "İsmail Akdeniz",
-        "role": "ATG Hotels Group Gastronomi Müdürü",
+        "role": "Менеджер по гастрономии ATG Hotels Group",
         "location": ""
       },
       {
         "name": "Hüseyin Büyükbostancı",
-        "role": "Ahãma Executive Şefi",
+        "role": "Ahãma Шеф-повар",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Are Local Identity and Global Trends Transforming Gastronomy?",
-    "translationPending": true
+    "title": "Как местная идентичность и глобальные тенденции меняют гастрономию?"
   },
   {
     "id": "eyup-26-v33-1655",
@@ -2677,28 +2630,27 @@
     "people": [
       {
         "name": "Moderator: Natali Yarcan Çelikkol",
-        "role": "TV Programcısı & Yemek Kitabı Yazarı",
+        "role": "Телепрограммист и автор кулинарных книг",
         "location": ""
       },
       {
         "name": "Malte Rohmann",
-        "role": "The Peninsula Istanbul Pastry Şefi",
+        "role": "The Peninsula Istanbul Pastry Начальник",
         "location": ""
       },
       {
         "name": "Gamze Baş",
-        "role": "Çikolata Şefi & Tat Küratörü",
+        "role": "Çikolata Шеф-повар и куратор дегустации",
         "location": ""
       },
       {
         "name": "Marc Pauquet",
-        "role": "Le Cordon Bleu Istanbul Eğitmen Şefi & Pastane Bölümü Yöneticisi",
+        "role": "Le Cordon Bleu Istanbul Инструктор Шеф-повар и руководитель отдела кондитерских изделий",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "New Trends and Creative Approaches in Patisserie and Chocolate",
-    "translationPending": true
+    "title": "Новые тенденции и креативные подходы в кондитерском деле и шоколаде"
   },
   {
     "id": "eyup-26-v33-1725",
@@ -2709,39 +2661,37 @@
     "people": [
       {
         "name": "Moderator: Aykut Üner",
-        "role": "İçecek Atölyesi Kurucusu & İçecek Uzmanı",
+        "role": "İçecek Atölyesi Основатель и эксперт по напиткам",
         "location": ""
       },
       {
         "name": "Talat Arslan",
-        "role": "T’brothers Kurucu Ortağı Usla Bar, Servis & Miksoloji Eğitmeni",
+        "role": "T’brothers Партнер-основатель Usla Bar, тренер по сервису и миксологии",
         "location": ""
       },
       {
         "name": "Bircan Çelik",
-        "role": "Cocktail Mafia Kurucusu",
+        "role": "Основатель Cocktail Mafia",
         "location": ""
       },
       {
         "name": "Onur Balk",
-        "role": "Inspired Cocktail & Agata Bar Kurucusu ve Miksoloji Uzmanı",
+        "role": "Inspired Cocktail & Agata Bar Основатель и миксолог",
         "location": ""
       },
       {
         "name": "Musa Yavuz",
-        "role": "Yiyecek & İçecek Koordinatörü",
+        "role": "Yiyecek & Координатор по напиткам",
         "location": ""
       },
       {
         "name": "Ece Garip",
-        "role": "Casa Regina Kurucusu ve Şefi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Основатель и руководитель Casa Regina",
+        "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Are the Boundaries of Flavour, Technique and Experience Expanding in Modern Cocktail Culture?",
-    "translationPending": true
+    "title": "Как расширяются границы вкуса, техники и опыта в коктейльной культуре Modern?"
   },
   {
     "id": "eyup-26-v33-1755",
@@ -2752,33 +2702,32 @@
     "people": [
       {
         "name": "Moderator: Jülide Dalyan",
-        "role": "Gastronomiden Haberler Yazarı",
+        "role": "Автор гастрономических новостей",
         "location": ""
       },
       {
         "name": "Altuğ Tezer",
-        "role": "86 Ent Group Koordinatör Şefi",
+        "role": "86 Ent Group Главный координатор",
         "location": ""
       },
       {
         "name": "Tolga Kamiloğlu",
-        "role": "Ritüel Kurucusu & Şefi",
+        "role": "Ritüel Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Eyüp Kemal Sevinç",
-        "role": "Основатель кулинарной академии EKS, телеведущая и шеф-повар",
+        "role": "Основатель кулинарной академии EKS, телепрограммист и шеф-повар.",
         "location": ""
       },
       {
         "name": "Erdem Dönmez",
-        "role": "Карло Бернардини, соучредитель и шеф-повар компании Fine Catering & Events.",
+        "role": "Carlo Bernardini Fine Catering & Events Соучредитель и руководитель",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Do Culinary Vision and Leadership Shape Success in Gastronomy?",
-    "translationPending": true
+    "title": "Как кулинарное видение и лидерство влияют на успех в гастрономии?"
   },
   {
     "id": "eyup-26-v33-1140",
@@ -2789,38 +2738,37 @@
     "people": [
       {
         "name": "Moderator: Oğuz Otay",
-        "role": "Gezmek Yetmez Kurucusu",
+        "role": "Основатель Gezmek Yetmez",
         "location": ""
       },
       {
         "name": "Ufuk Ügümü",
-        "role": "Hünkar Lokantası 4. Kuşak Temsilcisi",
+        "role": "Hünkar Lokantası Представитель 4-го поколения",
         "location": ""
       },
       {
         "name": "Süleyman Tarakçı",
-        "role": "Nalia Kurucusu & Şefi",
+        "role": "Nalia Основатель и руководитель",
         "location": ""
       },
       {
         "name": "Ergin Sönmezler",
-        "role": "Yanyalı Fehmi Lokantası 3. Kuşak Temsilcisi",
+        "role": "Yanyalı Fehmi Lokantası Представитель 3-го поколения",
         "location": ""
       },
       {
         "name": "Hacı Abdullah Korun",
-        "role": "Hacı Abdullah Lokantası Kurucu Ortağı",
+        "role": "Соучредитель Hacı Abdullah Lokantası",
         "location": ""
       },
       {
         "name": "Özay Çınar",
-        "role": "Pandeli Restoran Müdürü",
+        "role": "Менеджер ресторана Пандели",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Do Traditional Restaurants Contribute to Gastronomy Tourism?",
-    "translationPending": true
+    "title": "Как традиционные рестораны способствуют гастрономическому туризму?"
   },
   {
     "id": "eyup-27-v33-1040",
@@ -2831,38 +2779,37 @@
     "people": [
       {
         "name": "Moderator: Reha Arar",
-        "role": "NET Holding Yönetim Kurulu Başkanı",
+        "role": "NET Holding Председатель правления",
         "location": ""
       },
       {
         "name": "Serdar Çalışkan",
-        "role": "Swissôtel The Bosphorus Istanbul Yiyecek & İçecek Müdürü",
+        "role": "Swissôtel The Bosphorus Istanbul Yiyecek & Менеджер по напиткам",
         "location": ""
       },
       {
         "name": "Eyüp Nezirler",
-        "role": "Raffles Istanbul Yiyecek & İçecek Direktörü",
+        "role": "Raffles Istanbul Yiyecek & Директор по напиткам",
         "location": ""
       },
       {
         "name": "Eylül Candan",
-        "role": "Cactus Hotels Group Yiyecek & İçecek Direktörü",
+        "role": "Cactus Hotels Group Yiyecek & Директор по напиткам",
         "location": ""
       },
       {
         "name": "Barış Metin",
-        "role": "CVK Park Bosphorus Hotel İstanbul Yiyecek & İçecek Direktörü",
+        "role": "CVK Park Bosphorus Hotel İstanbul Yiyecek & Директор по напиткам",
         "location": ""
       },
       {
         "name": "Rufi Yalın",
-        "role": "Mikla Restoran Müdürü",
+        "role": "Микла Менеджер ресторана",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Operational Excellence and Guest Experience in Hotel Gastronomy",
-    "translationPending": true
+    "title": "Оперативное совершенство и опыт гостей в гостиничной гастрономии"
   },
   {
     "id": "eyup-27-v33-1110",
@@ -2873,33 +2820,32 @@
     "people": [
       {
         "name": "Moderator: Berna Abik",
-        "role": "Gazete Oksijen Editörü",
+        "role": "Редактор газеты «Кислород»",
         "location": ""
       },
       {
         "name": "Ertan Özturan",
-        "role": "Madera Executive Şefi",
+        "role": "Madera Шеф-повар",
         "location": ""
       },
       {
         "name": "Kenan Çetinkaya",
-        "role": "Araf İstanbul Kurucusu & Şefi",
+        "role": "Araf İstanbul Основатель и руководитель",
         "location": ""
       },
       {
         "name": "İsmet Saz",
-        "role": "İsmet Saz Grup Kurucusu",
+        "role": "Основатель İsmet Saz Grup",
         "location": ""
       },
       {
         "name": "Mevlüt Özkaya",
-        "role": "Mürver Restaurant Executive Şefi",
+        "role": "Mürver Шеф-повар ресторана",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Following Fire: From Traditional Cuisine to Contemporary Interpretations",
-    "translationPending": true
+    "title": "Вслед за огнем: от традиционной кухни к современным интерпретациям"
   },
   {
     "id": "eyup-27-v33-1140",
@@ -2910,43 +2856,42 @@
     "people": [
       {
         "name": "Moderator: Faruk Şüyün",
-        "role": "Автор статей для газеты «Экономика».",
+        "role": "Автор экономической газеты",
         "location": ""
       },
       {
         "name": "Okan Aydemir",
-        "role": "Raffles Istanbul Executive Şefi",
+        "role": "Raffles Istanbul Шеф-повар",
         "location": ""
       },
       {
         "name": "Serhat Eliçora",
-        "role": "CVK Park Bosphorus Hotel İstanbul Executive Şefi",
+        "role": "CVK Park Bosphorus Hotel İstanbul Шеф-повар",
         "location": ""
       },
       {
         "name": "Şafak Erten",
-        "role": "JW Marriott Istanbul Bosphorus Executive Şefi",
+        "role": "JW Marriott Istanbul Bosphorus Шеф-повар",
         "location": ""
       },
       {
         "name": "Alexis Atlamazoğlu",
-        "role": "The Grand Tarabya Bosphorus Executive Şefi",
+        "role": "The Grand Tarabya Bosphorus Шеф-повар",
         "location": ""
       },
       {
         "name": "Selim Ay",
-        "role": "Hilton İstanbul Bomonti Mutfak Şefi",
+        "role": "Hilton İstanbul Bomonti Шеф-повар кухни",
         "location": ""
       },
       {
         "name": "Efe Anıl Çetin",
-        "role": "Rixos Tersane İstanbul Executive Şefi",
+        "role": "Rixos Tersane İstanbul Шеф-повар",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Team Management, Quality and Sustainable Success in Luxury Hotel Kitchens",
-    "translationPending": true
+    "title": "Управление командой, качество и устойчивый успех в производстве кухонь роскошных отелей"
   },
   {
     "id": "eyup-27-v33-1220",
@@ -2957,28 +2902,27 @@
     "people": [
       {
         "name": "Moderator: Reha Tartıcı",
-        "role": "Gastronomi & Mutfak Kültürü Yazarı",
+        "role": "Писатель по гастрономии и кулинарной культуре",
         "location": ""
       },
       {
         "name": "Zeynep Yıldız",
-        "role": "Midpoint Group Satın Alma Müdürü",
+        "role": "Midpoint Group Менеджер по закупкам",
         "location": ""
       },
       {
         "name": "Mehmet Soykan",
-        "role": "BTA Food & Services Merkez Mutfak Executive Şefi",
+        "role": "BTA Food & Services Merkez Шеф-повар кухни",
         "location": ""
       },
       {
         "name": "Talip Günel",
-        "role": "Happy Group Satın Alma Müdürü",
+        "role": "Happy Group Менеджер по закупкам",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Where Sourcing Strategies Meet Culinary Vision in Gastronomy",
-    "translationPending": true
+    "title": "Где стратегии поиска встречаются с кулинарным видением в гастрономии"
   },
   {
     "id": "eyup-27-v33-1250",
@@ -2989,43 +2933,42 @@
     "people": [
       {
         "name": "Moderator: Prof. Özge Samancı",
-        "role": "Yemek Kültürü Tarihçisi",
+        "role": "Историк пищевой культуры",
         "location": ""
       },
       {
         "name": "Birkan Erköylü",
-        "role": "c-paces Group Executive Şefi & Feriye İstanbul Executive Şefi",
+        "role": "c-paces Group Шеф-повар и шеф-повар Ферие Стамбул",
         "location": ""
       },
       {
         "name": "Alper Tuğrul Ünlütürk",
-        "role": "Natolia Kurucu Ortağı & Mutfak Koordinatörü",
+        "role": "Natolia Соучредитель и кулинарный координатор",
         "location": ""
       },
       {
         "name": "Vedat Demir",
-        "role": "Dogus Hospitality & Retail Group Marka Şefi",
+        "role": "Dogus Hospitality & Retail Group Руководитель бренда",
         "location": ""
       },
       {
         "name": "Onur Dönmez",
-        "role": "Tuğra Restoran Mutfak Şefi",
+        "role": "Tuğra Restoran Шеф-повар кухни",
         "location": ""
       },
       {
         "name": "Mehmet Gök",
-        "role": "Bocuse d'Or Türkiye Başkanı & Chef At Work Danışmanlık Kurucusu",
+        "role": "Bocuse d'Or Türkiye Президент и основатель Chef At Work Consulting",
         "location": ""
       },
       {
         "name": "Rıza Belenkaya",
-        "role": "Руководитель отдела исследований и разработок Midpoint",
+        "role": "Midpoint Ar-Ge Начальник",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "The Deep-Rooted Heritage of Turkish Cuisine and Its Contemporary Interpretations",
-    "translationPending": true
+    "title": "Глубоко укоренившееся наследие турецкой кухни и ее современные интерпретации"
   },
   {
     "id": "eyup-27-v33-1330",
@@ -3036,38 +2979,37 @@
     "people": [
       {
         "name": "Moderator: Esin Övet",
-        "role": "Gazeteci & Yazar",
+        "role": "Журналист и писатель",
         "location": ""
       },
       {
         "name": "Uğur Alparslan",
-        "role": "Pera Palace Hotel Executive Şefi",
+        "role": "Pera Palace Hotel Шеф-повар",
         "location": ""
       },
       {
         "name": "Arif Madakbaş",
-        "role": "Renaissance Polat Istanbul Hotel Yeşilköy Executive Şefi",
+        "role": "Renaissance Polat Istanbul Hotel Yeşilköy Шеф-повар",
         "location": ""
       },
       {
         "name": "Ali Elikkaya",
-        "role": "Sheraton İstanbul Ataköy Executive Şefi",
+        "role": "Sheraton İstanbul Ataköy Шеф-повар",
         "location": ""
       },
       {
         "name": "Orhan Eryılmaz",
-        "role": "Calista Luxury Resort Mutfak Direktörü",
+        "role": "Calista Luxury Resort Директор кухни",
         "location": ""
       },
       {
         "name": "Taner Özkan",
-        "role": "JW Marriott Hotel Ankara Mutfak Direktörü",
+        "role": "JW Marriott Hotel Ankara Директор кухни",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Do Hotel Kitchens Preserve Originality While Maintaining International Standards?",
-    "translationPending": true
+    "title": "Как гостиничные кухни сохраняют оригинальность, сохраняя при этом международные стандарты?"
   },
   {
     "id": "eyup-27-v33-1410",
@@ -3078,43 +3020,42 @@
     "people": [
       {
         "name": "Moderator: Lale Elmacıoğlu",
-        "role": "Gazeteci & Ekotürk TV Sunucusu",
+        "role": "Журналист и телеведущая «Экотюрк»",
         "location": ""
       },
       {
         "name": "Eren Canatar",
-        "role": "Townhouse Kurucusu",
+        "role": "Основатель Townhouse",
         "location": ""
       },
       {
         "name": "Emir Ali Enç",
-        "role": "Fahri Konsolos Kurucusu",
+        "role": "Основатель Fahri Konsolos",
         "location": ""
       },
       {
         "name": "Serhan Akıncı",
-        "role": "Minibar Kurucusu",
+        "role": "Основатель Minibar",
         "location": ""
       },
       {
         "name": "Emirhan Paralı",
-        "role": "Tavern Kurucu Ortağı",
+        "role": "Соучредитель Tavern",
         "location": ""
       },
       {
         "name": "Yiğit Onbaşı",
-        "role": "Kiff Kurucu Ortağı",
+        "role": "Соучредитель Kiff",
         "location": ""
       },
       {
         "name": "Pınar Ece Kaleli",
-        "role": "Artsy & Scallop Kurucusu",
+        "role": "Основатель Artsy & Scallop",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Concept, Identity and Experience in Restaurant and Bar Management",
-    "translationPending": true
+    "title": "Концепция, идентичность и опыт управления ресторанами и барами"
   },
   {
     "id": "eyup-27-v33-1450",
@@ -3125,38 +3066,37 @@
     "people": [
       {
         "name": "Moderator: Memet Özer",
-        "role": "TV Programcısı & Şef",
+        "role": "Телепрограммист и шеф-повар",
         "location": ""
       },
       {
         "name": "Suna Hakyemez",
-        "role": "ROKA Türkiye Head Şef",
+        "role": "ROKA Türkiye Главный начальник",
         "location": ""
       },
       {
         "name": "Emrah Orak",
-        "role": "Zuma Türkiye Executive Şefi",
+        "role": "Zuma Türkiye Шеф-повар",
         "location": ""
       },
       {
         "name": "Fatih Alkan",
-        "role": "Akira Back Executive Şefi",
+        "role": "Akira Back Шеф-повар",
         "location": ""
       },
       {
         "name": "Korhan Gülsoy",
-        "role": "Inari Omakase Group Executive Şefi",
+        "role": "Inari Omakase Group Шеф-повар",
         "location": ""
       },
       {
         "name": "Barlas Günebak",
-        "role": "Roku Omakase Kurucusu & Şefi",
+        "role": "Roku Omakase Основатель и руководитель",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Fine Dining Interpretations of Far Eastern Cuisine in Türkiye",
-    "translationPending": true
+    "title": "Изысканные интерпретации дальневосточной кухни в Турции"
   },
   {
     "id": "eyup-27-v33-1530",
@@ -3167,33 +3107,32 @@
     "people": [
       {
         "name": "Moderator: Başak Nur Okşak",
-        "role": "Gastronomi Gazetecisi",
+        "role": "Гастрономический журналист",
         "location": ""
       },
       {
         "name": "Ercan Egi",
-        "role": "Swissôtel The Bosphorus Pastry Şefi",
+        "role": "Swissôtel The Bosphorus Pastry Начальник",
         "location": ""
       },
       {
         "name": "Yalçın Köse",
-        "role": "Four Seasons Bosphorus Executive Pastry Chef",
+        "role": "Four Seasons Bosphorus Шеф-кондитер",
         "location": ""
       },
       {
         "name": "Harun Gümüş",
-        "role": "Çırağan Palace Kempinski, Istanbul Executive Pastry Şefi",
+        "role": "Çırağan Palace Kempinski, Istanbul Шеф-кондитер",
         "location": ""
       },
       {
         "name": "Barış Uçar",
-        "role": "Raffles Istanbul Pastry Şefi",
+        "role": "Raffles Istanbul Pastry Начальник",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "Signature Flavours and Distinctive Identity in Luxury Hotel Pastry",
-    "translationPending": true
+    "title": "Фирменные вкусы и отличительная индивидуальность кондитерских изделий в роскошных отелях"
   },
   {
     "id": "eyup-27-v33-1600",
@@ -3204,33 +3143,32 @@
     "people": [
       {
         "name": "Moderator: Defne Tüysüzoğlu",
-        "role": "Le Cordon Bleu Türkiye Direktörü",
+        "role": "Директор Le Cordon Bleu Турция",
         "location": ""
       },
       {
         "name": "Kübra Yaman",
-        "role": "Otto Bite Executive Pastry Şefi",
+        "role": "Otto Bite Шеф-кондитер",
         "location": ""
       },
       {
         "name": "Gökhan Ali Çamkerten",
-        "role": "Viyana Kahvesi Şefi",
+        "role": "Viyana Kahvesi Начальник",
         "location": ""
       },
       {
         "name": "Serpil Ürgen",
-        "role": "Maçakızı Pastry Şefi",
+        "role": "Maçakızı Pastry Начальник",
         "location": ""
       },
       {
         "name": "Merve Burcu Akbulut",
-        "role": "Merveilleux Patisserie Kurucusu & Şefi",
+        "role": "Merveilleux Patisserie Основатель и руководитель",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Are Experience and Service Standards Changing in Luxury Restaurant Management?",
-    "translationPending": true
+    "title": "Как меняются опыт и стандарты обслуживания в управлении ресторанами класса люкс?"
   },
   {
     "id": "eyup-27-v33-1700",
@@ -3241,13 +3179,12 @@
     "people": [
       {
         "name": "Özgür Kızıl",
-        "role": "Coffee Trader & Belgesel Yönetmeni",
+        "role": "Торговец кофе и режиссер документальных фильмов",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "A New Beginning: Coffee’s Rightful Place in Gastronomy",
-    "translationPending": true
+    "title": "Новое начало: законное место кофе в гастрономии"
   },
   {
     "id": "eyup-27-v33-1715",
@@ -3258,27 +3195,26 @@
     "people": [
       {
         "name": "Moderator: Aliye Gümüş",
-        "role": "Gazeteci ve Gastronomi Kültürü Yazarı",
+        "role": "Журналист и обозреватель гастрономической культуры",
         "location": ""
       },
       {
         "name": "Çağrı Karaboğa",
-        "role": "Grand Hyatt İstanbul Outlet Manager",
+        "role": "Grand Hyatt İstanbul Менеджер торговых точек",
         "location": ""
       },
       {
         "name": "Mehmet Erhan Özel",
-        "role": "Swissôtel The Bosphorus Head Sommelier",
+        "role": "Swissôtel The Bosphorus Главный сомелье",
         "location": ""
       },
       {
         "name": "Alper Sapan",
-        "role": "CVK Park Bosphrous İstanbul Head Sommelier",
+        "role": "CVK Park Bosphrous İstanbul Главный сомелье",
         "location": ""
       }
     ],
     "sponsor": "",
-    "title": "How Are Beverage Pairings Created in International Restaurant Brands?",
-    "translationPending": true
+    "title": "Как создаются сочетания напитков в международных ресторанных брендах?"
   }
 ]

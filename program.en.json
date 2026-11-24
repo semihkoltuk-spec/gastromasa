@@ -619,7 +619,7 @@
     "people": [
       {
         "name": "Moderator: Liam Collens",
-        "role": "Food Writer & Restautant Critic",
+        "role": "Food Writer & Restaurant Critic",
         "location": "Dubai, UAE"
       },
       {
@@ -1077,17 +1077,17 @@
       },
       {
         "name": "Melih Şahinöz",
-        "role": "Chairman of the Board of Directors of ETÜDER",
+        "role": "ETÜDER Chairman of the Board",
         "location": ""
       },
       {
         "name": "Kaya Demirer",
-        "role": "Chairman of the Board of Directors of TURYİD",
+        "role": "TURYİD Chairman of the Board",
         "location": ""
       },
       {
         "name": "Ramazan Bingöl",
-        "role": "TÜRES Genel Başkanı",
+        "role": "Chairman of TÜRES",
         "location": ""
       }
     ],
@@ -1113,12 +1113,12 @@
       },
       {
         "name": "Şebnem Ferman",
-        "role": "Gabala Hospitality Group Yönetim Kurulu Başkanı",
+        "role": "Gabala Hospitality Group Chairman of the Board",
         "location": ""
       },
       {
         "name": "Uğur Talayhan",
-        "role": "The Grand Tarabya Bosphorus Genel Müdürü",
+        "role": "General Manager of The Grand Tarabya Bosphorus",
         "location": ""
       },
       {
@@ -1128,12 +1128,12 @@
       },
       {
         "name": "Nurçe Erben Hakan",
-        "role": "Mondrian Bodrum Kurucusu",
+        "role": "Founder of Mondrian Bodrum",
         "location": ""
       },
       {
         "name": "Çetin Pehlivan",
-        "role": "Tersane İstanbul Managing Director",
+        "role": "Tersane Istanbul Managing Director",
         "location": ""
       }
     ],
@@ -1149,7 +1149,7 @@
     "people": [
       {
         "name": "Moderator: Kaya Demirer",
-        "role": "Chairman of the Board of Directors of TURYİD",
+        "role": "TURYİD Chairman of the Board",
         "location": ""
       },
       {
@@ -1160,25 +1160,22 @@
       {
         "name": "Ata Eremsoy",
         "role": "The Marmara Hospitality Group - COO",
-        "location": "",
-        "roleTranslationPending": true
+        "location": ""
       },
       {
         "name": "Aykut Korkmaz",
-        "role": "General Manager of Shangri-La Bosphorus Istanbul",
+        "role": "General Manager of Shangri-La Bosphorus İstanbul",
         "location": ""
       },
       {
         "name": "Rufat Babayev",
-        "role": "Türkiye & Hırvatistan Hyatt Otelleri Bölge Başkanı",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Türkiye & Hırvatistan Hyatt Otelleri Regional President",
+        "location": ""
       },
       {
         "name": "Utkan Gülaçtı",
-        "role": "Swissôtel The Bosphorus İstanbul Genel Müdürü",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "General Manager of Swissôtel The Bosphorus İstanbul",
+        "location": ""
       }
     ],
     "sponsor": "",
@@ -1194,29 +1191,27 @@
       {
         "name": "Moderator: Gonca Karakaş",
         "role": "Effect Burson CEO",
-        "location": "",
-        "roleTranslationPending": true
+        "location": ""
       },
       {
         "name": "Ralph Radtke",
-        "role": "General Manager of Çırağan Palace Kempinski Istanbul & Regional Director of Kempinski Residences Türkiye",
+        "role": "Çırağan Palace Kempinski İstanbul General Manager & Kempinski Residences Türkiye Regional Director",
         "location": ""
       },
       {
         "name": "Akis Neocleous",
-        "role": "Hoteles Xcaret Hotel Group Senior Executive Responsible for Hotels",
+        "role": "Hoteles Xcaret Oteller Grubu Otellerden Sorumlu Üst Düzey Manager",
         "location": "",
         "photo": "assets/chefs/akisneocleous.webp"
       },
       {
         "name": "Jonathan H. Crook",
-        "role": "The Peninsula İstanbul Genel Müdürü // Managing Director",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "The Peninsula İstanbul General Manager // Managing Director",
+        "location": ""
       },
       {
         "name": "Thomas Krooswijk",
-        "role": "Four Seasons Hotel Istanbul at the Bosphorus & Sultanahmet General Manager",
+        "role": "General Manager of Four Seasons Hotel Istanbul at the Bosphorus & Sultanahmet",
         "location": ""
       }
     ],
@@ -1232,27 +1227,27 @@
     "people": [
       {
         "name": "Moderator: Yelda İpekli",
-        "role": "Strategic Marketing & Brand Management Specialist",
+        "role": "Stratejik Marketing & Brand Management Expert",
         "location": ""
       },
       {
         "name": "Kılıç Ali Kantar",
-        "role": "General Manager of CVK Park Bosphorus Hotel Istanbul",
+        "role": "General Manager of CVK Park Bosphorus Hotel İstanbul",
         "location": ""
       },
       {
         "name": "Murat Eti",
-        "role": "Pera Palace Hotel General Manager",
+        "role": "General Manager of Pera Palace Hotel",
         "location": ""
       },
       {
         "name": "Cem Akşahin",
-        "role": "Fairmont Quasar Istanbul General Manager",
+        "role": "General Manager of Fairmont Quasar Istanbul",
         "location": ""
       },
       {
         "name": "Ayça Bilgin",
-        "role": "Shine Hospitality Kurucusu, Otel Yatırımları ve Marka Geliştirme Uzmanı",
+        "role": "Shine Hospitality Founder, Hotel Investments and Brand Development Expert",
         "location": ""
       },
       {
@@ -1273,22 +1268,22 @@
     "people": [
       {
         "name": "Moderator: Özge Şahin",
-        "role": "Atıksız Mutfak Şefi & TV Programcısı",
+        "role": "Atıksız Kitchen Chef & TV Programmer",
         "location": ""
       },
       {
         "name": "Zümrüt Yezdani Kedik",
-        "role": "Pernod Ricard Türkiye Hukuk, Kurumsal İletişim & Dış İlişkiler Direktörü",
+        "role": "Pernod Ricard Türkiye Legal, Corporate Communications & External Relations Director",
         "location": ""
       },
       {
         "name": "Coşkun Aral",
-        "role": "Gazeteci",
+        "role": "journalist",
         "location": ""
       },
       {
         "name": "Yiğitcan Gençer",
-        "role": "Twins Cocktail Lab Kurucusu",
+        "role": "Founder of Twins Cocktail Lab",
         "location": ""
       }
     ],
@@ -1309,27 +1304,27 @@
       },
       {
         "name": "Nazlı Sönmez",
-        "role": "Gigi Rigolatto, Global Brand Director of Paris Society International & RIKAS Hospitality Group",
+        "role": "Gigi Rigolatto, Paris Society International & RIKAS Hospitality Group Global Brand Director",
         "location": ""
       },
       {
         "name": "Pelin Çakar Bingül",
-        "role": "Papermoon General Manager",
+        "role": "General Manager of Paper Moon",
         "location": ""
       },
       {
         "name": "Yücel Özalp",
-        "role": "Chairman of the Board of Directors of Desert Group",
+        "role": "Desert Group Chairman of the Board",
         "location": ""
       },
       {
         "name": "Yaprak Baltacı",
-        "role": "Co-Founder of Morini, Cloand & Epoca",
+        "role": "Co-Founder of Morini, Clove & Epoca",
         "location": ""
       },
       {
         "name": "Levent Veziroğlu",
-        "role": "Chair of Hospitelligent & Vice Chair of Akfen Yedideyedi",
+        "role": "Hospitelligent Chairman of the Board of Directors & Deputy Chairman of the Board of Akfen Yedideyedi",
         "location": ""
       }
     ],
@@ -1345,7 +1340,7 @@
     "people": [
       {
         "name": "Refika Birgül",
-        "role": "Yazar, Refika'nın Mutfağı Kurucusu & Program Yapımcısı",
+        "role": "Author, Founder of Refika'nın Mutfağı & Program Producer",
         "location": ""
       }
     ],
@@ -1361,12 +1356,12 @@
     "people": [
       {
         "name": "Moderator: Gökmen Sözen",
-        "role": "Sözen Group CEO & Founder of Gastromasa",
+        "role": "Sözen Group CEO & Gastromasa Founder",
         "location": ""
       },
       {
         "name": "Zeynep Pınar Taşdemir",
-        "role": "Founder & Chef of Araka",
+        "role": "Araka Founder & Chef",
         "location": ""
       },
       {
@@ -1376,18 +1371,17 @@
       },
       {
         "name": "Maksut Aşkar",
-        "role": "neolokal Founding Partner & Chef",
+        "role": "neolokal Co-Founder & Chef",
         "location": ""
       },
       {
         "name": "Cihan Çetinkaya",
-        "role": "C2 Danışmanlık Kurucu",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "C2 Danışmanlık Founder",
+        "location": ""
       },
       {
         "name": "Emre Şen",
-        "role": "Casa Lavanda Founding Partner & Chef",
+        "role": "Casa Lavanda Co-Founder & Chef",
         "location": ""
       }
     ],
@@ -1403,22 +1397,22 @@
     "people": [
       {
         "name": "Moderator: Feyzan Ersinan",
-        "role": "Optimist Group Agency President",
+        "role": "Optimist Group Ajans Head",
         "location": ""
       },
       {
         "name": "Ahmet Uras",
-        "role": "Chairman of the Board of Directors of The Galliard",
+        "role": "The Galliard Chairman of the Board",
         "location": ""
       },
       {
         "name": "Zeki Özen",
-        "role": "Shakespeare Bistro Founder",
+        "role": "Founder of Shakespeare Bistro",
         "location": ""
       },
       {
         "name": "Hasan Yeşilyurt",
-        "role": "Akkomarka Restoran Grubu Ortağı ve Gastronomi Profesyoneli & Danışman",
+        "role": "Akkomarka Restaurant Group Partner and Gastronomy Professional & Consultant",
         "location": ""
       },
       {
@@ -1428,7 +1422,7 @@
       },
       {
         "name": "Onur Tahincioğlu",
-        "role": "Modern Restaurant Yönetim Kurulu Danışmanı",
+        "role": "Modern Restaurant Board Advisor",
         "location": ""
       }
     ],
@@ -1444,17 +1438,17 @@
     "people": [
       {
         "name": "Moderator: Şirin Sever",
-        "role": "Posta Gazetesi Yazarı",
+        "role": "Posta Newspaper Writer",
         "location": ""
       },
       {
         "name": "Nuri Develi",
-        "role": "Develi Board Chairman",
+        "role": "Develi Chairman of the Board",
         "location": ""
       },
       {
         "name": "Tahir Tekin Öztan",
-        "role": "Sahan Restaurant Group Chairman of the Board",
+        "role": "Sahan Restoran Grup Chairman of the Board",
         "location": ""
       },
       {
@@ -1464,7 +1458,7 @@
       },
       {
         "name": "Mehmet Murat Çelik",
-        "role": "Founder of Sıralı Kebab",
+        "role": "Founder of Sıralı Kebap",
         "location": ""
       },
       {
@@ -1485,17 +1479,17 @@
     "people": [
       {
         "name": "Moderator: Şafak Tükle",
-        "role": "CNBC-e Sunucusu",
+        "role": "CNBC-e Presenter",
         "location": ""
       },
       {
         "name": "Sinem Özler",
-        "role": "Seraf Founding Partner & Chef",
+        "role": "Seraf Co-Founder & Chef",
         "location": ""
       },
       {
         "name": "Mehmet Akdağ",
-        "role": "7 Mehmet, Manager & Chef",
+        "role": "7 Mehmet Operator & Chef",
         "location": ""
       },
       {
@@ -1505,7 +1499,7 @@
       },
       {
         "name": "Uluç Sakarya",
-        "role": "Founder & Chef of Nazende Cadde",
+        "role": "Nazende Cadde Founder & Chef",
         "location": ""
       }
     ],
@@ -1521,17 +1515,17 @@
     "people": [
       {
         "name": "Moderator: Aylin Öney Tan",
-        "role": "Hurriyet Daily News Columnist",
+        "role": "Hürriyet Daily News Columnist",
         "location": ""
       },
       {
         "name": "Claudio Chinali",
-        "role": "Eataly Istanbul Director & Terrazza Italia Executive Chef",
+        "role": "Eataly İstanbul Director & Terrazza Italia Executive Chef",
         "location": ""
       },
       {
         "name": "Giancarlo Gottardo",
-        "role": "Divan Hotels & Restaurants Türkiye Culinary Director",
+        "role": "Divan Otelleri & Restoranları Türkiye Kitchen Director",
         "location": ""
       },
       {
@@ -1562,22 +1556,22 @@
       },
       {
         "name": "Osman Serdaroğlu",
-        "role": "Founder & Chef of Teruar Urla",
+        "role": "Teruar Urla Founder & Chef",
         "location": ""
       },
       {
         "name": "Ozan Kumbasar",
-        "role": "Founder & Chef of Vino Locale",
+        "role": "Vino Locale Founder & Chef",
         "location": ""
       },
       {
         "name": "Osman Sezener",
-        "role": "Founder & Chef of OD Urla",
+        "role": "OD Urla Founder & Chef",
         "location": ""
       },
       {
         "name": "Atilla Heilbronn",
-        "role": "Founder & Chef of Narimor Urla",
+        "role": "Narimor Urla Founder & Chef",
         "location": ""
       }
     ],
@@ -1593,29 +1587,29 @@
     "people": [
       {
         "name": "Moderator: Gualtiero Spotti",
-        "role": "Gazeteci",
+        "role": "journalist",
         "location": ""
       },
       {
         "name": "Ali El Bourji",
-        "role": "Atlantis Dubai Mutfak Direktörü",
+        "role": "Atlantis Dubai Kitchen Director",
         "location": "",
         "photo": "assets/chefs/alielbourji.webp"
       },
       {
         "name": "Cesare Murzilli",
-        "role": "Portrait Milano Kurumsal Executive Şefi",
+        "role": "Portrait Milano Kurumsal Executive Chef",
         "location": "",
         "photo": "assets/chefs/cesaremurzilli.webp"
       },
       {
         "name": "Andreas Block",
-        "role": "The Peninsula İstanbul Executive Şefi",
+        "role": "The Peninsula İstanbul Executive Chef",
         "location": ""
       },
       {
         "name": "Elmar Aliyev",
-        "role": "Gabala Hospitality Group Kurumsal Mutfak Şefi",
+        "role": "Gabala Hospitality Group Kurumsal Kitchen Chef",
         "location": ""
       }
     ],
@@ -1631,22 +1625,22 @@
     "people": [
       {
         "name": "Moderator: Aret Vartanyan",
-        "role": "Yazar",
+        "role": "Author",
         "location": ""
       },
       {
         "name": "Talia Bayat",
-        "role": "TAB Studio Kurucusu",
+        "role": "Founder of TAB Studio",
         "location": ""
       },
       {
         "name": "Çiğdem Alagök",
-        "role": "USLA Academy General Manager",
+        "role": "General Manager of USLA Akademi",
         "location": ""
       },
       {
         "name": "Murat Deniz Temel",
-        "role": "Alaf Founding Partner & Chef",
+        "role": "Alaf Co-Founder & Chef",
         "location": ""
       }
     ],
@@ -1662,12 +1656,12 @@
     "people": [
       {
         "name": "Moderator: Dr. Fatoş Karahasan",
-        "role": "Gazeteci & Yazar",
+        "role": "Journalist & Writer",
         "location": ""
       },
       {
         "name": "İsmet Öztanık",
-        "role": "Avantgarde Collection & Lucis Initiative Kurucusu",
+        "role": "Founder of Avantgarde Collection & Lucis Initiative",
         "location": ""
       },
       {
@@ -1677,7 +1671,7 @@
       },
       {
         "name": "Mine Özmen",
-        "role": "Hışvahan Kurucusu",
+        "role": "Founder of Hışvahan",
         "location": ""
       }
     ],
@@ -1693,7 +1687,7 @@
     "people": [
       {
         "name": "Moderator: Gökmen Sözen",
-        "role": "Sözen Group CEO & Founder of Gastromasa",
+        "role": "Sözen Group CEO & Gastromasa Founder",
         "location": ""
       },
       {
@@ -1724,17 +1718,17 @@
     "people": [
       {
         "name": "Moderator: Reha Arar",
-        "role": "NET Holding Board Member and Gourmet & Writer",
+        "role": "NET Holding Board Member and Gourmet & Author",
         "location": ""
       },
       {
         "name": "Ergün Demiray",
-        "role": "Chairman of the Board of Dedeman Hotels",
+        "role": "Dedeman Hotels Chairman of the Board",
         "location": ""
       },
       {
         "name": "Mahmut Gökkaya",
-        "role": "Co-founder of Karma Bodrum",
+        "role": "Co-Founder of Karma Bodrum",
         "location": ""
       }
     ],
@@ -1750,22 +1744,22 @@
     "people": [
       {
         "name": "Moderator: Emre Buga",
-        "role": "Haber Spikeri & Editör",
+        "role": "Newscaster & Editor",
         "location": ""
       },
       {
         "name": "Vito Romeo",
-        "role": "D Maris Bay General Manager",
+        "role": "General Manager of D Maris Bay",
         "location": ""
       },
       {
         "name": "Umut Terzi",
-        "role": "Club Marvy General Manager",
+        "role": "General Manager of Club Marvy",
         "location": ""
       },
       {
         "name": "Can Göktaş",
-        "role": "Six Senses Kaplankaya Genel Müdürü",
+        "role": "General Manager of Six Senses Kaplankaya",
         "location": ""
       }
     ],
@@ -1781,12 +1775,12 @@
     "people": [
       {
         "name": "Moderator: Bahar Akıncı",
-        "role": "Sustainable Tourism Columnist at Gazete Oksijen",
+        "role": "Oksijen Newspaper Sustainable Tourism Columnist",
         "location": ""
       },
       {
         "name": "Pınar Açılan Horikoshi",
-        "role": "Itsumi Co-Founder",
+        "role": "Co-Founder of İtsumi",
         "location": ""
       },
       {
@@ -1796,22 +1790,22 @@
       },
       {
         "name": "Hanna Lakiza",
-        "role": "ROKA Türkiye General Manager",
+        "role": "General Manager of ROKA Türkiye",
         "location": ""
       },
       {
         "name": "Ergün Yücebıyık",
-        "role": "Dragon Restaurant Founding Partner",
+        "role": "Co-Founder of Dragon Restaurant",
         "location": ""
       },
       {
         "name": "Metehan Çulha",
-        "role": "Barba Sushi & Lounge Kurucu Ortağı",
+        "role": "Co-Founder of Barba Sushi & Lounge",
         "location": ""
       },
       {
         "name": "Yusuf Saranga",
-        "role": "Wagamama Yönetim Kurulu Başkanı",
+        "role": "Wagamama Chairman of the Board",
         "location": ""
       }
     ],
@@ -1827,12 +1821,12 @@
     "people": [
       {
         "name": "Moderator: Aylin Öney Tan",
-        "role": "Hurriyet Daily News Columnist",
+        "role": "Hürriyet Daily News Columnist",
         "location": ""
       },
       {
         "name": "Carlo Bernardini",
-        "role": "Founder & Chef of Carlo Bernardini Fine Catering & Events",
+        "role": "Carlo Bernardini Fine Catering & Events Founder & Chef",
         "location": ""
       }
     ],
@@ -1848,17 +1842,17 @@
     "people": [
       {
         "name": "Moderator: Dilistan Shipman",
-        "role": "İstanbul Nişantaşı Universitesi Sanat ve Tasarım Fakültesi Gastronomy & Culinary Arts Bölüm Başkanı",
+        "role": "İstanbul Nişantaşı Universitesi Faculty of Art and Design, Head of Gastronomy & Culinary Arts Department",
         "location": ""
       },
       {
         "name": "Kazım Çil",
-        "role": "TUM & TRU Hospitality & Retail Operasyonlardan Sorumlu Genel Müdür Yardımcısı COO",
+        "role": "TUM & TRU Hospitality & Retail Operasyonlardan Sorumlu Deputy General Manager COO",
         "location": ""
       },
       {
         "name": "İlyas Faruk Tanyeri Gonzalez",
-        "role": "Ranchero ve Perran Ocakbaşı Kurucu Ortağı",
+        "role": "Co-Founder of Ranchero ve Perran Ocakbaşı",
         "location": ""
       },
       {
@@ -1868,9 +1862,8 @@
       },
       {
         "name": "Ozan Benlioğlu",
-        "role": "Sour & Sweet Kurucu Ortağı",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Co-Founder of Sour & Sweet",
+        "location": ""
       }
     ],
     "sponsor": "",
@@ -1885,27 +1878,27 @@
     "people": [
       {
         "name": "Moderator: Memet Özer",
-        "role": "TV Programcısı & Şef",
+        "role": "TV Programmer & Chef",
         "location": ""
       },
       {
         "name": "İbrahim Çolak",
-        "role": "Co-Founder & Chef of Elbet Steakhouse",
+        "role": "Elbet Steakhouse Co-Founder & Chef",
         "location": ""
       },
       {
         "name": "Cüneyt Asan",
-        "role": "Co-Founder of Günaydın Meat & Restaurants",
+        "role": "Co-Founder of Günaydın Et & Restoranları",
         "location": ""
       },
       {
         "name": "Sidar Budak",
-        "role": "Founder & Head Chef of Beeves Steakhouse",
+        "role": "Beeves Steakhouse Founder & Chef Executive",
         "location": ""
       },
       {
         "name": "Ömer Seyfi Aktülün",
-        "role": "Şazeli Restaurantları Yönetim Kurulu Başkanı",
+        "role": "Şazeli Restaurants Chairman of the Board",
         "location": ""
       }
     ],
@@ -1921,15 +1914,13 @@
     "people": [
       {
         "name": "Erim Şanal",
-        "role": "Yayla Marka Şefi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Yayla Brand Chef",
+        "location": ""
       },
       {
         "name": "Eda Karabulut",
-        "role": "Yayla Marka Şefi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Yayla Brand Chef",
+        "location": ""
       }
     ],
     "sponsor": "Yayla",
@@ -1944,7 +1935,7 @@
     "people": [
       {
         "name": "Moderator: Murat Güloğlu",
-        "role": "TV Presenter & Journalist",
+        "role": "TV Programmer & Journalist",
         "location": ""
       },
       {
@@ -1954,12 +1945,12 @@
       },
       {
         "name": "Nahit Kara",
-        "role": "Member of the Board of Directors of Ethno & Adalya Hotels",
+        "role": "Ethno & Adalya Hotels Board Member",
         "location": ""
       },
       {
         "name": "Maya Tansever",
-        "role": "Sunset Grill & Bar Genel Koordinatörü",
+        "role": "Sunset Grill & Bar General Coordinator",
         "location": ""
       }
     ],
@@ -1975,7 +1966,7 @@
     "people": [
       {
         "name": "Moderator: Ayfer Yavi",
-        "role": "Founder of Slow Food Istanbul Yağmur Böreği Association",
+        "role": "Founder of Slow Food İstanbul Yağmur Böreği Birliği",
         "location": ""
       },
       {
@@ -1985,17 +1976,17 @@
       },
       {
         "name": "Şamil Gence",
-        "role": "Caeli Genel Müdürü",
+        "role": "General Manager of Caeli",
         "location": ""
       },
       {
         "name": "Hande Gündoğar",
-        "role": "Nadas Kazdağları General Manager",
+        "role": "General Manager of Nadas Kazdağları",
         "location": ""
       },
       {
         "name": "Ezgi Serdaroğlu",
-        "role": "Teruar Urla Kurucu Ortağı & Deneyim Küratörü",
+        "role": "Teruar Urla Co-Founder & Experience Curator",
         "location": ""
       }
     ],
@@ -2011,12 +2002,12 @@
     "people": [
       {
         "name": "Moderator: Gökmen Sözen",
-        "role": "Sözen Group CEO & Founder of Gastromasa",
+        "role": "Sözen Group CEO & Gastromasa Founder",
         "location": ""
       },
       {
         "name": "Arda Türkmen",
-        "role": "TV Presenter & Chef",
+        "role": "TV Programmer & Chef",
         "location": ""
       }
     ],
@@ -2032,12 +2023,12 @@
     "people": [
       {
         "name": "Moderator: Reha Tartıcı",
-        "role": "Gastronomi & Mutfak Kültürü Yazarı",
+        "role": "Gastronomy & Culinary Culture Writer",
         "location": ""
       },
       {
         "name": "Kaan Kayhan",
-        "role": "Founder & Chef of Yeniköy Balıkçısı",
+        "role": "Yeniköy Balıkçısı Founder & Chef",
         "location": ""
       },
       {
@@ -2047,17 +2038,17 @@
       },
       {
         "name": "Volkan Bekit",
-        "role": "Bay Nihat Second-Generation Representative",
+        "role": "Mr. Nihat 2nd Generation Representative",
         "location": ""
       },
       {
         "name": "Süreyya Üzmez",
-        "role": "Trilye Restaurant Kurucusu",
+        "role": "Founder of Trilye Restaurant",
         "location": ""
       },
       {
         "name": "Ertuğrul Sürgit",
-        "role": "Yalova Restaurant 3. Kuşak İşletmecisi",
+        "role": "Yalova Restaurant 3rd Generation Operator",
         "location": ""
       }
     ],
@@ -2073,18 +2064,17 @@
     "people": [
       {
         "name": "Moderator: Prof. Dr. Özge Samancı",
-        "role": "Yemek Kültürü Tarihçisi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Food Culture Historian",
+        "location": ""
       },
       {
         "name": "Eray Şahinbay",
-        "role": "La Lorraine Türkiye & Orta Doğu Pazarlama Direktörü",
+        "role": "La Lorraine Türkiye & Orta Doğu Marketing Director",
         "location": ""
       },
       {
         "name": "Efe Anıl Çetin",
-        "role": "Rixos Tersane İstanbul Executive Şefi",
+        "role": "Rixos Tersane İstanbul Executive Chef",
         "location": ""
       }
     ],
@@ -2100,17 +2090,17 @@
     "people": [
       {
         "name": "Moderator: Cenk Girginol",
-        "role": "Gastronomi Yazarı & Kahve Danışmanı",
+        "role": "Gastronomy Writer & Coffee Consultant",
         "location": ""
       },
       {
         "name": "Ahmet Yanıkoğlu",
-        "role": "Caffè Nero Türkiye CEO",
+        "role": "CEO of Caffè Nero Türkiye",
         "location": ""
       },
       {
         "name": "Samet Akbaş",
-        "role": "Viyana Kahvesi CEO & Yönetim Kurulu Üyesi",
+        "role": "Viyana Kahvesi CEO & Board Member",
         "location": ""
       },
       {
@@ -2120,17 +2110,17 @@
       },
       {
         "name": "Bülent Özgür Kılıç",
-        "role": "1401 Cofffe House Yönetim Kurulu Başkanı",
+        "role": "1401 Cofffe House Chairman of the Board",
         "location": ""
       },
       {
         "name": "Sam Çeviköz",
-        "role": "Espresso Akademi Roastery Kurucu Ortağı",
+        "role": "Co-Founder of Espresso Akademi Roastery",
         "location": ""
       },
       {
         "name": "Ünal Karababa",
-        "role": "Mikel Coffee Türkiye Genel Müdür Yardımcısı",
+        "role": "Mikel Coffee Türkiye Deputy General Manager",
         "location": ""
       }
     ],
@@ -2146,7 +2136,7 @@
     "people": [
       {
         "name": "Moderator: Esin Sungur",
-        "role": "Mutfak Dostları Derneği Başkanı",
+        "role": "Mutfak Dostları Derneği Head",
         "location": ""
       },
       {
@@ -2156,17 +2146,17 @@
       },
       {
         "name": "İsmail Reyhanoğlu",
-        "role": "Rize Liman Lokantası Third-Generation Representative",
+        "role": "Rize Liman Lokantası 3rd Generation Representative",
         "location": ""
       },
       {
         "name": "Handan Kaygusuzer",
-        "role": "Beğendik Abi Restaurant Owner & Chef",
+        "role": "Beğendik Abi Lokantası Operator & Chef",
         "location": ""
       },
       {
         "name": "Mahir Nazlıcan",
-        "role": "Founder & Head Chef of Mahir Restaurant",
+        "role": "Mahir Lokantası Founder & Executive Chef",
         "location": ""
       }
     ],
@@ -2182,7 +2172,7 @@
     "people": [
       {
         "name": "Moderator: Başak Nur Okşak",
-        "role": "Gastronomi Gazetecisi",
+        "role": "Gastronomy Journalist",
         "location": ""
       },
       {
@@ -2192,19 +2182,18 @@
       },
       {
         "name": "Rafet İnce",
-        "role": "Chef, Entrepreneur & TV Presenter",
+        "role": "Chef, Entrepreneur & TV Host",
         "location": ""
       },
       {
         "name": "Murat İlke Özipek",
-        "role": "Gastronometro Müdürü & Eğitmen Şefi",
+        "role": "Gastronometro Manager & Instructor Chef",
         "location": ""
       },
       {
         "name": "Doğa Çitçi",
-        "role": "Mutfak Sanatları Merkezi Koordinatör Şefi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Mutfak Sanatları Merkezi Coordinator Chef",
+        "location": ""
       }
     ],
     "sponsor": "",
@@ -2219,37 +2208,37 @@
     "people": [
       {
         "name": "Moderator: Orkun Bulut",
-        "role": "Girişimci & Gastronomi Yazarı",
+        "role": "Entrepreneur & Gastronomy Writer",
         "location": ""
       },
       {
         "name": "Volkan Arık",
-        "role": "Lokanta by Divan Executive Şefi",
+        "role": "Lokanta by Divan Executive Chef",
         "location": ""
       },
       {
         "name": "Serkan Anavatan",
-        "role": "Yelve Urla Kurucusu & Şefi",
+        "role": "Yelve Urla Founder & Chef",
         "location": ""
       },
       {
         "name": "Serkan Aksoy",
-        "role": "Nicole Executive Şefi",
+        "role": "Nicole Executive Chef",
         "location": ""
       },
       {
         "name": "Bahtiyar Büyükduman",
-        "role": "Telezzüz Executive Şefi",
+        "role": "Telezzüz Executive Chef",
         "location": ""
       },
       {
         "name": "Özgür Üstün",
-        "role": "Avlu Restaurant Executive Şefi",
+        "role": "Avlu Restaurant Executive Chef",
         "location": ""
       },
       {
         "name": "Barlas Günebak",
-        "role": "Roku Omakase Kurucusu & Şefi",
+        "role": "Roku Omakase Founder & Chef",
         "location": ""
       }
     ],
@@ -2265,7 +2254,7 @@
     "people": [
       {
         "name": "Moderator: Burçak Şener",
-        "role": "Gastronomi Yazarı",
+        "role": "Gastronomy Writer",
         "location": ""
       },
       {
@@ -2280,7 +2269,7 @@
       },
       {
         "name": "Burak Temnur",
-        "role": "Four Seasons Hotel Istanbul at Sultanahmet Head Miksolojist",
+        "role": "Four Seasons Hotel Istanbul at Sultanahmet Head Mixologist",
         "location": ""
       },
       {
@@ -2290,7 +2279,7 @@
       },
       {
         "name": "Ramazan Dadak",
-        "role": "Upperist Bar Müdürü",
+        "role": "Upperist Bar Manager",
         "location": ""
       },
       {
@@ -2311,32 +2300,32 @@
     "people": [
       {
         "name": "Moderator: Bahar Akbulut",
-        "role": "Fine People Community Kurucusu & Girişimci",
+        "role": "Fine People Community Founder & Entrepreneur",
         "location": ""
       },
       {
         "name": "Yener Özden",
-        "role": "Istanbul Marriott Hotel Şişli Yiyecek & İçecek Direktörü",
+        "role": "Istanbul Marriott Hotel Şişli Yiyecek & Beverage Director",
         "location": ""
       },
       {
         "name": "Samuel Linder",
-        "role": "The Peninsula Istanbul Yiyecek & İçecekten Sorumlu Genel Müdür Yardımcısı",
+        "role": "The Peninsula Istanbul Yiyecek & Deputy General Manager Responsible for Beverages",
         "location": ""
       },
       {
         "name": "İlhan Beşer",
-        "role": "Çırağan Palace Kempinski Istanbul Yiyecek & İçecek Müdürü",
+        "role": "Çırağan Palace Kempinski Istanbul Yiyecek & Beverage Manager",
         "location": ""
       },
       {
         "name": "Melih Kayır",
-        "role": "The Grand Tarabya Managed by Accor Yiyecek & İçecek Direktörü",
+        "role": "The Grand Tarabya Managed by Accor Yiyecek & Beverage Director",
         "location": ""
       },
       {
         "name": "Alper Sonuk",
-        "role": "Fairmont Quasar Istanbul Yiyecek & İçecek Müdürü",
+        "role": "Fairmont Quasar Istanbul Yiyecek & Beverage Manager",
         "location": ""
       }
     ],
@@ -2352,37 +2341,37 @@
     "people": [
       {
         "name": "Moderator: Ebru Erberdi",
-        "role": "7 Catering Yönetim Kurulu Başkanı & Köşe Yazarı",
+        "role": "7 Catering Chairman & Columnist",
         "location": ""
       },
       {
         "name": "Mehmet Ali Börtücene",
-        "role": "The Rabbit Hole Kurucusu & Şefi",
+        "role": "The Rabbit Hole Founder & Chef",
         "location": ""
       },
       {
         "name": "Atakan Özen",
-        "role": "Tola Bursa Kurcusu & Şefi",
+        "role": "Tola Bursa Kurcusu & Chef",
         "location": ""
       },
       {
         "name": "Tuna Yüzüak",
-        "role": "Alma Table Executive Şefi",
+        "role": "Alma Table Executive Chef",
         "location": ""
       },
       {
         "name": "Umut Karakuş",
-        "role": "Muutto Kurucu Ortağı & Şefi",
+        "role": "Muutto Co-Founder & Chef",
         "location": ""
       },
       {
         "name": "Ahmet Gündoğar",
-        "role": "SUZ Restaurant Executive Şefi",
+        "role": "SUZ Restaurant Executive Chef",
         "location": ""
       },
       {
         "name": "Aslı Mutlu",
-        "role": "Karnas Vineyards Restaurant Kurucu Ortağı & Şefi",
+        "role": "Karnas Vineyards Restaurant Co-Founder & Chef",
         "location": ""
       }
     ],
@@ -2398,17 +2387,17 @@
     "people": [
       {
         "name": "Moderator: Selin Kutucular",
-        "role": "Yazar",
+        "role": "Author",
         "location": ""
       },
       {
         "name": "Tahsin Fettahoğlu",
-        "role": "İskele Balık Lara Kurucusu",
+        "role": "Founder of İskele Balık Lara",
         "location": ""
       },
       {
         "name": "Taner Aydın",
-        "role": "Girida Port Kurucusu",
+        "role": "Founder of Girida Port",
         "location": ""
       },
       {
@@ -2418,7 +2407,7 @@
       },
       {
         "name": "Ziya Kaçar",
-        "role": "Calypso Fish Kurucu Ortağı & Şefi",
+        "role": "Calypso Fish Co-Founder & Chef",
         "location": ""
       },
       {
@@ -2439,7 +2428,7 @@
     "people": [
       {
         "name": "Ege Ermeç",
-        "role": "General Manager of Doğanay Food",
+        "role": "General Manager of Doğanay Gıda",
         "location": ""
       }
     ],
@@ -2455,7 +2444,7 @@
     "people": [
       {
         "name": "Moderator: Yağız İzgül",
-        "role": "TV Programcısı & Şef",
+        "role": "TV Programmer & Chef",
         "location": ""
       },
       {
@@ -2475,7 +2464,7 @@
       },
       {
         "name": "Nebiye Kaya",
-        "role": "The Peninsula Istanbul Baş Sommelieri",
+        "role": "The Peninsula Istanbul Baş Sommelier",
         "location": ""
       }
     ],
@@ -2491,12 +2480,12 @@
     "people": [
       {
         "name": "Moderator: Orkun Bulut",
-        "role": "Girişimci & Gastronomi Yazarı",
+        "role": "Entrepreneur & Gastronomy Writer",
         "location": ""
       },
       {
         "name": "Duygu Kutluoğlu",
-        "role": "FineDine Co-Founder & CEO",
+        "role": "FineDine' Co-Founder & CEO",
         "location": ""
       }
     ],
@@ -2512,37 +2501,37 @@
     "people": [
       {
         "name": "Moderator: İpek İzci",
-        "role": "Hürriyet Gazetesi Köşe Yazarı & Gazeteci",
+        "role": "Hürriyet Newspaper Columnist & Journalist",
         "location": ""
       },
       {
         "name": "Savaş Aydemir",
-        "role": "Conrad Istanbul Bosphorus Executive Şefi",
+        "role": "Conrad Istanbul Bosphorus Executive Chef",
         "location": ""
       },
       {
         "name": "Görkem Özkan",
-        "role": "Four Seasons Hotel Istanbul at the Bosphorus Executive Şefi",
+        "role": "Four Seasons Hotel Istanbul at the Bosphorus Executive Chef",
         "location": ""
       },
       {
         "name": "Soner Kesgin",
-        "role": "Swissôtel The Bosphorus İstanbul Executive Şefi",
+        "role": "Swissôtel The Bosphorus İstanbul Executive Chef",
         "location": ""
       },
       {
         "name": "Yusuf Gülyiyen",
-        "role": "Grand Hyatt İstanbul Executive Şefi",
+        "role": "Grand Hyatt İstanbul Executive Chef",
         "location": ""
       },
       {
         "name": "Şevket Cihan",
-        "role": "Shangri-La Bosphorus İstanbul Executive Şefi",
+        "role": "Shangri-La Bosphorus İstanbul Executive Chef",
         "location": ""
       },
       {
         "name": "Ali İhsan Özkan",
-        "role": "The Ritz Carlton Istanbul Executive Şefi",
+        "role": "The Ritz Carlton Istanbul Executive Chef",
         "location": ""
       }
     ],
@@ -2558,17 +2547,17 @@
     "people": [
       {
         "name": "Moderator: Özge Şahin",
-        "role": "Atıksız Mutfak Şefi & TV Programcısı",
+        "role": "Atıksız Kitchen Chef & TV Programmer",
         "location": ""
       },
       {
         "name": "Jale Balcı",
-        "role": "Gastronomi Danışmanı, Şef & Yazar & Gıda Teknikeri",
+        "role": "Gastronomy Consultant, Chef & Writer & Food Technician",
         "location": ""
       },
       {
         "name": "Dilara Koçak",
-        "role": "Beslenme ve Diyet Uzmanı, FAO Gıda Şampiyonu, The Good Wild Co Kurucu Ortağı, Sürdürülebilir Yaşam Elçisi",
+        "role": "Beslenme ve Diyet Uzmanı, FAO Gıda Şampiyonu, The Good Wild Co Co-Founder, Sustainable Living Ambassador",
         "location": ""
       }
     ],
@@ -2605,27 +2594,27 @@
       },
       {
         "name": "Gökçen Yıldırım",
-        "role": "Yazz Collective Executive Şefi",
+        "role": "Yazz Collective Executive Chef",
         "location": ""
       },
       {
         "name": "Özgür Bozgurt",
-        "role": "Six Senses Kaplankaya Executive Şefi",
+        "role": "Six Senses Kaplankaya Executive Chef",
         "location": ""
       },
       {
         "name": "Nihat Doğtürk",
-        "role": "Miori Göcek Executive Şefi",
+        "role": "Miori Göcek Executive Chef",
         "location": ""
       },
       {
         "name": "İsmail Akdeniz",
-        "role": "ATG Hotels Group Gastronomi Müdürü",
+        "role": "ATG Hotels Group Gastronomy Manager",
         "location": ""
       },
       {
         "name": "Hüseyin Büyükbostancı",
-        "role": "Ahãma Executive Şefi",
+        "role": "Ahãma Executive Chef",
         "location": ""
       }
     ],
@@ -2641,22 +2630,22 @@
     "people": [
       {
         "name": "Moderator: Natali Yarcan Çelikkol",
-        "role": "TV Programcısı & Yemek Kitabı Yazarı",
+        "role": "TV Programmer & Cookbook Author",
         "location": ""
       },
       {
         "name": "Malte Rohmann",
-        "role": "The Peninsula Istanbul Pastry Şefi",
+        "role": "The Peninsula Istanbul Pastry Chef",
         "location": ""
       },
       {
         "name": "Gamze Baş",
-        "role": "Çikolata Şefi & Tat Küratörü",
+        "role": "Çikolata Chef & Taste Curator",
         "location": ""
       },
       {
         "name": "Marc Pauquet",
-        "role": "Le Cordon Bleu Istanbul Eğitmen Şefi & Pastane Bölümü Yöneticisi",
+        "role": "Le Cordon Bleu Istanbul Instructor Chef & Patisserie Department Manager",
         "location": ""
       }
     ],
@@ -2672,34 +2661,33 @@
     "people": [
       {
         "name": "Moderator: Aykut Üner",
-        "role": "İçecek Atölyesi Kurucusu & İçecek Uzmanı",
+        "role": "İçecek Atölyesi Founder & Beverage Expert",
         "location": ""
       },
       {
         "name": "Talat Arslan",
-        "role": "T’brothers Kurucu Ortağı Usla Bar, Servis & Miksoloji Eğitmeni",
+        "role": "T’brothers Founding Partner, Usla Bar, Service & Mixology Trainer",
         "location": ""
       },
       {
         "name": "Bircan Çelik",
-        "role": "Cocktail Mafia Kurucusu",
+        "role": "Founder of Cocktail Mafia",
         "location": ""
       },
       {
         "name": "Onur Balk",
-        "role": "Inspired Cocktail & Agata Bar Kurucusu ve Miksoloji Uzmanı",
+        "role": "Inspired Cocktail & Agata Bar Founder and Mixologist",
         "location": ""
       },
       {
         "name": "Musa Yavuz",
-        "role": "Yiyecek & İçecek Koordinatörü",
+        "role": "Yiyecek & Beverage Coordinator",
         "location": ""
       },
       {
         "name": "Ece Garip",
-        "role": "Casa Regina Kurucusu ve Şefi",
-        "location": "",
-        "roleTranslationPending": true
+        "role": "Founder and Chef of Casa Regina",
+        "location": ""
       }
     ],
     "sponsor": "",
@@ -2714,27 +2702,27 @@
     "people": [
       {
         "name": "Moderator: Jülide Dalyan",
-        "role": "Gastronomiden Haberler Yazarı",
+        "role": "Gastronomy News Writer",
         "location": ""
       },
       {
         "name": "Altuğ Tezer",
-        "role": "86 Ent Group Koordinatör Şefi",
+        "role": "86 Ent Group Coordinator Chef",
         "location": ""
       },
       {
         "name": "Tolga Kamiloğlu",
-        "role": "Ritüel Kurucusu & Şefi",
+        "role": "Ritüel Founder & Chef",
         "location": ""
       },
       {
         "name": "Eyüp Kemal Sevinç",
-        "role": "Founder of EKS Culinary Academy, TV Presenter & Chef",
+        "role": "Founder of EKS Culinary Academy, TV Programmer & Chef",
         "location": ""
       },
       {
         "name": "Erdem Dönmez",
-        "role": "Co-Founder & Chef of Carlo Bernardini Fine Catering & Events",
+        "role": "Carlo Bernardini Fine Catering & Events Co-Founder & Chef",
         "location": ""
       }
     ],
@@ -2750,32 +2738,32 @@
     "people": [
       {
         "name": "Moderator: Oğuz Otay",
-        "role": "Gezmek Yetmez Kurucusu",
+        "role": "Founder of Gezmek Yetmez",
         "location": ""
       },
       {
         "name": "Ufuk Ügümü",
-        "role": "Hünkar Lokantası 4. Kuşak Temsilcisi",
+        "role": "Hünkar Lokantası 4th Generation Representative",
         "location": ""
       },
       {
         "name": "Süleyman Tarakçı",
-        "role": "Nalia Kurucusu & Şefi",
+        "role": "Nalia Founder & Chef",
         "location": ""
       },
       {
         "name": "Ergin Sönmezler",
-        "role": "Yanyalı Fehmi Lokantası 3. Kuşak Temsilcisi",
+        "role": "Yanyalı Fehmi Lokantası 3rd Generation Representative",
         "location": ""
       },
       {
         "name": "Hacı Abdullah Korun",
-        "role": "Hacı Abdullah Lokantası Kurucu Ortağı",
+        "role": "Co-Founder of Hacı Abdullah Lokantası",
         "location": ""
       },
       {
         "name": "Özay Çınar",
-        "role": "Pandeli Restoran Müdürü",
+        "role": "Pandeli Restaurant Manager",
         "location": ""
       }
     ],
@@ -2791,32 +2779,32 @@
     "people": [
       {
         "name": "Moderator: Reha Arar",
-        "role": "NET Holding Yönetim Kurulu Başkanı",
+        "role": "NET Holding Chairman of the Board",
         "location": ""
       },
       {
         "name": "Serdar Çalışkan",
-        "role": "Swissôtel The Bosphorus Istanbul Yiyecek & İçecek Müdürü",
+        "role": "Swissôtel The Bosphorus Istanbul Yiyecek & Beverage Manager",
         "location": ""
       },
       {
         "name": "Eyüp Nezirler",
-        "role": "Raffles Istanbul Yiyecek & İçecek Direktörü",
+        "role": "Raffles Istanbul Yiyecek & Beverage Director",
         "location": ""
       },
       {
         "name": "Eylül Candan",
-        "role": "Cactus Hotels Group Yiyecek & İçecek Direktörü",
+        "role": "Cactus Hotels Group Yiyecek & Beverage Director",
         "location": ""
       },
       {
         "name": "Barış Metin",
-        "role": "CVK Park Bosphorus Hotel İstanbul Yiyecek & İçecek Direktörü",
+        "role": "CVK Park Bosphorus Hotel İstanbul Yiyecek & Beverage Director",
         "location": ""
       },
       {
         "name": "Rufi Yalın",
-        "role": "Mikla Restoran Müdürü",
+        "role": "Mikla Restaurant Manager",
         "location": ""
       }
     ],
@@ -2832,27 +2820,27 @@
     "people": [
       {
         "name": "Moderator: Berna Abik",
-        "role": "Gazete Oksijen Editörü",
+        "role": "Newspaper Oxygen Editor",
         "location": ""
       },
       {
         "name": "Ertan Özturan",
-        "role": "Madera Executive Şefi",
+        "role": "Madera Executive Chef",
         "location": ""
       },
       {
         "name": "Kenan Çetinkaya",
-        "role": "Araf İstanbul Kurucusu & Şefi",
+        "role": "Araf İstanbul Founder & Chef",
         "location": ""
       },
       {
         "name": "İsmet Saz",
-        "role": "İsmet Saz Grup Kurucusu",
+        "role": "Founder of İsmet Saz Grup",
         "location": ""
       },
       {
         "name": "Mevlüt Özkaya",
-        "role": "Mürver Restaurant Executive Şefi",
+        "role": "Mürver Restaurant Executive Chef",
         "location": ""
       }
     ],
@@ -2868,37 +2856,37 @@
     "people": [
       {
         "name": "Moderator: Faruk Şüyün",
-        "role": "Columnist at Ekonomi Gazetesi",
+        "role": "Economy Newspaper Writer",
         "location": ""
       },
       {
         "name": "Okan Aydemir",
-        "role": "Raffles Istanbul Executive Şefi",
+        "role": "Raffles Istanbul Executive Chef",
         "location": ""
       },
       {
         "name": "Serhat Eliçora",
-        "role": "CVK Park Bosphorus Hotel İstanbul Executive Şefi",
+        "role": "CVK Park Bosphorus Hotel İstanbul Executive Chef",
         "location": ""
       },
       {
         "name": "Şafak Erten",
-        "role": "JW Marriott Istanbul Bosphorus Executive Şefi",
+        "role": "JW Marriott Istanbul Bosphorus Executive Chef",
         "location": ""
       },
       {
         "name": "Alexis Atlamazoğlu",
-        "role": "The Grand Tarabya Bosphorus Executive Şefi",
+        "role": "The Grand Tarabya Bosphorus Executive Chef",
         "location": ""
       },
       {
         "name": "Selim Ay",
-        "role": "Hilton İstanbul Bomonti Mutfak Şefi",
+        "role": "Hilton İstanbul Bomonti Kitchen Chef",
         "location": ""
       },
       {
         "name": "Efe Anıl Çetin",
-        "role": "Rixos Tersane İstanbul Executive Şefi",
+        "role": "Rixos Tersane İstanbul Executive Chef",
         "location": ""
       }
     ],
@@ -2914,22 +2902,22 @@
     "people": [
       {
         "name": "Moderator: Reha Tartıcı",
-        "role": "Gastronomi & Mutfak Kültürü Yazarı",
+        "role": "Gastronomy & Culinary Culture Writer",
         "location": ""
       },
       {
         "name": "Zeynep Yıldız",
-        "role": "Midpoint Group Satın Alma Müdürü",
+        "role": "Midpoint Group Purchasing Manager",
         "location": ""
       },
       {
         "name": "Mehmet Soykan",
-        "role": "BTA Food & Services Merkez Mutfak Executive Şefi",
+        "role": "BTA Food & Services Merkez Kitchen Executive Chef",
         "location": ""
       },
       {
         "name": "Talip Günel",
-        "role": "Happy Group Satın Alma Müdürü",
+        "role": "Happy Group Purchasing Manager",
         "location": ""
       }
     ],
@@ -2945,37 +2933,37 @@
     "people": [
       {
         "name": "Moderator: Prof. Özge Samancı",
-        "role": "Yemek Kültürü Tarihçisi",
+        "role": "Food Culture Historian",
         "location": ""
       },
       {
         "name": "Birkan Erköylü",
-        "role": "c-paces Group Executive Şefi & Feriye İstanbul Executive Şefi",
+        "role": "c-paces Group Executive Chef & Feriye Istanbul Executive Chef",
         "location": ""
       },
       {
         "name": "Alper Tuğrul Ünlütürk",
-        "role": "Natolia Kurucu Ortağı & Mutfak Koordinatörü",
+        "role": "Natolia Co-Founder & Culinary Coordinator",
         "location": ""
       },
       {
         "name": "Vedat Demir",
-        "role": "Dogus Hospitality & Retail Group Marka Şefi",
+        "role": "Dogus Hospitality & Retail Group Brand Chef",
         "location": ""
       },
       {
         "name": "Onur Dönmez",
-        "role": "Tuğra Restoran Mutfak Şefi",
+        "role": "Tuğra Restoran Kitchen Chef",
         "location": ""
       },
       {
         "name": "Mehmet Gök",
-        "role": "Bocuse d'Or Türkiye Başkanı & Chef At Work Danışmanlık Kurucusu",
+        "role": "Bocuse d'Or Türkiye President & Founder of Chef At Work Consulting",
         "location": ""
       },
       {
         "name": "Rıza Belenkaya",
-        "role": "Midpoint R&D Chief",
+        "role": "Midpoint Ar-Ge Chef",
         "location": ""
       }
     ],
@@ -2991,32 +2979,32 @@
     "people": [
       {
         "name": "Moderator: Esin Övet",
-        "role": "Gazeteci & Yazar",
+        "role": "Journalist & Writer",
         "location": ""
       },
       {
         "name": "Uğur Alparslan",
-        "role": "Pera Palace Hotel Executive Şefi",
+        "role": "Pera Palace Hotel Executive Chef",
         "location": ""
       },
       {
         "name": "Arif Madakbaş",
-        "role": "Renaissance Polat Istanbul Hotel Yeşilköy Executive Şefi",
+        "role": "Renaissance Polat Istanbul Hotel Yeşilköy Executive Chef",
         "location": ""
       },
       {
         "name": "Ali Elikkaya",
-        "role": "Sheraton İstanbul Ataköy Executive Şefi",
+        "role": "Sheraton İstanbul Ataköy Executive Chef",
         "location": ""
       },
       {
         "name": "Orhan Eryılmaz",
-        "role": "Calista Luxury Resort Mutfak Direktörü",
+        "role": "Calista Luxury Resort Kitchen Director",
         "location": ""
       },
       {
         "name": "Taner Özkan",
-        "role": "JW Marriott Hotel Ankara Mutfak Direktörü",
+        "role": "JW Marriott Hotel Ankara Kitchen Director",
         "location": ""
       }
     ],
@@ -3032,37 +3020,37 @@
     "people": [
       {
         "name": "Moderator: Lale Elmacıoğlu",
-        "role": "Gazeteci & Ekotürk TV Sunucusu",
+        "role": "Journalist & Ekotürk TV Presenter",
         "location": ""
       },
       {
         "name": "Eren Canatar",
-        "role": "Townhouse Kurucusu",
+        "role": "Founder of Townhouse",
         "location": ""
       },
       {
         "name": "Emir Ali Enç",
-        "role": "Fahri Konsolos Kurucusu",
+        "role": "Founder of Fahri Konsolos",
         "location": ""
       },
       {
         "name": "Serhan Akıncı",
-        "role": "Minibar Kurucusu",
+        "role": "Founder of Minibar",
         "location": ""
       },
       {
         "name": "Emirhan Paralı",
-        "role": "Tavern Kurucu Ortağı",
+        "role": "Co-Founder of Tavern",
         "location": ""
       },
       {
         "name": "Yiğit Onbaşı",
-        "role": "Kiff Kurucu Ortağı",
+        "role": "Co-Founder of Kiff",
         "location": ""
       },
       {
         "name": "Pınar Ece Kaleli",
-        "role": "Artsy & Scallop Kurucusu",
+        "role": "Founder of Artsy & Scallop",
         "location": ""
       }
     ],
@@ -3078,32 +3066,32 @@
     "people": [
       {
         "name": "Moderator: Memet Özer",
-        "role": "TV Programcısı & Şef",
+        "role": "TV Programmer & Chef",
         "location": ""
       },
       {
         "name": "Suna Hakyemez",
-        "role": "ROKA Türkiye Head Şef",
+        "role": "ROKA Türkiye Head Chef",
         "location": ""
       },
       {
         "name": "Emrah Orak",
-        "role": "Zuma Türkiye Executive Şefi",
+        "role": "Zuma Türkiye Executive Chef",
         "location": ""
       },
       {
         "name": "Fatih Alkan",
-        "role": "Akira Back Executive Şefi",
+        "role": "Akira Back Executive Chef",
         "location": ""
       },
       {
         "name": "Korhan Gülsoy",
-        "role": "Inari Omakase Group Executive Şefi",
+        "role": "Inari Omakase Group Executive Chef",
         "location": ""
       },
       {
         "name": "Barlas Günebak",
-        "role": "Roku Omakase Kurucusu & Şefi",
+        "role": "Roku Omakase Founder & Chef",
         "location": ""
       }
     ],
@@ -3119,12 +3107,12 @@
     "people": [
       {
         "name": "Moderator: Başak Nur Okşak",
-        "role": "Gastronomi Gazetecisi",
+        "role": "Gastronomy Journalist",
         "location": ""
       },
       {
         "name": "Ercan Egi",
-        "role": "Swissôtel The Bosphorus Pastry Şefi",
+        "role": "Swissôtel The Bosphorus Pastry Chef",
         "location": ""
       },
       {
@@ -3134,12 +3122,12 @@
       },
       {
         "name": "Harun Gümüş",
-        "role": "Çırağan Palace Kempinski, Istanbul Executive Pastry Şefi",
+        "role": "Çırağan Palace Kempinski, Istanbul Executive Pastry Chef",
         "location": ""
       },
       {
         "name": "Barış Uçar",
-        "role": "Raffles Istanbul Pastry Şefi",
+        "role": "Raffles Istanbul Pastry Chef",
         "location": ""
       }
     ],
@@ -3155,27 +3143,27 @@
     "people": [
       {
         "name": "Moderator: Defne Tüysüzoğlu",
-        "role": "Le Cordon Bleu Türkiye Direktörü",
+        "role": "Le Cordon Bleu Türkiye Director",
         "location": ""
       },
       {
         "name": "Kübra Yaman",
-        "role": "Otto Bite Executive Pastry Şefi",
+        "role": "Otto Bite Executive Pastry Chef",
         "location": ""
       },
       {
         "name": "Gökhan Ali Çamkerten",
-        "role": "Viyana Kahvesi Şefi",
+        "role": "Viyana Kahvesi Chef",
         "location": ""
       },
       {
         "name": "Serpil Ürgen",
-        "role": "Maçakızı Pastry Şefi",
+        "role": "Maçakızı Pastry Chef",
         "location": ""
       },
       {
         "name": "Merve Burcu Akbulut",
-        "role": "Merveilleux Patisserie Kurucusu & Şefi",
+        "role": "Merveilleux Patisserie Founder & Chef",
         "location": ""
       }
     ],
@@ -3191,7 +3179,7 @@
     "people": [
       {
         "name": "Özgür Kızıl",
-        "role": "Coffee Trader & Belgesel Yönetmeni",
+        "role": "Coffee Trader & Documentary Director",
         "location": ""
       }
     ],
@@ -3207,7 +3195,7 @@
     "people": [
       {
         "name": "Moderator: Aliye Gümüş",
-        "role": "Gazeteci ve Gastronomi Kültürü Yazarı",
+        "role": "Journalist and Gastronomy Culture Writer",
         "location": ""
       },
       {

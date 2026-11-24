@@ -161,3 +161,5 @@ button.partner-card{width:100%;cursor:pointer;font:inherit;transition:border-col
 .venue .venue-tour-fallback a{margin:0;padding-bottom:2px}
 @media(max-width:768px){.venue-tour-frame{aspect-ratio:4/3;min-height:430px}}
 @media(max-width:600px){.venue{grid-template-columns:minmax(0,1fr)}.venue .venue-details{justify-self:start;margin-top:0}.venue>div.venue-tour{margin-top:15px;font-size:14px}.venue-tour h3{font-size:27px}.venue-tour-intro{font-size:13px}.venue-tour-frame{aspect-ratio:2/3;min-height:520px}}
+
+.translation-note,.language-translation-notice{color:var(--muted);font-size:12px;line-height:1.6}.language-translation-notice{max-width:1296px;margin:10px auto;padding:0 5%}
