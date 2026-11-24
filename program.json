@@ -81,7 +81,7 @@
         "photo": "assets/chefs/eduardxatruch.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "CHEFseasons",
     "title": "Disfrutar: Yaratıcılık ve Kültür"
   },
   {
@@ -99,7 +99,7 @@
         "photo": "assets/chefs/luizfilipesouza.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "KAPP",
     "title": "Evvai ve Oriundi Mutfağı"
   },
   {
@@ -117,7 +117,7 @@
         "photo": "assets/chefs/antoniobachour.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Özmen Un",
     "title": "Üç Kültürde Pastacılık Sanatı"
   },
   {
@@ -171,7 +171,7 @@
         "photo": "assets/chefs/pialeon.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "CHEFseasons",
     "title": "Doğa ve Coğrafya: Dönüşen Malzemeler"
   },
   {
@@ -207,7 +207,7 @@
         "photo": "assets/chefs/emmanuelrenaut.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Porland",
     "title": "Yüksek Rakım Kültürü ve Etkileşimi"
   },
   {
@@ -243,7 +243,7 @@
         "photo": "assets/chefs/nicolainørregaard.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Culinarist",
     "title": ""
   },
   {
@@ -279,7 +279,7 @@
         "photo": "assets/chefs/paolocasagrande.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Öztiryakiler",
     "title": "Lasarte: Özü ve Mirası"
   },
   {
@@ -315,7 +315,7 @@
         "photo": "assets/chefs/francopepe.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Özmen Un",
     "title": "Etkileşim | İki Kültürün Birleşimi"
   },
   {
@@ -447,7 +447,7 @@
         "photo": "assets/chefs/vickycheng.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "CHEFseasons",
     "title": "Çin Mutfağında Zaman Sanatı"
   },
   {
@@ -589,7 +589,7 @@
         "photo": "assets/chefs/jacopoticchi.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Jumbo",
     "title": "Menüde Kültürel Değişim ve Şeflerin Bölgesel Mutfaklara Karşı Sorumluluğu"
   },
   {
@@ -702,7 +702,7 @@
         "photo": "assets/chefs/gianlucafusto.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Melodi",
     "title": ""
   },
   {
@@ -793,7 +793,7 @@
         "photo": "assets/chefs/matiasperdomo.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "CHEFseasons",
     "title": ""
   },
   {
@@ -911,7 +911,7 @@
         "preserveRole": true
       }
     ],
-    "sponsor": "",
+    "sponsor": "Jumbo",
     "title": ""
   },
   {
@@ -1170,6 +1170,11 @@
       {
         "name": "Rufat Babayev",
         "role": "Türkiye & Hırvatistan Hyatt Otelleri Bölge Başkanı",
+        "location": ""
+      },
+      {
+        "name": "Utkan Gülaçtı",
+        "role": "Swissôtel The Bosphorus İstanbul Genel Müdürü",
         "location": ""
       }
     ],
@@ -2187,7 +2192,7 @@
       },
       {
         "name": "Doğa Çitçi",
-        "role": "Doğa Çitçi, MSM Koordinatör Şefi",
+        "role": "Mutfak Sanatları Merkezi Koordinatör Şefi",
         "location": ""
       }
     ],
@@ -2284,7 +2289,7 @@
       }
     ],
     "sponsor": "",
-    "title": "OTEL VE RESTORAN GASTRONOMİSİNDE OPERASYONEL MÜKEMMELLİK & MİSAFİR DENEYİMİ"
+    "title": "ŞEHİR OTELLERİNDE BAR KÜLTÜRÜ & YENİ NESİL MİSAFİR BEKLENTİLERİ"
   },
   {
     "id": "eyup-26-v33-1220",
@@ -2484,7 +2489,7 @@
         "location": ""
       }
     ],
-    "sponsor": "",
+    "sponsor": "FineDine",
     "title": "YAPAY ZEKANIN TEKNOLOJİ & HOSPITALITY'E ETKİSİ"
   },
   {
@@ -2763,7 +2768,7 @@
       }
     ],
     "sponsor": "",
-    "title": "ŞEHİR OTELLERİNDE BAR KÜLTÜRÜ & YENİ NESİL MİSAFİR BEKLENTİLERİ"
+    "title": "GELENEKSEL RESTORANLAR GASTRONOMİ TURİZMİNE NASIL KATKI SAĞLIYOR?"
   },
   {
     "id": "eyup-27-v33-1040",

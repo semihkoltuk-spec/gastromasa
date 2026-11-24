@@ -81,7 +81,7 @@
         "photo": "assets/chefs/eduardxatruch.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "CHEFseasons",
     "title": "DISFRUTAR: CREATIVITY AND CULTURE"
   },
   {
@@ -99,7 +99,7 @@
         "photo": "assets/chefs/luizfilipesouza.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "KAPP",
     "title": "Evvai and the Oriundi Cuisine"
   },
   {
@@ -117,7 +117,7 @@
         "photo": "assets/chefs/antoniobachour.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Özmen Un",
     "title": "The Art of Pastry Across Three Cultures"
   },
   {
@@ -171,7 +171,7 @@
         "photo": "assets/chefs/pialeon.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "CHEFseasons",
     "title": "NATURE & TERRITORY: EVOLVING MATERIALS"
   },
   {
@@ -207,7 +207,7 @@
         "photo": "assets/chefs/emmanuelrenaut.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Porland",
     "title": "High-Altitude Culture & Interaction"
   },
   {
@@ -243,7 +243,7 @@
         "photo": "assets/chefs/nicolainørregaard.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Culinarist",
     "title": ""
   },
   {
@@ -279,7 +279,7 @@
         "photo": "assets/chefs/paolocasagrande.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Öztiryakiler",
     "title": "Lasarte: Essence & Legacy"
   },
   {
@@ -315,7 +315,7 @@
         "photo": "assets/chefs/francopepe.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Özmen Un",
     "title": "CONTAMINATION | THE UNION OF TWO CULTURES"
   },
   {
@@ -447,7 +447,7 @@
         "photo": "assets/chefs/vickycheng.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "CHEFseasons",
     "title": "Art of Time in Chinese Cuisine"
   },
   {
@@ -589,7 +589,7 @@
         "photo": "assets/chefs/jacopoticchi.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Jumbo",
     "title": "Cultural Exchange on the Menu and Chefs’ Responsibility to Regional Cuisines"
   },
   {
@@ -702,7 +702,7 @@
         "photo": "assets/chefs/gianlucafusto.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "Melodi",
     "title": ""
   },
   {
@@ -793,7 +793,7 @@
         "photo": "assets/chefs/matiasperdomo.webp"
       }
     ],
-    "sponsor": "",
+    "sponsor": "CHEFseasons",
     "title": ""
   },
   {
@@ -911,7 +911,7 @@
         "preserveRole": true
       }
     ],
-    "sponsor": "",
+    "sponsor": "Jumbo",
     "title": ""
   },
   {
@@ -1171,6 +1171,12 @@
       {
         "name": "Rufat Babayev",
         "role": "Türkiye & Hırvatistan Hyatt Otelleri Bölge Başkanı",
+        "location": "",
+        "roleTranslationPending": true
+      },
+      {
+        "name": "Utkan Gülaçtı",
+        "role": "Swissôtel The Bosphorus İstanbul Genel Müdürü",
         "location": "",
         "roleTranslationPending": true
       }
@@ -2196,7 +2202,7 @@
       },
       {
         "name": "Doğa Çitçi",
-        "role": "Doğa Çitçi, MSM Koordinatör Şefi",
+        "role": "Mutfak Sanatları Merkezi Koordinatör Şefi",
         "location": "",
         "roleTranslationPending": true
       }
@@ -2294,7 +2300,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Operational Excellence and Guest Experience in Hotel and Restaurant Gastronomy"
+    "title": "Bar Culture in City Hotels and Next-Generation Guest Expectations"
   },
   {
     "id": "eyup-26-v33-1220",
@@ -2494,7 +2500,7 @@
         "location": ""
       }
     ],
-    "sponsor": "",
+    "sponsor": "FineDine",
     "title": "The Impact of Artificial Intelligence on Technology and Hospitality"
   },
   {
@@ -2774,7 +2780,7 @@
       }
     ],
     "sponsor": "",
-    "title": "Bar Culture in City Hotels and Next-Generation Guest Expectations"
+    "title": "How Do Traditional Restaurants Contribute to Gastronomy Tourism?"
   },
   {
     "id": "eyup-27-v33-1040",

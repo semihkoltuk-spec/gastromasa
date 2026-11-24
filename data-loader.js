@@ -1,6 +1,6 @@
 /* One bounded request per JSON resource, shared by all page components. */
 (()=>{
- const requests=new Map(),revision='68',cachedResources=new Map();
+ const requests=new Map(),revision='69',cachedResources=new Map();
  const storageKey=key=>'gastromasa-program:'+new URL(key).pathname;
  const isProgram=key=>/\/program(?:\.[a-z]{2}(?:-CN)?)?\.json$/.test(new URL(key).pathname);
  function valid(v){return Array.isArray(v)&&v.length>0&&v.length<500&&v.every(s=>s&&typeof s.id==='string'&&[26,27].includes(s.day)&&typeof s.time==='string'&&Array.isArray(s.people))}
