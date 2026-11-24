@@ -1,6 +1,6 @@
 {
-  "sourceFile": "assets/gastromasa-stand-plani-2026.pdf",
-  "sourceDate": "2026-11-06",
+  "sourceFile": "assets/gastromasa-stand-plani-2026-11-24.pdf",
+  "sourceDate": null,
   "records": [
     {
       "id": "altnmarka",
@@ -11,7 +11,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "cci",
@@ -19,10 +19,10 @@
       "stand": "C10–C11",
       "hall": "HALL-5",
       "pdfName": "COCA COLA",
-      "note": "CCI, krokide Coca Cola adıyla gösterilen alanla eşleştirilmiştir.",
+      "note": "CCI, çizimde COCA COLA adıyla gösterilen alanla eşleştirilmiştir.",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "metro",
@@ -33,7 +33,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "turk-hava-yollar",
@@ -42,8 +42,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "kozoliv",
@@ -54,7 +54,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "ozmen-un",
@@ -65,7 +65,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "oztiryakiler",
@@ -76,18 +76,18 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "bonna",
       "name": "Bonna",
-      "stand": "C61–C68",
+      "stand": "C61–C75",
       "hall": "HALL-6",
       "pdfName": "BONNA",
-      "note": "",
+      "note": "Çizim ve alt liste C61–C75 yazmaktadır. Bu aralık aynı belgedeki ID Fine C69–C71 etiketleriyle sayısal olarak örtüşür. Basılı Bonna aralığı değiştirilmeden aktarılmıştır; kaynak çelişkisi vardır.",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "selpak",
@@ -95,11 +95,11 @@
       "stand": "A69",
       "hall": "HALL-2",
       "pdfName": "SANİPAK",
-      "note": "Selpak adı PDF’de birebir yer almıyor. Marka/şirket ilişkisi üzerinden Sanipak alanıyla önerilen eşleşmedir.",
+      "note": "Selpak için önceki marka/şirket eşleştirmesi korunarak SANİPAK alanı kullanılmıştır; Selpak adı kaynakta birebir yazılı değildir.",
       "status": "pdf",
       "numberSource": "drawing",
       "matchStatus": "suggested",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "aktob",
@@ -108,8 +108,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "chaine-des-rotisseurs",
@@ -118,8 +118,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "etuder",
@@ -128,8 +128,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "mutfak-dostlar",
@@ -138,8 +138,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "tafed",
@@ -148,8 +148,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "ttyd",
@@ -158,8 +158,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "turob",
@@ -168,8 +168,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "turofed",
@@ -178,8 +178,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "turoyd",
@@ -188,8 +188,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "turyid",
@@ -198,8 +198,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "tusid",
@@ -208,8 +208,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "aryldz",
@@ -218,8 +218,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "barilla",
@@ -230,7 +230,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "bekir-hoca",
@@ -241,7 +241,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "bivero",
@@ -249,11 +249,11 @@
       "stand": "A31–A36",
       "hall": "HALL-1",
       "pdfName": "BİVERO",
-      "note": "Çizimde Bivero A31–A36 olarak yer alır. Alt listedeki aynı aralıkta İmpeks kaydı da bulunur.",
+      "note": "",
       "status": "pdf",
       "numberSource": "drawing",
       "conflict": true,
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "california-walnuts",
@@ -262,8 +262,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "callebaut",
@@ -274,19 +274,19 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "cayista",
       "name": "Cayista",
-      "stand": "B22–B23",
+      "stand": "B23–B24",
       "hall": "HALL-4",
       "pdfName": "ÇAYİSTA",
-      "note": "Çizimde Çayista alanında B22 ve B23 etiketleri bulunur. Alt listede yalnızca B22 yazılıdır; B23 ayrıca Napoli Antica için listelenmiştir.",
+      "note": "",
       "status": "pdf",
       "numberSource": "drawing",
       "conflict": true,
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "deliziya",
@@ -294,22 +294,22 @@
       "stand": "A50–A53",
       "hall": "HALL-1",
       "pdfName": "DELIZIA",
-      "note": "PDF’de firma adı Delizia biçiminde yazılmıştır.",
+      "note": "Kaynakta firma adı DELIZIA biçimindedir.",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "dene-bi-cerez",
       "name": "Dene bi Çerez",
-      "stand": "B46–B51",
+      "stand": "B31–B35",
       "hall": "HALL-4",
       "pdfName": "DNB",
-      "note": "Firma adı PDF’de DNB olarak kısaltılmıştır. Dene bi Çerez için önerilen ad eşleşmesidir.",
+      "note": "Dene bi Çerez için önceki DNB kısaltma eşleştirmesi korunmuştur.",
       "status": "pdf",
       "numberSource": "drawing",
       "matchStatus": "suggested",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "doganay",
@@ -320,7 +320,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "eataly",
@@ -331,7 +331,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "edovital",
@@ -342,7 +342,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "eker",
@@ -353,7 +353,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "ekol",
@@ -364,18 +364,17 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "empero",
       "name": "Empero",
-      "stand": "A59–A60",
-      "hall": "HALL-2",
-      "pdfName": "EMPERO",
-      "note": "",
-      "status": "pdf",
-      "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "status": "unlisted",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "erust",
@@ -386,7 +385,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "euro-fresh",
@@ -395,20 +394,20 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "fine-dine",
       "name": "Fine dine",
-      "stand": "B16",
-      "hall": "HALL-4",
-      "pdfName": "FINE DINE",
-      "note": "Çizimde B16, HALL-4’teki alanın üzerinde yazılıdır. Alt yerleşim listesinde aynı firma için C86 / HALL-6 kaydı da bulunur; Birden fazla yerleşim kaydı bulunuyor; salon/stant teyidi gerekir.",
+      "stand": "A78",
+      "hall": "HALL-3",
+      "pdfName": "FİNE DİNE",
+      "note": "",
       "status": "pdf",
       "numberSource": "drawing",
       "conflict": true,
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "frenox",
@@ -419,7 +418,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "galez",
@@ -430,19 +429,19 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "id-fine",
       "name": "ID Fine",
-      "stand": "C83, C84, C85",
+      "stand": "C69–C71",
       "hall": "HALL-6",
-      "pdfName": "ID FINE",
-      "note": "Alt yerleşim listesi üç ayrı ID Fine alanını C83, C84 ve C85 olarak belirtir. Çizimde güney koridorundaki üç alan ID Fine adıyla gösterilmiştir; bunlardan birinde C69–C72 etiketi vardır. Bu aralık alt listede Interni olarak geçer.",
+      "pdfName": "İD FİNE",
+      "note": "C69–C70 ve C71 iki ayrı ID Fine alanıdır; alt liste de bunları doğrular. İkinci alanda ayrıca C76 etiketi vardır; C76 ayrı USLA alanında da yazılıdır. C71, çizim ve liste ortak bilgisi esas alınarak kullanılmıştır. Bonna aralığıyla sayısal örtüşme kaynakta mevcuttur.",
       "status": "pdf",
-      "numberSource": "legend",
+      "numberSource": "drawing",
       "conflict": true,
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "keramikos",
@@ -453,7 +452,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "kroom",
@@ -461,11 +460,11 @@
       "stand": "A91–A96",
       "hall": "HALL-3",
       "pdfName": "KROM MUTFAK",
-      "note": "Kroom adı PDF’de birebir yer almıyor. Krom Mutfak kaydıyla önerilen isim eşleşmesidir.",
+      "note": "Kroom için önceki KROM MUTFAK isim eşleştirmesi korunmuştur.",
       "status": "pdf",
       "numberSource": "drawing",
       "matchStatus": "suggested",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "lactalis",
@@ -473,11 +472,11 @@
       "stand": "A86/1",
       "hall": "HALL-3",
       "pdfName": "AK GIDA",
-      "note": "Lactalis adı PDF’de birebir yer almıyor. Marka/şirket ilişkisi üzerinden Ak Gıda alanıyla önerilen eşleşmedir.",
+      "note": "Lactalis için önceki AK GIDA marka/şirket eşleştirmesi korunmuştur.",
       "status": "pdf",
       "numberSource": "drawing",
       "matchStatus": "suggested",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "la-lorraine",
@@ -488,7 +487,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "larenda",
@@ -496,22 +495,22 @@
       "stand": "B9",
       "hall": "HALL-4",
       "pdfName": "LARENDE",
-      "note": "PDF’de firma adı Larende biçiminde yazılmıştır.",
+      "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "lcb",
       "name": "LCB",
-      "stand": "B24",
+      "stand": "B1",
       "hall": "HALL-4",
       "pdfName": "LE CORDON BLEU",
-      "note": "LCB, Le Cordon Bleu ile eşleştirilmiştir. Çizimde B24, HALL-4’te gösterilir; alt listede C86-1 / HALL-6 yazılıdır. B24 alt listede ayrıca Salted Goods için kullanılır.",
+      "note": "LCB, kaynakta LE CORDON BLEU olarak yazılmıştır.",
       "status": "pdf",
       "numberSource": "drawing",
       "conflict": true,
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "les-vergers-boiron",
@@ -520,8 +519,8 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "magnum",
@@ -529,24 +528,24 @@
       "stand": "C50–C53",
       "hall": "HALL-5",
       "pdfName": "ALGİDA",
-      "note": "Magnum adı PDF’de birebir yer almıyor. Marka eşleşmesi Algida alanı üzerinden önerilmiştir. Alt listede C52–C53 ayrıca UFS Unilever olarak da geçer.",
+      "note": "Magnum için önceki ALGİDA marka eşleştirmesi korunmuştur.",
       "status": "pdf",
       "numberSource": "drawing",
       "matchStatus": "suggested",
       "conflict": true,
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "napoli-antica",
       "name": "Napoli Antica",
-      "stand": "A8/1",
+      "stand": "A5–A6",
       "hall": "HALL-1",
-      "pdfName": "NAPOLI ANTICA",
-      "status": "assigned",
-      "numberSource": "digital",
+      "pdfName": "NAPOLİ ANTİCA",
+      "status": "pdf",
+      "numberSource": "drawing",
       "previousListNumber": "B23",
-      "note": "Çizimde HALL-1’in batı kenarında, A5–A8 ile A13–A14 sırası arasındaki numarasız üç komşu alan için üstten alta A8/1, A8/2 ve A8/3 dijital numaraları önerildi. PDF’nin alt listesinde bu firma B23 olarak geçer; o numara çizimde farklı bir firma için kullanılmıştır. Bu dijital numara PDF’nin resmi numarası değildir.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "nesos",
@@ -557,7 +556,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "ozgun",
@@ -568,7 +567,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "pepsico",
@@ -579,7 +578,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "robot-coupe",
@@ -587,10 +586,10 @@
       "stand": "A1–A2",
       "hall": "HALL-1",
       "pdfName": "UNOX / ROBOT COUPE",
-      "note": "Unox ile ortak stanttır.",
+      "note": "Kaynakta UNOX/ROBOT COUPE ortak standıdır.",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "rubikap",
@@ -601,19 +600,19 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "salted",
       "name": "Salted",
-      "stand": "A8/2",
+      "stand": "A7–A8",
       "hall": "HALL-1",
-      "pdfName": "SALTED GOOD",
-      "status": "assigned",
-      "numberSource": "digital",
+      "pdfName": "SALTED GOODS",
+      "status": "pdf",
+      "numberSource": "drawing",
       "previousListNumber": "B24",
-      "note": "Çizimde HALL-1’in batı kenarında, A5–A8 ile A13–A14 sırası arasındaki numarasız üç komşu alan için üstten alta A8/1, A8/2 ve A8/3 dijital numaraları önerildi. PDF’nin alt listesinde bu firma B24 olarak geçer; o numara çizimde farklı bir firma için kullanılmıştır. Bu dijital numara PDF’nin resmi numarası değildir.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "smr",
@@ -624,7 +623,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "spicy-seoul",
@@ -635,7 +634,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "sunar-un",
@@ -646,19 +645,19 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "tca",
       "name": "TCA",
-      "stand": "B16/1",
-      "hall": "HALL-4",
+      "stand": "A11",
+      "hall": "HALL-1",
       "pdfName": "TCA",
-      "note": "Çizimde B16/1, HALL-4’teki alanın üzerinde yazılıdır. Alt yerleşim listesinde C87 / HALL-6 kaydı da bulunur; Birden fazla yerleşim kaydı bulunuyor; salon/stant teyidi gerekir.",
+      "note": "",
       "status": "pdf",
       "numberSource": "drawing",
       "conflict": true,
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "tellioglu",
@@ -669,7 +668,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "thermomix",
@@ -680,7 +679,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "turco",
@@ -691,7 +690,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "turkova",
@@ -702,7 +701,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "ufs",
@@ -710,22 +709,22 @@
       "stand": "C30–C33",
       "hall": "HALL-5",
       "pdfName": "UFS",
-      "note": "Çizimde UFS C30–C33 olarak gösterilir. Alt listedeki ek C52–C53 UFS Unilever kaydı, çizimdeki Algida alanıyla örtüşmektedir.",
+      "note": "",
       "status": "pdf",
       "numberSource": "drawing",
       "conflict": true,
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "unilever-pro",
       "name": "Unilever Pro",
-      "stand": "B34–B35",
+      "stand": "B38–B41",
       "hall": "HALL-4",
       "pdfName": "UNİLEVER PRO",
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "unox",
@@ -733,10 +732,10 @@
       "stand": "A1–A2",
       "hall": "HALL-1",
       "pdfName": "UNOX / ROBOT COUPE",
-      "note": "Robot Coupe ile ortak stanttır.",
+      "note": "Kaynakta UNOX/ROBOT COUPE ortak standıdır.",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "usa-pulses",
@@ -747,7 +746,7 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "yayla",
@@ -758,19 +757,19 @@
       "note": "",
       "status": "pdf",
       "numberSource": "drawing",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "zambo",
       "name": "Zambo",
-      "stand": "A8/3",
+      "stand": "A9",
       "hall": "HALL-1",
       "pdfName": "ZAMBO",
-      "status": "assigned",
-      "numberSource": "digital",
+      "status": "pdf",
+      "numberSource": "drawing",
       "previousListNumber": "B14–B15",
-      "note": "Çizimde HALL-1’in batı kenarında, A5–A8 ile A13–A14 sırası arasındaki numarasız üç komşu alan için üstten alta A8/1, A8/2 ve A8/3 dijital numaraları önerildi. PDF’nin alt listesinde bu firma B14–B15 olarak geçer; o numara çizimde farklı bir firma için kullanılmıştır. Bu dijital numara PDF’nin resmi numarası değildir.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "zest",
@@ -779,31 +778,32 @@
       "stand": null,
       "hall": null,
       "pdfName": null,
-      "note": "Bu firma veya kuruluşa ait bir stant konumu, iletilen PDF’de bulunamadı. Konumu bilinmediği için numara atanmamıştır.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "usla",
       "name": "USLA",
-      "stand": "B16/2",
-      "hall": "HALL-4",
+      "stand": "C76",
+      "hall": "HALL-6",
       "pdfName": "USLA",
-      "status": "assigned",
-      "numberSource": "digital",
-      "note": "HALL-4’te Fine Dine B16 ve TCA B16/1 yakınındaki üst sırada, Penta Grapes alanından sonraki iki numarasız stant için soldan sağa B16/2 ve B16/3 dijital numaraları önerildi. PDF’nin resmi numarası değildir.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "status": "pdf",
+      "numberSource": "drawing",
+      "note": "Çizimde USLA C76, HALL-6 içindedir. Alt liste USLA B15 / HALL-4 yazar; B15 çizimde HTECH için kullanılmıştır. Öncelik çizimdeki açık firma etiketine verilmiştir. C76 ayrıca ID Fine alanında ikinci bir etiket olarak görünmektedir.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     },
     {
       "id": "white-uniform",
       "name": "White Uniform",
-      "stand": "B16/3",
-      "hall": "HALL-4",
-      "pdfName": "WHITE UNIFORM",
-      "status": "assigned",
-      "numberSource": "digital",
-      "note": "HALL-4’te Fine Dine B16 ve TCA B16/1 yakınındaki üst sırada, Penta Grapes alanından sonraki iki numarasız stant için soldan sağa B16/2 ve B16/3 dijital numaraları önerildi. PDF’nin resmi numarası değildir.",
-      "source": "Gastromasa Kroki-06-11-26.pdf"
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
+      "source": "Gastromasa Elektrik+Su-GENEL.pdf"
     }
   ],
-  "sourceSha256": "44c7e427c7427c2a3b34e5eaa1083e834f27793ded5c2c130623f80d699fc0ba"
+  "sourceSha256": "85c106d3f2fe6b82d78c1253503cea054066f955a4363e0a5db58f329e5660d2",
+  "updatedAt": "2026-11-24",
+  "sourceName": "Gastromasa Elektrik+Su-GENEL.pdf"
 }
