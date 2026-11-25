@@ -1,0 +1,345 @@
+[
+  {
+    "id": "17",
+    "sponsor": "CHEFseasons",
+    "logo": null,
+    "pdfTime": "11:15-11:30",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Eduard Xatruch"
+    ]
+  },
+  {
+    "id": "18",
+    "sponsor": "KAPP",
+    "logo": null,
+    "pdfTime": "11:30-11:50",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Luiz Filipe Souza"
+    ]
+  },
+  {
+    "id": "26",
+    "sponsor": "Özmen Un",
+    "logo": "assets/partners/ozmenun-original.jpg",
+    "pdfTime": "11:50-12:05",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Antonio Bachour"
+    ]
+  },
+  {
+    "id": "36",
+    "sponsor": "CHEFseasons",
+    "logo": null,
+    "pdfTime": "12:40-12:55",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Pia León"
+    ]
+  },
+  {
+    "id": "19",
+    "sponsor": "Culinarist",
+    "logo": null,
+    "pdfTime": "13:40-14:00",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Nicolai Nørregaard"
+    ]
+  },
+  {
+    "id": "28",
+    "sponsor": "Öztiryakiler",
+    "logo": "assets/partners/uploaded-logo-23.png",
+    "pdfTime": "14:15-14:30",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Paolo Casagrande"
+    ]
+  },
+  {
+    "id": "30",
+    "sponsor": "Özmen Un",
+    "logo": "assets/partners/ozmenun-original.jpg",
+    "pdfTime": "14:50-15:10",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Franco Pepe"
+    ]
+  },
+  {
+    "id": "33",
+    "sponsor": "Gimaş EDT",
+    "logo": null,
+    "pdfTime": "15:55-16:15",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Alexandre Couillon"
+    ]
+  },
+  {
+    "id": "38",
+    "sponsor": "CHEFseasons",
+    "logo": null,
+    "pdfTime": "16:50-17:10",
+    "day": 26,
+    "stage": "main",
+    "people": [
+      "Vicky Cheng"
+    ]
+  },
+  {
+    "id": "45",
+    "sponsor": "Jumbo",
+    "logo": null,
+    "pdfTime": "10:55-11:25",
+    "day": 27,
+    "stage": "main",
+    "people": [
+      "Moderator: Davide Bertellini",
+      "Mohammad Orfali",
+      "David Žefran",
+      "Jacopo Ticchi"
+    ]
+  },
+  {
+    "id": "52",
+    "sponsor": "Melodi",
+    "logo": null,
+    "pdfTime": "12:40-13:00",
+    "day": 27,
+    "stage": "main",
+    "people": [
+      "Gianluca Fusto"
+    ]
+  },
+  {
+    "id": "56",
+    "sponsor": "CHEFseasons",
+    "logo": null,
+    "pdfTime": "14:05-14:20",
+    "day": 27,
+    "stage": "main",
+    "people": [
+      "Matias Perdomo"
+    ]
+  },
+  {
+    "id": "61",
+    "sponsor": "Karaca",
+    "logo": null,
+    "pdfTime": "15:45-16:00",
+    "day": 27,
+    "stage": "main",
+    "people": [
+      "Ömür Akkor"
+    ]
+  },
+  {
+    "id": "hospitality-26-v33-1400",
+    "sponsor": "Bodrum Yeşili",
+    "logo": null,
+    "pdfTime": "14:00-14:30",
+    "day": 26,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Özge Şahin",
+      "Zümrüt Yezdani Kedik",
+      "Coşkun Aral",
+      "Yiğitcan Gençer"
+    ]
+  },
+  {
+    "id": "10",
+    "sponsor": "KAPP",
+    "logo": null,
+    "pdfTime": "16:45-17:15",
+    "day": 26,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Şafak Tükle",
+      "Sinem Özler",
+      "Mehmet Akdağ",
+      "Çiğdem Seferoğlu",
+      "Uluç Sakarya"
+    ]
+  },
+  {
+    "id": "8",
+    "sponsor": "Mondrian",
+    "logo": null,
+    "pdfTime": "17:45-18:15",
+    "day": 26,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Ahmet Güzelyağdöken",
+      "Osman Serdaroğlu",
+      "Ozan Kumbasar",
+      "Osman Sezener"
+    ]
+  },
+  {
+    "id": "hospitality-27-1100",
+    "sponsor": "AKKOMARKA",
+    "logo": null,
+    "pdfTime": "10:00-10:30",
+    "day": 27,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Aret Vartanyan",
+      "Talia Bayat",
+      "Çiğdem Alagök",
+      "Murat Deniz Temel"
+    ]
+  },
+  {
+    "id": "hospitality-27-1130",
+    "sponsor": "Kütahya Porselen",
+    "logo": "assets/partners/kutahya-supplied.jpg",
+    "pdfTime": "11:30-12:00",
+    "day": 27,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Reha Arar",
+      "Ergün Demiray",
+      "Mahmut Gökkaya"
+    ]
+  },
+  {
+    "id": "hospitality-27-1230",
+    "sponsor": "İmpeks",
+    "logo": null,
+    "pdfTime": "12:30-13:00",
+    "day": 27,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Bahar Akıncı",
+      "Pınar Açılan Horikoshi",
+      "Zeynel Yılmaz",
+      "Hanna Lakiza",
+      "Ergün Yücebıyık",
+      "Metehan Çulha",
+      "Yusuf Saranga"
+    ]
+  },
+  {
+    "id": "hospitality-27-1315",
+    "sponsor": "Culinarist",
+    "logo": null,
+    "pdfTime": "13:45-14:15",
+    "day": 27,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Memet Özer",
+      "İbrahim Çolak",
+      "Cüneyt Asan",
+      "Sidar Budak",
+      "Ömer Seyfi Aktülün"
+    ]
+  },
+  {
+    "id": "hospitality-27-v33-1530",
+    "sponsor": "Yayla",
+    "logo": "assets/partners/uploaded-logo-28.png",
+    "pdfTime": "14:15-14:30",
+    "day": 27,
+    "stage": "hospitality",
+    "people": [
+      "Erim Şanal",
+      "Eda Karabulut"
+    ]
+  },
+  {
+    "id": "hospitality-27-1545",
+    "sponsor": "La Lorraine",
+    "logo": "assets/partners/lalorraine-original.jpg",
+    "pdfTime": "16:15-16:45",
+    "day": 27,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Prof. Dr. Özge Samancı",
+      "Eray Şahinbay",
+      "Efe Anıl Çetin"
+    ]
+  },
+  {
+    "id": "hospitality-27-1635",
+    "sponsor": "İnoksan",
+    "logo": null,
+    "pdfTime": "17:15-17:45",
+    "day": 27,
+    "stage": "hospitality",
+    "people": [
+      "Moderator: Esin Sungur",
+      "Taner Olca",
+      "İsmail Reyhanoğlu",
+      "Handan Kaygusuzer",
+      "Mahir Nazlıcan"
+    ]
+  },
+  {
+    "id": "eyup-26-v33-1220",
+    "sponsor": "Lipton",
+    "logo": null,
+    "pdfTime": "12:20-12:50",
+    "day": 26,
+    "stage": "eyup",
+    "people": [
+      "Moderator: Bahar Akbulut",
+      "Yener Özden",
+      "Samuel Linder",
+      "İlhan Beşer",
+      "Melih Kayır",
+      "Alper Sonuk"
+    ]
+  },
+  {
+    "id": "eyup-26-v33-1410",
+    "sponsor": "Doğanay",
+    "logo": "assets/partners/doganay-original.jpg",
+    "pdfTime": "14:10-14:25",
+    "day": 26,
+    "stage": "eyup",
+    "people": [
+      "Moderator: Umut Karakuş",
+      "Ege Ermeç"
+    ]
+  },
+  {
+    "id": "eyup-26-v33-1455",
+    "sponsor": "FineDine",
+    "logo": "assets/partners/uploaded-logo-11.png",
+    "pdfTime": "14:55-15:10",
+    "day": 26,
+    "stage": "eyup",
+    "people": [
+      "Moderator: Orkun Bulut",
+      "Duygu Kutluoğlu"
+    ]
+  },
+  {
+    "id": "eyup-26-v33-1725",
+    "sponsor": "Rubikap",
+    "logo": "assets/partners/uploaded-logo-26.png",
+    "pdfTime": "17:25-17:55",
+    "day": 26,
+    "stage": "eyup",
+    "people": [
+      "Moderator: Aykut Üner",
+      "Talat Arslan",
+      "Bircan Çelik",
+      "Onur Balk",
+      "Musa Yavuz"
+    ]
+  }
+]

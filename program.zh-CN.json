@@ -201,7 +201,7 @@
     "time": "13:10-13:25",
     "type": "SOLO TALK",
     "title": "高海拔文化与互动",
-    "sponsor": "Porland",
+    "sponsor": "",
     "people": [
       {
         "name": "Emmanuel Renaut",
@@ -246,7 +246,8 @@
         "preserveRole": true,
         "photo": "assets/chefs/antoniobachour.webp"
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/ozmenun-original.jpg"
   },
   {
     "id": "27",
@@ -282,7 +283,8 @@
         "preserveRole": true,
         "photo": "assets/chefs/paolocasagrande.webp"
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/uploaded-logo-23.png"
   },
   {
     "id": "29",
@@ -318,7 +320,8 @@
         "preserveRole": true,
         "photo": "assets/chefs/francopepe.webp"
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/ozmenun-original.jpg"
   },
   {
     "id": "31",
@@ -389,7 +392,7 @@
     "time": "15:55-16:15",
     "type": "LIVE COOKING DEMO",
     "title": "海洋环境中的鲍鱼",
-    "sponsor": "",
+    "sponsor": "Gimaş EDT",
     "people": [
       {
         "name": "Alexandre Couillon",
@@ -914,7 +917,7 @@
     "time": "15:45-16:00",
     "type": "SOLO TALK",
     "title": "",
-    "sponsor": "Jumbo",
+    "sponsor": "Karaca",
     "people": [
       {
         "name": "Ömür Akkor",
@@ -1489,7 +1492,7 @@
     "time": "16:45-17:15",
     "type": "PANEL DISCUSSION",
     "title": "当地美食的兴起",
-    "sponsor": "",
+    "sponsor": "KAPP",
     "people": [
       {
         "name": "Moderator: Şafak Tükle",
@@ -1723,7 +1726,7 @@
     "time": "11:30-12:00",
     "type": "PANEL DISCUSSION",
     "title": "从品牌到连锁：增长新动力",
-    "sponsor": "",
+    "sponsor": "Kütahya Porselen",
     "people": [
       {
         "name": "Moderator: Reha Arar",
@@ -1740,7 +1743,8 @@
         "role": "Karma Bodrum 联合创始人",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/kutahya-supplied.jpg"
   },
   {
     "id": "hospitality-27-1200",
@@ -1926,7 +1930,8 @@
         "role": "Yayla 品牌负责人",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/uploaded-logo-28.png"
   },
   {
     "id": "12",
@@ -2081,7 +2086,8 @@
         "role": "Rixos Tersane İstanbul 行政总厨",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/lalorraine-original.jpg"
   },
   {
     "id": "hospitality-27-1605",
@@ -2136,7 +2142,7 @@
     "time": "17:15-17:45",
     "type": "PANEL DISCUSSION",
     "title": "土耳其美食的记忆及其鲜活的餐厅文化",
-    "sponsor": "",
+    "sponsor": "İnoksan",
     "people": [
       {
         "name": "Moderator: Esin Sungur",
@@ -2300,7 +2306,7 @@
     "time": "12:20-12:50",
     "type": "PANEL DISCUSSION",
     "title": "酒店餐饮管理和餐厅体验设计",
-    "sponsor": "",
+    "sponsor": "Lipton",
     "people": [
       {
         "name": "Moderator: Bahar Akbulut",
@@ -2440,7 +2446,8 @@
         "role": "Doğanay Gıda 总经理",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/doganay-original.jpg"
   },
   {
     "id": "eyup-26-v33-1425",
@@ -2492,7 +2499,8 @@
         "role": "FineDine' 联合创始人兼首席执行官",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/uploaded-logo-11.png"
   },
   {
     "id": "eyup-26-v33-1510",
@@ -2662,7 +2670,7 @@
     "time": "17:25-17:55",
     "type": "PANEL DISCUSSION",
     "title": "Modern 鸡尾酒文化如何拓展风味、技术和体验的界限？",
-    "sponsor": "",
+    "sponsor": "Rubikap",
     "people": [
       {
         "name": "Moderator: Aykut Üner",
@@ -2689,7 +2697,8 @@
         "role": "Yiyecek & 饮料协调员",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/uploaded-logo-26.png"
   },
   {
     "id": "eyup-26-v33-1755",

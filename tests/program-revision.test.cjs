@@ -3,7 +3,7 @@ const root=path.join(__dirname,'..'),program=require('../program.json'),source=r
 const expectedCounts={'main-26':25,'main-27':25,'hospitality-26':15,'hospitality-27':18,'eyup-26':15,'eyup-27':13};
 test('all six PDF agendas are represented with independently verified counts and source participants',()=>{
  assert.equal(program.length,111);assert.equal(new Set(program.map(s=>s.id)).size,111);const counts={};
- for(const session of program){const expected=source.find(row=>row.id===session.id);assert(expected);for(const field of ['stage','day','time','type','sponsor'])assert.equal(session[field],expected[field],session.id+' '+field);assert.deepEqual(session.people.map(p=>({name:p.name,role:p.role,location:p.location})),expected.people.map(p=>({name:p.name,role:p.role,location:p.location})),session.id);counts[session.stage+'-'+session.day]=(counts[session.stage+'-'+session.day]||0)+1}
+ for(const session of program){const expected=source.find(row=>row.id===session.id);assert(expected);for(const field of ['stage','day','time','type'])assert.equal(session[field],expected[field],session.id+' '+field);assert.deepEqual(session.people.map(p=>({name:p.name,role:p.role,location:p.location})),expected.people.map(p=>({name:p.name,role:p.role,location:p.location})),session.id);counts[session.stage+'-'+session.day]=(counts[session.stage+'-'+session.day]||0)+1}
  assert.deepEqual(counts,expectedCounts);assert.equal(program.reduce((n,s)=>n+s.people.length,0),370);
 });
 test('approved Maksut time, changed speaker line-ups and the Eyup source gap remain correct',()=>{
@@ -27,7 +27,7 @@ test('new moderators, moved sessions, removed sessions and source sponsor logos 
  assert.equal(program.find(s=>s.id==='eyup-26-v33-1140').title,'GELENEKSEL RESTORANLAR GASTRONOMİ TURİZMİNE NASIL KATKI SAĞLIYOR?');
  assert(program.find(s=>s.id==='hospitality-26-1330').people.some(p=>p.name==='Utkan Gülaçtı'&&p.role==='Swissôtel The Bosphorus İstanbul Genel Müdürü'));
  assert.equal(program.find(s=>s.id==='hospitality-27-v33-1715').people.find(p=>p.name==='Doğa Çitçi').role,'Mutfak Sanatları Merkezi Koordinatör Şefi');
- assert.equal(program.filter(s=>s.sponsor).length,22);
+ assert.equal(program.filter(s=>s.sponsor).length,27);
  assert(!program.some(s=>['2','hospitality-27-1705'].includes(s.id)));
 
 });

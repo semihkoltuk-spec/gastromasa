@@ -201,7 +201,7 @@
     "time": "13:10-13:25",
     "type": "SOLO TALK",
     "title": "Cultura e interação em alta altitude",
-    "sponsor": "Porland",
+    "sponsor": "",
     "people": [
       {
         "name": "Emmanuel Renaut",
@@ -246,7 +246,8 @@
         "preserveRole": true,
         "photo": "assets/chefs/antoniobachour.webp"
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/ozmenun-original.jpg"
   },
   {
     "id": "27",
@@ -282,7 +283,8 @@
         "preserveRole": true,
         "photo": "assets/chefs/paolocasagrande.webp"
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/uploaded-logo-23.png"
   },
   {
     "id": "29",
@@ -318,7 +320,8 @@
         "preserveRole": true,
         "photo": "assets/chefs/francopepe.webp"
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/ozmenun-original.jpg"
   },
   {
     "id": "31",
@@ -389,7 +392,7 @@
     "time": "15:55-16:15",
     "type": "LIVE COOKING DEMO",
     "title": "Abalone no seu ambiente marinho",
-    "sponsor": "",
+    "sponsor": "Gimaş EDT",
     "people": [
       {
         "name": "Alexandre Couillon",
@@ -914,7 +917,7 @@
     "time": "15:45-16:00",
     "type": "SOLO TALK",
     "title": "",
-    "sponsor": "Jumbo",
+    "sponsor": "Karaca",
     "people": [
       {
         "name": "Ömür Akkor",
@@ -1489,7 +1492,7 @@
     "time": "16:45-17:15",
     "type": "PANEL DISCUSSION",
     "title": "A ascensão da culinária local",
-    "sponsor": "",
+    "sponsor": "KAPP",
     "people": [
       {
         "name": "Moderator: Şafak Tükle",
@@ -1723,7 +1726,7 @@
     "time": "11:30-12:00",
     "type": "PANEL DISCUSSION",
     "title": "Do branding à cadeia: a nova dinâmica de crescimento",
-    "sponsor": "",
+    "sponsor": "Kütahya Porselen",
     "people": [
       {
         "name": "Moderator: Reha Arar",
@@ -1740,7 +1743,8 @@
         "role": "Cofundador da Karma Bodrum",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/kutahya-supplied.jpg"
   },
   {
     "id": "hospitality-27-1200",
@@ -1926,7 +1930,8 @@
         "role": "Chefe da marca Yayla",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/uploaded-logo-28.png"
   },
   {
     "id": "12",
@@ -2081,7 +2086,8 @@
         "role": "Rixos Tersane İstanbul Chef Executivo",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/lalorraine-original.jpg"
   },
   {
     "id": "hospitality-27-1605",
@@ -2136,7 +2142,7 @@
     "time": "17:15-17:45",
     "type": "PANEL DISCUSSION",
     "title": "A memória da culinária turca e sua cultura viva de restaurantes",
-    "sponsor": "",
+    "sponsor": "İnoksan",
     "people": [
       {
         "name": "Moderator: Esin Sungur",
@@ -2300,7 +2306,7 @@
     "time": "12:20-12:50",
     "type": "PANEL DISCUSSION",
     "title": "Gestão de Alimentos e Bebidas em Hotelaria e Projetando a Experiência do Restaurante",
-    "sponsor": "",
+    "sponsor": "Lipton",
     "people": [
       {
         "name": "Moderator: Bahar Akbulut",
@@ -2440,7 +2446,8 @@
         "role": "Gerente Geral de Doğanay Gıda",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/doganay-original.jpg"
   },
   {
     "id": "eyup-26-v33-1425",
@@ -2492,7 +2499,8 @@
         "role": "FineDine' Cofundador e CEO",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/uploaded-logo-11.png"
   },
   {
     "id": "eyup-26-v33-1510",
@@ -2662,7 +2670,7 @@
     "time": "17:25-17:55",
     "type": "PANEL DISCUSSION",
     "title": "Como os limites de sabor, técnica e experiência estão se expandindo na cultura do coquetel Modern?",
-    "sponsor": "",
+    "sponsor": "Rubikap",
     "people": [
       {
         "name": "Moderator: Aykut Üner",
@@ -2689,7 +2697,8 @@
         "role": "Coordenador de Bebidas Yiyecek &",
         "location": ""
       }
-    ]
+    ],
+    "sponsorLogo": "assets/partners/uploaded-logo-26.png"
   },
   {
     "id": "eyup-26-v33-1755",

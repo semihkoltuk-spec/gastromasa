@@ -163,3 +163,7 @@ button.partner-card{width:100%;cursor:pointer;font:inherit;transition:border-col
 @media(max-width:600px){.venue{grid-template-columns:minmax(0,1fr)}.venue .venue-details{justify-self:start;margin-top:0}.venue>div.venue-tour{margin-top:15px;font-size:14px}.venue-tour h3{font-size:27px}.venue-tour-intro{font-size:13px}.venue-tour-frame{aspect-ratio:2/3;min-height:520px}}
 
 .translation-note,.language-translation-notice{color:var(--muted);font-size:12px;line-height:1.6}.language-translation-notice{max-width:1296px;margin:10px auto;padding:0 5%}
+
+/* Session partners: compact marks beneath the time, full logos without cropping. */
+.session-sponsor{display:flex;flex-direction:column;align-items:flex-start;gap:8px;margin-top:14px;font:11px/1.45 'DM Sans',sans-serif;color:var(--muted);white-space:normal}.session-sponsor strong{font-size:12px;color:var(--white);overflow-wrap:anywhere}.session-sponsor-logo{display:flex;align-items:center;justify-content:center;background:#fff;border-radius:5px;width:100%;max-width:140px;height:62px;padding:8px}.session-sponsor-logo img{display:block;width:100%;height:100%;object-fit:contain}#detail .session-sponsor{margin-top:24px}#detail .session-sponsor-logo{max-width:220px;height:100px}
+@media(max-width:600px){.time .session-sponsor{font-size:9px;gap:6px}.time .session-sponsor-logo{height:44px;padding:4px}.time .session-sponsor strong{font-size:10px}}
