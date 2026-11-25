@@ -1008,5 +1008,16 @@
   "Bağlantı kurulamadı.": "The connection could not be established.",
   "tarihinde indirilen program gösteriliyor. Güncel program için bağlantınızı kontrol edip sayfayı yenileyin.": "The program downloaded on is shown. Check your connection and refresh the page for the current schedule.",
   "SourceLanguageNotice": "Some content is shown in its original language.",
-  "_sourceFallbacks": {}
+  "_sourceFallbacks": {},
+  "Official Main Sponsor": "Official Main Sponsor",
+  "Powered by": "Powered by",
+  "Main Partners": "Main Partners",
+  "Lanyard Partner": "Lanyard Partner",
+  "Catering Partners": "Catering Partners",
+  "Accommodation Partners": "Accommodation Partners",
+  "Gala Venue Partner": "Gala Venue Partner",
+  "Gala Partners": "Gala Partners",
+  "Media Partners": "Media Partners",
+  "Communication Partner": "Communication Partner",
+  "Session Partners": "Session Partners"
 }

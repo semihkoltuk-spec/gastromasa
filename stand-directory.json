@@ -801,6 +801,196 @@
       "status": "unlisted",
       "note": "Yeni kaynak PDF’de bu firma adıyla bir stant konumu bulunamadı; güncel numara atanmamıştır.",
       "source": "Gastromasa Elektrik+Su-GENEL.pdf"
+    },
+    {
+      "id": "ito",
+      "name": "İstanbul Ticaret Odası",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "sozen",
+      "name": "Sözen Group",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "halic",
+      "name": "Haliç Kongre Merkezi",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "kutahya",
+      "name": "Kütahya Porselen",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "sahan",
+      "name": "Şahan",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "sofra",
+      "name": "Sofra / Compass Group",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "cvk",
+      "name": "CVK Hotels & Resorts",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "swissotel",
+      "name": "Swissôtel The Bosphorus İstanbul",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "ritz-carlton",
+      "name": "The Ritz-Carlton İstanbul",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "ciragan",
+      "name": "Çırağan Palace Kempinski İstanbul",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "marmara",
+      "name": "The Marmara Taksim",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "peninsula",
+      "name": "The Peninsula İstanbul",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "fairmont",
+      "name": "Fairmont Quasar İstanbul",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "aliee",
+      "name": "Aliée",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "rixos",
+      "name": "Rixos Hotels",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "foodinlife",
+      "name": "Foodinlife",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "gaultmillau",
+      "name": "Gault&Millau Türkiye",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "salon-chocolat",
+      "name": "Salon du Chocolat İstanbul",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
+    },
+    {
+      "id": "effect-burson",
+      "name": "Effect Burson",
+      "stand": null,
+      "hall": null,
+      "pdfName": null,
+      "status": "unlisted",
+      "note": "Logo ve kategori kullanıcı tarafından iletildi; stant konumu doğrulanmadı.",
+      "sourceType": "user-logo"
     }
   ],
   "sourceSha256": "85c106d3f2fe6b82d78c1253503cea054066f955a4363e0a5db58f329e5660d2",

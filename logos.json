@@ -28,5 +28,81 @@
     "site": "https://turyid.org/",
     "path": "assets/partners/turyid.png",
     "source": "https://turyid.org/wp-content/themes/turyid/assets/images/logo.png"
+  },
+  "ito": {
+    "path": "assets/partners/ito-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "sozen": {
+    "path": "assets/partners/sozen-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "halic": {
+    "path": "assets/partners/halickongremerkezi-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "kutahya": {
+    "path": "assets/partners/kutahya-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "sahan": {
+    "path": "assets/partners/sahan-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "sofra": {
+    "path": "assets/partners/sofra-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "cvk": {
+    "path": "assets/partners/cvk-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "swissotel": {
+    "path": "assets/partners/swissotel-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "ritz-carlton": {
+    "path": "assets/partners/ritz-carlton-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "ciragan": {
+    "path": "assets/partners/ciragan-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "marmara": {
+    "path": "assets/partners/themarmara-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "peninsula": {
+    "path": "assets/partners/thepeninsula-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "fairmont": {
+    "path": "assets/partners/fairmont-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "aliee": {
+    "path": "assets/partners/aliee-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "rixos": {
+    "path": "assets/partners/rixos-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "foodinlife": {
+    "path": "assets/partners/foodinlife-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "gaultmillau": {
+    "path": "assets/partners/gaultmillau-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "salon-chocolat": {
+    "path": "assets/partners/salonduchocolat-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
+  },
+  "effect-burson": {
+    "path": "assets/partners/effectburson-supplied.jpg",
+    "source": "User-supplied logo, November 2026"
   }
 }
