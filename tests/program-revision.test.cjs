@@ -1,18 +1,18 @@
 const {test}=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
-const root=path.join(__dirname,'..'),program=require('../program.json'),source=require('./fixtures/program-2026-11-24-v50.json');
+const root=path.join(__dirname,'..'),program=require('../program.json'),source=require('./fixtures/program-2026-11-25-excel.json');
 const expectedCounts={'main-26':25,'main-27':25,'hospitality-26':15,'hospitality-27':18,'eyup-26':15,'eyup-27':13};
 test('all six PDF agendas are represented with independently verified counts and source participants',()=>{
  assert.equal(program.length,111);assert.equal(new Set(program.map(s=>s.id)).size,111);const counts={};
  for(const session of program){const expected=source.find(row=>row.id===session.id);assert(expected);for(const field of ['stage','day','time','type','sponsor'])assert.equal(session[field],expected[field],session.id+' '+field);assert.deepEqual(session.people.map(p=>({name:p.name,role:p.role,location:p.location})),expected.people.map(p=>({name:p.name,role:p.role,location:p.location})),session.id);counts[session.stage+'-'+session.day]=(counts[session.stage+'-'+session.day]||0)+1}
- assert.deepEqual(counts,expectedCounts);assert.equal(program.reduce((n,s)=>n+s.people.length,0),374);
+ assert.deepEqual(counts,expectedCounts);assert.equal(program.reduce((n,s)=>n+s.people.length,0),370);
 });
 test('approved Maksut time, changed speaker line-ups and the Eyup source gap remain correct',()=>{
  const maksat=program.find(s=>s.stage==='main'&&s.day===27&&s.people.some(p=>p.name==='Maksut Aşkar'));assert.equal(maksat.time,'15:10-15:25');
  const pia=program.find(s=>s.id==='36');assert.equal(pia.time,'12:40-12:55');assert.equal(pia.people[0].name,'Pia León');assert.equal(pia.people[0].role,'Kjolle');assert.equal(pia.people[0].location,'Lima, Peru');
  assert.deepEqual(program.find(s=>s.id==='55').people.map(p=>p.name),['Moderator: Rafa Tonon','Viki Geunes','Paolo Casagrande','Nicolai Nørregaard']);
  assert.equal(program.find(s=>s.id==='41').day,27);assert.equal(program.find(s=>s.id==='41').time,'17:35-17:55');
- const gaps=[];for(const key of Object.keys(expectedCounts)){const rows=program.filter(s=>s.stage+'-'+s.day===key);let end='';for(const row of rows){const [start,finish]=row.time.split('-');assert(start<finish,row.id);assert(start>=end,row.id+' overlaps');if(end&&start>end)gaps.push([key,end,start]);end=finish}}
- assert.deepEqual(gaps,[['eyup-27','16:30','17:00']]);
+ const gaps=[];for(const key of Object.keys(expectedCounts)){const rows=program.filter(s=>s.stage+'-'+s.day===key);let end='';for(const row of rows){const [start,finish]=row.time.split('-');assert(start<finish,row.id);if(start<end)assert.equal(row.id,'eyup-27-v33-1140','Only the user-selected TR source conflict is allowed');if(end&&start>end)gaps.push([key,end,start]);end=finish}}
+ assert.deepEqual(gaps,[]);
 });
 test('new moderators, moved sessions, removed sessions and source sponsor logos are reflected',()=>{
  assert.deepEqual(program.filter(s=>s.pendingModerator),[]);
@@ -27,7 +27,7 @@ test('new moderators, moved sessions, removed sessions and source sponsor logos 
  assert.equal(program.find(s=>s.id==='eyup-26-v33-1140').title,'GELENEKSEL RESTORANLAR GASTRONOMİ TURİZMİNE NASIL KATKI SAĞLIYOR?');
  assert(program.find(s=>s.id==='hospitality-26-1330').people.some(p=>p.name==='Utkan Gülaçtı'&&p.role==='Swissôtel The Bosphorus İstanbul Genel Müdürü'));
  assert.equal(program.find(s=>s.id==='hospitality-27-v33-1715').people.find(p=>p.name==='Doğa Çitçi').role,'Mutfak Sanatları Merkezi Koordinatör Şefi');
- assert.equal(program.filter(s=>s.sponsor).length,21);
+ assert.equal(program.filter(s=>s.sponsor).length,22);
  assert(!program.some(s=>['2','hospitality-27-1705'].includes(s.id)));
 
 });
